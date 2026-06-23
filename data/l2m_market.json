@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-23 22:43:03 KST",
+  "checkedAt": "2026-06-23 22:51:04 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -93,7 +93,7 @@
         "enchant": "+9",
         "name": "싸울아비 장검",
         "price": "30다이아",
-        "note": "중앙 60 • 초저가 의심",
+        "note": "중앙 61 • 초저가 의심",
         "raw": {
           "itemId": 100140003,
           "itemName": "+9 싸울아비 장검",
@@ -101,7 +101,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 60.0
+          "median": 61.0
         }
       },
       {
@@ -109,7 +109,7 @@
         "enchant": "+9",
         "name": "솔다트 에스터크",
         "price": "50다이아",
-        "note": "중앙 80 • 초저가 의심",
+        "note": "중앙 81.5 • 초저가 의심",
         "raw": {
           "itemId": 101140001,
           "itemName": "+9 솔다트 에스터크",
@@ -117,7 +117,7 @@
           "salePrice": 50.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 80.0
+          "median": 81.5
         }
       },
       {
