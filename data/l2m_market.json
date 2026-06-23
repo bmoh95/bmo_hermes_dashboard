@@ -1,0 +1,385 @@
+{
+  "server": "안타라스",
+  "checkedAt": "2026-06-23 19:35:24 KST",
+  "errors": [],
+  "groups": {
+    "common": [
+      {
+        "kind": "견갑",
+        "enchant": "+3",
+        "name": "사슬 견갑",
+        "price": "20다이아",
+        "note": "중앙 25 • 하위권",
+        "raw": {
+          "itemId": 200960005,
+          "itemName": "+3 사슬 견갑",
+          "enchantLevel": 3,
+          "salePrice": 20.0,
+          "category": "방어구",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 25.0
+        }
+      },
+      {
+        "kind": "손목",
+        "enchant": "+5",
+        "name": "가죽 손목 보호대",
+        "price": "29다이아",
+        "note": "중앙 39 • 하위권",
+        "raw": {
+          "itemId": 301560002,
+          "itemName": "+5 가죽 손목 보호대",
+          "enchantLevel": 5,
+          "salePrice": 29.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 39.0
+        }
+      }
+    ],
+    "uncommon": [
+      {
+        "kind": "손목",
+        "enchant": "+3",
+        "name": "강철 손목 보호대",
+        "price": "50다이아",
+        "note": "중앙 94 • 초저가 의심",
+        "raw": {
+          "itemId": 301550002,
+          "itemName": "+3 강철 손목 보호대",
+          "enchantLevel": 3,
+          "salePrice": 50.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 94.0
+        }
+      }
+    ],
+    "rare": [
+      {
+        "kind": "무기",
+        "enchant": "+8",
+        "name": "커스드 트윈 액스",
+        "price": "15다이아",
+        "note": "중앙 55 • 초저가 의심",
+        "raw": {
+          "itemId": 101340004,
+          "itemName": "+8 커스드 트윈 액스",
+          "enchantLevel": 8,
+          "salePrice": 15.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 55.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "바라키엘 체인소드",
+        "price": "30다이아",
+        "note": "중앙 60 • 초저가 의심",
+        "raw": {
+          "itemId": 101040002,
+          "itemName": "+9 바라키엘 체인소드",
+          "enchantLevel": 9,
+          "salePrice": 30.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 60.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "싸울아비 장검",
+        "price": "30다이아",
+        "note": "중앙 60 • 초저가 의심",
+        "raw": {
+          "itemId": 100140003,
+          "itemName": "+9 싸울아비 장검",
+          "enchantLevel": 9,
+          "salePrice": 30.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 60.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "솔다트 에스터크",
+        "price": "50다이아",
+        "note": "중앙 80 • 초저가 의심",
+        "raw": {
+          "itemId": 101140001,
+          "itemName": "+9 솔다트 에스터크",
+          "enchantLevel": 9,
+          "salePrice": 50.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 80.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "어설트 캐논",
+        "price": "52다이아",
+        "note": "중앙 72 • 저가",
+        "raw": {
+          "itemId": 101240007,
+          "itemName": "+9 어설트 캐논",
+          "enchantLevel": 9,
+          "salePrice": 52.0,
+          "category": "무기",
+          "dealLabel": "아이템별 저가",
+          "median": 72.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "트롬바의 송곳니",
+        "price": "68다이아",
+        "note": "중앙 86.5 • 저가",
+        "raw": {
+          "itemId": 101140005,
+          "itemName": "+9 트롬바의 송곳니",
+          "enchantLevel": 9,
+          "salePrice": 68.0,
+          "category": "무기",
+          "dealLabel": "아이템별 저가",
+          "median": 86.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "사제의 목걸이",
+        "price": "38다이아",
+        "note": "중앙 54 • 하위권",
+        "raw": {
+          "itemId": 300140010,
+          "itemName": "+5 사제의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 38.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 54.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "헤르문쿠스의 목걸이",
+        "price": "76다이아",
+        "note": "중앙 123 • 초저가 의심",
+        "raw": {
+          "itemId": 300140009,
+          "itemName": "+5 헤르문쿠스의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 76.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 123.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "각성의 목걸이",
+        "price": "84다이아",
+        "note": "중앙 112.5 • 하위권",
+        "raw": {
+          "itemId": 300140005,
+          "itemName": "+5 각성의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 84.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 112.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "차원의 반지",
+        "price": "135다이아",
+        "note": "중앙 168 • 저가",
+        "raw": {
+          "itemId": 300340020,
+          "itemName": "+5 차원의 반지",
+          "enchantLevel": 5,
+          "salePrice": 135.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 168.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "석양의 벨트",
+        "price": "700다이아",
+        "note": "중앙 875 • 저가",
+        "raw": {
+          "itemId": 300440011,
+          "itemName": "+5 석양의 벨트",
+          "enchantLevel": 5,
+          "salePrice": 700.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 875.0
+        }
+      },
+      {
+        "kind": "견갑",
+        "enchant": "+3",
+        "name": "제사장의 견갑",
+        "price": "1,400다이아",
+        "note": "중앙 1,945 • 저가",
+        "raw": {
+          "itemId": 200940026,
+          "itemName": "+3 제사장의 견갑",
+          "enchantLevel": 3,
+          "salePrice": 1400.0,
+          "category": "방어구",
+          "dealLabel": "아이템별 저가",
+          "median": 1945.0
+        }
+      }
+    ],
+    "heroic": [
+      {
+        "kind": "무기",
+        "enchant": "+7",
+        "name": "카오스 브레이커",
+        "price": "160다이아",
+        "note": "중앙 399.5 • 초저가 의심",
+        "raw": {
+          "itemId": 100930001,
+          "itemName": "+7 카오스 브레이커",
+          "enchantLevel": 7,
+          "salePrice": 160.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 399.5
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+7",
+        "name": "태양의 심판자",
+        "price": "177다이아",
+        "note": "중앙 298 • 초저가 의심",
+        "raw": {
+          "itemId": 101430003,
+          "itemName": "+7 태양의 심판자",
+          "enchantLevel": 7,
+          "salePrice": 177.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 298.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+6",
+        "name": "잊혀진 영웅의 흉갑",
+        "price": "200다이아",
+        "note": "중앙 333 • 초저가 의심",
+        "raw": {
+          "itemId": 200130010,
+          "itemName": "+6 잊혀진 영웅의 흉갑",
+          "enchantLevel": 6,
+          "salePrice": 200.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 333.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+7",
+        "name": "칼리에의 부츠",
+        "price": "298다이아",
+        "note": "중앙 500 • 초저가 의심",
+        "raw": {
+          "itemId": 200430008,
+          "itemName": "+7 칼리에의 부츠",
+          "enchantLevel": 7,
+          "salePrice": 298.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 500.0
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "계승자의 서 (인크리즈 위즈덤)",
+        "price": "100다이아",
+        "note": "중앙 272.5 • 초저가 의심",
+        "raw": {
+          "itemId": 500303005,
+          "itemName": "계승자의 서 (인크리즈 위즈덤)",
+          "enchantLevel": 0,
+          "salePrice": 100.0,
+          "category": "스킬북",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 272.5
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "계승자의 서 (인크리즈 스트렝스)",
+        "price": "190다이아",
+        "note": "중앙 267.5 • 저가",
+        "raw": {
+          "itemId": 500303001,
+          "itemName": "계승자의 서 (인크리즈 스트렝스)",
+          "enchantLevel": 0,
+          "salePrice": 190.0,
+          "category": "스킬북",
+          "dealLabel": "아이템별 저가",
+          "median": 267.5
+        }
+      }
+    ],
+    "legendary": [
+      {
+        "kind": "무기",
+        "enchant": "+7",
+        "name": "코스믹 블레이드 (초월 +1)",
+        "price": "7,500다이아",
+        "note": "중앙 9,000 • 하위권",
+        "raw": {
+          "itemId": 161420002,
+          "itemName": "+7 코스믹 블레이드 (초월 +1)",
+          "enchantLevel": 7,
+          "salePrice": 7500.0,
+          "category": "무기",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 9000.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "타락 천사의 장갑 (초월 +1)",
+        "price": "7,500다이아",
+        "note": "중앙 9,780 • 하위권",
+        "raw": {
+          "itemId": 260320003,
+          "itemName": "+5 타락 천사의 장갑 (초월 +1)",
+          "enchantLevel": 5,
+          "salePrice": 7500.0,
+          "category": "방어구",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 9780.0
+        }
+      }
+    ]
+  }
+}
