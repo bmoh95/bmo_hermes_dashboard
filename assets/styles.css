@@ -53,6 +53,7 @@ td.name { white-space: normal; min-width: 260px; font-weight: 700; }
 .grade-text-rare { color: #1d4ed8; }
 .grade-text-heroic { color: #b91c1c; }
 .grade-text-legendary { color: #6d28d9; }
+.diamond-price { color: #0284c7; font-weight: 900; }
 td.note { white-space: normal; min-width: 230px; color: #374151; }
 tr:last-child td { border-bottom: 0; }
 .empty { padding: 20px; color: var(--muted); font-weight: 700; }
