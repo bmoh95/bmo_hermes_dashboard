@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-23 20:10:24 KST",
+  "checkedAt": "2026-06-23 20:18:27 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -118,6 +118,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 80.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "어설트 캐논",
+        "price": "52다이아",
+        "note": "중앙 72 • 저가",
+        "raw": {
+          "itemId": 101240007,
+          "itemName": "+9 어설트 캐논",
+          "enchantLevel": 9,
+          "salePrice": 52.0,
+          "category": "무기",
+          "dealLabel": "아이템별 저가",
+          "median": 72.0
         }
       },
       {
