@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-23 19:35:24 KST",
+  "checkedAt": "2026-06-23 19:46:24 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -348,22 +348,6 @@
       }
     ],
     "legendary": [
-      {
-        "kind": "무기",
-        "enchant": "+7",
-        "name": "코스믹 블레이드 (초월 +1)",
-        "price": "7,500다이아",
-        "note": "중앙 9,000 • 하위권",
-        "raw": {
-          "itemId": 161420002,
-          "itemName": "+7 코스믹 블레이드 (초월 +1)",
-          "enchantLevel": 7,
-          "salePrice": 7500.0,
-          "category": "무기",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 9000.0
-        }
-      },
       {
         "kind": "방어구",
         "enchant": "+5",
