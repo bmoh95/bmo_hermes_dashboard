@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-23 23:57:21 KST",
+  "checkedAt": "2026-06-24 00:00:12 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -214,22 +214,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 875.0
-        }
-      },
-      {
-        "kind": "견갑",
-        "enchant": "+3",
-        "name": "파수꾼의 견갑",
-        "price": "999다이아",
-        "note": "중앙 1,252.5 • 저가",
-        "raw": {
-          "itemId": 200940024,
-          "itemName": "+3 파수꾼의 견갑",
-          "enchantLevel": 3,
-          "salePrice": 999.0,
-          "category": "방어구",
-          "dealLabel": "아이템별 저가",
-          "median": 1252.5
         }
       },
       {
