@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 04:13:43 KST",
+  "checkedAt": "2026-06-24 04:21:44 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -358,6 +358,22 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 174.0
+        }
+      },
+      {
+        "kind": "견갑",
+        "enchant": "+3",
+        "name": "제사장의 견갑",
+        "price": "1,400다이아",
+        "note": "중앙 1,750 • 저가",
+        "raw": {
+          "itemId": 200940026,
+          "itemName": "+3 제사장의 견갑",
+          "enchantLevel": 3,
+          "salePrice": 1400.0,
+          "category": "방어구",
+          "dealLabel": "아이템별 저가",
+          "median": 1750.0
         }
       }
     ],
