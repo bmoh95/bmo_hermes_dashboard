@@ -48,6 +48,7 @@ th { text-align: left; color: #374151; background: #f9fafb; font-size: 14px; let
 td.num, th.num { text-align: right; }
 td.name { white-space: normal; min-width: 260px; font-weight: 700; }
 .item-name { font-weight: 900; }
+.enchant { font-weight: 900; }
 .grade-text-common { color: #6b7280; }
 .grade-text-uncommon { color: #15803d; }
 .grade-text-rare { color: #1d4ed8; }

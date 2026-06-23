@@ -19,7 +19,7 @@ function renderTable(items) {
     prevKind = item.kind;
     return `<tr>
       <td>${esc(kind)}</td>
-      <td class="num">${esc(item.enchant)}</td>
+      <td class="num"><span class="enchant grade-text-${esc(item.grade || 'unknown')}">${esc(item.enchant)}</span></td>
       <td class="name"><span class="item-name grade-text-${esc(item.grade || 'unknown')}">${esc(item.name)}</span></td>
       <td class="num"><span class="diamond-price">${esc(item.price)}</span></td>
       <td class="note">${esc(item.note)}</td>
