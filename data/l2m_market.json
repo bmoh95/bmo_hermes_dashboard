@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 08:13:11 KST",
+  "checkedAt": "2026-06-24 08:21:12 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -266,6 +266,22 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+0",
+        "name": "혹한의 귀걸이",
+        "price": "20다이아",
+        "note": "중앙 35 • 초저가 의심",
+        "raw": {
+          "itemId": 300240011,
+          "itemName": "혹한의 귀걸이",
+          "enchantLevel": 0,
+          "salePrice": 20.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 35.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+4",
         "name": "땅의 수호 반지",
         "price": "22다이아",
@@ -349,7 +365,7 @@
         "enchant": "+5",
         "name": "차원의 반지",
         "price": "135다이아",
-        "note": "중앙 174 • 저가",
+        "note": "중앙 168 • 저가",
         "raw": {
           "itemId": 300340020,
           "itemName": "+5 차원의 반지",
@@ -357,7 +373,7 @@
           "salePrice": 135.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 174.0
+          "median": 168.0
         }
       },
       {
