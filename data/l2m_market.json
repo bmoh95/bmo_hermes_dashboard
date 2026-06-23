@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 00:05:37 KST",
+  "checkedAt": "2026-06-24 02:13:26 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -75,15 +75,15 @@
         "enchant": "+5",
         "name": "용맹의 목걸이",
         "price": "10다이아",
-        "note": "중앙 16 • 초저가 의심",
+        "note": "중앙 15 • 하위권",
         "raw": {
           "itemId": 300150005,
           "itemName": "+5 용맹의 목걸이",
           "enchantLevel": 5,
           "salePrice": 10.0,
           "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 16.0
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 15.0
         }
       },
       {
@@ -116,6 +116,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 47.5
+        }
+      },
+      {
+        "kind": "손목",
+        "enchant": "+3",
+        "name": "전사의 손목 보호대",
+        "price": "40다이아",
+        "note": "중앙 59 • 저가",
+        "raw": {
+          "itemId": 301550003,
+          "itemName": "+3 전사의 손목 보호대",
+          "enchantLevel": 3,
+          "salePrice": 40.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 59.0
         }
       },
       {
@@ -155,7 +171,7 @@
         "enchant": "+2",
         "name": "유적의 견갑",
         "price": "50다이아",
-        "note": "중앙 63 • 하위권",
+        "note": "중앙 62.5 • 하위권",
         "raw": {
           "itemId": 200950009,
           "itemName": "+2 유적의 견갑",
@@ -163,7 +179,7 @@
           "salePrice": 50.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 63.0
+          "median": 62.5
         }
       }
     ],
@@ -219,6 +235,22 @@
       {
         "kind": "무기",
         "enchant": "+9",
+        "name": "솔다트 에스터크",
+        "price": "50다이아",
+        "note": "중앙 82 • 초저가 의심",
+        "raw": {
+          "itemId": 101140001,
+          "itemName": "+9 솔다트 에스터크",
+          "enchantLevel": 9,
+          "salePrice": 50.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 82.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
         "name": "어설트 캐논",
         "price": "52다이아",
         "note": "중앙 71.5 • 저가",
@@ -233,35 +265,35 @@
         }
       },
       {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "트롬바의 송곳니",
-        "price": "68다이아",
-        "note": "중앙 90 • 저가",
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "미궁의 귀걸이",
+        "price": "17다이아",
+        "note": "중앙 23.5 • 저가",
         "raw": {
-          "itemId": 101140005,
-          "itemName": "+9 트롬바의 송곳니",
-          "enchantLevel": 9,
-          "salePrice": 68.0,
-          "category": "무기",
+          "itemId": 300240006,
+          "itemName": "+1 미궁의 귀걸이",
+          "enchantLevel": 1,
+          "salePrice": 17.0,
+          "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 90.0
+          "median": 23.5
         }
       },
       {
         "kind": "악세사리",
-        "enchant": "+3",
-        "name": "열화의 귀걸이",
-        "price": "19다이아",
-        "note": "중앙 47 • 초저가 의심",
+        "enchant": "+0",
+        "name": "혹한의 귀걸이",
+        "price": "20다이아",
+        "note": "중앙 35 • 초저가 의심",
         "raw": {
-          "itemId": 300240008,
-          "itemName": "+3 열화의 귀걸이",
-          "enchantLevel": 3,
-          "salePrice": 19.0,
+          "itemId": 300240011,
+          "itemName": "혹한의 귀걸이",
+          "enchantLevel": 0,
+          "salePrice": 20.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 47.0
+          "median": 35.0
         }
       },
       {
@@ -278,22 +310,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 30.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "사제의 목걸이",
-        "price": "38다이아",
-        "note": "중앙 55 • 하위권",
-        "raw": {
-          "itemId": 300140010,
-          "itemName": "+5 사제의 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 38.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 55.0
         }
       },
       {
@@ -359,25 +375,25 @@
           "dealLabel": "아이템별 저가",
           "median": 166.5
         }
-      },
-      {
-        "kind": "견갑",
-        "enchant": "+3",
-        "name": "제사장의 견갑",
-        "price": "1,400다이아",
-        "note": "중앙 1,945 • 저가",
-        "raw": {
-          "itemId": 200940026,
-          "itemName": "+3 제사장의 견갑",
-          "enchantLevel": 3,
-          "salePrice": 1400.0,
-          "category": "방어구",
-          "dealLabel": "아이템별 저가",
-          "median": 1945.0
-        }
       }
     ],
     "heroic": [
+      {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "불사의 반지",
+        "price": "100다이아",
+        "note": "중앙 363 • 초저가 의심",
+        "raw": {
+          "itemId": 300330012,
+          "itemName": "+1 불사의 반지",
+          "enchantLevel": 1,
+          "salePrice": 100.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 363.0
+        }
+      },
       {
         "kind": "악세사리",
         "enchant": "+1",
@@ -428,6 +444,22 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+0",
+        "name": "작열의 반지",
+        "price": "900다이아",
+        "note": "중앙 1,200 • 하위권",
+        "raw": {
+          "itemId": 300330015,
+          "itemName": "작열의 반지",
+          "enchantLevel": 0,
+          "salePrice": 900.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 1200.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+5",
         "name": "에키무스의 벨트",
         "price": "1,290다이아",
@@ -440,6 +472,22 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 1730.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+0",
+        "name": "아스칼론",
+        "price": "100다이아",
+        "note": "중앙 333 • 초저가 의심",
+        "raw": {
+          "itemId": 100730005,
+          "itemName": "아스칼론",
+          "enchantLevel": 0,
+          "salePrice": 100.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 333.0
         }
       },
       {
