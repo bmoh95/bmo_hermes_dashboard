@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-23 21:02:32 KST",
+  "checkedAt": "2026-06-23 21:09:52 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -59,7 +59,7 @@
         "enchant": "+3",
         "name": "강철 손목 보호대",
         "price": "50다이아",
-        "note": "중앙 94 • 초저가 의심",
+        "note": "중앙 93 • 초저가 의심",
         "raw": {
           "itemId": 301550002,
           "itemName": "+3 강철 손목 보호대",
@@ -67,7 +67,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 94.0
+          "median": 93.0
         }
       }
     ],
@@ -205,7 +205,7 @@
         "enchant": "+5",
         "name": "각성의 목걸이",
         "price": "84다이아",
-        "note": "중앙 114 • 하위권",
+        "note": "중앙 107 • 하위권",
         "raw": {
           "itemId": 300140005,
           "itemName": "+5 각성의 목걸이",
@@ -213,7 +213,7 @@
           "salePrice": 84.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 114.0
+          "median": 107.0
         }
       },
       {
