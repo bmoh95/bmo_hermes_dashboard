@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-23 20:46:49 KST",
+  "checkedAt": "2026-06-23 20:53:50 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -157,7 +157,7 @@
         "enchant": "+9",
         "name": "트롬바의 송곳니",
         "price": "68다이아",
-        "note": "중앙 86.5 • 저가",
+        "note": "중앙 89.5 • 저가",
         "raw": {
           "itemId": 101140005,
           "itemName": "+9 트롬바의 송곳니",
@@ -165,7 +165,7 @@
           "salePrice": 68.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 86.5
+          "median": 89.5
         }
       },
       {
@@ -280,22 +280,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 399.5
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+7",
-        "name": "태양의 심판자",
-        "price": "177다이아",
-        "note": "중앙 295 • 초저가 의심",
-        "raw": {
-          "itemId": 101430003,
-          "itemName": "+7 태양의 심판자",
-          "enchantLevel": 7,
-          "salePrice": 177.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 295.0
         }
       },
       {
