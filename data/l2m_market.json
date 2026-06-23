@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 07:07:03 KST",
+  "checkedAt": "2026-06-24 07:15:04 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -285,7 +285,7 @@
         "enchant": "+4",
         "name": "땅의 수호 반지",
         "price": "22다이아",
-        "note": "중앙 28 • 하위권",
+        "note": "중앙 29.5 • 하위권",
         "raw": {
           "itemId": 300340004,
           "itemName": "+4 땅의 수호 반지",
@@ -293,7 +293,7 @@
           "salePrice": 22.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 28.0
+          "median": 29.5
         }
       },
       {
