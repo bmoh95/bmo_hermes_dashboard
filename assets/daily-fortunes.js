@@ -13,14 +13,14 @@ function markdownLite(text) {
     .replace(/\n/g, '<br>');
 }
 
-function renderEntry(entry) {
-  return `<article class="grade-card fortune-entry">
-    <header class="grade-head">
-      <h2>🔮 ${esc(entry.title || '운세 기록')}</h2>
-      <span>${esc(entry.date || '-')}</span>
-    </header>
+function renderEntry(entry, index) {
+  return `<details class="grade-card fortune-entry" ${index === 0 ? 'open' : ''}>
+    <summary class="fortune-summary">
+      <span class="fortune-title">🔮 ${esc(entry.title || '운세 기록')}</span>
+      <span class="fortune-date">${esc(entry.date || '-')}</span>
+    </summary>
     <div class="fortune-body"><p>${markdownLite(entry.content || '')}</p></div>
-  </article>`;
+  </details>`;
 }
 
 function render(data) {

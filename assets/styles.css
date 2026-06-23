@@ -59,6 +59,14 @@ td.note { white-space: normal; min-width: 230px; color: #374151; }
 tr:last-child td { border-bottom: 0; }
 .empty { padding: 20px; color: var(--muted); font-weight: 700; }
 .fortune-entry .grade-head { align-items: center; }
+.fortune-entry { overflow: hidden; }
+.fortune-summary { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 18px 20px; background: #fbfcff; cursor: pointer; list-style: none; user-select: none; }
+.fortune-summary::-webkit-details-marker { display: none; }
+.fortune-summary::after { content: '펼치기'; flex: 0 0 auto; color: var(--blue); font-weight: 900; font-size: 14px; }
+.fortune-entry[open] .fortune-summary { border-bottom: 1px solid var(--line); }
+.fortune-entry[open] .fortune-summary::after { content: '접기'; }
+.fortune-title { font-size: 22px; font-weight: 900; }
+.fortune-date { color: var(--muted); font-weight: 800; }
 .fortune-body { padding: 20px 22px 24px; color: #1f2937; line-height: 1.75; }
 .fortune-body h2 { margin: 0 0 14px; font-size: 22px; letter-spacing: -.02em; }
 .fortune-body h3 { margin: 18px 0 8px; font-size: 18px; }
