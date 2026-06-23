@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 08:37:14 KST",
+  "checkedAt": "2026-06-24 08:45:14 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -444,22 +444,6 @@
       },
       {
         "kind": "악세사리",
-        "enchant": "+0",
-        "name": "작열의 반지",
-        "price": "900다이아",
-        "note": "중앙 1,200 • 하위권",
-        "raw": {
-          "itemId": 300330015,
-          "itemName": "작열의 반지",
-          "enchantLevel": 0,
-          "salePrice": 900.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 1200.0
-        }
-      },
-      {
-        "kind": "악세사리",
         "enchant": "+5",
         "name": "에키무스의 벨트",
         "price": "1,290다이아",
@@ -593,7 +577,7 @@
         "enchant": "+5",
         "name": "타락 천사의 장갑 (초월 +1)",
         "price": "7,500다이아",
-        "note": "중앙 9,580 • 하위권",
+        "note": "중앙 9,680 • 하위권",
         "raw": {
           "itemId": 260320003,
           "itemName": "+5 타락 천사의 장갑 (초월 +1)",
@@ -601,7 +585,7 @@
           "salePrice": 7500.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 9580.0
+          "median": 9680.0
         }
       }
     ]
