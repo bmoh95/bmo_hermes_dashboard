@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-23 22:05:58 KST",
+  "checkedAt": "2026-06-23 22:12:59 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -220,15 +220,15 @@
         "kind": "악세사리",
         "enchant": "+5",
         "name": "석양의 벨트",
-        "price": "700다이아",
-        "note": "중앙 900 • 하위권",
+        "price": "500다이아",
+        "note": "중앙 900 • 초저가 의심",
         "raw": {
           "itemId": 300440011,
           "itemName": "+5 석양의 벨트",
           "enchantLevel": 5,
-          "salePrice": 700.0,
+          "salePrice": 500.0,
           "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
+          "dealLabel": "초저가/이동매물 의심",
           "median": 900.0
         }
       },
