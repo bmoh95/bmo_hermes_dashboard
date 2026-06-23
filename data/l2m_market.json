@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-23 20:32:47 KST",
+  "checkedAt": "2026-06-23 20:39:48 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -38,6 +38,22 @@
       }
     ],
     "uncommon": [
+      {
+        "kind": "견갑",
+        "enchant": "+0",
+        "name": "유적의 견갑",
+        "price": "10다이아",
+        "note": "중앙 20 • 초저가 의심",
+        "raw": {
+          "itemId": 200950009,
+          "itemName": "유적의 견갑",
+          "enchantLevel": 0,
+          "salePrice": 10.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 20.0
+        }
+      },
       {
         "kind": "손목",
         "enchant": "+3",
@@ -157,7 +173,7 @@
         "enchant": "+5",
         "name": "사제의 목걸이",
         "price": "38다이아",
-        "note": "중앙 54 • 하위권",
+        "note": "중앙 54.5 • 하위권",
         "raw": {
           "itemId": 300140010,
           "itemName": "+5 사제의 목걸이",
@@ -165,7 +181,7 @@
           "salePrice": 38.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 54.0
+          "median": 54.5
         }
       },
       {
