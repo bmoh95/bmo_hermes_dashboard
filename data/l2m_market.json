@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-23 19:46:24 KST",
+  "checkedAt": "2026-06-23 19:54:25 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -77,7 +77,7 @@
         "enchant": "+9",
         "name": "바라키엘 체인소드",
         "price": "30다이아",
-        "note": "중앙 60 • 초저가 의심",
+        "note": "중앙 59 • 초저가 의심",
         "raw": {
           "itemId": 101040002,
           "itemName": "+9 바라키엘 체인소드",
@@ -85,7 +85,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 60.0
+          "median": 59.0
         }
       },
       {
@@ -118,22 +118,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 80.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "어설트 캐논",
-        "price": "52다이아",
-        "note": "중앙 72 • 저가",
-        "raw": {
-          "itemId": 101240007,
-          "itemName": "+9 어설트 캐논",
-          "enchantLevel": 9,
-          "salePrice": 52.0,
-          "category": "무기",
-          "dealLabel": "아이템별 저가",
-          "median": 72.0
         }
       },
       {
@@ -271,7 +255,7 @@
         "enchant": "+7",
         "name": "태양의 심판자",
         "price": "177다이아",
-        "note": "중앙 298 • 초저가 의심",
+        "note": "중앙 295 • 초저가 의심",
         "raw": {
           "itemId": 101430003,
           "itemName": "+7 태양의 심판자",
@@ -279,7 +263,7 @@
           "salePrice": 177.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 298.0
+          "median": 295.0
         }
       },
       {
