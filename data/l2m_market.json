@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-23 23:05:05 KST",
+  "checkedAt": "2026-06-23 23:12:07 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -235,6 +235,22 @@
       {
         "kind": "견갑",
         "enchant": "+3",
+        "name": "파수꾼의 견갑",
+        "price": "999다이아",
+        "note": "중앙 1,350 • 저가",
+        "raw": {
+          "itemId": 200940024,
+          "itemName": "+3 파수꾼의 견갑",
+          "enchantLevel": 3,
+          "salePrice": 999.0,
+          "category": "방어구",
+          "dealLabel": "아이템별 저가",
+          "median": 1350.0
+        }
+      },
+      {
+        "kind": "견갑",
+        "enchant": "+3",
         "name": "제사장의 견갑",
         "price": "1,400다이아",
         "note": "중앙 1,945 • 저가",
@@ -319,7 +335,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 위즈덤)",
         "price": "100다이아",
-        "note": "중앙 265 • 초저가 의심",
+        "note": "중앙 280 • 초저가 의심",
         "raw": {
           "itemId": 500303005,
           "itemName": "계승자의 서 (인크리즈 위즈덤)",
@@ -327,7 +343,7 @@
           "salePrice": 100.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 265.0
+          "median": 280.0
         }
       }
     ],
