@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 08:45:14 KST",
+  "checkedAt": "2026-06-24 08:53:42 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -116,6 +116,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 47.5
+        }
+      },
+      {
+        "kind": "손목",
+        "enchant": "+3",
+        "name": "전사의 손목 보호대",
+        "price": "40다이아",
+        "note": "중앙 59 • 저가",
+        "raw": {
+          "itemId": 301550003,
+          "itemName": "+3 전사의 손목 보호대",
+          "enchantLevel": 3,
+          "salePrice": 40.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 59.0
         }
       },
       {
@@ -362,6 +378,22 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+4",
+        "name": "미궁의 목걸이",
+        "price": "100다이아",
+        "note": "중앙 174.5 • 초저가 의심",
+        "raw": {
+          "itemId": 300140018,
+          "itemName": "+4 미궁의 목걸이",
+          "enchantLevel": 4,
+          "salePrice": 100.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 174.5
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+5",
         "name": "차원의 반지",
         "price": "135다이아",
@@ -374,22 +406,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 168.0
-        }
-      },
-      {
-        "kind": "견갑",
-        "enchant": "+3",
-        "name": "제사장의 견갑",
-        "price": "1,400다이아",
-        "note": "중앙 1,750 • 저가",
-        "raw": {
-          "itemId": 200940026,
-          "itemName": "+3 제사장의 견갑",
-          "enchantLevel": 3,
-          "salePrice": 1400.0,
-          "category": "방어구",
-          "dealLabel": "아이템별 저가",
-          "median": 1750.0
         }
       }
     ],
@@ -504,6 +520,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 295.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "악마의 부츠",
+        "price": "190다이아",
+        "note": "중앙 328 • 초저가 의심",
+        "raw": {
+          "itemId": 200430001,
+          "itemName": "+5 악마의 부츠",
+          "enchantLevel": 5,
+          "salePrice": 190.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 328.0
         }
       },
       {
