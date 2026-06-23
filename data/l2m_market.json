@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 03:09:34 KST",
+  "checkedAt": "2026-06-24 03:17:35 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -381,22 +381,6 @@
       {
         "kind": "악세사리",
         "enchant": "+1",
-        "name": "불사의 반지",
-        "price": "100다이아",
-        "note": "중앙 363 • 초저가 의심",
-        "raw": {
-          "itemId": 300330012,
-          "itemName": "+1 불사의 반지",
-          "enchantLevel": 1,
-          "salePrice": 100.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 363.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+1",
         "name": "심연의 벨트",
         "price": "199다이아",
         "note": "중앙 300 • 초저가 의심",
@@ -479,7 +463,7 @@
         "enchant": "+0",
         "name": "아스칼론",
         "price": "100다이아",
-        "note": "중앙 333 • 초저가 의심",
+        "note": "중앙 616.5 • 초저가 의심",
         "raw": {
           "itemId": 100730005,
           "itemName": "아스칼론",
@@ -487,7 +471,7 @@
           "salePrice": 100.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 333.0
+          "median": 616.5
         }
       },
       {
@@ -543,7 +527,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 위즈덤)",
         "price": "100다이아",
-        "note": "중앙 265 • 초저가 의심",
+        "note": "중앙 280 • 초저가 의심",
         "raw": {
           "itemId": 500303005,
           "itemName": "계승자의 서 (인크리즈 위즈덤)",
@@ -551,7 +535,7 @@
           "salePrice": 100.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 265.0
+          "median": 280.0
         }
       }
     ],
