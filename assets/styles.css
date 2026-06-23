@@ -58,6 +58,13 @@ td.name { white-space: normal; min-width: 260px; font-weight: 700; }
 td.note { white-space: normal; min-width: 230px; color: #374151; }
 tr:last-child td { border-bottom: 0; }
 .empty { padding: 20px; color: var(--muted); font-weight: 700; }
+.fortune-entry .grade-head { align-items: center; }
+.fortune-body { padding: 20px 22px 24px; color: #1f2937; line-height: 1.75; }
+.fortune-body h2 { margin: 0 0 14px; font-size: 22px; letter-spacing: -.02em; }
+.fortune-body h3 { margin: 18px 0 8px; font-size: 18px; }
+.fortune-body p { margin: 0 0 14px; }
+.fortune-body ul { margin: 8px 0 16px; padding-left: 22px; }
+.fortune-body li { margin: 5px 0; }
 .dot-common { color: #9ca3af; }
 .dot-uncommon { color: var(--green); }
 .dot-rare { color: var(--blue); }
