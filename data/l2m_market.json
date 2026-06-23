@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-23 23:49:10 KST",
+  "checkedAt": "2026-06-23 23:53:11 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -173,7 +173,7 @@
         "enchant": "+5",
         "name": "각성의 목걸이",
         "price": "84다이아",
-        "note": "중앙 107 • 하위권",
+        "note": "중앙 111 • 하위권",
         "raw": {
           "itemId": 300140005,
           "itemName": "+5 각성의 목걸이",
@@ -181,7 +181,7 @@
           "salePrice": 84.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 107.0
+          "median": 111.0
         }
       },
       {
