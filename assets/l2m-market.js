@@ -20,7 +20,7 @@ function renderTable(items) {
     return `<tr>
       <td>${esc(kind)}</td>
       <td class="num">${esc(item.enchant)}</td>
-      <td class="name">${esc(item.name)}</td>
+      <td class="name"><span class="item-name grade-text-${esc(item.grade || 'unknown')}">${esc(item.name)}</span></td>
       <td class="num">${esc(item.price)}</td>
       <td class="note">${esc(item.note)}</td>
     </tr>`;
@@ -44,7 +44,7 @@ function render(data) {
     const items = data.groups?.[grade] || [];
     return `<article class="grade-card">
       <header class="grade-head"><h2><span class="${meta.className}">${meta.icon}</span> ${meta.label}</h2><span>${items.length}개</span></header>
-      ${renderTable(items)}
+      ${renderTable(items.map((item) => ({ ...item, grade })))}
     </article>`;
   }).join('');
 }
