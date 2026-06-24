@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 02:39:33 KST",
+  "checkedAt": "2026-06-25 02:47:33 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -456,6 +456,22 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 315.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+0",
+        "name": "폴리네의 부츠",
+        "price": "221다이아",
+        "note": "중앙 340 • 초저가 의심",
+        "raw": {
+          "itemId": 200430005,
+          "itemName": "폴리네의 부츠",
+          "enchantLevel": 0,
+          "salePrice": 221.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 340.0
         }
       },
       {
