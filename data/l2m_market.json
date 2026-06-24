@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 14:12:16 KST",
+  "checkedAt": "2026-06-24 14:20:20 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -25,7 +25,7 @@
         "enchant": "+5",
         "name": "신성의 반지",
         "price": "10다이아",
-        "note": "중앙 44 • 초저가 의심",
+        "note": "중앙 30 • 초저가 의심",
         "raw": {
           "itemId": 300360009,
           "itemName": "+5 신성의 반지",
@@ -33,7 +33,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 44.0
+          "median": 30.0
         }
       }
     ],
@@ -189,7 +189,7 @@
         "enchant": "+9",
         "name": "싸울아비 장검",
         "price": "30다이아",
-        "note": "중앙 60.5 • 초저가 의심",
+        "note": "중앙 60 • 초저가 의심",
         "raw": {
           "itemId": 100140003,
           "itemName": "+9 싸울아비 장검",
@@ -197,7 +197,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 60.5
+          "median": 60.0
         }
       },
       {
@@ -214,22 +214,6 @@
           "category": "무기",
           "dealLabel": "아이템별 저가",
           "median": 71.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+4",
-        "name": "체르투바의 영혼 목걸이",
-        "price": "15다이아",
-        "note": "중앙 35.5 • 초저가 의심",
-        "raw": {
-          "itemId": 300140004,
-          "itemName": "+4 체르투바의 영혼 목걸이",
-          "enchantLevel": 4,
-          "salePrice": 15.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 35.5
         }
       },
       {
@@ -301,7 +285,7 @@
         "enchant": "+5",
         "name": "각성의 목걸이",
         "price": "84다이아",
-        "note": "중앙 111 • 하위권",
+        "note": "중앙 105.5 • 하위권",
         "raw": {
           "itemId": 300140005,
           "itemName": "+5 각성의 목걸이",
@@ -309,7 +293,7 @@
           "salePrice": 84.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 111.0
+          "median": 105.5
         }
       },
       {
