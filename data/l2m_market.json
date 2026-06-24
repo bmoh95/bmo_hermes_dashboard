@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 03:59:45 KST",
+  "checkedAt": "2026-06-25 04:07:46 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -182,22 +182,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 48.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "그레이트 액스",
-        "price": "29다이아",
-        "note": "중앙 50.5 • 초저가 의심",
-        "raw": {
-          "itemId": 100740001,
-          "itemName": "+9 그레이트 액스",
-          "enchantLevel": 9,
-          "salePrice": 29.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 50.5
         }
       },
       {
