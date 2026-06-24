@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 20:41:50 KST",
+  "checkedAt": "2026-06-24 20:50:51 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -157,7 +157,7 @@
         "enchant": "+9",
         "name": "어설트 캐논",
         "price": "52다이아",
-        "note": "중앙 71 • 저가",
+        "note": "중앙 69 • 저가",
         "raw": {
           "itemId": 101240007,
           "itemName": "+9 어설트 캐논",
@@ -165,7 +165,7 @@
           "salePrice": 52.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 71.0
+          "median": 69.0
         }
       },
       {
@@ -463,7 +463,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "150다이아",
-        "note": "중앙 285 • 초저가 의심",
+        "note": "중앙 290 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -471,7 +471,7 @@
           "salePrice": 150.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 285.0
+          "median": 290.0
         }
       }
     ],
