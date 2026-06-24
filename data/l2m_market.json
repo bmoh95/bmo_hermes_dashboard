@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 23:10:08 KST",
+  "checkedAt": "2026-06-24 23:18:10 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -155,7 +155,7 @@
         "enchant": "+2",
         "name": "유적의 견갑",
         "price": "50다이아",
-        "note": "중앙 66 • 하위권",
+        "note": "중앙 65 • 하위권",
         "raw": {
           "itemId": 200950009,
           "itemName": "+2 유적의 견갑",
@@ -163,11 +163,27 @@
           "salePrice": 50.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 66.0
+          "median": 65.0
         }
       }
     ],
     "rare": [
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "그레이트 액스",
+        "price": "29다이아",
+        "note": "중앙 49.5 • 초저가 의심",
+        "raw": {
+          "itemId": 100740001,
+          "itemName": "+9 그레이트 액스",
+          "enchantLevel": 9,
+          "salePrice": 29.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 49.5
+        }
+      },
       {
         "kind": "무기",
         "enchant": "+9",
@@ -473,6 +489,22 @@
           "dealLabel": "초저가/이동매물 의심",
           "median": 295.0
         }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "계승자의 서 (쓰러스터 Ⅱ)",
+        "price": "250다이아",
+        "note": "중앙 416 • 초저가 의심",
+        "raw": {
+          "itemId": 500303020,
+          "itemName": "계승자의 서 (쓰러스터 Ⅱ)",
+          "enchantLevel": 0,
+          "salePrice": 250.0,
+          "category": "스킬북",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 416.0
+        }
       }
     ],
     "legendary": [
@@ -481,14 +513,14 @@
         "enchant": "+5",
         "name": "네비트의 빛의 망토",
         "price": "3,000다이아",
-        "note": "중앙 3,690 • 하위권",
+        "note": "중앙 3,690 • 저가",
         "raw": {
           "itemId": 200620001,
           "itemName": "+5 네비트의 빛의 망토",
           "enchantLevel": 5,
           "salePrice": 3000.0,
           "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
+          "dealLabel": "아이템별 저가",
           "median": 3690.0
         }
       },
