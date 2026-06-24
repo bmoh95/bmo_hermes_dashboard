@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 13:40:27 KST",
+  "checkedAt": "2026-06-24 13:48:28 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -150,6 +150,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 48.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+8",
+        "name": "블러디오키드",
+        "price": "18다이아",
+        "note": "중앙 33 • 초저가 의심",
+        "raw": {
+          "itemId": 100340005,
+          "itemName": "+8 블러디오키드",
+          "enchantLevel": 8,
+          "salePrice": 18.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 33.0
         }
       },
       {
@@ -415,7 +431,7 @@
         "enchant": "+5",
         "name": "에키무스의 벨트",
         "price": "1,290다이아",
-        "note": "중앙 1,739.5 • 하위권",
+        "note": "중앙 1,774.5 • 하위권",
         "raw": {
           "itemId": 300430002,
           "itemName": "+5 에키무스의 벨트",
@@ -423,7 +439,7 @@
           "salePrice": 1290.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1739.5
+          "median": 1774.5
         }
       },
       {
