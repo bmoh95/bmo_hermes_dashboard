@@ -29,7 +29,7 @@ def title_from_date(iso_date: str) -> str:
         return '운세 기록'
     dt = datetime.strptime(iso_date, '%Y-%m-%d')
     weekdays = '월화수목금토일'
-    return f'{dt.year}년 {dt.month}월 {dt.day}일 {weekdays[dt.weekday()]}요일 운세'
+    return f'{dt.month}월 {dt.day}일({weekdays[dt.weekday()]}) 운세'
 
 
 def sanitize(text: str) -> str:

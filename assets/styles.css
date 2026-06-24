@@ -14,6 +14,7 @@
 body {
   margin: 0;
   min-height: 100vh;
+  overflow-x: hidden;
   background: radial-gradient(circle at top left, #e0ecff 0, transparent 34rem), var(--bg);
   color: var(--text);
   font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", Segoe UI, sans-serif;
@@ -69,7 +70,7 @@ tr:last-child td { border-bottom: 0; }
 .fortune-icon { flex: 0 0 auto; display: inline-grid; place-items: center; width: 36px; height: 36px; border-radius: 14px; background: #eef2ff; }
 .fortune-title { min-width: 0; font-size: 21px; font-weight: 900; letter-spacing: -.03em; overflow-wrap: anywhere; }
 .fortune-date { color: var(--muted); font-weight: 800; font-size: 14px; white-space: nowrap; }
-.fortune-body { padding: 22px 24px 26px; color: #1f2937; line-height: 1.78; font-size: 17px; }
+.fortune-body { padding: 22px 24px 26px; color: #1f2937; line-height: 1.78; font-size: 17px; overflow-wrap: anywhere; }
 .fortune-body h2 { margin: 0 0 14px; font-size: clamp(20px, 3vw, 24px); letter-spacing: -.03em; line-height: 1.25; }
 .fortune-body h3 { margin: 20px 0 8px; font-size: 18px; line-height: 1.35; }
 .fortune-body p { margin: 0 0 14px; }
@@ -82,26 +83,26 @@ tr:last-child td { border-bottom: 0; }
 .dot-legendary { color: var(--purple); }
 @media (max-width: 720px) {
   body { background: radial-gradient(circle at top left, #dbeafe 0, transparent 22rem), var(--bg); }
-  .shell, .shell.wide { width: min(100% - 20px, 680px); padding: 18px 0 28px; }
-  .hero { padding: 22px 18px; border-radius: 22px; }
-  .hero.compact { padding: 22px 18px; margin-bottom: 16px; }
+  .shell, .shell.wide { width: min(100% - 18px, 680px); padding: 16px 0 28px; }
+  .hero { padding: 20px 18px; border-radius: 22px; }
+  .hero.compact { padding: 20px 18px; margin-bottom: 14px; }
   .compact h1 { font-size: clamp(30px, 9vw, 40px); line-height: 1.05; }
   .lead { margin-top: 12px; font-size: 15px; line-height: 1.55; }
   .topnav { margin-bottom: 12px; }
-  .status { gap: 8px; margin-bottom: 14px; }
-  .pill { max-width: 100%; padding: 8px 11px; font-size: 13px; }
+  .status { display: none; }
   .stack { gap: 16px; }
   .grade-card { border-radius: 20px; }
   th, td { padding: 10px 11px; font-size: 14px; }
   .grade-head h2 { font-size: 20px; }
   .fortune-summary { grid-template-columns: minmax(0, 1fr) auto; gap: 10px; padding: 14px; }
-  .fortune-summary::after { grid-column: 2; grid-row: 2; justify-self: end; font-size: 12px; padding: 6px 9px; }
-  .fortune-summary-main { grid-column: 1 / -1; gap: 9px; }
+  .fortune-summary::after { grid-column: 2; grid-row: 1; justify-self: end; align-self: center; font-size: 12px; padding: 6px 9px; }
+  .fortune-summary-main { grid-column: 1; grid-row: 1; gap: 9px; }
   .fortune-icon { width: 32px; height: 32px; border-radius: 12px; }
-  .fortune-title { font-size: 18px; line-height: 1.28; }
-  .fortune-date { grid-column: 1; grid-row: 2; font-size: 13px; }
-  .fortune-body { padding: 18px 16px 20px; font-size: 16px; line-height: 1.72; }
-  .fortune-body h2 { font-size: 20px; }
+  .fortune-title { font-size: 20px; line-height: 1.2; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .fortune-date { display: none; }
+  .fortune-body { padding: 18px 16px 20px; font-size: 16px; line-height: 1.62; }
+  .fortune-body h2 { font-size: 19px; }
   .fortune-body h3 { font-size: 17px; }
+  .fortune-body p { margin-bottom: 12px; }
   .fortune-body ul { padding-left: 18px; }
 }

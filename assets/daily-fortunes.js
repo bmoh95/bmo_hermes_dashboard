@@ -14,6 +14,18 @@ function markdownLite(text) {
     .replace(/\n/g, '<br>');
 }
 
+function displayContent(text) {
+  return String(text || '')
+    .replace(/^##\s*완료\s*—\s*.+?오늘의 운세\s*\n+/, '')
+    .trim();
+}
+
+function shortUpdated(value) {
+  const text = String(value || '-');
+  const match = text.match(/(\d{2}:\d{2})/);
+  return match ? `${match[1]} 업데이트` : text;
+}
+
 function renderEntry(entry, index) {
   return `<details class="grade-card fortune-entry" ${index === 0 ? 'open' : ''}>
     <summary class="fortune-summary">
@@ -23,17 +35,17 @@ function renderEntry(entry, index) {
       </span>
       <span class="fortune-date">${esc(entry.date || '-')}</span>
     </summary>
-    <div class="fortune-body"><p>${markdownLite(entry.content || '')}</p></div>
+    <div class="fortune-body"><p>${markdownLite(displayContent(entry.content))}</p></div>
   </details>`;
 }
 
 function render(data) {
   const entries = data.entries || [];
-  document.getElementById('summary').textContent = `${data.updatedAt || '-'} · ${entries.length}건 · 개인정보 비공개`;
+  document.getElementById('summary').textContent = `${entries.length}건 · ${shortUpdated(data.updatedAt)}`;
   document.getElementById('status').innerHTML = [
     `<span class="pill">기록 ${entries.length}건</span>`,
-    `<span class="pill">업데이트 ${esc(data.updatedAt || '-')}</span>`,
-    `<span class="pill">이름·생년월일·주소 비공개</span>`,
+    `<span class="pill">${esc(shortUpdated(data.updatedAt))}</span>`,
+    `<span class="pill">개인정보 비공개</span>`,
   ].join('');
   document.getElementById('fortune-list').innerHTML = entries.length
     ? entries.map(renderEntry).join('')
