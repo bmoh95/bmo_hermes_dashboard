@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 19:35:41 KST",
+  "checkedAt": "2026-06-24 19:43:42 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -120,38 +120,6 @@
       }
     ],
     "rare": [
-      {
-        "kind": "무기",
-        "enchant": "+8",
-        "name": "커스드 트윈 액스",
-        "price": "15다이아",
-        "note": "중앙 48 • 초저가 의심",
-        "raw": {
-          "itemId": 101340004,
-          "itemName": "+8 커스드 트윈 액스",
-          "enchantLevel": 8,
-          "salePrice": 15.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 48.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "바라키엘 체인소드",
-        "price": "30다이아",
-        "note": "중앙 56.5 • 초저가 의심",
-        "raw": {
-          "itemId": 101040002,
-          "itemName": "+9 바라키엘 체인소드",
-          "enchantLevel": 9,
-          "salePrice": 30.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 56.5
-        }
-      },
       {
         "kind": "무기",
         "enchant": "+9",
