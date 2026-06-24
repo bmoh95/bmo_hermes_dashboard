@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 16:57:22 KST",
+  "checkedAt": "2026-06-24 17:05:22 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -59,7 +59,7 @@
         "enchant": "+4",
         "name": "균열의 벨트",
         "price": "10다이아",
-        "note": "중앙 30 • 초저가 의심",
+        "note": "중앙 35 • 초저가 의심",
         "raw": {
           "itemId": 300450006,
           "itemName": "+4 균열의 벨트",
@@ -67,7 +67,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 30.0
+          "median": 35.0
         }
       },
       {
@@ -75,7 +75,7 @@
         "enchant": "+5",
         "name": "흑광의 목걸이",
         "price": "12다이아",
-        "note": "중앙 33 • 초저가 의심",
+        "note": "중앙 31.5 • 초저가 의심",
         "raw": {
           "itemId": 300150003,
           "itemName": "+5 흑광의 목걸이",
@@ -83,7 +83,7 @@
           "salePrice": 12.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 33.0
+          "median": 31.5
         }
       },
       {
@@ -447,7 +447,7 @@
         "enchant": "+6",
         "name": "잊혀진 영웅의 흉갑",
         "price": "200다이아",
-        "note": "중앙 331.5 • 초저가 의심",
+        "note": "중앙 333 • 초저가 의심",
         "raw": {
           "itemId": 200130010,
           "itemName": "+6 잊혀진 영웅의 흉갑",
@@ -455,7 +455,7 @@
           "salePrice": 200.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 331.5
+          "median": 333.0
         }
       },
       {
