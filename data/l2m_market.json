@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 13:15:46 KST",
+  "checkedAt": "2026-06-24 13:23:45 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -431,7 +431,7 @@
         "enchant": "+0",
         "name": "아스칼론",
         "price": "100다이아",
-        "note": "중앙 200 • 초저가 의심",
+        "note": "중앙 266.5 • 초저가 의심",
         "raw": {
           "itemId": 100730005,
           "itemName": "아스칼론",
@@ -439,7 +439,7 @@
           "salePrice": 100.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 200.0
+          "median": 266.5
         }
       },
       {
