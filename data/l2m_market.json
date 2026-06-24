@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 22:54:06 KST",
+  "checkedAt": "2026-06-24 23:02:07 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -123,7 +123,7 @@
         "enchant": "+3",
         "name": "강철 손목 보호대",
         "price": "50다이아",
-        "note": "중앙 95 • 초저가 의심",
+        "note": "중앙 99 • 초저가 의심",
         "raw": {
           "itemId": 301550002,
           "itemName": "+3 강철 손목 보호대",
@@ -131,7 +131,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 95.0
+          "median": 99.0
         }
       },
       {
@@ -155,7 +155,7 @@
         "enchant": "+2",
         "name": "유적의 견갑",
         "price": "50다이아",
-        "note": "중앙 65 • 하위권",
+        "note": "중앙 66 • 하위권",
         "raw": {
           "itemId": 200950009,
           "itemName": "+2 유적의 견갑",
@@ -163,7 +163,7 @@
           "salePrice": 50.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 65.0
+          "median": 66.0
         }
       }
     ],
@@ -237,7 +237,7 @@
         "enchant": "+4",
         "name": "헤르문쿠스의 목걸이",
         "price": "30다이아",
-        "note": "중앙 91.5 • 초저가 의심",
+        "note": "중앙 84 • 초저가 의심",
         "raw": {
           "itemId": 300140009,
           "itemName": "+4 헤르문쿠스의 목걸이",
@@ -245,7 +245,7 @@
           "salePrice": 30.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 91.5
+          "median": 84.0
         }
       },
       {
@@ -269,7 +269,7 @@
         "enchant": "+4",
         "name": "미궁의 목걸이",
         "price": "100다이아",
-        "note": "중앙 174.5 • 초저가 의심",
+        "note": "중앙 165 • 초저가 의심",
         "raw": {
           "itemId": 300140018,
           "itemName": "+4 미궁의 목걸이",
@@ -277,7 +277,7 @@
           "salePrice": 100.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 174.5
+          "median": 165.0
         }
       },
       {
@@ -332,22 +332,6 @@
     "heroic": [
       {
         "kind": "악세사리",
-        "enchant": "+1",
-        "name": "심연의 벨트",
-        "price": "199다이아",
-        "note": "중앙 300 • 초저가 의심",
-        "raw": {
-          "itemId": 300430009,
-          "itemName": "+1 심연의 벨트",
-          "enchantLevel": 1,
-          "salePrice": 199.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 300.0
-        }
-      },
-      {
-        "kind": "악세사리",
         "enchant": "+0",
         "name": "광휘의 벨트",
         "price": "250다이아",
@@ -383,7 +367,7 @@
         "enchant": "+0",
         "name": "작열의 반지",
         "price": "850다이아",
-        "note": "중앙 1,201.5 • 하위권",
+        "note": "중앙 1,196.5 • 하위권",
         "raw": {
           "itemId": 300330015,
           "itemName": "작열의 반지",
@@ -391,7 +375,7 @@
           "salePrice": 850.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1201.5
+          "median": 1196.5
         }
       },
       {
