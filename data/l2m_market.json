@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 01:16:07 KST",
+  "checkedAt": "2026-06-25 01:24:27 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -170,6 +170,22 @@
     "rare": [
       {
         "kind": "무기",
+        "enchant": "+8",
+        "name": "커스드 트윈 액스",
+        "price": "15다이아",
+        "note": "중앙 48 • 초저가 의심",
+        "raw": {
+          "itemId": 101340004,
+          "itemName": "+8 커스드 트윈 액스",
+          "enchantLevel": 8,
+          "salePrice": 15.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 48.0
+        }
+      },
+      {
+        "kind": "무기",
         "enchant": "+9",
         "name": "그레이트 액스",
         "price": "29다이아",
@@ -214,22 +230,6 @@
           "category": "무기",
           "dealLabel": "아이템별 저가",
           "median": 73.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+1",
-        "name": "미궁의 귀걸이",
-        "price": "10다이아",
-        "note": "중앙 20 • 초저가 의심",
-        "raw": {
-          "itemId": 300240006,
-          "itemName": "+1 미궁의 귀걸이",
-          "enchantLevel": 1,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 20.0
         }
       },
       {
