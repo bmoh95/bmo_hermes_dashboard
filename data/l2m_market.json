@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 03:51:43 KST",
+  "checkedAt": "2026-06-25 03:59:45 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -221,7 +221,7 @@
         "enchant": "+9",
         "name": "어설트 캐논",
         "price": "52다이아",
-        "note": "중앙 73 • 저가",
+        "note": "중앙 71 • 저가",
         "raw": {
           "itemId": 101240007,
           "itemName": "+9 어설트 캐논",
@@ -229,7 +229,23 @@
           "salePrice": 52.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 73.0
+          "median": 71.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "커스드 트윈 액스",
+        "price": "81다이아",
+        "note": "중앙 119 • 하위권",
+        "raw": {
+          "itemId": 101340004,
+          "itemName": "+9 커스드 트윈 액스",
+          "enchantLevel": 9,
+          "salePrice": 81.0,
+          "category": "무기",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 119.0
         }
       },
       {
@@ -415,7 +431,7 @@
         "enchant": "+7",
         "name": "네비트의 부츠",
         "price": "120다이아",
-        "note": "중앙 267.5 • 초저가 의심",
+        "note": "중앙 289.5 • 초저가 의심",
         "raw": {
           "itemId": 200430006,
           "itemName": "+7 네비트의 부츠",
@@ -423,7 +439,7 @@
           "salePrice": 120.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 267.5
+          "median": 289.5
         }
       },
       {
