@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 23:43:53 KST",
+  "checkedAt": "2026-06-24 23:52:13 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -75,15 +75,15 @@
         "enchant": "+5",
         "name": "용맹의 목걸이",
         "price": "10다이아",
-        "note": "중앙 15 • 하위권",
+        "note": "중앙 15.5 • 초저가 의심",
         "raw": {
           "itemId": 300150005,
           "itemName": "+5 용맹의 목걸이",
           "enchantLevel": 5,
           "salePrice": 10.0,
           "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 15.0
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 15.5
         }
       },
       {
@@ -91,7 +91,7 @@
         "enchant": "+5",
         "name": "흑광의 목걸이",
         "price": "12다이아",
-        "note": "중앙 45 • 초저가 의심",
+        "note": "중앙 44 • 초저가 의심",
         "raw": {
           "itemId": 300150003,
           "itemName": "+5 흑광의 목걸이",
@@ -99,7 +99,7 @@
           "salePrice": 12.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 45.0
+          "median": 44.0
         }
       },
       {
@@ -367,7 +367,7 @@
         "enchant": "+0",
         "name": "광휘의 벨트",
         "price": "250다이아",
-        "note": "중앙 357.5 • 저가",
+        "note": "중앙 365 • 저가",
         "raw": {
           "itemId": 300430013,
           "itemName": "광휘의 벨트",
@@ -375,7 +375,7 @@
           "salePrice": 250.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 357.5
+          "median": 365.0
         }
       },
       {
@@ -415,7 +415,7 @@
         "enchant": "+5",
         "name": "에키무스의 벨트",
         "price": "1,290다이아",
-        "note": "중앙 1,786 • 하위권",
+        "note": "중앙 1,785.5 • 하위권",
         "raw": {
           "itemId": 300430002,
           "itemName": "+5 에키무스의 벨트",
@@ -423,7 +423,7 @@
           "salePrice": 1290.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1786.0
+          "median": 1785.5
         }
       },
       {
