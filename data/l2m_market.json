@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 05:11:53 KST",
+  "checkedAt": "2026-06-25 05:19:54 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -59,7 +59,7 @@
         "enchant": "+5",
         "name": "용맹의 목걸이",
         "price": "10다이아",
-        "note": "중앙 15.5 • 초저가 의심",
+        "note": "중앙 17.5 • 초저가 의심",
         "raw": {
           "itemId": 300150005,
           "itemName": "+5 용맹의 목걸이",
@@ -67,7 +67,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 15.5
+          "median": 17.5
         }
       },
       {
@@ -214,22 +214,6 @@
           "category": "무기",
           "dealLabel": "아이템별 저가",
           "median": 71.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "커스드 트윈 액스",
-        "price": "81다이아",
-        "note": "중앙 119 • 하위권",
-        "raw": {
-          "itemId": 101340004,
-          "itemName": "+9 커스드 트윈 액스",
-          "enchantLevel": 9,
-          "salePrice": 81.0,
-          "category": "무기",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 119.0
         }
       },
       {
@@ -440,6 +424,22 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 340.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+7",
+        "name": "칼리에의 부츠",
+        "price": "298다이아",
+        "note": "중앙 500 • 초저가 의심",
+        "raw": {
+          "itemId": 200430008,
+          "itemName": "+7 칼리에의 부츠",
+          "enchantLevel": 7,
+          "salePrice": 298.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 500.0
         }
       },
       {
