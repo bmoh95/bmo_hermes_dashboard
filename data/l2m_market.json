@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 18:29:32 KST",
+  "checkedAt": "2026-06-24 18:38:32 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -269,7 +269,7 @@
         "enchant": "+4",
         "name": "미궁의 목걸이",
         "price": "100다이아",
-        "note": "중앙 199 • 초저가 의심",
+        "note": "중앙 174.5 • 초저가 의심",
         "raw": {
           "itemId": 300140018,
           "itemName": "+4 미궁의 목걸이",
@@ -277,7 +277,7 @@
           "salePrice": 100.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 199.0
+          "median": 174.5
         }
       },
       {
@@ -335,7 +335,7 @@
         "enchant": "+0",
         "name": "광휘의 벨트",
         "price": "250다이아",
-        "note": "중앙 360 • 저가",
+        "note": "중앙 357.5 • 저가",
         "raw": {
           "itemId": 300430013,
           "itemName": "광휘의 벨트",
@@ -343,7 +343,7 @@
           "salePrice": 250.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 360.0
+          "median": 357.5
         }
       },
       {
@@ -415,7 +415,7 @@
         "enchant": "+7",
         "name": "카오스 브레이커",
         "price": "185다이아",
-        "note": "중앙 384.5 • 초저가 의심",
+        "note": "중앙 399 • 초저가 의심",
         "raw": {
           "itemId": 100930001,
           "itemName": "+7 카오스 브레이커",
@@ -423,7 +423,7 @@
           "salePrice": 185.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 384.5
+          "median": 399.0
         }
       },
       {
@@ -463,7 +463,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 위즈덤)",
         "price": "100다이아",
-        "note": "중앙 280 • 초저가 의심",
+        "note": "중앙 306 • 초저가 의심",
         "raw": {
           "itemId": 500303005,
           "itemName": "계승자의 서 (인크리즈 위즈덤)",
@@ -471,7 +471,7 @@
           "salePrice": 100.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 280.0
+          "median": 306.0
         }
       },
       {
