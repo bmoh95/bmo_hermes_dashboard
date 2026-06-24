@@ -84,6 +84,16 @@ tr:last-child td { border-bottom: 0; }
 .day-head h2 { margin: 0; font-size: clamp(27px, 4vw, 38px); line-height: 1.12; letter-spacing: -.04em; overflow-wrap: anywhere; }
 .day-head .eyebrow { margin-bottom: 8px; }
 .plan-badge { flex: 0 0 auto; padding: 8px 11px; border-radius: 999px; background: #eff6ff; color: var(--blue); border: 1px solid #bfdbfe; font-weight: 900; font-size: 13px; white-space: nowrap; }
+.head-actions { display: inline-flex; align-items: center; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+.day-details { display: block; }
+.day-details summary { list-style: none; }
+.day-details summary::-webkit-details-marker { display: none; }
+.collapsible-head { cursor: pointer; user-select: none; }
+.day-details:not([open]) .collapsible-head { border-bottom: 0; }
+.day-details:not([open]) .day-content { display: none; }
+.toggle-label::before { content: '펼치기'; display: inline-flex; align-items: center; padding: 8px 11px; border-radius: 999px; background: #f8fafc; color: #374151; border: 1px solid var(--line); font-weight: 900; font-size: 13px; }
+.day-details[open] .toggle-label::before { content: '접기'; color: var(--blue); background: #eff6ff; border-color: #bfdbfe; }
+.day-details[open] .collapsible-head { border-bottom: 1px solid var(--line); }
 .day-content { display: block; }
 .day-main { min-width: 0; }
 .plan-note { margin: 18px 22px 0; padding: 14px 16px; border-radius: 18px; background: #f0fdf4; border: 1px solid #bbf7d0; color: #14532d; font-weight: 800; line-height: 1.55; }
@@ -144,6 +154,7 @@ tr:last-child td { border-bottom: 0; }
   .day-head { padding: 16px; flex-direction: column; }
   .day-head h2 { font-size: 25px; }
   .plan-badge { font-size: 12px; }
+  .head-actions { justify-content: flex-start; }
   .day-content { display: block; }
   .plan-note { margin: 14px 16px 0; padding: 12px 13px; font-size: 14px; }
   .split-blocks { grid-template-columns: 1fr; padding: 16px; gap: 12px; }

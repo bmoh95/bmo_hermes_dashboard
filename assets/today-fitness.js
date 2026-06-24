@@ -314,21 +314,27 @@ function exerciseList(plan, carouselId) {
 
 function renderPanel(plan, date, label) {
   const isRest = plan.key === 'sun';
-  return `
-    <div class="day-head">
+  const isTomorrow = label === '내일';
+  const carouselId = `${label === '오늘' ? 'today' : 'tomorrow'}-exercise-carousel`;
+  const header = `
+    <${isTomorrow ? 'summary' : 'div'} class="day-head ${isTomorrow ? 'collapsible-head' : ''}">
       <div>
         <p class="eyebrow">${esc(label)} · ${esc(formatDate(date))}</p>
         <h2>${esc(plan.title)}</h2>
       </div>
-      <span class="plan-badge">${esc(plan.badge)}</span>
-    </div>
+      <span class="head-actions">
+        <span class="plan-badge">${esc(plan.badge)}</span>
+        ${isTomorrow ? '<span class="toggle-label" aria-hidden="true"></span>' : ''}
+      </span>
+    </${isTomorrow ? 'summary' : 'div'}>`;
+  const body = `
     <div class="day-content">
       <div class="day-main">
         <div class="plan-note">${esc(plan.focus)} ${isRest ? '' : '아래 각 운동 카드는 동작 이해용 설명 이미지와 핵심 큐를 함께 표시합니다.'}</div>
         <div class="split-blocks">
           <section>
             <h3>운동 루틴</h3>
-            ${exerciseList(plan, `${label === '오늘' ? 'today' : 'tomorrow'}-exercise-carousel`)}
+            ${exerciseList(plan, carouselId)}
           </section>
           <section>
             <h3>식단 루틴</h3>
@@ -336,8 +342,9 @@ function renderPanel(plan, date, label) {
           </section>
         </div>
       </div>
-    </div>
-  `;
+    </div>`;
+
+  return isTomorrow ? `<details class="day-details tomorrow-details">${header}${body}</details>` : `${header}${body}`;
 }
 
 function updateCarousel(carousel, nextIndex) {
