@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 11:14:28 KST",
+  "checkedAt": "2026-06-24 11:24:11 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -59,7 +59,7 @@
         "enchant": "+5",
         "name": "흑광의 목걸이",
         "price": "12다이아",
-        "note": "중앙 38.5 • 초저가 의심",
+        "note": "중앙 36 • 초저가 의심",
         "raw": {
           "itemId": 300150003,
           "itemName": "+5 흑광의 목걸이",
@@ -67,7 +67,7 @@
           "salePrice": 12.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 38.5
+          "median": 36.0
         }
       },
       {
@@ -230,6 +230,22 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 22.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+4",
+        "name": "천궁의 눈",
+        "price": "20다이아",
+        "note": "중앙 36.5 • 초저가 의심",
+        "raw": {
+          "itemId": 300340014,
+          "itemName": "+4 천궁의 눈",
+          "enchantLevel": 4,
+          "salePrice": 20.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 36.5
         }
       },
       {
