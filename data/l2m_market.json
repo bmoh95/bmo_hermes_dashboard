@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 17:13:23 KST",
+  "checkedAt": "2026-06-24 17:21:26 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -383,7 +383,7 @@
         "enchant": "+0",
         "name": "작열의 반지",
         "price": "850다이아",
-        "note": "중앙 1,225 • 하위권",
+        "note": "중앙 1,201.5 • 하위권",
         "raw": {
           "itemId": 300330015,
           "itemName": "작열의 반지",
@@ -391,7 +391,7 @@
           "salePrice": 850.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1225.0
+          "median": 1201.5
         }
       },
       {
