@@ -5,6 +5,7 @@ function esc(value) {
 function markdownLite(text) {
   return esc(text)
     .replace(/^## (.+)$/gm, '<h2>$1</h2>')
+    .replace(/^### (.+)$/gm, '<h3>$1</h3>')
     .replace(/^\*\*(.+?)\*\*\s*$/gm, '<h3>$1</h3>')
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
     .replace(/^- (.+)$/gm, '<li>$1</li>')
@@ -16,7 +17,10 @@ function markdownLite(text) {
 function renderEntry(entry, index) {
   return `<details class="grade-card fortune-entry" ${index === 0 ? 'open' : ''}>
     <summary class="fortune-summary">
-      <span class="fortune-title">🔮 ${esc(entry.title || '운세 기록')}</span>
+      <span class="fortune-summary-main">
+        <span class="fortune-icon" aria-hidden="true">🔮</span>
+        <span class="fortune-title">${esc(entry.title || '운세 기록')}</span>
+      </span>
       <span class="fortune-date">${esc(entry.date || '-')}</span>
     </summary>
     <div class="fortune-body"><p>${markdownLite(entry.content || '')}</p></div>

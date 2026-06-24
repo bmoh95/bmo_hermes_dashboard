@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 10:42:27 KST",
+  "checkedAt": "2026-06-24 10:49:19 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -52,22 +52,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 35.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "용맹의 목걸이",
-        "price": "10다이아",
-        "note": "중앙 15 • 하위권",
-        "raw": {
-          "itemId": 300150005,
-          "itemName": "+5 용맹의 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 15.0
         }
       },
       {
@@ -157,7 +141,7 @@
         "enchant": "+8",
         "name": "커스드 트윈 액스",
         "price": "15다이아",
-        "note": "중앙 48.5 • 초저가 의심",
+        "note": "중앙 49 • 초저가 의심",
         "raw": {
           "itemId": 101340004,
           "itemName": "+8 커스드 트윈 액스",
@@ -165,7 +149,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 48.5
+          "median": 49.0
         }
       },
       {
