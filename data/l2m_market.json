@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 12:41:22 KST",
+  "checkedAt": "2026-06-24 12:49:42 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -157,7 +157,7 @@
         "enchant": "+9",
         "name": "바라키엘 체인소드",
         "price": "30다이아",
-        "note": "중앙 60 • 초저가 의심",
+        "note": "중앙 59.5 • 초저가 의심",
         "raw": {
           "itemId": 101040002,
           "itemName": "+9 바라키엘 체인소드",
@@ -165,7 +165,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 60.0
+          "median": 59.5
         }
       },
       {
@@ -221,7 +221,7 @@
         "enchant": "+4",
         "name": "체르투바의 영혼 목걸이",
         "price": "15다이아",
-        "note": "중앙 35 • 초저가 의심",
+        "note": "중앙 35.5 • 초저가 의심",
         "raw": {
           "itemId": 300140004,
           "itemName": "+4 체르투바의 영혼 목걸이",
@@ -229,7 +229,7 @@
           "salePrice": 15.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 35.0
+          "median": 35.5
         }
       },
       {
@@ -415,7 +415,7 @@
         "enchant": "+5",
         "name": "에키무스의 벨트",
         "price": "1,290다이아",
-        "note": "중앙 1,740 • 하위권",
+        "note": "중앙 1,739.5 • 하위권",
         "raw": {
           "itemId": 300430002,
           "itemName": "+5 에키무스의 벨트",
@@ -423,7 +423,7 @@
           "salePrice": 1290.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1740.0
+          "median": 1739.5
         }
       },
       {

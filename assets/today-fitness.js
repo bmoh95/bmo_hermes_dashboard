@@ -261,9 +261,9 @@ function mealList(items) {
   return `<ul class="meal-list">${items.map((item) => `<li>${esc(item)}</li>`).join('')}</ul>`;
 }
 
-function exerciseCard(item) {
+function exerciseCard(item, index) {
   const info = findExerciseInfo(item);
-  return `<li class="exercise-card">
+  return `<li class="exercise-card ${index === 0 ? 'active' : ''}" data-slide="${index}">
     <img class="exercise-diagram" src="${exerciseSvg(info)}" alt="${esc(info.name)} 설명 이미지" />
     <div class="exercise-copy">
       <strong>${esc(item)}</strong>
@@ -273,8 +273,16 @@ function exerciseCard(item) {
   </li>`;
 }
 
-function exerciseList(plan) {
-  return `<ul class="exercise-list">${plan.workout.map(exerciseCard).join('')}</ul>`;
+function exerciseList(plan, carouselId) {
+  const total = plan.workout.length;
+  return `<div class="exercise-carousel" id="${esc(carouselId)}" data-index="0" data-total="${total}">
+    <div class="carousel-top">
+      <button class="carousel-btn" type="button" data-dir="-1" aria-label="이전 운동">‹</button>
+      <span class="carousel-count"><b>1</b> / ${total}</span>
+      <button class="carousel-btn" type="button" data-dir="1" aria-label="다음 운동">›</button>
+    </div>
+    <ul class="exercise-list">${plan.workout.map(exerciseCard).join('')}</ul>
+  </div>`;
 }
 
 function renderPanel(plan, date, label) {
@@ -293,7 +301,7 @@ function renderPanel(plan, date, label) {
         <div class="split-blocks">
           <section>
             <h3>운동 루틴</h3>
-            ${exerciseList(plan)}
+            ${exerciseList(plan, `${label === '오늘' ? 'today' : 'tomorrow'}-exercise-carousel`)}
           </section>
           <section>
             <h3>식단 루틴</h3>
@@ -303,6 +311,30 @@ function renderPanel(plan, date, label) {
       </div>
     </div>
   `;
+}
+
+function updateCarousel(carousel, nextIndex) {
+  const total = Number(carousel.dataset.total || 0);
+  if (!total) return;
+  const index = (nextIndex + total) % total;
+  carousel.dataset.index = String(index);
+  carousel.querySelectorAll('.exercise-card').forEach((card, cardIndex) => {
+    card.classList.toggle('active', cardIndex === index);
+  });
+  const count = carousel.querySelector('.carousel-count b');
+  if (count) count.textContent = String(index + 1);
+}
+
+function initCarousels() {
+  document.querySelectorAll('.exercise-carousel').forEach((carousel) => {
+    carousel.querySelectorAll('.carousel-btn').forEach((button) => {
+      button.addEventListener('click', () => {
+        const direction = Number(button.dataset.dir || 1);
+        const current = Number(carousel.dataset.index || 0);
+        updateCarousel(carousel, current + direction);
+      });
+    });
+  });
 }
 
 function renderFitness() {
@@ -322,6 +354,7 @@ function renderFitness() {
   ].join('');
   document.getElementById('today-panel').innerHTML = renderPanel(today, now, '오늘');
   document.getElementById('tomorrow-panel').innerHTML = renderPanel(next, tomorrow, '내일');
+  initCarousels();
 }
 
 renderFitness();
