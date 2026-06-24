@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 20:24:48 KST",
+  "checkedAt": "2026-06-24 20:33:49 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -52,6 +52,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 35.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "용맹의 목걸이",
+        "price": "10다이아",
+        "note": "중앙 15 • 하위권",
+        "raw": {
+          "itemId": 300150005,
+          "itemName": "+5 용맹의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 10.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 15.0
         }
       },
       {
@@ -205,7 +221,7 @@
         "enchant": "+0",
         "name": "사피로스의 네크리스",
         "price": "57다이아",
-        "note": "중앙 80 • 저가",
+        "note": "중앙 79 • 저가",
         "raw": {
           "itemId": 300140012,
           "itemName": "사피로스의 네크리스",
@@ -213,7 +229,7 @@
           "salePrice": 57.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 80.0
+          "median": 79.0
         }
       },
       {
@@ -335,7 +351,7 @@
         "enchant": "+5",
         "name": "에키무스의 벨트",
         "price": "1,290다이아",
-        "note": "중앙 1,774 • 하위권",
+        "note": "중앙 1,773.5 • 하위권",
         "raw": {
           "itemId": 300430002,
           "itemName": "+5 에키무스의 벨트",
@@ -343,7 +359,7 @@
           "salePrice": 1290.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1774.0
+          "median": 1773.5
         }
       },
       {
@@ -383,7 +399,7 @@
         "enchant": "+7",
         "name": "카오스 브레이커",
         "price": "185다이아",
-        "note": "중앙 399.5 • 초저가 의심",
+        "note": "중앙 399 • 초저가 의심",
         "raw": {
           "itemId": 100930001,
           "itemName": "+7 카오스 브레이커",
@@ -391,7 +407,23 @@
           "salePrice": 185.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 399.5
+          "median": 399.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+6",
+        "name": "잊혀진 영웅의 흉갑",
+        "price": "200다이아",
+        "note": "중앙 333 • 초저가 의심",
+        "raw": {
+          "itemId": 200130010,
+          "itemName": "+6 잊혀진 영웅의 흉갑",
+          "enchantLevel": 6,
+          "salePrice": 200.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 333.0
         }
       },
       {
@@ -408,22 +440,6 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 320.0
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "계승자의 서 (인크리즈 위즈덤)",
-        "price": "100다이아",
-        "note": "중앙 280 • 초저가 의심",
-        "raw": {
-          "itemId": 500303005,
-          "itemName": "계승자의 서 (인크리즈 위즈덤)",
-          "enchantLevel": 0,
-          "salePrice": 100.0,
-          "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 280.0
         }
       },
       {
@@ -465,7 +481,7 @@
         "enchant": "+5",
         "name": "네비트의 빛의 망토",
         "price": "3,000다이아",
-        "note": "중앙 3,644.5 • 하위권",
+        "note": "중앙 3,690 • 하위권",
         "raw": {
           "itemId": 200620001,
           "itemName": "+5 네비트의 빛의 망토",
@@ -473,7 +489,7 @@
           "salePrice": 3000.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 3644.5
+          "median": 3690.0
         }
       },
       {
