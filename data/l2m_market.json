@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 13:07:45 KST",
+  "checkedAt": "2026-06-24 13:15:46 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -203,22 +203,6 @@
       {
         "kind": "악세사리",
         "enchant": "+4",
-        "name": "헤르문쿠스의 반지",
-        "price": "12다이아",
-        "note": "중앙 43 • 초저가 의심",
-        "raw": {
-          "itemId": 300340012,
-          "itemName": "+4 헤르문쿠스의 반지",
-          "enchantLevel": 4,
-          "salePrice": 12.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 43.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+4",
         "name": "체르투바의 영혼 목걸이",
         "price": "15다이아",
         "note": "중앙 35.5 • 초저가 의심",
@@ -262,6 +246,22 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 30.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+4",
+        "name": "헤르문쿠스의 반지",
+        "price": "23다이아",
+        "note": "중앙 43 • 초저가 의심",
+        "raw": {
+          "itemId": 300340012,
+          "itemName": "+4 헤르문쿠스의 반지",
+          "enchantLevel": 4,
+          "salePrice": 23.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 43.0
         }
       },
       {
@@ -443,22 +443,6 @@
         }
       },
       {
-        "kind": "무기",
-        "enchant": "+7",
-        "name": "카오스 브레이커",
-        "price": "150다이아",
-        "note": "중앙 399 • 초저가 의심",
-        "raw": {
-          "itemId": 100930001,
-          "itemName": "+7 카오스 브레이커",
-          "enchantLevel": 7,
-          "salePrice": 150.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 399.0
-        }
-      },
-      {
         "kind": "방어구",
         "enchant": "+6",
         "name": "잊혀진 영웅의 흉갑",
@@ -508,22 +492,6 @@
       }
     ],
     "legendary": [
-      {
-        "kind": "무기",
-        "enchant": "+7",
-        "name": "코스믹 블레이드 (초월 +1)",
-        "price": "7,500다이아",
-        "note": "중앙 8,900 • 하위권",
-        "raw": {
-          "itemId": 161420002,
-          "itemName": "+7 코스믹 블레이드 (초월 +1)",
-          "enchantLevel": 7,
-          "salePrice": 7500.0,
-          "category": "무기",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 8900.0
-        }
-      },
       {
         "kind": "방어구",
         "enchant": "+5",
