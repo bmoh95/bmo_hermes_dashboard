@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 18:55:57 KST",
+  "checkedAt": "2026-06-24 19:03:57 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -265,22 +265,6 @@
         }
       },
       {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "차원의 반지",
-        "price": "135다이아",
-        "note": "중앙 182 • 저가",
-        "raw": {
-          "itemId": 300340020,
-          "itemName": "+5 차원의 반지",
-          "enchantLevel": 5,
-          "salePrice": 135.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 182.0
-        }
-      },
-      {
         "kind": "견갑",
         "enchant": "+0",
         "name": "요새의 견갑",
@@ -399,7 +383,7 @@
         "enchant": "+7",
         "name": "카오스 브레이커",
         "price": "185다이아",
-        "note": "중앙 399 • 초저가 의심",
+        "note": "중앙 399.5 • 초저가 의심",
         "raw": {
           "itemId": 100930001,
           "itemName": "+7 카오스 브레이커",
@@ -407,7 +391,7 @@
           "salePrice": 185.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 399.0
+          "median": 399.5
         }
       },
       {
@@ -476,6 +460,22 @@
       }
     ],
     "legendary": [
+      {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "네비트의 빛의 망토",
+        "price": "3,000다이아",
+        "note": "중앙 3,644.5 • 하위권",
+        "raw": {
+          "itemId": 200620001,
+          "itemName": "+5 네비트의 빛의 망토",
+          "enchantLevel": 5,
+          "salePrice": 3000.0,
+          "category": "방어구",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 3644.5
+        }
+      },
       {
         "kind": "방어구",
         "enchant": "+5",
