@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 11:06:27 KST",
+  "checkedAt": "2026-06-24 11:14:28 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -269,7 +269,7 @@
         "enchant": "+5",
         "name": "각성의 목걸이",
         "price": "84다이아",
-        "note": "중앙 111 • 저가",
+        "note": "중앙 105.5 • 저가",
         "raw": {
           "itemId": 300140005,
           "itemName": "+5 각성의 목걸이",
@@ -277,7 +277,7 @@
           "salePrice": 84.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 111.0
+          "median": 105.5
         }
       },
       {
@@ -351,7 +351,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 777 • 초저가 의심",
+        "note": "중앙 788 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -359,7 +359,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 777.0
+          "median": 788.0
         }
       },
       {
@@ -399,7 +399,7 @@
         "enchant": "+0",
         "name": "아스칼론",
         "price": "100다이아",
-        "note": "중앙 333 • 초저가 의심",
+        "note": "중앙 266.5 • 초저가 의심",
         "raw": {
           "itemId": 100730005,
           "itemName": "아스칼론",
@@ -407,23 +407,7 @@
           "salePrice": 100.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 333.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+7",
-        "name": "카오스 브레이커",
-        "price": "160다이아",
-        "note": "중앙 399.5 • 초저가 의심",
-        "raw": {
-          "itemId": 100930001,
-          "itemName": "+7 카오스 브레이커",
-          "enchantLevel": 7,
-          "salePrice": 160.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 399.5
+          "median": 266.5
         }
       },
       {
