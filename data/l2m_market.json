@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 00:00:14 KST",
+  "checkedAt": "2026-06-25 00:09:13 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -315,6 +315,22 @@
       {
         "kind": "견갑",
         "enchant": "+0",
+        "name": "현자의 견갑",
+        "price": "380다이아",
+        "note": "중앙 500 • 하위권",
+        "raw": {
+          "itemId": 200940012,
+          "itemName": "현자의 견갑",
+          "enchantLevel": 0,
+          "salePrice": 380.0,
+          "category": "방어구",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 500.0
+        }
+      },
+      {
+        "kind": "견갑",
+        "enchant": "+0",
         "name": "요새의 견갑",
         "price": "400다이아",
         "note": "중앙 500 • 저가",
@@ -367,7 +383,7 @@
         "enchant": "+5",
         "name": "에키무스의 벨트",
         "price": "1,290다이아",
-        "note": "중앙 1,785.5 • 하위권",
+        "note": "중앙 1,782.5 • 하위권",
         "raw": {
           "itemId": 300430002,
           "itemName": "+5 에키무스의 벨트",
@@ -375,7 +391,7 @@
           "salePrice": 1290.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1785.5
+          "median": 1782.5
         }
       },
       {
