@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 20:16:47 KST",
+  "checkedAt": "2026-06-24 20:24:48 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -59,7 +59,7 @@
         "enchant": "+5",
         "name": "흑광의 목걸이",
         "price": "12다이아",
-        "note": "중앙 31.5 • 초저가 의심",
+        "note": "중앙 34.5 • 초저가 의심",
         "raw": {
           "itemId": 300150003,
           "itemName": "+5 흑광의 목걸이",
@@ -67,7 +67,7 @@
           "salePrice": 12.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 31.5
+          "median": 34.5
         }
       },
       {
@@ -139,22 +139,6 @@
       {
         "kind": "무기",
         "enchant": "+9",
-        "name": "카리브스 듀얼 소드",
-        "price": "35다이아",
-        "note": "중앙 55 • 초저가 의심",
-        "raw": {
-          "itemId": 100240003,
-          "itemName": "+9 카리브스 듀얼 소드",
-          "enchantLevel": 9,
-          "salePrice": 35.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 55.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
         "name": "어설트 캐논",
         "price": "52다이아",
         "note": "중앙 71 • 저가",
@@ -189,7 +173,7 @@
         "enchant": "+4",
         "name": "마염의 반지",
         "price": "15다이아",
-        "note": "중앙 32 • 초저가 의심",
+        "note": "중앙 30.5 • 초저가 의심",
         "raw": {
           "itemId": 300340013,
           "itemName": "+4 마염의 반지",
@@ -197,7 +181,7 @@
           "salePrice": 15.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 32.0
+          "median": 30.5
         }
       },
       {
