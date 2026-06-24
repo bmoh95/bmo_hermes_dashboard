@@ -191,8 +191,16 @@ function fallbackSvg(title) {
   return `data:image/svg+xml;base64,${btoa(unescape(encodeURIComponent(svg)))}`;
 }
 
-function list(items) {
-  return `<ul>${items.map((item) => `<li>${esc(item)}</li>`).join('')}</ul>`;
+function mealList(items) {
+  return `<ul class="meal-list">${items.map((item) => `<li>${esc(item)}</li>`).join('')}</ul>`;
+}
+
+function exerciseThumb(plan) {
+  return `<img src="${esc(plan.image)}" alt="" loading="lazy" onerror="this.onerror=null;this.src='${fallbackSvg(plan.title)}';" />`;
+}
+
+function exerciseList(plan) {
+  return `<ul class="exercise-list">${plan.workout.map((item) => `<li><span class="exercise-thumb">${exerciseThumb(plan)}</span><span>${esc(item)}</span></li>`).join('')}</ul>`;
 }
 
 function renderPanel(plan, date, label) {
@@ -205,20 +213,24 @@ function renderPanel(plan, date, label) {
       </div>
       <span class="plan-badge">${esc(plan.badge)}</span>
     </div>
-    <figure class="exercise-photo">
-      <img src="${esc(plan.image)}" alt="${esc(plan.title)} 운동 이미지" loading="lazy" onerror="this.onerror=null;this.src='${fallbackSvg(plan.title)}';" />
-      <figcaption>${isRest ? '회복일도 증량 루틴의 일부입니다.' : '사진은 운동 분위기 참고용입니다. 실제 자세는 통증 없는 가동범위와 기록 가능한 중량을 우선하세요.'}</figcaption>
-    </figure>
-    <div class="plan-note">${esc(plan.focus)}</div>
-    <div class="split-blocks">
-      <section>
-        <h3>운동 루틴</h3>
-        ${list(plan.workout)}
-      </section>
-      <section>
-        <h3>식단 루틴</h3>
-        ${list(plan.meals)}
-      </section>
+    <div class="day-content">
+      <figure class="exercise-photo">
+        <img src="${esc(plan.image)}" alt="${esc(plan.title)} 운동 이미지" loading="lazy" onerror="this.onerror=null;this.src='${fallbackSvg(plan.title)}';" />
+        <figcaption>${isRest ? '회복일도 증량 루틴의 일부입니다.' : '대표 운동 사진입니다. 자세는 통증 없는 가동범위와 기록 가능한 중량을 우선하세요.'}</figcaption>
+      </figure>
+      <div class="day-main">
+        <div class="plan-note">${esc(plan.focus)}</div>
+        <div class="split-blocks">
+          <section>
+            <h3>운동 루틴</h3>
+            ${exerciseList(plan)}
+          </section>
+          <section>
+            <h3>식단 루틴</h3>
+            ${mealList(plan.meals)}
+          </section>
+        </div>
+      </div>
     </div>
   `;
 }
