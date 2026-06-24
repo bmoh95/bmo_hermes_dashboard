@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 19:28:00 KST",
+  "checkedAt": "2026-06-24 19:35:41 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -59,7 +59,7 @@
         "enchant": "+5",
         "name": "흑광의 목걸이",
         "price": "12다이아",
-        "note": "중앙 31.5 • 초저가 의심",
+        "note": "중앙 30 • 초저가 의심",
         "raw": {
           "itemId": 300150003,
           "itemName": "+5 흑광의 목걸이",
@@ -67,7 +67,7 @@
           "salePrice": 12.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 31.5
+          "median": 30.0
         }
       },
       {
@@ -75,7 +75,7 @@
         "enchant": "+5",
         "name": "아다만타이트 네크리스",
         "price": "23다이아",
-        "note": "중앙 48 • 초저가 의심",
+        "note": "중앙 47.5 • 초저가 의심",
         "raw": {
           "itemId": 300150001,
           "itemName": "+5 아다만타이트 네크리스",
@@ -83,7 +83,7 @@
           "salePrice": 23.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 48.0
+          "median": 47.5
         }
       },
       {
@@ -141,7 +141,7 @@
         "enchant": "+9",
         "name": "바라키엘 체인소드",
         "price": "30다이아",
-        "note": "중앙 58.5 • 초저가 의심",
+        "note": "중앙 56.5 • 초저가 의심",
         "raw": {
           "itemId": 101040002,
           "itemName": "+9 바라키엘 체인소드",
@@ -149,7 +149,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 58.5
+          "median": 56.5
         }
       },
       {
@@ -319,7 +319,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 824.5 • 초저가 의심",
+        "note": "중앙 869 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -327,7 +327,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 824.5
+          "median": 869.0
         }
       },
       {
