@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 21:14:53 KST",
+  "checkedAt": "2026-06-24 21:22:54 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -221,7 +221,7 @@
         "enchant": "+0",
         "name": "사피로스의 네크리스",
         "price": "57다이아",
-        "note": "중앙 79 • 저가",
+        "note": "중앙 78 • 저가",
         "raw": {
           "itemId": 300140012,
           "itemName": "사피로스의 네크리스",
@@ -229,7 +229,7 @@
           "salePrice": 57.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 79.0
+          "median": 78.0
         }
       },
       {
@@ -490,6 +490,22 @@
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 9500.0
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "쌍도끼 전승서 (래쓰 오브 타이탄)",
+        "price": "4,500다이아",
+        "note": "중앙 5,500 • 하위권",
+        "raw": {
+          "itemId": 503222004,
+          "itemName": "쌍도끼 전승서 (래쓰 오브 타이탄)",
+          "enchantLevel": 0,
+          "salePrice": 4500.0,
+          "category": "스킬북",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 5500.0
         }
       }
     ]
