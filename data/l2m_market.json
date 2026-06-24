@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 20:07:46 KST",
+  "checkedAt": "2026-06-24 20:16:47 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -187,6 +187,22 @@
       {
         "kind": "악세사리",
         "enchant": "+4",
+        "name": "마염의 반지",
+        "price": "15다이아",
+        "note": "중앙 32 • 초저가 의심",
+        "raw": {
+          "itemId": 300340013,
+          "itemName": "+4 마염의 반지",
+          "enchantLevel": 4,
+          "salePrice": 15.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 32.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+4",
         "name": "헤르문쿠스의 목걸이",
         "price": "30다이아",
         "note": "중앙 91.5 • 초저가 의심",
@@ -230,6 +246,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 174.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "차원의 반지",
+        "price": "135다이아",
+        "note": "중앙 185 • 저가",
+        "raw": {
+          "itemId": 300340020,
+          "itemName": "+5 차원의 반지",
+          "enchantLevel": 5,
+          "salePrice": 135.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 185.0
         }
       },
       {
