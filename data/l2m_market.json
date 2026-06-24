@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 04:07:46 KST",
+  "checkedAt": "2026-06-25 04:15:47 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -155,15 +155,15 @@
         "enchant": "+2",
         "name": "유적의 견갑",
         "price": "50다이아",
-        "note": "중앙 65 • 하위권",
+        "note": "중앙 62.5 • 저가",
         "raw": {
           "itemId": 200950009,
           "itemName": "+2 유적의 견갑",
           "enchantLevel": 2,
           "salePrice": 50.0,
           "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 65.0
+          "dealLabel": "아이템별 저가",
+          "median": 62.5
         }
       }
     ],
