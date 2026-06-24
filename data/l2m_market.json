@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 18:46:34 KST",
+  "checkedAt": "2026-06-24 18:55:57 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -219,22 +219,6 @@
       {
         "kind": "악세사리",
         "enchant": "+4",
-        "name": "물의 수호 반지",
-        "price": "19다이아",
-        "note": "중앙 30 • 초저가 의심",
-        "raw": {
-          "itemId": 300340003,
-          "itemName": "+4 물의 수호 반지",
-          "enchantLevel": 4,
-          "salePrice": 19.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 30.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+4",
         "name": "헤르문쿠스의 목걸이",
         "price": "30다이아",
         "note": "중앙 84 • 초저가 의심",
@@ -348,22 +332,6 @@
       },
       {
         "kind": "악세사리",
-        "enchant": "+3",
-        "name": "아펠라의 목걸이 (초월 +3)",
-        "price": "500다이아",
-        "note": "중앙 788 • 초저가 의심",
-        "raw": {
-          "itemId": 360130208,
-          "itemName": "+3 아펠라의 목걸이 (초월 +3)",
-          "enchantLevel": 3,
-          "salePrice": 500.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 788.0
-        }
-      },
-      {
-        "kind": "악세사리",
         "enchant": "+0",
         "name": "작열의 반지",
         "price": "850다이아",
@@ -408,6 +376,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 266.5
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+7",
+        "name": "네비트의 부츠",
+        "price": "120다이아",
+        "note": "중앙 290 • 초저가 의심",
+        "raw": {
+          "itemId": 200430006,
+          "itemName": "+7 네비트의 부츠",
+          "enchantLevel": 7,
+          "salePrice": 120.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 290.0
         }
       },
       {
