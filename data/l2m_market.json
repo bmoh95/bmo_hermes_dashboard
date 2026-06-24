@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 15:59:12 KST",
+  "checkedAt": "2026-06-24 16:07:14 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -107,7 +107,7 @@
         "enchant": "+5",
         "name": "자수정 목걸이",
         "price": "40다이아",
-        "note": "중앙 93 • 초저가 의심",
+        "note": "중앙 95.5 • 초저가 의심",
         "raw": {
           "itemId": 300150009,
           "itemName": "+5 자수정 목걸이",
@@ -115,7 +115,7 @@
           "salePrice": 40.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 93.0
+          "median": 95.5
         }
       },
       {
@@ -218,6 +218,22 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+1",
+        "name": "미궁의 귀걸이",
+        "price": "10다이아",
+        "note": "중앙 20 • 초저가 의심",
+        "raw": {
+          "itemId": 300240006,
+          "itemName": "+1 미궁의 귀걸이",
+          "enchantLevel": 1,
+          "salePrice": 10.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 20.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+4",
         "name": "헤르문쿠스의 반지",
         "price": "23다이아",
@@ -294,6 +310,22 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 182.0
+        }
+      },
+      {
+        "kind": "견갑",
+        "enchant": "+0",
+        "name": "요새의 견갑",
+        "price": "400다이아",
+        "note": "중앙 500 • 저가",
+        "raw": {
+          "itemId": 200940020,
+          "itemName": "요새의 견갑",
+          "enchantLevel": 0,
+          "salePrice": 400.0,
+          "category": "방어구",
+          "dealLabel": "아이템별 저가",
+          "median": 500.0
         }
       }
     ],
