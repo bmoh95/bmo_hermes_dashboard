@@ -98,7 +98,7 @@ tr:last-child td { border-bottom: 0; }
 .exercise-list { display: block; }
 .exercise-card { display: none; grid-template-columns: minmax(260px, 45%) minmax(0, 1fr); gap: 18px; align-items: center; padding: 16px; border: 1px solid #e5e7eb; border-radius: 20px; background: linear-gradient(180deg, #ffffff, #f8fafc); min-height: 330px; }
 .exercise-card.active { display: grid; }
-.exercise-diagram { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 16px; border: 1px solid #e5e7eb; background: #f8fafc; }
+.exercise-diagram { display: block; width: 100%; aspect-ratio: 1 / 1; object-fit: contain; border-radius: 16px; border: 1px solid #e5e7eb; background: #ffffff; padding: 8px; }
 .exercise-copy strong { display: block; font-size: clamp(20px, 3vw, 28px); line-height: 1.25; color: #111827; letter-spacing: -.03em; }
 .exercise-copy small { display: block; margin-top: 10px; color: var(--blue); font-weight: 900; line-height: 1.35; font-size: 16px; }
 .exercise-copy ol { margin: 14px 0 0; padding-left: 22px; color: #4b5563; font-size: 16px; line-height: 1.55; }
@@ -152,6 +152,7 @@ tr:last-child td { border-bottom: 0; }
   .carousel-top { padding: 8px; }
   .carousel-btn { width: 40px; height: 40px; border-radius: 13px; }
   .exercise-card { grid-template-columns: 1fr; gap: 12px; padding: 12px; min-height: 0; }
+  .exercise-diagram { border-radius: 12px; padding: 6px; max-height: 340px; }
   .exercise-copy strong { font-size: 20px; }
   .exercise-copy small { font-size: 14px; }
   .exercise-copy ol { font-size: 14px; padding-left: 20px; margin-top: 10px; }
