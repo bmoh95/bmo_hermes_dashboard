@@ -261,10 +261,37 @@ function mealList(items) {
   return `<ul class="meal-list">${items.map((item) => `<li>${esc(item)}</li>`).join('')}</ul>`;
 }
 
+function exerciseImage(info) {
+  const byType = {
+    press: 'bench-press',
+    incline: 'incline-press',
+    shoulder: 'overhead-press',
+    pull: 'seated-row',
+    pulldown: 'lat-pulldown',
+    squat: 'squat',
+    legpress: 'leg-press',
+    hinge: 'deadlift-rdl',
+    hip: 'hip-thrust',
+    split: 'bulgarian-split-squat',
+    curl: 'leg-curl',
+    extension: 'leg-extension',
+    calf: 'calf-raise',
+    lateral: 'lateral-raise',
+    rear: 'rear-delt-facepull',
+    triceps: 'triceps-extension',
+    biceps: 'biceps-curl',
+    core: 'core',
+    recovery: 'recovery-mobility',
+    general: 'recovery-mobility'
+  };
+  const slug = byType[info.type] || 'recovery-mobility';
+  return `assets/exercise-images/${slug}.png`;
+}
+
 function exerciseCard(item, index) {
   const info = findExerciseInfo(item);
   return `<li class="exercise-card ${index === 0 ? 'active' : ''}" data-slide="${index}">
-    <img class="exercise-diagram" src="${exerciseSvg(info)}" alt="${esc(info.name)} 설명 이미지" />
+    <img class="exercise-diagram" src="${exerciseImage(info)}" alt="${esc(info.name)} 설명 이미지" onerror="this.onerror=null;this.src='${fallbackSvg(info.name)}';" />
     <div class="exercise-copy">
       <strong>${esc(item)}</strong>
       <small>주요 자극: ${esc(info.target)}</small>
