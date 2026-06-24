@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 11:41:30 KST",
+  "checkedAt": "2026-06-24 11:49:31 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -202,6 +202,22 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+4",
+        "name": "체르투바의 영혼 목걸이",
+        "price": "15다이아",
+        "note": "중앙 35 • 초저가 의심",
+        "raw": {
+          "itemId": 300140004,
+          "itemName": "+4 체르투바의 영혼 목걸이",
+          "enchantLevel": 4,
+          "salePrice": 15.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 35.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+1",
         "name": "미궁의 귀걸이",
         "price": "17다이아",
@@ -333,7 +349,7 @@
         "enchant": "+3",
         "name": "근위대의 견갑",
         "price": "690다이아",
-        "note": "중앙 896 • 하위권",
+        "note": "중앙 894 • 하위권",
         "raw": {
           "itemId": 200940009,
           "itemName": "+3 근위대의 견갑",
@@ -341,7 +357,7 @@
           "salePrice": 690.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 896.0
+          "median": 894.0
         }
       }
     ],
