@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>오늘의 운동 · BMO Hermes</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <main class="shell wide">
+    <nav class="topnav"><a href="index.html">← 메인</a></nav>
+
+    <section class="hero compact fitness-hero">
+      <p class="eyebrow">Hardgainer Muscle Plan</p>
+      <h1>오늘의 운동</h1>
+      <p class="lead" id="fitness-summary">오늘 식단과 운동 루틴을 불러오는 중…</p>
+    </section>
+
+    <section id="fitness-status" class="status"></section>
+
+    <section class="today-layout" aria-label="오늘과 내일의 식단 및 운동">
+      <article id="today-panel" class="grade-card day-panel"></article>
+      <article id="tomorrow-panel" class="grade-card day-panel muted-panel"></article>
+    </section>
+
+    <section class="grade-card tracker-card" aria-label="증량 체크 규칙">
+      <div class="grade-head">
+        <h2>2주 체크 규칙</h2>
+        <span>매일 자동 표시</span>
+      </div>
+      <div class="tracker-grid">
+        <div><strong>체중이 2주 정체</strong><small>하루 +150–250kcal 추가</small></div>
+        <div><strong>허리만 급증</strong><small>하루 -100–200kcal 또는 훈련 질 점검</small></div>
+        <div><strong>운동 기록 정체</strong><small>수면·식사 확인 후 부위별 1–2세트 추가</small></div>
+        <div><strong>회복 안 됨</strong><small>볼륨 20–30% 감소 또는 deload</small></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="assets/today-fitness.js"></script>
+</body>
+</html>

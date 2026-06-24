@@ -3,9 +3,21 @@ set -euo pipefail
 cd /Users/beemo/bmo_hermes_dashboard
 python3 scripts/update_l2m_market.py >/dev/null
 python3 scripts/update_daily_fortunes.py >/dev/null
-if git diff --quiet -- data/l2m_market.json data/daily_fortunes.json index.html fortune-history.html assets/daily-fortunes.js assets/styles.css scripts/update_daily_fortunes.py scripts/publish_l2m_market.sh; then
+paths=(
+  data/l2m_market.json
+  data/daily_fortunes.json
+  index.html
+  fortune-history.html
+  today-workout.html
+  assets/daily-fortunes.js
+  assets/today-fitness.js
+  assets/styles.css
+  scripts/update_daily_fortunes.py
+  scripts/publish_l2m_market.sh
+)
+if [[ -z "$(git status --porcelain -- "${paths[@]}")" ]]; then
   exit 0
 fi
-git add data/l2m_market.json data/daily_fortunes.json index.html fortune-history.html assets/daily-fortunes.js assets/styles.css scripts/update_daily_fortunes.py scripts/publish_l2m_market.sh
+git add "${paths[@]}"
 git commit -m "Update dashboard snapshots" >/dev/null
 git push origin main >/dev/null
