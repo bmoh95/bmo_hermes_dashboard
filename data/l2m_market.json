@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 01:32:28 KST",
+  "checkedAt": "2026-06-25 01:40:28 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -301,7 +301,7 @@
         "enchant": "+5",
         "name": "차원의 반지",
         "price": "135다이아",
-        "note": "중앙 185 • 저가",
+        "note": "중앙 188.5 • 저가",
         "raw": {
           "itemId": 300340020,
           "itemName": "+5 차원의 반지",
@@ -309,7 +309,7 @@
           "salePrice": 135.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 185.0
+          "median": 188.5
         }
       },
       {
@@ -346,22 +346,6 @@
       }
     ],
     "heroic": [
-      {
-        "kind": "악세사리",
-        "enchant": "+0",
-        "name": "광휘의 벨트",
-        "price": "190다이아",
-        "note": "중앙 365 • 초저가 의심",
-        "raw": {
-          "itemId": 300430013,
-          "itemName": "광휘의 벨트",
-          "enchantLevel": 0,
-          "salePrice": 190.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 365.0
-        }
-      },
       {
         "kind": "악세사리",
         "enchant": "+3",
