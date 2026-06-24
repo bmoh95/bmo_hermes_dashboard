@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 10:33:27 KST",
+  "checkedAt": "2026-06-24 10:42:27 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -269,7 +269,7 @@
         "enchant": "+0",
         "name": "사피로스의 네크리스",
         "price": "57다이아",
-        "note": "중앙 77.5 • 저가",
+        "note": "중앙 78.5 • 저가",
         "raw": {
           "itemId": 300140012,
           "itemName": "사피로스의 네크리스",
@@ -277,7 +277,7 @@
           "salePrice": 57.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 77.5
+          "median": 78.5
         }
       },
       {
@@ -317,7 +317,7 @@
         "enchant": "+5",
         "name": "차원의 반지",
         "price": "135다이아",
-        "note": "중앙 168 • 저가",
+        "note": "중앙 174 • 저가",
         "raw": {
           "itemId": 300340020,
           "itemName": "+5 차원의 반지",
@@ -325,7 +325,7 @@
           "salePrice": 135.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 168.0
+          "median": 174.0
         }
       }
     ],
