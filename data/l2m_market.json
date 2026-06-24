@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 16:31:17 KST",
+  "checkedAt": "2026-06-24 16:39:18 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -91,7 +91,7 @@
         "enchant": "+5",
         "name": "아다만타이트 네크리스",
         "price": "23다이아",
-        "note": "중앙 47.5 • 초저가 의심",
+        "note": "중앙 45 • 초저가 의심",
         "raw": {
           "itemId": 300150001,
           "itemName": "+5 아다만타이트 네크리스",
@@ -99,7 +99,7 @@
           "salePrice": 23.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 47.5
+          "median": 45.0
         }
       },
       {
@@ -399,7 +399,7 @@
         "enchant": "+0",
         "name": "작열의 반지",
         "price": "850다이아",
-        "note": "중앙 1,200 • 하위권",
+        "note": "중앙 1,225 • 하위권",
         "raw": {
           "itemId": 300330015,
           "itemName": "작열의 반지",
@@ -407,7 +407,7 @@
           "salePrice": 850.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1200.0
+          "median": 1225.0
         }
       },
       {
