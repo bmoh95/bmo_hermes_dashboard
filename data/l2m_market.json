@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 11:58:33 KST",
+  "checkedAt": "2026-06-24 12:07:34 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -447,7 +447,7 @@
         "enchant": "+0",
         "name": "아스칼론",
         "price": "100다이아",
-        "note": "중앙 266.5 • 초저가 의심",
+        "note": "중앙 200 • 초저가 의심",
         "raw": {
           "itemId": 100730005,
           "itemName": "아스칼론",
@@ -455,7 +455,7 @@
           "salePrice": 100.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 266.5
+          "median": 200.0
         }
       },
       {
@@ -472,38 +472,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 399.5
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+7",
-        "name": "태양의 심판자",
-        "price": "177다이아",
-        "note": "중앙 295 • 초저가 의심",
-        "raw": {
-          "itemId": 101430003,
-          "itemName": "+7 태양의 심판자",
-          "enchantLevel": 7,
-          "salePrice": 177.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 295.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "악마의 부츠",
-        "price": "190다이아",
-        "note": "중앙 328 • 초저가 의심",
-        "raw": {
-          "itemId": 200430001,
-          "itemName": "+5 악마의 부츠",
-          "enchantLevel": 5,
-          "salePrice": 190.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 328.0
         }
       },
       {
