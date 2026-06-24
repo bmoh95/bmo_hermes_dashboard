@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 15:10:06 KST",
+  "checkedAt": "2026-06-24 15:19:07 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -107,7 +107,7 @@
         "enchant": "+5",
         "name": "자수정 목걸이",
         "price": "40다이아",
-        "note": "중앙 95.5 • 초저가 의심",
+        "note": "중앙 93 • 초저가 의심",
         "raw": {
           "itemId": 300150009,
           "itemName": "+5 자수정 목걸이",
@@ -115,7 +115,7 @@
           "salePrice": 40.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 95.5
+          "median": 93.0
         }
       },
       {
@@ -317,7 +317,7 @@
         "enchant": "+5",
         "name": "차원의 반지",
         "price": "135다이아",
-        "note": "중앙 179 • 저가",
+        "note": "중앙 182 • 저가",
         "raw": {
           "itemId": 300340020,
           "itemName": "+5 차원의 반지",
@@ -325,7 +325,7 @@
           "salePrice": 135.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 179.0
+          "median": 182.0
         }
       }
     ],
