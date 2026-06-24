@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 18:03:30 KST",
+  "checkedAt": "2026-06-24 18:13:12 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -157,7 +157,7 @@
         "enchant": "+9",
         "name": "바라키엘 체인소드",
         "price": "30다이아",
-        "note": "중앙 59 • 초저가 의심",
+        "note": "중앙 58.5 • 초저가 의심",
         "raw": {
           "itemId": 101040002,
           "itemName": "+9 바라키엘 체인소드",
@@ -165,7 +165,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 59.0
+          "median": 58.5
         }
       },
       {
@@ -246,22 +246,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 80.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "각성의 목걸이",
-        "price": "84다이아",
-        "note": "중앙 111 • 하위권",
-        "raw": {
-          "itemId": 300140005,
-          "itemName": "+5 각성의 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 84.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 111.0
         }
       },
       {
