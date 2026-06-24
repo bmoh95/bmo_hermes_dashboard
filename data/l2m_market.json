@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 00:59:23 KST",
+  "checkedAt": "2026-06-25 01:07:24 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -91,7 +91,7 @@
         "enchant": "+5",
         "name": "아다만타이트 네크리스",
         "price": "23다이아",
-        "note": "중앙 45 • 초저가 의심",
+        "note": "중앙 47.5 • 초저가 의심",
         "raw": {
           "itemId": 300150001,
           "itemName": "+5 아다만타이트 네크리스",
@@ -99,7 +99,7 @@
           "salePrice": 23.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 45.0
+          "median": 47.5
         }
       },
       {
