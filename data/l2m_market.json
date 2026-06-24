@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 14:52:27 KST",
+  "checkedAt": "2026-06-24 15:01:06 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -107,7 +107,7 @@
         "enchant": "+5",
         "name": "자수정 목걸이",
         "price": "40다이아",
-        "note": "중앙 93 • 초저가 의심",
+        "note": "중앙 95.5 • 초저가 의심",
         "raw": {
           "itemId": 300150009,
           "itemName": "+5 자수정 목걸이",
@@ -115,7 +115,7 @@
           "salePrice": 40.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 93.0
+          "median": 95.5
         }
       },
       {
@@ -173,7 +173,7 @@
         "enchant": "+9",
         "name": "바라키엘 체인소드",
         "price": "30다이아",
-        "note": "중앙 59.5 • 초저가 의심",
+        "note": "중앙 59 • 초저가 의심",
         "raw": {
           "itemId": 101040002,
           "itemName": "+9 바라키엘 체인소드",
@@ -181,7 +181,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 59.5
+          "median": 59.0
         }
       },
       {
