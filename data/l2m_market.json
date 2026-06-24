@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 18:38:32 KST",
+  "checkedAt": "2026-06-24 18:46:34 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -205,7 +205,7 @@
         "enchant": "+1",
         "name": "미궁의 귀걸이",
         "price": "10다이아",
-        "note": "중앙 20 • 초저가 의심",
+        "note": "중앙 17 • 초저가 의심",
         "raw": {
           "itemId": 300240006,
           "itemName": "+1 미궁의 귀걸이",
@@ -213,7 +213,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 20.0
+          "median": 17.0
         }
       },
       {
@@ -497,7 +497,7 @@
         "enchant": "+5",
         "name": "타락 천사의 장갑 (초월 +1)",
         "price": "7,500다이아",
-        "note": "중앙 9,640 • 하위권",
+        "note": "중앙 9,500 • 하위권",
         "raw": {
           "itemId": 260320003,
           "itemName": "+5 타락 천사의 장갑 (초월 +1)",
@@ -505,7 +505,7 @@
           "salePrice": 7500.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 9640.0
+          "median": 9500.0
         }
       },
       {
