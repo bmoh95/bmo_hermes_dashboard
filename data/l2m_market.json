@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 06:08:00 KST",
+  "checkedAt": "2026-06-25 06:16:01 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -299,22 +299,6 @@
       {
         "kind": "견갑",
         "enchant": "+0",
-        "name": "현자의 견갑",
-        "price": "380다이아",
-        "note": "중앙 500 • 하위권",
-        "raw": {
-          "itemId": 200940012,
-          "itemName": "현자의 견갑",
-          "enchantLevel": 0,
-          "salePrice": 380.0,
-          "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 500.0
-        }
-      },
-      {
-        "kind": "견갑",
-        "enchant": "+0",
         "name": "요새의 견갑",
         "price": "400다이아",
         "note": "중앙 500 • 저가",
@@ -492,22 +476,6 @@
       }
     ],
     "legendary": [
-      {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "네비트의 빛의 망토",
-        "price": "3,000다이아",
-        "note": "중앙 3,690 • 저가",
-        "raw": {
-          "itemId": 200620001,
-          "itemName": "+5 네비트의 빛의 망토",
-          "enchantLevel": 5,
-          "salePrice": 3000.0,
-          "category": "방어구",
-          "dealLabel": "아이템별 저가",
-          "median": 3690.0
-        }
-      },
       {
         "kind": "방어구",
         "enchant": "+5",
