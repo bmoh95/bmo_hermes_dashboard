@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 16:39:18 KST",
+  "checkedAt": "2026-06-24 16:47:45 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -107,7 +107,7 @@
         "enchant": "+5",
         "name": "자수정 목걸이",
         "price": "40다이아",
-        "note": "중앙 95.5 • 초저가 의심",
+        "note": "중앙 98 • 초저가 의심",
         "raw": {
           "itemId": 300150009,
           "itemName": "+5 자수정 목걸이",
@@ -115,7 +115,7 @@
           "salePrice": 40.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 95.5
+          "median": 98.0
         }
       },
       {
@@ -155,7 +155,7 @@
         "enchant": "+2",
         "name": "유적의 견갑",
         "price": "50다이아",
-        "note": "중앙 62.5 • 하위권",
+        "note": "중앙 65 • 하위권",
         "raw": {
           "itemId": 200950009,
           "itemName": "+2 유적의 견갑",
@@ -163,7 +163,7 @@
           "salePrice": 50.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 62.5
+          "median": 65.0
         }
       }
     ],
@@ -250,22 +250,6 @@
       },
       {
         "kind": "악세사리",
-        "enchant": "+4",
-        "name": "헤르문쿠스의 반지",
-        "price": "23다이아",
-        "note": "중앙 43 • 초저가 의심",
-        "raw": {
-          "itemId": 300340012,
-          "itemName": "+4 헤르문쿠스의 반지",
-          "enchantLevel": 4,
-          "salePrice": 23.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 43.0
-        }
-      },
-      {
-        "kind": "악세사리",
         "enchant": "+0",
         "name": "사피로스의 네크리스",
         "price": "57다이아",
@@ -301,7 +285,7 @@
         "enchant": "+4",
         "name": "미궁의 목걸이",
         "price": "100다이아",
-        "note": "중앙 174.5 • 초저가 의심",
+        "note": "중앙 199 • 초저가 의심",
         "raw": {
           "itemId": 300140018,
           "itemName": "+4 미궁의 목걸이",
@@ -309,7 +293,7 @@
           "salePrice": 100.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 174.5
+          "median": 199.0
         }
       },
       {
@@ -511,7 +495,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "150다이아",
-        "note": "중앙 290 • 초저가 의심",
+        "note": "중앙 285 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -519,7 +503,7 @@
           "salePrice": 150.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 290.0
+          "median": 285.0
         }
       }
     ],
