@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 21:22:54 KST",
+  "checkedAt": "2026-06-24 21:30:55 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -367,7 +367,7 @@
         "enchant": "+0",
         "name": "아스칼론",
         "price": "100다이아",
-        "note": "중앙 333 • 초저가 의심",
+        "note": "중앙 266.5 • 초저가 의심",
         "raw": {
           "itemId": 100730005,
           "itemName": "아스칼론",
@@ -375,7 +375,7 @@
           "salePrice": 100.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 333.0
+          "median": 266.5
         }
       },
       {
@@ -424,22 +424,6 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 333.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+1",
-        "name": "사멸의 시길",
-        "price": "220다이아",
-        "note": "중앙 320 • 초저가 의심",
-        "raw": {
-          "itemId": 200830008,
-          "itemName": "+1 사멸의 시길",
-          "enchantLevel": 1,
-          "salePrice": 220.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 320.0
         }
       },
       {
