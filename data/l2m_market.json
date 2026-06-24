@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 00:25:18 KST",
+  "checkedAt": "2026-06-25 00:34:00 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -43,7 +43,7 @@
         "enchant": "+4",
         "name": "균열의 벨트",
         "price": "10다이아",
-        "note": "중앙 35 • 초저가 의심",
+        "note": "중앙 30 • 초저가 의심",
         "raw": {
           "itemId": 300450006,
           "itemName": "+4 균열의 벨트",
@@ -51,7 +51,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 35.0
+          "median": 30.0
         }
       },
       {
@@ -237,7 +237,7 @@
         "enchant": "+4",
         "name": "마염의 반지",
         "price": "15다이아",
-        "note": "중앙 30.5 • 초저가 의심",
+        "note": "중앙 30 • 초저가 의심",
         "raw": {
           "itemId": 300340013,
           "itemName": "+4 마염의 반지",
@@ -245,7 +245,7 @@
           "salePrice": 15.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 30.5
+          "median": 30.0
         }
       },
       {
