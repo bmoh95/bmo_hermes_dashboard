@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 11:49:31 KST",
+  "checkedAt": "2026-06-24 11:58:33 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -141,7 +141,7 @@
         "enchant": "+8",
         "name": "커스드 트윈 액스",
         "price": "15다이아",
-        "note": "중앙 49 • 초저가 의심",
+        "note": "중앙 48 • 초저가 의심",
         "raw": {
           "itemId": 101340004,
           "itemName": "+8 커스드 트윈 액스",
@@ -149,7 +149,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 49.0
+          "median": 48.0
         }
       },
       {
@@ -333,7 +333,7 @@
         "enchant": "+5",
         "name": "차원의 반지",
         "price": "135다이아",
-        "note": "중앙 174 • 저가",
+        "note": "중앙 173.5 • 저가",
         "raw": {
           "itemId": 300340020,
           "itemName": "+5 차원의 반지",
@@ -341,7 +341,7 @@
           "salePrice": 135.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 174.0
+          "median": 173.5
         }
       },
       {
