@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 11:24:11 KST",
+  "checkedAt": "2026-06-24 11:32:29 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -59,7 +59,7 @@
         "enchant": "+5",
         "name": "흑광의 목걸이",
         "price": "12다이아",
-        "note": "중앙 36 • 초저가 의심",
+        "note": "중앙 33 • 초저가 의심",
         "raw": {
           "itemId": 300150003,
           "itemName": "+5 흑광의 목걸이",
@@ -67,7 +67,7 @@
           "salePrice": 12.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 36.0
+          "median": 33.0
         }
       },
       {
@@ -187,22 +187,6 @@
       {
         "kind": "무기",
         "enchant": "+9",
-        "name": "솔다트 에스터크",
-        "price": "50다이아",
-        "note": "중앙 82 • 초저가 의심",
-        "raw": {
-          "itemId": 101140001,
-          "itemName": "+9 솔다트 에스터크",
-          "enchantLevel": 9,
-          "salePrice": 50.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 82.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
         "name": "어설트 캐논",
         "price": "52다이아",
         "note": "중앙 71 • 저가",
@@ -285,7 +269,7 @@
         "enchant": "+5",
         "name": "각성의 목걸이",
         "price": "84다이아",
-        "note": "중앙 105.5 • 저가",
+        "note": "중앙 111 • 저가",
         "raw": {
           "itemId": 300140005,
           "itemName": "+5 각성의 목걸이",
@@ -293,7 +277,7 @@
           "salePrice": 84.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 105.5
+          "median": 111.0
         }
       },
       {
