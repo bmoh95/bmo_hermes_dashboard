@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 17:54:29 KST",
+  "checkedAt": "2026-06-24 18:03:30 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -84,22 +84,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 47.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "자수정 목걸이",
-        "price": "40다이아",
-        "note": "중앙 95.5 • 초저가 의심",
-        "raw": {
-          "itemId": 300150009,
-          "itemName": "+5 자수정 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 40.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 95.5
         }
       },
       {
@@ -230,22 +214,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 20.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+4",
-        "name": "천궁의 눈",
-        "price": "21다이아",
-        "note": "중앙 36.5 • 초저가 의심",
-        "raw": {
-          "itemId": 300340014,
-          "itemName": "+4 천궁의 눈",
-          "enchantLevel": 4,
-          "salePrice": 21.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 36.5
         }
       },
       {
