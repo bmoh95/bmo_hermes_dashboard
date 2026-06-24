@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 14:20:20 KST",
+  "checkedAt": "2026-06-24 14:28:17 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -154,22 +154,6 @@
       },
       {
         "kind": "무기",
-        "enchant": "+8",
-        "name": "블러디오키드",
-        "price": "18다이아",
-        "note": "중앙 33 • 초저가 의심",
-        "raw": {
-          "itemId": 100340005,
-          "itemName": "+8 블러디오키드",
-          "enchantLevel": 8,
-          "salePrice": 18.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 33.0
-        }
-      },
-      {
-        "kind": "무기",
         "enchant": "+9",
         "name": "바라키엘 체인소드",
         "price": "30다이아",
@@ -283,6 +267,22 @@
       {
         "kind": "악세사리",
         "enchant": "+5",
+        "name": "헤르문쿠스의 목걸이",
+        "price": "75다이아",
+        "note": "중앙 123 • 초저가 의심",
+        "raw": {
+          "itemId": 300140009,
+          "itemName": "+5 헤르문쿠스의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 75.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 123.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
         "name": "각성의 목걸이",
         "price": "84다이아",
         "note": "중앙 105.5 • 하위권",
@@ -317,7 +317,7 @@
         "enchant": "+5",
         "name": "차원의 반지",
         "price": "135다이아",
-        "note": "중앙 182 • 저가",
+        "note": "중앙 179 • 저가",
         "raw": {
           "itemId": 300340020,
           "itemName": "+5 차원의 반지",
@@ -325,7 +325,7 @@
           "salePrice": 135.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 182.0
+          "median": 179.0
         }
       },
       {
