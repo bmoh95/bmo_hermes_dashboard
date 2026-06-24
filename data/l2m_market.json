@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 23:52:13 KST",
+  "checkedAt": "2026-06-25 00:00:14 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -18,22 +18,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 24.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "신성의 반지",
-        "price": "10다이아",
-        "note": "중앙 37 • 초저가 의심",
-        "raw": {
-          "itemId": 300360009,
-          "itemName": "+5 신성의 반지",
-          "enchantLevel": 5,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 37.0
         }
       },
       {
@@ -343,41 +327,9 @@
           "dealLabel": "아이템별 저가",
           "median": 500.0
         }
-      },
-      {
-        "kind": "견갑",
-        "enchant": "+3",
-        "name": "제사장의 견갑",
-        "price": "1,300다이아",
-        "note": "중앙 1,747.5 • 하위권",
-        "raw": {
-          "itemId": 200940026,
-          "itemName": "+3 제사장의 견갑",
-          "enchantLevel": 3,
-          "salePrice": 1300.0,
-          "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 1747.5
-        }
       }
     ],
     "heroic": [
-      {
-        "kind": "악세사리",
-        "enchant": "+0",
-        "name": "광휘의 벨트",
-        "price": "250다이아",
-        "note": "중앙 365 • 저가",
-        "raw": {
-          "itemId": 300430013,
-          "itemName": "광휘의 벨트",
-          "enchantLevel": 0,
-          "salePrice": 250.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 365.0
-        }
-      },
       {
         "kind": "악세사리",
         "enchant": "+3",
