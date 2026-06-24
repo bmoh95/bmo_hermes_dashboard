@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 06:48:05 KST",
+  "checkedAt": "2026-06-25 06:56:06 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -203,9 +203,25 @@
       {
         "kind": "무기",
         "enchant": "+9",
+        "name": "사령의 대검",
+        "price": "49다이아",
+        "note": "중앙 104.5 • 초저가 의심",
+        "raw": {
+          "itemId": 100940008,
+          "itemName": "+9 사령의 대검",
+          "enchantLevel": 9,
+          "salePrice": 49.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 104.5
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
         "name": "어설트 캐논",
         "price": "52다이아",
-        "note": "중앙 71 • 저가",
+        "note": "중앙 73 • 저가",
         "raw": {
           "itemId": 101240007,
           "itemName": "+9 어설트 캐논",
@@ -213,7 +229,7 @@
           "salePrice": 52.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 71.0
+          "median": 73.0
         }
       },
       {
