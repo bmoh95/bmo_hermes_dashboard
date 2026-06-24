@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 13:23:45 KST",
+  "checkedAt": "2026-06-24 13:32:26 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -443,11 +443,27 @@
         }
       },
       {
+        "kind": "무기",
+        "enchant": "+7",
+        "name": "카오스 브레이커",
+        "price": "185다이아",
+        "note": "중앙 399 • 초저가 의심",
+        "raw": {
+          "itemId": 100930001,
+          "itemName": "+7 카오스 브레이커",
+          "enchantLevel": 7,
+          "salePrice": 185.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 399.0
+        }
+      },
+      {
         "kind": "방어구",
         "enchant": "+6",
         "name": "잊혀진 영웅의 흉갑",
         "price": "200다이아",
-        "note": "중앙 333 • 초저가 의심",
+        "note": "중앙 331.5 • 초저가 의심",
         "raw": {
           "itemId": 200130010,
           "itemName": "+6 잊혀진 영웅의 흉갑",
@@ -455,7 +471,7 @@
           "salePrice": 200.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 333.0
+          "median": 331.5
         }
       },
       {
