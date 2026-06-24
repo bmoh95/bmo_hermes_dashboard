@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-24 21:46:57 KST",
+  "checkedAt": "2026-06-24 21:54:59 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -399,7 +399,7 @@
         "enchant": "+7",
         "name": "카오스 브레이커",
         "price": "185다이아",
-        "note": "중앙 399 • 초저가 의심",
+        "note": "중앙 384.5 • 초저가 의심",
         "raw": {
           "itemId": 100930001,
           "itemName": "+7 카오스 브레이커",
@@ -407,7 +407,7 @@
           "salePrice": 185.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 399.0
+          "median": 384.5
         }
       },
       {
