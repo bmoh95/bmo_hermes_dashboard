@@ -61,12 +61,19 @@ def sanitize(text: str) -> str:
 
 def build() -> dict:
     entries = []
+    seen_dates = set()
+    # Newest filenames sort first. Keep only the latest successful response per date
+    # so manual reruns do not create duplicate public GitHub Pages entries.
     for path in sorted(SOURCE_DIR.glob('*.md'), reverse=True):
         raw = path.read_text(encoding='utf-8', errors='replace')
         response = sanitize(extract_response(raw))
         if not response or response == '[SILENT]':
             continue
         iso_date = parse_date_from_filename(path)
+        dedupe_key = iso_date or path.stem
+        if dedupe_key in seen_dates:
+            continue
+        seen_dates.add(dedupe_key)
         entries.append({
             'date': iso_date,
             'title': title_from_date(iso_date),
@@ -79,6 +86,7 @@ def build() -> dict:
         'updatedAt': checked_at,
         'count': len(entries),
         'privacyNote': '이름, 생년월일, 출생지, 거주지 등 개인 식별 정보는 공개 데이터에서 제외하거나 마스킹했습니다.',
+        'dedupePolicy': 'latest_successful_entry_per_date',
         'entries': entries,
     }
 
