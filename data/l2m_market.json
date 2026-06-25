@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 21:42:06 KST",
+  "checkedAt": "2026-06-25 21:50:07 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -182,6 +182,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 66.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "파타",
+        "price": "90다이아",
+        "note": "중앙 118 • 저가",
+        "raw": {
+          "itemId": 101240001,
+          "itemName": "+9 파타",
+          "enchantLevel": 9,
+          "salePrice": 90.0,
+          "category": "무기",
+          "dealLabel": "아이템별 저가",
+          "median": 118.0
         }
       },
       {
@@ -367,7 +383,7 @@
         "enchant": "+7",
         "name": "네비트의 부츠",
         "price": "120다이아",
-        "note": "중앙 288.5 • 초저가 의심",
+        "note": "중앙 293.5 • 초저가 의심",
         "raw": {
           "itemId": 200430006,
           "itemName": "+7 네비트의 부츠",
@@ -375,7 +391,7 @@
           "salePrice": 120.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 288.5
+          "median": 293.5
         }
       },
       {
