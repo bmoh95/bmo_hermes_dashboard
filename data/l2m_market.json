@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 13:58:03 KST",
+  "checkedAt": "2026-06-25 14:07:04 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -246,22 +246,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 82.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "사제의 목걸이",
-        "price": "40다이아",
-        "note": "중앙 55 • 하위권",
-        "raw": {
-          "itemId": 300140010,
-          "itemName": "+5 사제의 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 40.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 55.0
         }
       },
       {
