@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 23:34:21 KST",
+  "checkedAt": "2026-06-25 23:42:23 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -41,7 +41,7 @@
         "enchant": "+5",
         "name": "환멸의 팔찌",
         "price": "10다이아",
-        "note": "중앙 26.5 • 초저가 의심",
+        "note": "중앙 24 • 초저가 의심",
         "raw": {
           "itemId": 300560003,
           "itemName": "+5 환멸의 팔찌",
@@ -49,7 +49,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 26.5
+          "median": 24.0
         }
       }
     ],
@@ -349,15 +349,15 @@
         "enchant": "+0",
         "name": "마도서 (마나 리제네레이션)",
         "price": "10다이아",
-        "note": "중앙 15 • 하위권",
+        "note": "중앙 16.5 • 초저가 의심",
         "raw": {
           "itemId": 500354006,
           "itemName": "마도서 (마나 리제네레이션)",
           "enchantLevel": 0,
           "salePrice": 10.0,
           "category": "스킬북",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 15.0
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 16.5
         }
       },
       {
@@ -381,7 +381,7 @@
         "enchant": "+1",
         "name": "사념의 견갑",
         "price": "170다이아",
-        "note": "중앙 310 • 초저가 의심",
+        "note": "중앙 320 • 초저가 의심",
         "raw": {
           "itemId": 200940010,
           "itemName": "+1 사념의 견갑",
@@ -389,7 +389,7 @@
           "salePrice": 170.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 310.0
+          "median": 320.0
         }
       },
       {
@@ -447,7 +447,7 @@
         "enchant": "+5",
         "name": "에키무스의 벨트",
         "price": "1,275다이아",
-        "note": "중앙 1,781.5 • 하위권",
+        "note": "중앙 1,781 • 하위권",
         "raw": {
           "itemId": 300430002,
           "itemName": "+5 에키무스의 벨트",
@@ -455,7 +455,7 @@
           "salePrice": 1275.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1781.5
+          "median": 1781.0
         }
       },
       {
