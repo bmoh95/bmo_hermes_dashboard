@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 23:26:20 KST",
+  "checkedAt": "2026-06-25 23:34:21 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -41,7 +41,7 @@
         "enchant": "+5",
         "name": "환멸의 팔찌",
         "price": "10다이아",
-        "note": "중앙 24 • 초저가 의심",
+        "note": "중앙 26.5 • 초저가 의심",
         "raw": {
           "itemId": 300560003,
           "itemName": "+5 환멸의 팔찌",
@@ -49,7 +49,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 24.0
+          "median": 26.5
         }
       }
     ],
@@ -171,7 +171,7 @@
         "enchant": "+2",
         "name": "유적의 견갑",
         "price": "50다이아",
-        "note": "중앙 65 • 저가",
+        "note": "중앙 62.5 • 저가",
         "raw": {
           "itemId": 200950009,
           "itemName": "+2 유적의 견갑",
@@ -179,7 +179,7 @@
           "salePrice": 50.0,
           "category": "방어구",
           "dealLabel": "아이템별 저가",
-          "median": 65.0
+          "median": 62.5
         }
       }
     ],
