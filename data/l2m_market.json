@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 17:15:35 KST",
+  "checkedAt": "2026-06-25 17:23:33 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -333,14 +333,14 @@
         "enchant": "+0",
         "name": "계승자의 서 (쓰러스터 Ⅰ)",
         "price": "20다이아",
-        "note": "중앙 30 • 하위권",
+        "note": "중앙 30 • 저가",
         "raw": {
           "itemId": 500304026,
           "itemName": "계승자의 서 (쓰러스터 Ⅰ)",
           "enchantLevel": 0,
           "salePrice": 20.0,
           "category": "스킬북",
-          "dealLabel": "전서버 하위 10% 저가",
+          "dealLabel": "아이템별 저가",
           "median": 30.0
         }
       },
@@ -424,22 +424,6 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 1196.5
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+0",
-        "name": "아스칼론",
-        "price": "100다이아",
-        "note": "중앙 200 • 초저가 의심",
-        "raw": {
-          "itemId": 100730005,
-          "itemName": "아스칼론",
-          "enchantLevel": 0,
-          "salePrice": 100.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 200.0
         }
       },
       {
