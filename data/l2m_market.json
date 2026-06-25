@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 17:47:35 KST",
+  "checkedAt": "2026-06-25 17:55:35 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -333,15 +333,15 @@
         "enchant": "+0",
         "name": "계승자의 서 (쓰러스터 Ⅰ)",
         "price": "20다이아",
-        "note": "중앙 29 • 저가",
+        "note": "중앙 30 • 하위권",
         "raw": {
           "itemId": 500304026,
           "itemName": "계승자의 서 (쓰러스터 Ⅰ)",
           "enchantLevel": 0,
           "salePrice": 20.0,
           "category": "스킬북",
-          "dealLabel": "아이템별 저가",
-          "median": 29.0
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 30.0
         }
       },
       {
@@ -365,7 +365,7 @@
         "enchant": "+1",
         "name": "여명의 견갑",
         "price": "250다이아",
-        "note": "중앙 315 • 하위권",
+        "note": "중앙 312.5 • 하위권",
         "raw": {
           "itemId": 200940006,
           "itemName": "+1 여명의 견갑",
@@ -373,7 +373,7 @@
           "salePrice": 250.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 315.0
+          "median": 312.5
         }
       },
       {
