@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 21:02:01 KST",
+  "checkedAt": "2026-06-25 21:10:02 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -75,7 +75,7 @@
         "enchant": "+4",
         "name": "균열의 벨트",
         "price": "10다이아",
-        "note": "중앙 25 • 초저가 의심",
+        "note": "중앙 30 • 초저가 의심",
         "raw": {
           "itemId": 300450006,
           "itemName": "+4 균열의 벨트",
@@ -83,7 +83,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 25.0
+          "median": 30.0
         }
       },
       {
@@ -123,7 +123,7 @@
         "enchant": "+4",
         "name": "빛나는 유물",
         "price": "88다이아",
-        "note": "중앙 714.5 • 초저가 의심",
+        "note": "중앙 694.5 • 초저가 의심",
         "raw": {
           "itemId": 301150001,
           "itemName": "+4 빛나는 유물",
@@ -131,7 +131,7 @@
           "salePrice": 88.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 714.5
+          "median": 694.5
         }
       },
       {
@@ -173,7 +173,7 @@
         "enchant": "+8",
         "name": "커스드 트윈 액스",
         "price": "15다이아",
-        "note": "중앙 50 • 초저가 의심",
+        "note": "중앙 55 • 초저가 의심",
         "raw": {
           "itemId": 101340004,
           "itemName": "+8 커스드 트윈 액스",
@@ -181,7 +181,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 50.0
+          "median": 55.0
         }
       },
       {
@@ -431,7 +431,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "150다이아",
-        "note": "중앙 300 • 초저가 의심",
+        "note": "중앙 292.5 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -439,7 +439,7 @@
           "salePrice": 150.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 300.0
+          "median": 292.5
         }
       }
     ],
