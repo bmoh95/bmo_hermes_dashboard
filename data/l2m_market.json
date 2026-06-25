@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 04:57:06 KST",
+  "checkedAt": "2026-06-26 05:05:07 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -381,7 +381,7 @@
         "enchant": "+1",
         "name": "여명의 견갑",
         "price": "250다이아",
-        "note": "중앙 312.5 • 저가",
+        "note": "중앙 315 • 저가",
         "raw": {
           "itemId": 200940006,
           "itemName": "+1 여명의 견갑",
@@ -389,7 +389,7 @@
           "salePrice": 250.0,
           "category": "방어구",
           "dealLabel": "아이템별 저가",
-          "median": 312.5
+          "median": 315.0
         }
       }
     ],
