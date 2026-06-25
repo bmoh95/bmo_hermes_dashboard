@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 17:07:33 KST",
+  "checkedAt": "2026-06-25 17:15:35 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -269,7 +269,7 @@
         "enchant": "+4",
         "name": "헤르문쿠스의 목걸이",
         "price": "30다이아",
-        "note": "중앙 82.5 • 초저가 의심",
+        "note": "중앙 80 • 초저가 의심",
         "raw": {
           "itemId": 300140009,
           "itemName": "+4 헤르문쿠스의 목걸이",
@@ -277,7 +277,7 @@
           "salePrice": 30.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 82.5
+          "median": 80.0
         }
       },
       {
