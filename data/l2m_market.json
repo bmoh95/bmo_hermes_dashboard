@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 03:51:57 KST",
+  "checkedAt": "2026-06-26 03:59:58 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -173,7 +173,7 @@
         "enchant": "+8",
         "name": "커스드 트윈 액스",
         "price": "15다이아",
-        "note": "중앙 55 • 초저가 의심",
+        "note": "중앙 57 • 초저가 의심",
         "raw": {
           "itemId": 101340004,
           "itemName": "+8 커스드 트윈 액스",
@@ -181,7 +181,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 55.0
+          "median": 57.0
         }
       },
       {
@@ -205,7 +205,7 @@
         "enchant": "+9",
         "name": "크로노 키타라",
         "price": "45다이아",
-        "note": "중앙 62 • 저가",
+        "note": "중앙 61 • 저가",
         "raw": {
           "itemId": 101040001,
           "itemName": "+9 크로노 키타라",
@@ -213,7 +213,7 @@
           "salePrice": 45.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 62.0
+          "median": 61.0
         }
       },
       {
