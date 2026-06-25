@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 23:50:24 KST",
+  "checkedAt": "2026-06-25 23:58:49 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -463,7 +463,7 @@
         "enchant": "+0",
         "name": "드래곤 헌터",
         "price": "100다이아",
-        "note": "중앙 250 • 초저가 의심",
+        "note": "중앙 208 • 초저가 의심",
         "raw": {
           "itemId": 101030001,
           "itemName": "드래곤 헌터",
@@ -471,7 +471,7 @@
           "salePrice": 100.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 250.0
+          "median": 208.0
         }
       },
       {
