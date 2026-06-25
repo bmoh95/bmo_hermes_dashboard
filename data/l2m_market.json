@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 02:07:40 KST",
+  "checkedAt": "2026-06-26 02:15:41 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -182,6 +182,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 55.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+8",
+        "name": "솔다트 에스터크",
+        "price": "22다이아",
+        "note": "중앙 39 • 초저가 의심",
+        "raw": {
+          "itemId": 101140001,
+          "itemName": "+8 솔다트 에스터크",
+          "enchantLevel": 8,
+          "salePrice": 22.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 39.0
         }
       },
       {
@@ -390,22 +406,6 @@
           "category": "방어구",
           "dealLabel": "아이템별 저가",
           "median": 312.5
-        }
-      },
-      {
-        "kind": "견갑",
-        "enchant": "+0",
-        "name": "요새의 견갑",
-        "price": "400다이아",
-        "note": "중앙 512.5 • 하위권",
-        "raw": {
-          "itemId": 200940020,
-          "itemName": "요새의 견갑",
-          "enchantLevel": 0,
-          "salePrice": 400.0,
-          "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 512.5
         }
       }
     ],
