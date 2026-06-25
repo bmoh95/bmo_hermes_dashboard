@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 04:16:00 KST",
+  "checkedAt": "2026-06-26 04:24:02 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -84,22 +84,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 30.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "흑광의 목걸이",
-        "price": "12다이아",
-        "note": "중앙 33 • 초저가 의심",
-        "raw": {
-          "itemId": 300150003,
-          "itemName": "+5 흑광의 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 12.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 33.0
         }
       },
       {
