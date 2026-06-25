@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 19:17:47 KST",
+  "checkedAt": "2026-06-25 19:25:48 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -72,10 +72,26 @@
     "uncommon": [
       {
         "kind": "악세사리",
+        "enchant": "+2",
+        "name": "토파즈 목걸이",
+        "price": "10다이아",
+        "note": "중앙 17 • 초저가 의심",
+        "raw": {
+          "itemId": 300150011,
+          "itemName": "+2 토파즈 목걸이",
+          "enchantLevel": 2,
+          "salePrice": 10.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 17.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+4",
         "name": "균열의 벨트",
         "price": "10다이아",
-        "note": "중앙 30 • 초저가 의심",
+        "note": "중앙 25 • 초저가 의심",
         "raw": {
           "itemId": 300450006,
           "itemName": "+4 균열의 벨트",
@@ -83,7 +99,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 30.0
+          "median": 25.0
         }
       },
       {
@@ -283,6 +299,22 @@
       {
         "kind": "스킬북",
         "enchant": "+0",
+        "name": "마도서 (마나 리제네레이션)",
+        "price": "10다이아",
+        "note": "중앙 16.5 • 초저가 의심",
+        "raw": {
+          "itemId": 500354006,
+          "itemName": "마도서 (마나 리제네레이션)",
+          "enchantLevel": 0,
+          "salePrice": 10.0,
+          "category": "스킬북",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 16.5
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
         "name": "계승자의 서 (쓰러스터 Ⅰ)",
         "price": "20다이아",
         "note": "중앙 29.5 • 하위권",
@@ -294,6 +326,22 @@
           "category": "스킬북",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 29.5
+        }
+      },
+      {
+        "kind": "견갑",
+        "enchant": "+1",
+        "name": "사념의 견갑",
+        "price": "170다이아",
+        "note": "중앙 300 • 초저가 의심",
+        "raw": {
+          "itemId": 200940010,
+          "itemName": "+1 사념의 견갑",
+          "enchantLevel": 1,
+          "salePrice": 170.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 300.0
         }
       },
       {
