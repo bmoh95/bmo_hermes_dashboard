@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 05:13:08 KST",
+  "checkedAt": "2026-06-26 05:21:09 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -529,7 +529,7 @@
         "enchant": "+0",
         "name": "쌍도끼 전승서 (래쓰 오브 타이탄)",
         "price": "4,500다이아",
-        "note": "중앙 6,000 • 하위권",
+        "note": "중앙 5,900 • 하위권",
         "raw": {
           "itemId": 503222004,
           "itemName": "쌍도끼 전승서 (래쓰 오브 타이탄)",
@@ -537,7 +537,7 @@
           "salePrice": 4500.0,
           "category": "스킬북",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 6000.0
+          "median": 5900.0
         }
       }
     ]
