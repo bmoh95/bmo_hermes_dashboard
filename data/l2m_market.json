@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 08:02:32 KST",
+  "checkedAt": "2026-06-26 08:10:55 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -100,6 +100,38 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 60.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "자수정 목걸이",
+        "price": "40다이아",
+        "note": "중앙 95 • 초저가 의심",
+        "raw": {
+          "itemId": 300150009,
+          "itemName": "+5 자수정 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 40.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 95.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "팔라듐 팔찌",
+        "price": "40다이아",
+        "note": "중앙 62.5 • 초저가 의심",
+        "raw": {
+          "itemId": 300550006,
+          "itemName": "+5 팔라듐 팔찌",
+          "enchantLevel": 5,
+          "salePrice": 40.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 62.5
         }
       },
       {
@@ -333,7 +365,7 @@
         "enchant": "+1",
         "name": "여명의 견갑",
         "price": "250다이아",
-        "note": "중앙 315 • 저가",
+        "note": "중앙 312.5 • 저가",
         "raw": {
           "itemId": 200940006,
           "itemName": "+1 여명의 견갑",
@@ -341,7 +373,7 @@
           "salePrice": 250.0,
           "category": "방어구",
           "dealLabel": "아이템별 저가",
-          "median": 315.0
+          "median": 312.5
         }
       }
     ],
