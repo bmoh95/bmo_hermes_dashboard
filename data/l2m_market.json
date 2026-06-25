@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 00:47:33 KST",
+  "checkedAt": "2026-06-26 00:55:34 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -413,7 +413,7 @@
         "enchant": "+0",
         "name": "요새의 견갑",
         "price": "400다이아",
-        "note": "중앙 500 • 하위권",
+        "note": "중앙 512.5 • 하위권",
         "raw": {
           "itemId": 200940020,
           "itemName": "요새의 견갑",
@@ -421,7 +421,7 @@
           "salePrice": 400.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 500.0
+          "median": 512.5
         }
       }
     ],
