@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 20:05:52 KST",
+  "checkedAt": "2026-06-25 20:13:52 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -50,22 +50,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 24.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "빛바랜 유물",
-        "price": "650다이아",
-        "note": "중앙 900 • 하위권",
-        "raw": {
-          "itemId": 301160001,
-          "itemName": "+5 빛바랜 유물",
-          "enchantLevel": 5,
-          "salePrice": 650.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 900.0
         }
       }
     ],
@@ -415,7 +399,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "599다이아",
-        "note": "중앙 1,199 • 초저가 의심",
+        "note": "중앙 1,200 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -423,7 +407,7 @@
           "salePrice": 599.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1199.0
+          "median": 1200.0
         }
       },
       {
@@ -481,7 +465,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인캐퍼빌리티)",
         "price": "3,500다이아",
-        "note": "중앙 4,148 • 저가",
+        "note": "중앙 4,174 • 저가",
         "raw": {
           "itemId": 500302027,
           "itemName": "계승자의 서 (인캐퍼빌리티)",
@@ -489,7 +473,7 @@
           "salePrice": 3500.0,
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
-          "median": 4148.0
+          "median": 4174.0
         }
       },
       {
