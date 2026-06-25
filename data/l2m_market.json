@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 18:03:36 KST",
+  "checkedAt": "2026-06-25 18:11:38 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -116,22 +116,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 33.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "아다만타이트 네크리스",
-        "price": "23다이아",
-        "note": "중앙 45 • 초저가 의심",
-        "raw": {
-          "itemId": 300150001,
-          "itemName": "+5 아다만타이트 네크리스",
-          "enchantLevel": 5,
-          "salePrice": 23.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 45.0
         }
       },
       {
@@ -447,7 +431,7 @@
         "enchant": "+7",
         "name": "블러디 네뷸라이트 (초월 +2)",
         "price": "599다이아",
-        "note": "중앙 1,110.5 • 초저가 의심",
+        "note": "중앙 1,160.5 • 초저가 의심",
         "raw": {
           "itemId": 160530105,
           "itemName": "+7 블러디 네뷸라이트 (초월 +2)",
@@ -455,7 +439,7 @@
           "salePrice": 599.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1110.5
+          "median": 1160.5
         }
       },
       {
