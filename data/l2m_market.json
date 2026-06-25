@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 20:45:59 KST",
+  "checkedAt": "2026-06-25 20:54:00 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -119,6 +119,22 @@
         }
       },
       {
+        "kind": "악세사리",
+        "enchant": "+4",
+        "name": "빛나는 유물",
+        "price": "88다이아",
+        "note": "중앙 714.5 • 초저가 의심",
+        "raw": {
+          "itemId": 301150001,
+          "itemName": "+4 빛나는 유물",
+          "enchantLevel": 4,
+          "salePrice": 88.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 714.5
+        }
+      },
+      {
         "kind": "손목",
         "enchant": "+4",
         "name": "강철 손목 보호대",
@@ -139,7 +155,7 @@
         "enchant": "+2",
         "name": "유적의 견갑",
         "price": "50다이아",
-        "note": "중앙 65 • 저가",
+        "note": "중앙 62.5 • 저가",
         "raw": {
           "itemId": 200950009,
           "itemName": "+2 유적의 견갑",
@@ -147,7 +163,7 @@
           "salePrice": 50.0,
           "category": "방어구",
           "dealLabel": "아이템별 저가",
-          "median": 65.0
+          "median": 62.5
         }
       }
     ],
@@ -317,7 +333,7 @@
         "enchant": "+1",
         "name": "여명의 견갑",
         "price": "250다이아",
-        "note": "중앙 312.5 • 저가",
+        "note": "중앙 315 • 저가",
         "raw": {
           "itemId": 200940006,
           "itemName": "+1 여명의 견갑",
@@ -325,7 +341,7 @@
           "salePrice": 250.0,
           "category": "방어구",
           "dealLabel": "아이템별 저가",
-          "median": 312.5
+          "median": 315.0
         }
       },
       {
