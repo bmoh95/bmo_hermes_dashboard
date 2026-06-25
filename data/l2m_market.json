@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 19:25:48 KST",
+  "checkedAt": "2026-06-25 19:33:48 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -349,14 +349,14 @@
         "enchant": "+1",
         "name": "여명의 견갑",
         "price": "250다이아",
-        "note": "중앙 312.5 • 하위권",
+        "note": "중앙 312.5 • 저가",
         "raw": {
           "itemId": 200940006,
           "itemName": "+1 여명의 견갑",
           "enchantLevel": 1,
           "salePrice": 250.0,
           "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
+          "dealLabel": "아이템별 저가",
           "median": 312.5
         }
       },
@@ -431,7 +431,7 @@
         "enchant": "+7",
         "name": "블러디 네뷸라이트 (초월 +2)",
         "price": "599다이아",
-        "note": "중앙 1,160.5 • 초저가 의심",
+        "note": "중앙 1,200 • 초저가 의심",
         "raw": {
           "itemId": 160530105,
           "itemName": "+7 블러디 네뷸라이트 (초월 +2)",
@@ -439,7 +439,7 @@
           "salePrice": 599.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1160.5
+          "median": 1200.0
         }
       },
       {
