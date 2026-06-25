@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 16:49:28 KST",
+  "checkedAt": "2026-06-25 16:57:55 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -269,7 +269,7 @@
         "enchant": "+4",
         "name": "헤르문쿠스의 목걸이",
         "price": "30다이아",
-        "note": "중앙 82 • 초저가 의심",
+        "note": "중앙 82.5 • 초저가 의심",
         "raw": {
           "itemId": 300140009,
           "itemName": "+4 헤르문쿠스의 목걸이",
@@ -277,7 +277,7 @@
           "salePrice": 30.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 82.0
+          "median": 82.5
         }
       },
       {
@@ -294,6 +294,22 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 192.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+0",
+        "name": "만월의 반지",
+        "price": "220다이아",
+        "note": "중앙 280 • 하위권",
+        "raw": {
+          "itemId": 300340021,
+          "itemName": "만월의 반지",
+          "enchantLevel": 0,
+          "salePrice": 220.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 280.0
         }
       },
       {
