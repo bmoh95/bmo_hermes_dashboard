@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 14:57:12 KST",
+  "checkedAt": "2026-06-25 15:05:13 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -351,15 +351,15 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 749.5 • 하위권",
+        "note": "중앙 799 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
           "enchantLevel": 3,
           "salePrice": 500.0,
           "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 749.5
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 799.0
         }
       },
       {
@@ -481,7 +481,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인캐퍼빌리티)",
         "price": "3,500다이아",
-        "note": "중앙 4,200 • 저가",
+        "note": "중앙 4,150 • 저가",
         "raw": {
           "itemId": 500302027,
           "itemName": "계승자의 서 (인캐퍼빌리티)",
@@ -489,7 +489,7 @@
           "salePrice": 3500.0,
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
-          "median": 4200.0
+          "median": 4150.0
         }
       },
       {
