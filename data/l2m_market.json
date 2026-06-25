@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 10:42:36 KST",
+  "checkedAt": "2026-06-25 10:50:38 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -91,7 +91,7 @@
         "enchant": "+5",
         "name": "아다만타이트 네크리스",
         "price": "23다이아",
-        "note": "중앙 47.5 • 초저가 의심",
+        "note": "중앙 45 • 초저가 의심",
         "raw": {
           "itemId": 300150001,
           "itemName": "+5 아다만타이트 네크리스",
@@ -99,7 +99,7 @@
           "salePrice": 23.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 47.5
+          "median": 45.0
         }
       },
       {
@@ -251,22 +251,6 @@
       {
         "kind": "악세사리",
         "enchant": "+4",
-        "name": "헤르문쿠스의 반지",
-        "price": "20다이아",
-        "note": "중앙 41.5 • 초저가 의심",
-        "raw": {
-          "itemId": 300340012,
-          "itemName": "+4 헤르문쿠스의 반지",
-          "enchantLevel": 4,
-          "salePrice": 20.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 41.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+4",
         "name": "헤르문쿠스의 목걸이",
         "price": "30다이아",
         "note": "중앙 84 • 초저가 의심",
@@ -346,6 +330,22 @@
       },
       {
         "kind": "견갑",
+        "enchant": "+1",
+        "name": "사념의 견갑",
+        "price": "200다이아",
+        "note": "중앙 300 • 저가",
+        "raw": {
+          "itemId": 200940010,
+          "itemName": "+1 사념의 견갑",
+          "enchantLevel": 1,
+          "salePrice": 200.0,
+          "category": "방어구",
+          "dealLabel": "아이템별 저가",
+          "median": 300.0
+        }
+      },
+      {
+        "kind": "견갑",
         "enchant": "+0",
         "name": "요새의 견갑",
         "price": "400다이아",
@@ -367,7 +367,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 799 • 초저가 의심",
+        "note": "중앙 824.5 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -375,7 +375,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 799.0
+          "median": 824.5
         }
       },
       {
