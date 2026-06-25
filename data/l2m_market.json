@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 11:06:40 KST",
+  "checkedAt": "2026-06-25 11:14:41 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -198,22 +198,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 61.5
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "사령의 대검",
-        "price": "49다이아",
-        "note": "중앙 104.5 • 초저가 의심",
-        "raw": {
-          "itemId": 100940008,
-          "itemName": "+9 사령의 대검",
-          "enchantLevel": 9,
-          "salePrice": 49.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 104.5
         }
       },
       {
