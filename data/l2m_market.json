@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 18:35:39 KST",
+  "checkedAt": "2026-06-25 18:43:40 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -299,22 +299,6 @@
       {
         "kind": "스킬북",
         "enchant": "+0",
-        "name": "마도서 (마나 리제네레이션)",
-        "price": "10다이아",
-        "note": "중앙 17.5 • 초저가 의심",
-        "raw": {
-          "itemId": 500354006,
-          "itemName": "마도서 (마나 리제네레이션)",
-          "enchantLevel": 0,
-          "salePrice": 10.0,
-          "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 17.5
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
         "name": "계승자의 서 (쓰러스터 Ⅰ)",
         "price": "20다이아",
         "note": "중앙 30 • 하위권",
@@ -497,7 +481,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인캐퍼빌리티)",
         "price": "3,500다이아",
-        "note": "중앙 4,150 • 저가",
+        "note": "중앙 4,148 • 저가",
         "raw": {
           "itemId": 500302027,
           "itemName": "계승자의 서 (인캐퍼빌리티)",
@@ -505,7 +489,7 @@
           "salePrice": 3500.0,
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
-          "median": 4150.0
+          "median": 4148.0
         }
       },
       {
