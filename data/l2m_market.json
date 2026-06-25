@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 16:25:24 KST",
+  "checkedAt": "2026-06-25 16:33:25 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -333,14 +333,14 @@
         "enchant": "+1",
         "name": "사념의 견갑",
         "price": "200다이아",
-        "note": "중앙 300 • 하위권",
+        "note": "중앙 300 • 저가",
         "raw": {
           "itemId": 200940010,
           "itemName": "+1 사념의 견갑",
           "enchantLevel": 1,
           "salePrice": 200.0,
           "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
+          "dealLabel": "아이템별 저가",
           "median": 300.0
         }
       },
