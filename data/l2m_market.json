@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 15:13:13 KST",
+  "checkedAt": "2026-06-25 15:21:14 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -237,7 +237,7 @@
         "enchant": "+4",
         "name": "헤르문쿠스의 반지",
         "price": "23다이아",
-        "note": "중앙 41.5 • 초저가 의심",
+        "note": "중앙 40 • 초저가 의심",
         "raw": {
           "itemId": 300340012,
           "itemName": "+4 헤르문쿠스의 반지",
@@ -245,7 +245,7 @@
           "salePrice": 23.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 41.5
+          "median": 40.0
         }
       },
       {
