@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 22:14:10 KST",
+  "checkedAt": "2026-06-25 22:22:11 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -43,7 +43,7 @@
         "enchant": "+2",
         "name": "토파즈 목걸이",
         "price": "10다이아",
-        "note": "중앙 17 • 초저가 의심",
+        "note": "중앙 20 • 초저가 의심",
         "raw": {
           "itemId": 300150011,
           "itemName": "+2 토파즈 목걸이",
@@ -51,7 +51,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 17.0
+          "median": 20.0
         }
       },
       {
@@ -68,6 +68,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 30.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "용맹의 목걸이",
+        "price": "10다이아",
+        "note": "중앙 18 • 초저가 의심",
+        "raw": {
+          "itemId": 300150005,
+          "itemName": "+5 용맹의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 10.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 18.0
         }
       },
       {
@@ -392,6 +408,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 824.5
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+0",
+        "name": "드래곤 헌터",
+        "price": "100다이아",
+        "note": "중앙 250 • 초저가 의심",
+        "raw": {
+          "itemId": 101030001,
+          "itemName": "드래곤 헌터",
+          "enchantLevel": 0,
+          "salePrice": 100.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 250.0
         }
       },
       {
