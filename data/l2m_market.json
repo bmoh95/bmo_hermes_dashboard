@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 15:05:13 KST",
+  "checkedAt": "2026-06-25 15:13:13 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -326,6 +326,22 @@
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 300.0
+        }
+      },
+      {
+        "kind": "견갑",
+        "enchant": "+1",
+        "name": "여명의 견갑",
+        "price": "250다이아",
+        "note": "중앙 317.5 • 하위권",
+        "raw": {
+          "itemId": 200940006,
+          "itemName": "+1 여명의 견갑",
+          "enchantLevel": 1,
+          "salePrice": 250.0,
+          "category": "방어구",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 317.5
         }
       },
       {
