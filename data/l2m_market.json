@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 20:21:55 KST",
+  "checkedAt": "2026-06-25 20:29:56 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -91,7 +91,7 @@
         "enchant": "+5",
         "name": "흑광의 목걸이",
         "price": "12다이아",
-        "note": "중앙 33 • 초저가 의심",
+        "note": "중앙 38.5 • 초저가 의심",
         "raw": {
           "itemId": 300150003,
           "itemName": "+5 흑광의 목걸이",
@@ -99,7 +99,7 @@
           "salePrice": 12.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 33.0
+          "median": 38.5
         }
       },
       {
@@ -173,7 +173,7 @@
         "enchant": "+9",
         "name": "싸울아비 장검",
         "price": "30다이아",
-        "note": "중앙 59 • 초저가 의심",
+        "note": "중앙 66 • 초저가 의심",
         "raw": {
           "itemId": 100140003,
           "itemName": "+9 싸울아비 장검",
@@ -181,7 +181,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 59.0
+          "median": 66.0
         }
       },
       {
