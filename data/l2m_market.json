@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 05:05:07 KST",
+  "checkedAt": "2026-06-26 05:13:08 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -173,7 +173,7 @@
         "enchant": "+8",
         "name": "솔다트 에스터크",
         "price": "22다이아",
-        "note": "중앙 39 • 초저가 의심",
+        "note": "중앙 42 • 초저가 의심",
         "raw": {
           "itemId": 101140001,
           "itemName": "+8 솔다트 에스터크",
@@ -181,7 +181,7 @@
           "salePrice": 22.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 39.0
+          "median": 42.0
         }
       },
       {
