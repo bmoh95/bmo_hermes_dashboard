@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 19:57:54 KST",
+  "checkedAt": "2026-06-25 20:05:52 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -100,22 +100,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 25.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "용맹의 목걸이",
-        "price": "10다이아",
-        "note": "중앙 17.5 • 초저가 의심",
-        "raw": {
-          "itemId": 300150005,
-          "itemName": "+5 용맹의 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 17.5
         }
       },
       {
@@ -395,22 +379,6 @@
         }
       },
       {
-        "kind": "악세사리",
-        "enchant": "+0",
-        "name": "작열의 반지",
-        "price": "850다이아",
-        "note": "중앙 1,196.5 • 하위권",
-        "raw": {
-          "itemId": 300330015,
-          "itemName": "작열의 반지",
-          "enchantLevel": 0,
-          "salePrice": 850.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 1196.5
-        }
-      },
-      {
         "kind": "방어구",
         "enchant": "+7",
         "name": "네비트의 부츠",
@@ -476,6 +444,22 @@
       }
     ],
     "legendary": [
+      {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "네비트의 빛의 망토",
+        "price": "3,000다이아",
+        "note": "중앙 4,000 • 저가",
+        "raw": {
+          "itemId": 200620001,
+          "itemName": "+5 네비트의 빛의 망토",
+          "enchantLevel": 5,
+          "salePrice": 3000.0,
+          "category": "방어구",
+          "dealLabel": "아이템별 저가",
+          "median": 4000.0
+        }
+      },
       {
         "kind": "방어구",
         "enchant": "+5",
