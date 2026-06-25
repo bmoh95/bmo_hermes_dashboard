@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 02:47:46 KST",
+  "checkedAt": "2026-06-26 02:55:52 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -9,7 +9,7 @@
         "enchant": "+4",
         "name": "환멸의 팔찌",
         "price": "10다이아",
-        "note": "중앙 27.5 • 초저가 의심",
+        "note": "중앙 25 • 초저가 의심",
         "raw": {
           "itemId": 300560003,
           "itemName": "+4 환멸의 팔찌",
@@ -17,7 +17,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 27.5
+          "median": 25.0
         }
       },
       {
@@ -410,6 +410,22 @@
       }
     ],
     "heroic": [
+      {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "심연의 벨트",
+        "price": "199다이아",
+        "note": "중앙 300 • 초저가 의심",
+        "raw": {
+          "itemId": 300430009,
+          "itemName": "+1 심연의 벨트",
+          "enchantLevel": 1,
+          "salePrice": 199.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 300.0
+        }
+      },
       {
         "kind": "악세사리",
         "enchant": "+3",
