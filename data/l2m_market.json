@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 06:25:17 KST",
+  "checkedAt": "2026-06-26 06:33:18 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -103,19 +103,19 @@
         }
       },
       {
-        "kind": "손목",
-        "enchant": "+3",
-        "name": "강철 손목 보호대",
-        "price": "50다이아",
-        "note": "중앙 97 • 초저가 의심",
+        "kind": "악세사리",
+        "enchant": "+4",
+        "name": "빛나는 유물",
+        "price": "88다이아",
+        "note": "중앙 694.5 • 초저가 의심",
         "raw": {
-          "itemId": 301550002,
-          "itemName": "+3 강철 손목 보호대",
-          "enchantLevel": 3,
-          "salePrice": 50.0,
+          "itemId": 301150001,
+          "itemName": "+4 빛나는 유물",
+          "enchantLevel": 4,
+          "salePrice": 88.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 97.0
+          "median": 694.5
         }
       },
       {
