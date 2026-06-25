@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 14:07:04 KST",
+  "checkedAt": "2026-06-25 14:16:46 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -458,6 +458,22 @@
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 9615.0
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "계승자의 서 (인캐퍼빌리티)",
+        "price": "3,500다이아",
+        "note": "중앙 4,200 • 저가",
+        "raw": {
+          "itemId": 500302027,
+          "itemName": "계승자의 서 (인캐퍼빌리티)",
+          "enchantLevel": 0,
+          "salePrice": 3500.0,
+          "category": "스킬북",
+          "dealLabel": "아이템별 저가",
+          "median": 4200.0
         }
       },
       {
