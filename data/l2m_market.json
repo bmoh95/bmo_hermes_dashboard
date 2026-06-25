@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 01:11:35 KST",
+  "checkedAt": "2026-06-26 01:19:36 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -283,22 +283,6 @@
       {
         "kind": "악세사리",
         "enchant": "+4",
-        "name": "축복의 벨트",
-        "price": "22다이아",
-        "note": "중앙 57.5 • 초저가 의심",
-        "raw": {
-          "itemId": 300440001,
-          "itemName": "+4 축복의 벨트",
-          "enchantLevel": 4,
-          "salePrice": 22.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 57.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+4",
         "name": "헤르문쿠스의 반지",
         "price": "23다이아",
         "note": "중앙 40 • 초저가 의심",
@@ -511,7 +495,7 @@
         "enchant": "+7",
         "name": "네비트의 부츠",
         "price": "120다이아",
-        "note": "중앙 293.5 • 초저가 의심",
+        "note": "중앙 290 • 초저가 의심",
         "raw": {
           "itemId": 200430006,
           "itemName": "+7 네비트의 부츠",
@@ -519,7 +503,7 @@
           "salePrice": 120.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 293.5
+          "median": 290.0
         }
       },
       {
