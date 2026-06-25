@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 17:31:34 KST",
+  "checkedAt": "2026-06-25 17:39:34 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -50,6 +50,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 24.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+3",
+        "name": "가죽 벨트",
+        "price": "14다이아",
+        "note": "중앙 25 • 초저가 의심",
+        "raw": {
+          "itemId": 300460003,
+          "itemName": "+3 가죽 벨트",
+          "enchantLevel": 3,
+          "salePrice": 14.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 25.0
         }
       },
       {
@@ -282,6 +298,22 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+4",
+        "name": "달의 반지",
+        "price": "65다이아",
+        "note": "중앙 100 • 초저가 의심",
+        "raw": {
+          "itemId": 300340018,
+          "itemName": "+4 달의 반지",
+          "enchantLevel": 4,
+          "salePrice": 65.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 100.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+5",
         "name": "차원의 반지",
         "price": "135다이아",
@@ -333,7 +365,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (쓰러스터 Ⅰ)",
         "price": "20다이아",
-        "note": "중앙 30 • 저가",
+        "note": "중앙 29 • 저가",
         "raw": {
           "itemId": 500304026,
           "itemName": "계승자의 서 (쓰러스터 Ⅰ)",
@@ -341,7 +373,7 @@
           "salePrice": 20.0,
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
-          "median": 30.0
+          "median": 29.0
         }
       },
       {
