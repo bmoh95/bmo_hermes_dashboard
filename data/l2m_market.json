@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 20:13:52 KST",
+  "checkedAt": "2026-06-25 20:21:55 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -173,7 +173,7 @@
         "enchant": "+9",
         "name": "싸울아비 장검",
         "price": "30다이아",
-        "note": "중앙 59.5 • 초저가 의심",
+        "note": "중앙 59 • 초저가 의심",
         "raw": {
           "itemId": 100140003,
           "itemName": "+9 싸울아비 장검",
@@ -181,7 +181,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 59.5
+          "median": 59.0
         }
       },
       {
@@ -253,7 +253,7 @@
         "enchant": "+5",
         "name": "차원의 반지",
         "price": "135다이아",
-        "note": "중앙 192.5 • 저가",
+        "note": "중앙 192 • 저가",
         "raw": {
           "itemId": 300340020,
           "itemName": "+5 차원의 반지",
@@ -261,7 +261,7 @@
           "salePrice": 135.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 192.5
+          "median": 192.0
         }
       },
       {
@@ -269,15 +269,15 @@
         "enchant": "+0",
         "name": "마도서 (마나 리제네레이션)",
         "price": "10다이아",
-        "note": "중앙 16.5 • 초저가 의심",
+        "note": "중앙 15 • 하위권",
         "raw": {
           "itemId": 500354006,
           "itemName": "마도서 (마나 리제네레이션)",
           "enchantLevel": 0,
           "salePrice": 10.0,
           "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 16.5
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 15.0
         }
       },
       {
@@ -383,7 +383,7 @@
         "enchant": "+7",
         "name": "블러디 네뷸라이트 (초월 +2)",
         "price": "599다이아",
-        "note": "중앙 1,160.5 • 초저가 의심",
+        "note": "중앙 1,121 • 초저가 의심",
         "raw": {
           "itemId": 160530105,
           "itemName": "+7 블러디 네뷸라이트 (초월 +2)",
@@ -391,7 +391,7 @@
           "salePrice": 599.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1160.5
+          "median": 1121.0
         }
       },
       {
@@ -428,22 +428,6 @@
       }
     ],
     "legendary": [
-      {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "네비트의 빛의 망토",
-        "price": "3,000다이아",
-        "note": "중앙 4,000 • 저가",
-        "raw": {
-          "itemId": 200620001,
-          "itemName": "+5 네비트의 빛의 망토",
-          "enchantLevel": 5,
-          "salePrice": 3000.0,
-          "category": "방어구",
-          "dealLabel": "아이템별 저가",
-          "median": 4000.0
-        }
-      },
       {
         "kind": "방어구",
         "enchant": "+5",
