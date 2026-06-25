@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 13:16:58 KST",
+  "checkedAt": "2026-06-25 13:24:59 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -189,7 +189,7 @@
         "enchant": "+9",
         "name": "싸울아비 장검",
         "price": "30다이아",
-        "note": "중앙 61.5 • 초저가 의심",
+        "note": "중앙 60 • 초저가 의심",
         "raw": {
           "itemId": 100140003,
           "itemName": "+9 싸울아비 장검",
@@ -197,7 +197,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 61.5
+          "median": 60.0
         }
       },
       {
@@ -316,6 +316,22 @@
     "heroic": [
       {
         "kind": "악세사리",
+        "enchant": "+3",
+        "name": "아펠라의 목걸이 (초월 +3)",
+        "price": "500다이아",
+        "note": "중앙 749.5 • 하위권",
+        "raw": {
+          "itemId": 360130208,
+          "itemName": "+3 아펠라의 목걸이 (초월 +3)",
+          "enchantLevel": 3,
+          "salePrice": 500.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 749.5
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+0",
         "name": "작열의 반지",
         "price": "850다이아",
@@ -415,7 +431,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "150다이아",
-        "note": "중앙 297.5 • 초저가 의심",
+        "note": "중앙 295 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -423,7 +439,7 @@
           "salePrice": 150.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 297.5
+          "median": 295.0
         }
       }
     ],
