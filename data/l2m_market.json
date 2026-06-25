@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 13:33:00 KST",
+  "checkedAt": "2026-06-25 13:41:01 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -219,6 +219,22 @@
       {
         "kind": "악세사리",
         "enchant": "+4",
+        "name": "헤르문쿠스의 반지",
+        "price": "23다이아",
+        "note": "중앙 41.5 • 초저가 의심",
+        "raw": {
+          "itemId": 300340012,
+          "itemName": "+4 헤르문쿠스의 반지",
+          "enchantLevel": 4,
+          "salePrice": 23.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 41.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+4",
         "name": "헤르문쿠스의 목걸이",
         "price": "30다이아",
         "note": "중앙 82 • 초저가 의심",
@@ -376,22 +392,6 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 289.5
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+7",
-        "name": "카오스 브레이커",
-        "price": "185다이아",
-        "note": "중앙 399 • 초저가 의심",
-        "raw": {
-          "itemId": 100930001,
-          "itemName": "+7 카오스 브레이커",
-          "enchantLevel": 7,
-          "salePrice": 185.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 399.0
         }
       },
       {
