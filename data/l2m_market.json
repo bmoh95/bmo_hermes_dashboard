@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 00:39:32 KST",
+  "checkedAt": "2026-06-26 00:47:33 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -237,7 +237,7 @@
         "enchant": "+8",
         "name": "아이스 스톰 트윈 액스",
         "price": "85다이아",
-        "note": "중앙 106 • 하위권",
+        "note": "중앙 105 • 하위권",
         "raw": {
           "itemId": 101340001,
           "itemName": "+8 아이스 스톰 트윈 액스",
@@ -245,7 +245,7 @@
           "salePrice": 85.0,
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 106.0
+          "median": 105.0
         }
       },
       {
@@ -317,15 +317,15 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 100 • 초저가 의심",
+        "note": "중앙 99.5 • 저가",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
           "enchantLevel": 4,
           "salePrice": 65.0,
           "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 100.0
+          "dealLabel": "아이템별 저가",
+          "median": 99.5
         }
       },
       {
