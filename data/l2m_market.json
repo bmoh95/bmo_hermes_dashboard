@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 15:45:17 KST",
+  "checkedAt": "2026-06-25 15:53:19 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -431,7 +431,7 @@
         "enchant": "+7",
         "name": "네비트의 부츠",
         "price": "120다이아",
-        "note": "중앙 299.5 • 초저가 의심",
+        "note": "중앙 289.5 • 초저가 의심",
         "raw": {
           "itemId": 200430006,
           "itemName": "+7 네비트의 부츠",
@@ -439,7 +439,7 @@
           "salePrice": 120.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 299.5
+          "median": 289.5
         }
       },
       {
@@ -472,6 +472,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1149.5
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "계승자의 서 (인크리즈 인텔리전스)",
+        "price": "125다이아",
+        "note": "중앙 267.5 • 초저가 의심",
+        "raw": {
+          "itemId": 500303003,
+          "itemName": "계승자의 서 (인크리즈 인텔리전스)",
+          "enchantLevel": 0,
+          "salePrice": 125.0,
+          "category": "스킬북",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 267.5
         }
       },
       {
