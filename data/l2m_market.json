@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 18:11:38 KST",
+  "checkedAt": "2026-06-25 18:19:36 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -399,7 +399,7 @@
         "enchant": "+0",
         "name": "작열의 반지",
         "price": "850다이아",
-        "note": "중앙 1,215 • 하위권",
+        "note": "중앙 1,196.5 • 하위권",
         "raw": {
           "itemId": 300330015,
           "itemName": "작열의 반지",
@@ -407,7 +407,7 @@
           "salePrice": 850.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1215.0
+          "median": 1196.5
         }
       },
       {
@@ -490,22 +490,6 @@
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 9615.0
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "계승자의 서 (인캐퍼빌리티)",
-        "price": "3,500다이아",
-        "note": "중앙 4,150 • 저가",
-        "raw": {
-          "itemId": 500302027,
-          "itemName": "계승자의 서 (인캐퍼빌리티)",
-          "enchantLevel": 0,
-          "salePrice": 3500.0,
-          "category": "스킬북",
-          "dealLabel": "아이템별 저가",
-          "median": 4150.0
         }
       },
       {
