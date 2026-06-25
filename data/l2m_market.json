@@ -1,25 +1,9 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 21:18:04 KST",
+  "checkedAt": "2026-06-25 21:26:05 KST",
   "errors": [],
   "groups": {
     "common": [
-      {
-        "kind": "악세사리",
-        "enchant": "+3",
-        "name": "타이거 아이",
-        "price": "10다이아",
-        "note": "중앙 24 • 초저가 의심",
-        "raw": {
-          "itemId": 300260007,
-          "itemName": "+3 타이거 아이",
-          "enchantLevel": 3,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 24.0
-        }
-      },
       {
         "kind": "악세사리",
         "enchant": "+5",
@@ -91,7 +75,7 @@
         "enchant": "+5",
         "name": "흑광의 목걸이",
         "price": "12다이아",
-        "note": "중앙 38.5 • 초저가 의심",
+        "note": "중앙 33 • 초저가 의심",
         "raw": {
           "itemId": 300150003,
           "itemName": "+5 흑광의 목걸이",
@@ -99,7 +83,7 @@
           "salePrice": 12.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 38.5
+          "median": 33.0
         }
       },
       {
@@ -253,7 +237,7 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 100 • 초저가 의심",
+        "note": "중앙 105 • 초저가 의심",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
@@ -261,7 +245,7 @@
           "salePrice": 65.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 100.0
+          "median": 105.0
         }
       },
       {
@@ -333,7 +317,7 @@
         "enchant": "+1",
         "name": "여명의 견갑",
         "price": "250다이아",
-        "note": "중앙 315 • 저가",
+        "note": "중앙 312.5 • 저가",
         "raw": {
           "itemId": 200940006,
           "itemName": "+1 여명의 견갑",
@@ -341,7 +325,7 @@
           "salePrice": 250.0,
           "category": "방어구",
           "dealLabel": "아이템별 저가",
-          "median": 315.0
+          "median": 312.5
         }
       },
       {
@@ -399,7 +383,7 @@
         "enchant": "+7",
         "name": "블러디 네뷸라이트 (초월 +2)",
         "price": "599다이아",
-        "note": "중앙 1,121 • 초저가 의심",
+        "note": "중앙 1,160.5 • 초저가 의심",
         "raw": {
           "itemId": 160530105,
           "itemName": "+7 블러디 네뷸라이트 (초월 +2)",
@@ -407,7 +391,7 @@
           "salePrice": 599.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1121.0
+          "median": 1160.5
         }
       },
       {
