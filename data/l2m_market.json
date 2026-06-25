@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 01:19:36 KST",
+  "checkedAt": "2026-06-26 01:27:36 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -198,22 +198,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 55.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "싸울아비 장검",
-        "price": "30다이아",
-        "note": "중앙 66 • 초저가 의심",
-        "raw": {
-          "itemId": 100140003,
-          "itemName": "+9 싸울아비 장검",
-          "enchantLevel": 9,
-          "salePrice": 30.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 66.0
         }
       },
       {
@@ -495,7 +479,7 @@
         "enchant": "+7",
         "name": "네비트의 부츠",
         "price": "120다이아",
-        "note": "중앙 290 • 초저가 의심",
+        "note": "중앙 293.5 • 초저가 의심",
         "raw": {
           "itemId": 200430006,
           "itemName": "+7 네비트의 부츠",
@@ -503,7 +487,7 @@
           "salePrice": 120.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 290.0
+          "median": 293.5
         }
       },
       {
