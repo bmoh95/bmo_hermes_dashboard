@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 08:50:22 KST",
+  "checkedAt": "2026-06-25 08:58:23 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -262,22 +262,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 84.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+0",
-        "name": "사피로스의 네크리스",
-        "price": "57다이아",
-        "note": "중앙 74 • 저가",
-        "raw": {
-          "itemId": 300140012,
-          "itemName": "사피로스의 네크리스",
-          "enchantLevel": 0,
-          "salePrice": 57.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 74.0
         }
       },
       {
