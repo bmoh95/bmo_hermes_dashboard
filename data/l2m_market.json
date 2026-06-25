@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 03:03:53 KST",
+  "checkedAt": "2026-06-26 03:11:54 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -428,22 +428,6 @@
       },
       {
         "kind": "악세사리",
-        "enchant": "+3",
-        "name": "아펠라의 목걸이 (초월 +3)",
-        "price": "500다이아",
-        "note": "중앙 824.5 • 초저가 의심",
-        "raw": {
-          "itemId": 360130208,
-          "itemName": "+3 아펠라의 목걸이 (초월 +3)",
-          "enchantLevel": 3,
-          "salePrice": 500.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 824.5
-        }
-      },
-      {
-        "kind": "악세사리",
         "enchant": "+5",
         "name": "에키무스의 벨트",
         "price": "1,275다이아",
@@ -456,22 +440,6 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 1781.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+0",
-        "name": "드래곤 헌터",
-        "price": "100다이아",
-        "note": "중앙 208 • 초저가 의심",
-        "raw": {
-          "itemId": 101030001,
-          "itemName": "드래곤 헌터",
-          "enchantLevel": 0,
-          "salePrice": 100.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 208.0
         }
       },
       {
