@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-25 10:02:32 KST",
+  "checkedAt": "2026-06-25 10:10:33 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -230,6 +230,22 @@
           "category": "무기",
           "dealLabel": "아이템별 저가",
           "median": 73.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+3",
+        "name": "화안의 귀걸이",
+        "price": "10다이아",
+        "note": "중앙 27 • 초저가 의심",
+        "raw": {
+          "itemId": 300240007,
+          "itemName": "+3 화안의 귀걸이",
+          "enchantLevel": 3,
+          "salePrice": 10.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 27.0
         }
       },
       {

@@ -46,7 +46,7 @@ function splitMarkdownSections(text) {
 }
 
 function isSystemSection(title) {
-  return /(점성술|사주|자미두수|이름풀이)\s*관점/.test(title);
+  return /(점성술|사주|자미두수|이름풀이).*관점/.test(title);
 }
 
 function isOverviewSection(title) {
