@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 13:33:17 KST",
+  "checkedAt": "2026-06-26 13:41:18 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -349,7 +349,7 @@
         "enchant": "+1",
         "name": "사념의 견갑",
         "price": "170다이아",
-        "note": "중앙 320 • 초저가 의심",
+        "note": "중앙 310 • 초저가 의심",
         "raw": {
           "itemId": 200940010,
           "itemName": "+1 사념의 견갑",
@@ -357,7 +357,7 @@
           "salePrice": 170.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 320.0
+          "median": 310.0
         }
       },
       {
@@ -399,7 +399,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 799.5 • 초저가 의심",
+        "note": "중앙 800 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -407,7 +407,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 799.5
+          "median": 800.0
         }
       },
       {
