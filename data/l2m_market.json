@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 06:59:37 KST",
+  "checkedAt": "2026-06-27 07:07:38 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -221,15 +221,15 @@
         "enchant": "+0",
         "name": "창술서 (라이트닝 스트라이크)",
         "price": "30다이아",
-        "note": "중앙 47.5 • 초저가 의심",
+        "note": "중앙 45 • 저가",
         "raw": {
           "itemId": 500374003,
           "itemName": "창술서 (라이트닝 스트라이크)",
           "enchantLevel": 0,
           "salePrice": 30.0,
           "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 47.5
+          "dealLabel": "아이템별 저가",
+          "median": 45.0
         }
       },
       {
