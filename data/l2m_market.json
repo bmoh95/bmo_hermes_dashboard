@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 10:20:50 KST",
+  "checkedAt": "2026-06-26 10:28:51 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -476,22 +476,6 @@
       }
     ],
     "legendary": [
-      {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "타락 천사의 장갑 (초월 +1)",
-        "price": "7,500다이아",
-        "note": "중앙 9,730 • 하위권",
-        "raw": {
-          "itemId": 260320003,
-          "itemName": "+5 타락 천사의 장갑 (초월 +1)",
-          "enchantLevel": 5,
-          "salePrice": 7500.0,
-          "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 9730.0
-        }
-      },
       {
         "kind": "스킬북",
         "enchant": "+0",
