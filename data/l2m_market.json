@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 01:54:56 KST",
+  "checkedAt": "2026-06-27 02:02:57 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -285,7 +285,7 @@
         "enchant": "+5",
         "name": "헤르문쿠스의 반지",
         "price": "80다이아",
-        "note": "중앙 97 • 저가",
+        "note": "중앙 99.5 • 저가",
         "raw": {
           "itemId": 300340012,
           "itemName": "+5 헤르문쿠스의 반지",
@@ -293,7 +293,7 @@
           "salePrice": 80.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 97.0
+          "median": 99.5
         }
       },
       {
@@ -383,7 +383,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "150다이아",
-        "note": "중앙 285 • 초저가 의심",
+        "note": "중앙 242.5 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -391,7 +391,7 @@
           "salePrice": 150.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 285.0
+          "median": 242.5
         }
       }
     ],
