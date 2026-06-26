@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 23:14:36 KST",
+  "checkedAt": "2026-06-26 23:22:37 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -43,7 +43,7 @@
         "enchant": "+5",
         "name": "팔라듐 팔찌",
         "price": "40다이아",
-        "note": "중앙 60 • 저가",
+        "note": "중앙 55 • 저가",
         "raw": {
           "itemId": 300550006,
           "itemName": "+5 팔라듐 팔찌",
@@ -51,7 +51,7 @@
           "salePrice": 40.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 60.0
+          "median": 55.0
         }
       },
       {
@@ -153,22 +153,6 @@
         }
       },
       {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "파타",
-        "price": "90다이아",
-        "note": "중앙 106.5 • 저가",
-        "raw": {
-          "itemId": 101240001,
-          "itemName": "+9 파타",
-          "enchantLevel": 9,
-          "salePrice": 90.0,
-          "category": "무기",
-          "dealLabel": "아이템별 저가",
-          "median": 106.5
-        }
-      },
-      {
         "kind": "악세사리",
         "enchant": "+3",
         "name": "열화의 귀걸이",
@@ -189,7 +173,7 @@
         "enchant": "+4",
         "name": "헤르문쿠스의 반지",
         "price": "23다이아",
-        "note": "중앙 41 • 초저가 의심",
+        "note": "중앙 41.5 • 초저가 의심",
         "raw": {
           "itemId": 300340012,
           "itemName": "+4 헤르문쿠스의 반지",
@@ -197,7 +181,7 @@
           "salePrice": 23.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 41.0
+          "median": 41.5
         }
       },
       {
@@ -262,22 +246,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 99.5
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "석궁 훈련서 (보우맨 어빌리티)",
-        "price": "11다이아",
-        "note": "중앙 35 • 초저가 의심",
-        "raw": {
-          "itemId": 500394006,
-          "itemName": "석궁 훈련서 (보우맨 어빌리티)",
-          "enchantLevel": 0,
-          "salePrice": 11.0,
-          "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 35.0
         }
       },
       {
