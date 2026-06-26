@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 19:03:28 KST",
+  "checkedAt": "2026-06-26 19:11:31 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -301,15 +301,15 @@
         "enchant": "+0",
         "name": "창술서 (라이트닝 스트라이크)",
         "price": "30다이아",
-        "note": "중앙 49 • 초저가 의심",
+        "note": "중앙 39.5 • 저가",
         "raw": {
           "itemId": 500374003,
           "itemName": "창술서 (라이트닝 스트라이크)",
           "enchantLevel": 0,
           "salePrice": 30.0,
           "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 49.0
+          "dealLabel": "아이템별 저가",
+          "median": 39.5
         }
       },
       {
@@ -317,7 +317,7 @@
         "enchant": "+1",
         "name": "사념의 견갑",
         "price": "170다이아",
-        "note": "중앙 320 • 초저가 의심",
+        "note": "중앙 310 • 초저가 의심",
         "raw": {
           "itemId": 200940010,
           "itemName": "+1 사념의 견갑",
@@ -325,7 +325,7 @@
           "salePrice": 170.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 320.0
+          "median": 310.0
         }
       },
       {
