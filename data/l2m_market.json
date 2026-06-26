@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 00:34:44 KST",
+  "checkedAt": "2026-06-27 00:42:45 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -189,7 +189,7 @@
         "enchant": "+9",
         "name": "싸울아비 장검",
         "price": "30다이아",
-        "note": "중앙 58.5 • 초저가 의심",
+        "note": "중앙 58 • 초저가 의심",
         "raw": {
           "itemId": 100140003,
           "itemName": "+9 싸울아비 장검",
@@ -197,7 +197,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 58.5
+          "median": 58.0
         }
       },
       {
@@ -426,6 +426,22 @@
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 9730.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+7",
+        "name": "네비트의 빛의 망토 (초월 +1)",
+        "price": "9,900다이아",
+        "note": "중앙 12,000 • 하위권",
+        "raw": {
+          "itemId": 260620001,
+          "itemName": "+7 네비트의 빛의 망토 (초월 +1)",
+          "enchantLevel": 7,
+          "salePrice": 9900.0,
+          "category": "방어구",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 12000.0
         }
       },
       {
