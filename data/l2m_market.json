@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 18:46:59 KST",
+  "checkedAt": "2026-06-26 18:55:22 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -40,22 +40,6 @@
     "uncommon": [
       {
         "kind": "악세사리",
-        "enchant": "+2",
-        "name": "토파즈 목걸이",
-        "price": "10다이아",
-        "note": "중앙 17 • 초저가 의심",
-        "raw": {
-          "itemId": 300150011,
-          "itemName": "+2 토파즈 목걸이",
-          "enchantLevel": 2,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 17.0
-        }
-      },
-      {
-        "kind": "악세사리",
         "enchant": "+5",
         "name": "흑광의 목걸이",
         "price": "12다이아",
@@ -75,7 +59,7 @@
         "enchant": "+5",
         "name": "자수정 목걸이",
         "price": "40다이아",
-        "note": "중앙 97.5 • 초저가 의심",
+        "note": "중앙 95 • 초저가 의심",
         "raw": {
           "itemId": 300150009,
           "itemName": "+5 자수정 목걸이",
@@ -83,7 +67,7 @@
           "salePrice": 40.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 97.5
+          "median": 95.0
         }
       },
       {
@@ -269,7 +253,7 @@
         "enchant": "+5",
         "name": "신성의 수호 반지",
         "price": "50다이아",
-        "note": "중앙 64 • 저가",
+        "note": "중앙 60 • 저가",
         "raw": {
           "itemId": 300340008,
           "itemName": "+5 신성의 수호 반지",
@@ -277,7 +261,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 64.0
+          "median": 60.0
         }
       },
       {
