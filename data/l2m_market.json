@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 21:20:19 KST",
+  "checkedAt": "2026-06-26 21:28:20 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -9,7 +9,7 @@
         "enchant": "+3",
         "name": "타이거 아이",
         "price": "10다이아",
-        "note": "중앙 24 • 초저가 의심",
+        "note": "중앙 23 • 초저가 의심",
         "raw": {
           "itemId": 300260007,
           "itemName": "+3 타이거 아이",
@@ -17,7 +17,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 24.0
+          "median": 23.0
         }
       },
       {
@@ -376,22 +376,6 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 1739.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+0",
-        "name": "드래곤 헌터",
-        "price": "100다이아",
-        "note": "중앙 208 • 초저가 의심",
-        "raw": {
-          "itemId": 101030001,
-          "itemName": "드래곤 헌터",
-          "enchantLevel": 0,
-          "salePrice": 100.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 208.0
         }
       },
       {
