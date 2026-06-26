@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 10:52:55 KST",
+  "checkedAt": "2026-06-26 11:00:56 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -250,6 +250,22 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+3",
+        "name": "열화의 귀걸이",
+        "price": "20다이아",
+        "note": "중앙 45 • 초저가 의심",
+        "raw": {
+          "itemId": 300240008,
+          "itemName": "+3 열화의 귀걸이",
+          "enchantLevel": 3,
+          "salePrice": 20.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 45.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+4",
         "name": "헤르문쿠스의 반지",
         "price": "23다이아",
@@ -367,7 +383,7 @@
         "enchant": "+5",
         "name": "에키무스의 벨트",
         "price": "1,275다이아",
-        "note": "중앙 1,780 • 하위권",
+        "note": "중앙 1,791 • 하위권",
         "raw": {
           "itemId": 300430002,
           "itemName": "+5 에키무스의 벨트",
@@ -375,7 +391,7 @@
           "salePrice": 1275.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1780.0
+          "median": 1791.0
         }
       },
       {
@@ -444,6 +460,22 @@
       }
     ],
     "legendary": [
+      {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "아르카나 시길",
+        "price": "4,200다이아",
+        "note": "중앙 5,090 • 하위권",
+        "raw": {
+          "itemId": 200820003,
+          "itemName": "+5 아르카나 시길",
+          "enchantLevel": 5,
+          "salePrice": 4200.0,
+          "category": "방어구",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 5090.0
+        }
+      },
       {
         "kind": "스킬북",
         "enchant": "+0",
