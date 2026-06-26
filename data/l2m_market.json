@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 11:24:58 KST",
+  "checkedAt": "2026-06-26 11:32:59 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -481,7 +481,7 @@
         "enchant": "+5",
         "name": "아르카나 시길",
         "price": "4,200다이아",
-        "note": "중앙 5,142.5 • 하위권",
+        "note": "중앙 5,195 • 하위권",
         "raw": {
           "itemId": 200820003,
           "itemName": "+5 아르카나 시길",
@@ -489,7 +489,7 @@
           "salePrice": 4200.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 5142.5
+          "median": 5195.0
         }
       },
       {
