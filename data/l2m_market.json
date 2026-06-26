@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 15:25:32 KST",
+  "checkedAt": "2026-06-26 15:33:34 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -424,22 +424,6 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 1767.5
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+7",
-        "name": "네비트의 부츠",
-        "price": "120다이아",
-        "note": "중앙 288.5 • 초저가 의심",
-        "raw": {
-          "itemId": 200430006,
-          "itemName": "+7 네비트의 부츠",
-          "enchantLevel": 7,
-          "salePrice": 120.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 288.5
         }
       },
       {
