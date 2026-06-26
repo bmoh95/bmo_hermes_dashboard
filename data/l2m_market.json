@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 20:15:11 KST",
+  "checkedAt": "2026-06-26 20:23:35 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -173,7 +173,7 @@
         "enchant": "+3",
         "name": "화안의 귀걸이",
         "price": "10다이아",
-        "note": "중앙 25.5 • 초저가 의심",
+        "note": "중앙 25 • 초저가 의심",
         "raw": {
           "itemId": 300240007,
           "itemName": "+3 화안의 귀걸이",
@@ -181,7 +181,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 25.5
+          "median": 25.0
         }
       },
       {
@@ -301,7 +301,7 @@
         "enchant": "+1",
         "name": "사념의 견갑",
         "price": "170다이아",
-        "note": "중앙 320 • 초저가 의심",
+        "note": "중앙 300 • 초저가 의심",
         "raw": {
           "itemId": 200940010,
           "itemName": "+1 사념의 견갑",
@@ -309,7 +309,7 @@
           "salePrice": 170.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 320.0
+          "median": 300.0
         }
       },
       {
