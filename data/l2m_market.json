@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 17:17:48 KST",
+  "checkedAt": "2026-06-26 17:25:50 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -399,7 +399,7 @@
         "enchant": "+5",
         "name": "에키무스의 벨트",
         "price": "1,275다이아",
-        "note": "중앙 1,767.5 • 하위권",
+        "note": "중앙 1,739 • 하위권",
         "raw": {
           "itemId": 300430002,
           "itemName": "+5 에키무스의 벨트",
@@ -407,7 +407,23 @@
           "salePrice": 1275.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1767.5
+          "median": 1739.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+0",
+        "name": "드래곤 헌터",
+        "price": "100다이아",
+        "note": "중앙 208 • 초저가 의심",
+        "raw": {
+          "itemId": 101030001,
+          "itemName": "드래곤 헌터",
+          "enchantLevel": 0,
+          "salePrice": 100.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 208.0
         }
       },
       {
