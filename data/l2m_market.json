@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 15:41:35 KST",
+  "checkedAt": "2026-06-26 15:49:36 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -52,22 +52,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 20.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+4",
-        "name": "균열의 벨트",
-        "price": "10다이아",
-        "note": "중앙 30 • 초저가 의심",
-        "raw": {
-          "itemId": 300450006,
-          "itemName": "+4 균열의 벨트",
-          "enchantLevel": 4,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 30.0
         }
       },
       {
