@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 09:07:39 KST",
+  "checkedAt": "2026-06-26 09:15:40 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -205,7 +205,7 @@
         "enchant": "+8",
         "name": "커스드 트윈 액스",
         "price": "15다이아",
-        "note": "중앙 57 • 초저가 의심",
+        "note": "중앙 55 • 초저가 의심",
         "raw": {
           "itemId": 101340004,
           "itemName": "+8 커스드 트윈 액스",
@@ -213,7 +213,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 57.0
+          "median": 55.0
         }
       },
       {
@@ -262,22 +262,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 30.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+4",
-        "name": "축복의 벨트",
-        "price": "22다이아",
-        "note": "중앙 55 • 초저가 의심",
-        "raw": {
-          "itemId": 300440001,
-          "itemName": "+4 축복의 벨트",
-          "enchantLevel": 4,
-          "salePrice": 22.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 55.0
         }
       },
       {
@@ -456,6 +440,22 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 293.5
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "악마의 부츠",
+        "price": "190다이아",
+        "note": "중앙 327.5 • 초저가 의심",
+        "raw": {
+          "itemId": 200430001,
+          "itemName": "+5 악마의 부츠",
+          "enchantLevel": 5,
+          "salePrice": 190.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 327.5
         }
       },
       {
