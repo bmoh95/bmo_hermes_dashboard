@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 20:48:16 KST",
+  "checkedAt": "2026-06-26 20:56:17 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -91,7 +91,7 @@
         "enchant": "+4",
         "name": "강철 손목 보호대",
         "price": "99다이아",
-        "note": "중앙 127.5 • 저가",
+        "note": "중앙 120 • 저가",
         "raw": {
           "itemId": 301550002,
           "itemName": "+4 강철 손목 보호대",
@@ -99,7 +99,7 @@
           "salePrice": 99.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 127.5
+          "median": 120.0
         }
       }
     ],
@@ -265,6 +265,22 @@
         }
       },
       {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "헤르문쿠스의 반지",
+        "price": "80다이아",
+        "note": "중앙 97.5 • 저가",
+        "raw": {
+          "itemId": 300340012,
+          "itemName": "+5 헤르문쿠스의 반지",
+          "enchantLevel": 5,
+          "salePrice": 80.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 97.5
+        }
+      },
+      {
         "kind": "스킬북",
         "enchant": "+0",
         "name": "석궁 훈련서 (보우맨 어빌리티)",
@@ -383,7 +399,7 @@
         "enchant": "+7",
         "name": "둠 싱어 (초월 +2)",
         "price": "599다이아",
-        "note": "중앙 1,100 • 초저가 의심",
+        "note": "중앙 999 • 초저가 의심",
         "raw": {
           "itemId": 160830102,
           "itemName": "+7 둠 싱어 (초월 +2)",
@@ -391,7 +407,7 @@
           "salePrice": 599.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1100.0
+          "median": 999.0
         }
       },
       {
