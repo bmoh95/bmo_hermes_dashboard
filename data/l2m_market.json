@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 02:10:58 KST",
+  "checkedAt": "2026-06-27 02:18:59 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -237,7 +237,7 @@
         "enchant": "+3",
         "name": "말룩의 목걸이",
         "price": "29다이아",
-        "note": "중앙 66 • 초저가 의심",
+        "note": "중앙 68 • 초저가 의심",
         "raw": {
           "itemId": 300140015,
           "itemName": "+3 말룩의 목걸이",
@@ -245,7 +245,7 @@
           "salePrice": 29.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 66.0
+          "median": 68.0
         }
       },
       {
@@ -278,22 +278,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 105.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "헤르문쿠스의 반지",
-        "price": "80다이아",
-        "note": "중앙 99.5 • 저가",
-        "raw": {
-          "itemId": 300340012,
-          "itemName": "+5 헤르문쿠스의 반지",
-          "enchantLevel": 5,
-          "salePrice": 80.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 99.5
         }
       },
       {
