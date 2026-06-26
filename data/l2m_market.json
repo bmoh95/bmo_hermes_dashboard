@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 07:47:43 KST",
+  "checkedAt": "2026-06-27 07:55:44 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -88,22 +88,6 @@
       },
       {
         "kind": "악세사리",
-        "enchant": "+5",
-        "name": "차원의 귀걸이",
-        "price": "50다이아",
-        "note": "중앙 73 • 저가",
-        "raw": {
-          "itemId": 300250006,
-          "itemName": "+5 차원의 귀걸이",
-          "enchantLevel": 5,
-          "salePrice": 50.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 73.0
-        }
-      },
-      {
-        "kind": "악세사리",
         "enchant": "+4",
         "name": "빛나는 유물",
         "price": "88다이아",
@@ -123,7 +107,7 @@
         "enchant": "+4",
         "name": "강철 손목 보호대",
         "price": "99다이아",
-        "note": "중앙 120 • 저가",
+        "note": "중앙 118 • 저가",
         "raw": {
           "itemId": 301550002,
           "itemName": "+4 강철 손목 보호대",
@@ -131,7 +115,7 @@
           "salePrice": 99.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 120.0
+          "median": 118.0
         }
       }
     ],
