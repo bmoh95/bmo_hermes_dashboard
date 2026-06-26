@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 10:44:54 KST",
+  "checkedAt": "2026-06-26 10:52:55 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -297,22 +297,6 @@
         }
       },
       {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "마도서 (마나 리제네레이션)",
-        "price": "10다이아",
-        "note": "중앙 17 • 초저가 의심",
-        "raw": {
-          "itemId": 500354006,
-          "itemName": "마도서 (마나 리제네레이션)",
-          "enchantLevel": 0,
-          "salePrice": 10.0,
-          "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 17.0
-        }
-      },
-      {
         "kind": "견갑",
         "enchant": "+1",
         "name": "사념의 견갑",
@@ -415,7 +399,7 @@
         "enchant": "+7",
         "name": "블러디 네뷸라이트 (초월 +2)",
         "price": "599다이아",
-        "note": "중앙 1,110.5 • 초저가 의심",
+        "note": "중앙 1,100 • 초저가 의심",
         "raw": {
           "itemId": 160530105,
           "itemName": "+7 블러디 네뷸라이트 (초월 +2)",
@@ -423,7 +407,7 @@
           "salePrice": 599.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1110.5
+          "median": 1100.0
         }
       },
       {
