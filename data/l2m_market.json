@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 18:38:59 KST",
+  "checkedAt": "2026-06-26 18:46:59 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -91,7 +91,7 @@
         "enchant": "+5",
         "name": "팔라듐 팔찌",
         "price": "40다이아",
-        "note": "중앙 64.5 • 초저가 의심",
+        "note": "중앙 65 • 초저가 의심",
         "raw": {
           "itemId": 300550006,
           "itemName": "+5 팔라듐 팔찌",
@@ -99,7 +99,7 @@
           "salePrice": 40.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 64.5
+          "median": 65.0
         }
       },
       {
@@ -299,6 +299,22 @@
       {
         "kind": "스킬북",
         "enchant": "+0",
+        "name": "석궁 훈련서 (보우맨 어빌리티)",
+        "price": "11다이아",
+        "note": "중앙 30 • 초저가 의심",
+        "raw": {
+          "itemId": 500394006,
+          "itemName": "석궁 훈련서 (보우맨 어빌리티)",
+          "enchantLevel": 0,
+          "salePrice": 11.0,
+          "category": "스킬북",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 30.0
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
         "name": "창술서 (라이트닝 스트라이크)",
         "price": "30다이아",
         "note": "중앙 49 • 초저가 의심",
@@ -348,22 +364,6 @@
     "heroic": [
       {
         "kind": "악세사리",
-        "enchant": "+1",
-        "name": "심연의 벨트",
-        "price": "199다이아",
-        "note": "중앙 300 • 초저가 의심",
-        "raw": {
-          "itemId": 300430009,
-          "itemName": "+1 심연의 벨트",
-          "enchantLevel": 1,
-          "salePrice": 199.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 300.0
-        }
-      },
-      {
-        "kind": "악세사리",
         "enchant": "+5",
         "name": "에키무스의 벨트",
         "price": "1,275다이아",
@@ -395,22 +395,6 @@
         }
       },
       {
-        "kind": "방어구",
-        "enchant": "+6",
-        "name": "잊혀진 영웅의 흉갑",
-        "price": "200다이아",
-        "note": "중앙 315 • 초저가 의심",
-        "raw": {
-          "itemId": 200130010,
-          "itemName": "+6 잊혀진 영웅의 흉갑",
-          "enchantLevel": 6,
-          "salePrice": 200.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 315.0
-        }
-      },
-      {
         "kind": "무기",
         "enchant": "+7",
         "name": "블러디 네뷸라이트 (초월 +2)",
@@ -431,7 +415,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "599다이아",
-        "note": "중앙 1,200 • 초저가 의심",
+        "note": "중앙 1,199.5 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -439,7 +423,7 @@
           "salePrice": 599.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1200.0
+          "median": 1199.5
         }
       },
       {
