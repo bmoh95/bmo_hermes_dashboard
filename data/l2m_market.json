@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 23:22:37 KST",
+  "checkedAt": "2026-06-26 23:30:38 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -38,6 +38,22 @@
       }
     ],
     "uncommon": [
+      {
+        "kind": "악세사리",
+        "enchant": "+2",
+        "name": "토파즈 목걸이",
+        "price": "10다이아",
+        "note": "중앙 17 • 초저가 의심",
+        "raw": {
+          "itemId": 300150011,
+          "itemName": "+2 토파즈 목걸이",
+          "enchantLevel": 2,
+          "salePrice": 10.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 17.0
+        }
+      },
       {
         "kind": "악세사리",
         "enchant": "+5",
@@ -137,22 +153,6 @@
         }
       },
       {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "크로노 키타라",
-        "price": "45다이아",
-        "note": "중앙 61 • 저가",
-        "raw": {
-          "itemId": 101040001,
-          "itemName": "+9 크로노 키타라",
-          "enchantLevel": 9,
-          "salePrice": 45.0,
-          "category": "무기",
-          "dealLabel": "아이템별 저가",
-          "median": 61.0
-        }
-      },
-      {
         "kind": "악세사리",
         "enchant": "+3",
         "name": "열화의 귀걸이",
@@ -237,7 +237,7 @@
         "enchant": "+5",
         "name": "헤르문쿠스의 반지",
         "price": "80다이아",
-        "note": "중앙 99.5 • 저가",
+        "note": "중앙 97 • 저가",
         "raw": {
           "itemId": 300340012,
           "itemName": "+5 헤르문쿠스의 반지",
@@ -245,7 +245,7 @@
           "salePrice": 80.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 99.5
+          "median": 97.0
         }
       },
       {
@@ -253,7 +253,7 @@
         "enchant": "+0",
         "name": "창술서 (라이트닝 스트라이크)",
         "price": "30다이아",
-        "note": "중앙 49 • 초저가 의심",
+        "note": "중앙 47 • 초저가 의심",
         "raw": {
           "itemId": 500374003,
           "itemName": "창술서 (라이트닝 스트라이크)",
@@ -261,7 +261,7 @@
           "salePrice": 30.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 49.0
+          "median": 47.0
         }
       },
       {
@@ -298,22 +298,6 @@
       }
     ],
     "heroic": [
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "에키무스의 벨트",
-        "price": "1,275다이아",
-        "note": "중앙 1,728 • 하위권",
-        "raw": {
-          "itemId": 300430002,
-          "itemName": "+5 에키무스의 벨트",
-          "enchantLevel": 5,
-          "salePrice": 1275.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 1728.0
-        }
-      },
       {
         "kind": "무기",
         "enchant": "+7",
