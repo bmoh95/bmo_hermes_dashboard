@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 17:57:55 KST",
+  "checkedAt": "2026-06-26 18:06:37 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -217,22 +217,6 @@
         }
       },
       {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "파타",
-        "price": "90다이아",
-        "note": "중앙 106.5 • 저가",
-        "raw": {
-          "itemId": 101240001,
-          "itemName": "+9 파타",
-          "enchantLevel": 9,
-          "salePrice": 90.0,
-          "category": "무기",
-          "dealLabel": "아이템별 저가",
-          "median": 106.5
-        }
-      },
-      {
         "kind": "악세사리",
         "enchant": "+4",
         "name": "마염의 반지",
@@ -365,7 +349,7 @@
         "enchant": "+1",
         "name": "여명의 견갑",
         "price": "250다이아",
-        "note": "중앙 315 • 저가",
+        "note": "중앙 312.5 • 저가",
         "raw": {
           "itemId": 200940006,
           "itemName": "+1 여명의 견갑",
@@ -373,7 +357,7 @@
           "salePrice": 250.0,
           "category": "방어구",
           "dealLabel": "아이템별 저가",
-          "median": 315.0
+          "median": 312.5
         }
       },
       {
