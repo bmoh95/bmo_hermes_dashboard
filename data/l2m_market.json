@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 19:51:09 KST",
+  "checkedAt": "2026-06-26 19:59:11 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -141,7 +141,7 @@
         "enchant": "+9",
         "name": "바라키엘 체인소드",
         "price": "29다이아",
-        "note": "중앙 54.5 • 초저가 의심",
+        "note": "중앙 54 • 초저가 의심",
         "raw": {
           "itemId": 101040002,
           "itemName": "+9 바라키엘 체인소드",
@@ -149,7 +149,7 @@
           "salePrice": 29.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 54.5
+          "median": 54.0
         }
       },
       {
