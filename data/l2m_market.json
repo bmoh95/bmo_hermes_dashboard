@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 07:39:42 KST",
+  "checkedAt": "2026-06-27 07:47:43 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -287,7 +287,7 @@
         "enchant": "+5",
         "name": "에키무스의 벨트",
         "price": "1,275다이아",
-        "note": "중앙 1,721 • 하위권",
+        "note": "중앙 1,727 • 하위권",
         "raw": {
           "itemId": 300430002,
           "itemName": "+5 에키무스의 벨트",
@@ -295,7 +295,7 @@
           "salePrice": 1275.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1721.0
+          "median": 1727.0
         }
       },
       {
