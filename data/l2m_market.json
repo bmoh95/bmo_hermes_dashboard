@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 21:36:21 KST",
+  "checkedAt": "2026-06-26 21:45:23 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -310,22 +310,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 97.5
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "석궁 훈련서 (보우맨 어빌리티)",
-        "price": "11다이아",
-        "note": "중앙 30 • 초저가 의심",
-        "raw": {
-          "itemId": 500394006,
-          "itemName": "석궁 훈련서 (보우맨 어빌리티)",
-          "enchantLevel": 0,
-          "salePrice": 11.0,
-          "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 30.0
         }
       },
       {
