@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 08:19:46 KST",
+  "checkedAt": "2026-06-27 08:27:47 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -107,7 +107,7 @@
         "enchant": "+4",
         "name": "강철 손목 보호대",
         "price": "99다이아",
-        "note": "중앙 118 • 저가",
+        "note": "중앙 120 • 저가",
         "raw": {
           "itemId": 301550002,
           "itemName": "+4 강철 손목 보호대",
@@ -115,7 +115,7 @@
           "salePrice": 99.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 118.0
+          "median": 120.0
         }
       }
     ],
@@ -223,7 +223,7 @@
         "enchant": "+4",
         "name": "마제스틱 네크리스",
         "price": "487다이아",
-        "note": "중앙 720 • 하위권",
+        "note": "중앙 748 • 하위권",
         "raw": {
           "itemId": 300130007,
           "itemName": "+4 마제스틱 네크리스",
@@ -231,7 +231,7 @@
           "salePrice": 487.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 720.0
+          "median": 748.0
         }
       },
       {
