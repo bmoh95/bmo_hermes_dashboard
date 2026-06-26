@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 11:57:03 KST",
+  "checkedAt": "2026-06-26 12:05:04 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -66,6 +66,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 24.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "옛 숲의 목걸이",
+        "price": "55다이아",
+        "note": "중앙 66 • 저가",
+        "raw": {
+          "itemId": 300160003,
+          "itemName": "+5 옛 숲의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 55.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 66.0
         }
       }
     ],
@@ -415,7 +431,7 @@
         "enchant": "+7",
         "name": "블러디 네뷸라이트 (초월 +2)",
         "price": "599다이아",
-        "note": "중앙 1,100 • 초저가 의심",
+        "note": "중앙 1,110.5 • 초저가 의심",
         "raw": {
           "itemId": 160530105,
           "itemName": "+7 블러디 네뷸라이트 (초월 +2)",
@@ -423,7 +439,7 @@
           "salePrice": 599.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1100.0
+          "median": 1110.5
         }
       },
       {
@@ -465,7 +481,7 @@
         "enchant": "+5",
         "name": "아르카나 시길",
         "price": "4,200다이아",
-        "note": "중앙 5,195 • 하위권",
+        "note": "중앙 5,272.5 • 하위권",
         "raw": {
           "itemId": 200820003,
           "itemName": "+5 아르카나 시길",
@@ -473,7 +489,7 @@
           "salePrice": 4200.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 5195.0
+          "median": 5272.5
         }
       },
       {
