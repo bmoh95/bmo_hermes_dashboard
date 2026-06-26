@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 17:25:50 KST",
+  "checkedAt": "2026-06-26 17:33:51 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -189,7 +189,7 @@
         "enchant": "+9",
         "name": "크로노 키타라",
         "price": "45다이아",
-        "note": "중앙 61 • 저가",
+        "note": "중앙 62.5 • 저가",
         "raw": {
           "itemId": 101040001,
           "itemName": "+9 크로노 키타라",
@@ -197,7 +197,7 @@
           "salePrice": 45.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 61.0
+          "median": 62.5
         }
       },
       {
@@ -376,22 +376,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 300.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+3",
-        "name": "마제스틱 네크리스 (초월 +3)",
-        "price": "440다이아",
-        "note": "중앙 630 • 하위권",
-        "raw": {
-          "itemId": 360130207,
-          "itemName": "+3 마제스틱 네크리스 (초월 +3)",
-          "enchantLevel": 3,
-          "salePrice": 440.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 630.0
         }
       },
       {
