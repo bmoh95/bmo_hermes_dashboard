@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 17:33:51 KST",
+  "checkedAt": "2026-06-26 17:41:52 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -189,7 +189,7 @@
         "enchant": "+9",
         "name": "크로노 키타라",
         "price": "45다이아",
-        "note": "중앙 62.5 • 저가",
+        "note": "중앙 61 • 저가",
         "raw": {
           "itemId": 101040001,
           "itemName": "+9 크로노 키타라",
@@ -197,7 +197,7 @@
           "salePrice": 45.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 62.5
+          "median": 61.0
         }
       },
       {
@@ -358,6 +358,22 @@
           "category": "방어구",
           "dealLabel": "아이템별 저가",
           "median": 315.0
+        }
+      },
+      {
+        "kind": "견갑",
+        "enchant": "+3",
+        "name": "파수꾼의 견갑",
+        "price": "900다이아",
+        "note": "중앙 1,350 • 저가",
+        "raw": {
+          "itemId": 200940024,
+          "itemName": "+3 파수꾼의 견갑",
+          "enchantLevel": 3,
+          "salePrice": 900.0,
+          "category": "방어구",
+          "dealLabel": "아이템별 저가",
+          "median": 1350.0
         }
       }
     ],
