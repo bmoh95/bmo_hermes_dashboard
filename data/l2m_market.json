@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 02:59:05 KST",
+  "checkedAt": "2026-06-27 03:07:06 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -189,7 +189,7 @@
         "enchant": "+9",
         "name": "파타",
         "price": "90다이아",
-        "note": "중앙 106 • 저가",
+        "note": "중앙 107 • 저가",
         "raw": {
           "itemId": 101240001,
           "itemName": "+9 파타",
@@ -197,7 +197,7 @@
           "salePrice": 90.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 106.0
+          "median": 107.0
         }
       },
       {
