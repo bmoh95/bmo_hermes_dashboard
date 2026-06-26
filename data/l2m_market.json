@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 14:05:21 KST",
+  "checkedAt": "2026-06-26 14:13:22 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -123,7 +123,7 @@
         "enchant": "+5",
         "name": "팔라듐 팔찌",
         "price": "40다이아",
-        "note": "중앙 62.5 • 초저가 의심",
+        "note": "중앙 64 • 초저가 의심",
         "raw": {
           "itemId": 300550006,
           "itemName": "+5 팔라듐 팔찌",
@@ -131,7 +131,7 @@
           "salePrice": 40.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 62.5
+          "median": 64.0
         }
       },
       {
@@ -220,13 +220,13 @@
         "kind": "악세사리",
         "enchant": "+4",
         "name": "마염의 반지",
-        "price": "15다이아",
+        "price": "10다이아",
         "note": "중앙 30 • 초저가 의심",
         "raw": {
           "itemId": 300340013,
           "itemName": "+4 마염의 반지",
           "enchantLevel": 4,
-          "salePrice": 15.0,
+          "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 30.0
@@ -262,22 +262,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 40.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+3",
-        "name": "말룩의 목걸이",
-        "price": "29다이아",
-        "note": "중앙 66 • 초저가 의심",
-        "raw": {
-          "itemId": 300140015,
-          "itemName": "+3 말룩의 목걸이",
-          "enchantLevel": 3,
-          "salePrice": 29.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 66.0
         }
       },
       {
@@ -440,6 +424,22 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 293.5
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+6",
+        "name": "잊혀진 영웅의 흉갑",
+        "price": "200다이아",
+        "note": "중앙 315 • 초저가 의심",
+        "raw": {
+          "itemId": 200130010,
+          "itemName": "+6 잊혀진 영웅의 흉갑",
+          "enchantLevel": 6,
+          "salePrice": 200.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 315.0
         }
       },
       {
