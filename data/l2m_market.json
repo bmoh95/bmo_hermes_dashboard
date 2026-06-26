@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 22:01:25 KST",
+  "checkedAt": "2026-06-26 22:09:26 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -38,38 +38,6 @@
       }
     ],
     "uncommon": [
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "흑광의 목걸이",
-        "price": "12다이아",
-        "note": "중앙 34 • 초저가 의심",
-        "raw": {
-          "itemId": 300150003,
-          "itemName": "+5 흑광의 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 12.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 34.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "자수정 목걸이",
-        "price": "40다이아",
-        "note": "중앙 97.5 • 초저가 의심",
-        "raw": {
-          "itemId": 300150009,
-          "itemName": "+5 자수정 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 40.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 97.5
-        }
-      },
       {
         "kind": "악세사리",
         "enchant": "+5",
@@ -415,7 +383,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "150다이아",
-        "note": "중앙 285 • 초저가 의심",
+        "note": "중앙 290 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -423,7 +391,7 @@
           "salePrice": 150.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 285.0
+          "median": 290.0
         }
       }
     ],
