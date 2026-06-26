@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 05:55:28 KST",
+  "checkedAt": "2026-06-27 06:03:29 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -157,7 +157,7 @@
         "enchant": "+9",
         "name": "바라키엘 체인소드",
         "price": "29다이아",
-        "note": "중앙 54.5 • 초저가 의심",
+        "note": "중앙 54 • 초저가 의심",
         "raw": {
           "itemId": 101040002,
           "itemName": "+9 바라키엘 체인소드",
@@ -165,23 +165,7 @@
           "salePrice": 29.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 54.5
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "싸울아비 장검",
-        "price": "30다이아",
-        "note": "중앙 58 • 초저가 의심",
-        "raw": {
-          "itemId": 100140003,
-          "itemName": "+9 싸울아비 장검",
-          "enchantLevel": 9,
-          "salePrice": 30.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 58.0
+          "median": 54.0
         }
       },
       {
