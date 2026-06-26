@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 05:07:19 KST",
+  "checkedAt": "2026-06-27 05:15:22 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -271,7 +271,7 @@
         "enchant": "+4",
         "name": "마제스틱 네크리스",
         "price": "487다이아",
-        "note": "중앙 710 • 하위권",
+        "note": "중앙 720 • 하위권",
         "raw": {
           "itemId": 300130007,
           "itemName": "+4 마제스틱 네크리스",
@@ -279,7 +279,7 @@
           "salePrice": 487.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 710.0
+          "median": 720.0
         }
       },
       {
