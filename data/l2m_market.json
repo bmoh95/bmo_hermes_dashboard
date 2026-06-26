@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-26 13:41:18 KST",
+  "checkedAt": "2026-06-26 13:49:18 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -189,7 +189,7 @@
         "enchant": "+9",
         "name": "파타",
         "price": "90다이아",
-        "note": "중앙 108 • 저가",
+        "note": "중앙 113 • 저가",
         "raw": {
           "itemId": 101240001,
           "itemName": "+9 파타",
@@ -197,7 +197,7 @@
           "salePrice": 90.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 108.0
+          "median": 113.0
         }
       },
       {
@@ -269,7 +269,7 @@
         "enchant": "+3",
         "name": "말룩의 목걸이",
         "price": "29다이아",
-        "note": "중앙 63 • 초저가 의심",
+        "note": "중앙 66 • 초저가 의심",
         "raw": {
           "itemId": 300140015,
           "itemName": "+3 말룩의 목걸이",
@@ -277,7 +277,7 @@
           "salePrice": 29.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 63.0
+          "median": 66.0
         }
       },
       {
@@ -440,6 +440,22 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 293.5
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+6",
+        "name": "잊혀진 영웅의 흉갑",
+        "price": "200다이아",
+        "note": "중앙 315 • 초저가 의심",
+        "raw": {
+          "itemId": 200130010,
+          "itemName": "+6 잊혀진 영웅의 흉갑",
+          "enchantLevel": 6,
+          "salePrice": 200.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 315.0
         }
       },
       {
