@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 03:15:07 KST",
+  "checkedAt": "2026-06-27 03:23:09 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -59,7 +59,7 @@
         "enchant": "+0",
         "name": "사원의 유물",
         "price": "15다이아",
-        "note": "중앙 3,655 • 초저가 의심",
+        "note": "중앙 1,840 • 초저가 의심",
         "raw": {
           "itemId": 301150011,
           "itemName": "사원의 유물",
@@ -67,7 +67,7 @@
           "salePrice": 15.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 3655.0
+          "median": 1840.0
         }
       },
       {
@@ -182,22 +182,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 58.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "파타",
-        "price": "90다이아",
-        "note": "중앙 107 • 저가",
-        "raw": {
-          "itemId": 101240001,
-          "itemName": "+9 파타",
-          "enchantLevel": 9,
-          "salePrice": 90.0,
-          "category": "무기",
-          "dealLabel": "아이템별 저가",
-          "median": 107.0
         }
       },
       {
