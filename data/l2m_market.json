@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 03:47:12 KST",
+  "checkedAt": "2026-06-27 03:55:13 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -296,6 +296,22 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 1721.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "작열의 반지 (초월 +1)",
+        "price": "2,200다이아",
+        "note": "중앙 3,049.5 • 저가",
+        "raw": {
+          "itemId": 360330015,
+          "itemName": "+1 작열의 반지 (초월 +1)",
+          "enchantLevel": 1,
+          "salePrice": 2200.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 3049.5
         }
       },
       {
