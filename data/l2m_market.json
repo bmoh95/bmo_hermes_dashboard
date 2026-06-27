@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 11:43:12 KST",
+  "checkedAt": "2026-06-27 11:51:13 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -173,7 +173,7 @@
         "enchant": "+9",
         "name": "야크샤 트윈 액스",
         "price": "60다이아",
-        "note": "중앙 90 • 하위권",
+        "note": "중앙 89 • 하위권",
         "raw": {
           "itemId": 101340002,
           "itemName": "+9 야크샤 트윈 액스",
@@ -181,7 +181,23 @@
           "salePrice": 60.0,
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 90.0
+          "median": 89.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+2",
+        "name": "베히모스 가죽 벨트",
+        "price": "10다이아",
+        "note": "중앙 18.5 • 초저가 의심",
+        "raw": {
+          "itemId": 300440003,
+          "itemName": "+2 베히모스 가죽 벨트",
+          "enchantLevel": 2,
+          "salePrice": 10.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 18.5
         }
       },
       {
