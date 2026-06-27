@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 14:16:31 KST",
+  "checkedAt": "2026-06-27 14:24:33 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -41,7 +41,7 @@
         "enchant": "+5",
         "name": "환멸의 팔찌",
         "price": "10다이아",
-        "note": "중앙 23 • 초저가 의심",
+        "note": "중앙 24 • 초저가 의심",
         "raw": {
           "itemId": 300560003,
           "itemName": "+5 환멸의 팔찌",
@@ -49,7 +49,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 23.0
+          "median": 24.0
         }
       }
     ],
@@ -296,6 +296,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1700.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "작열의 반지 (초월 +1)",
+        "price": "2,150다이아",
+        "note": "중앙 3,049.5 • 저가",
+        "raw": {
+          "itemId": 360330015,
+          "itemName": "+1 작열의 반지 (초월 +1)",
+          "enchantLevel": 1,
+          "salePrice": 2150.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 3049.5
         }
       },
       {
