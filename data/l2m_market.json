@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 03:11:13 KST",
+  "checkedAt": "2026-06-28 03:19:14 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -66,6 +66,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 24.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "옛 숲의 목걸이",
+        "price": "54다이아",
+        "note": "중앙 64 • 저가",
+        "raw": {
+          "itemId": 300160003,
+          "itemName": "+5 옛 숲의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 54.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 64.0
         }
       }
     ],
