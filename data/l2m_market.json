@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 15:38:42 KST",
+  "checkedAt": "2026-06-27 15:46:43 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -166,6 +166,22 @@
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 90.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+8",
+        "name": "아바돈 부츠",
+        "price": "10다이아",
+        "note": "중앙 22.5 • 초저가 의심",
+        "raw": {
+          "itemId": 200440005,
+          "itemName": "+8 아바돈 부츠",
+          "enchantLevel": 8,
+          "salePrice": 10.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 22.5
         }
       },
       {
@@ -426,6 +442,22 @@
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 12000.0
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "쌍도끼 전승서 (래쓰 오브 타이탄)",
+        "price": "4,400다이아",
+        "note": "중앙 5,450 • 하위권",
+        "raw": {
+          "itemId": 503222004,
+          "itemName": "쌍도끼 전승서 (래쓰 오브 타이탄)",
+          "enchantLevel": 0,
+          "salePrice": 4400.0,
+          "category": "스킬북",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 5450.0
         }
       },
       {
