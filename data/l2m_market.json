@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 09:15:55 KST",
+  "checkedAt": "2026-06-27 09:24:55 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -150,6 +150,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 54.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "야크샤 트윈 액스",
+        "price": "60다이아",
+        "note": "중앙 88 • 하위권",
+        "raw": {
+          "itemId": 101340002,
+          "itemName": "+9 야크샤 트윈 액스",
+          "enchantLevel": 9,
+          "salePrice": 60.0,
+          "category": "무기",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 88.0
         }
       },
       {
@@ -303,7 +319,7 @@
         "enchant": "+6",
         "name": "잊혀진 영웅의 흉갑",
         "price": "200다이아",
-        "note": "중앙 333 • 초저가 의심",
+        "note": "중앙 326.5 • 초저가 의심",
         "raw": {
           "itemId": 200130010,
           "itemName": "+6 잊혀진 영웅의 흉갑",
@@ -311,7 +327,7 @@
           "salePrice": 200.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 333.0
+          "median": 326.5
         }
       },
       {
