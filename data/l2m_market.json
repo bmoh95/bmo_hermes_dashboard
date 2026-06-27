@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 00:22:49 KST",
+  "checkedAt": "2026-06-28 00:30:50 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -91,7 +91,7 @@
         "enchant": "+5",
         "name": "팔라듐 팔찌",
         "price": "40다이아",
-        "note": "중앙 55 • 저가",
+        "note": "중앙 54.5 • 저가",
         "raw": {
           "itemId": 300550006,
           "itemName": "+5 팔라듐 팔찌",
@@ -99,7 +99,7 @@
           "salePrice": 40.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 55.0
+          "median": 54.5
         }
       },
       {
@@ -230,22 +230,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 99.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "각성의 목걸이",
-        "price": "84다이아",
-        "note": "중앙 100 • 저가",
-        "raw": {
-          "itemId": 300140005,
-          "itemName": "+5 각성의 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 84.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 100.0
         }
       },
       {
@@ -424,6 +408,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1099.0
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "계승자의 서 (인크리즈 위즈덤)",
+        "price": "190다이아",
+        "note": "중앙 265 • 저가",
+        "raw": {
+          "itemId": 500303005,
+          "itemName": "계승자의 서 (인크리즈 위즈덤)",
+          "enchantLevel": 0,
+          "salePrice": 190.0,
+          "category": "스킬북",
+          "dealLabel": "아이템별 저가",
+          "median": 265.0
         }
       }
     ],
