@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 01:02:55 KST",
+  "checkedAt": "2026-06-28 01:10:57 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -237,7 +237,7 @@
         "enchant": "+0",
         "name": "마도서 (템페스트 Ⅱ)",
         "price": "10다이아",
-        "note": "중앙 30.5 • 초저가 의심",
+        "note": "중앙 30 • 초저가 의심",
         "raw": {
           "itemId": 500354007,
           "itemName": "마도서 (템페스트 Ⅱ)",
@@ -245,7 +245,7 @@
           "salePrice": 10.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 30.5
+          "median": 30.0
         }
       },
       {
@@ -383,7 +383,7 @@
         "enchant": "+7",
         "name": "블러디 네뷸라이트 (초월 +2)",
         "price": "599다이아",
-        "note": "중앙 1,110.5 • 초저가 의심",
+        "note": "중앙 1,160.5 • 초저가 의심",
         "raw": {
           "itemId": 160530105,
           "itemName": "+7 블러디 네뷸라이트 (초월 +2)",
@@ -391,7 +391,7 @@
           "salePrice": 599.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1110.5
+          "median": 1160.5
         }
       },
       {
@@ -442,22 +442,6 @@
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 12000.0
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "쌍도끼 전승서 (래쓰 오브 타이탄)",
-        "price": "4,400다이아",
-        "note": "중앙 5,450 • 하위권",
-        "raw": {
-          "itemId": 503222004,
-          "itemName": "쌍도끼 전승서 (래쓰 오브 타이탄)",
-          "enchantLevel": 0,
-          "salePrice": 4400.0,
-          "category": "스킬북",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 5450.0
         }
       },
       {
