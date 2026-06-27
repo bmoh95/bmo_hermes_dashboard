@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 16:10:46 KST",
+  "checkedAt": "2026-06-27 16:18:47 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -314,6 +314,22 @@
       }
     ],
     "heroic": [
+      {
+        "kind": "악세사리",
+        "enchant": "+3",
+        "name": "마제스틱 네크리스 (초월 +1)",
+        "price": "412다이아",
+        "note": "중앙 600 • 저가",
+        "raw": {
+          "itemId": 360130007,
+          "itemName": "+3 마제스틱 네크리스 (초월 +1)",
+          "enchantLevel": 3,
+          "salePrice": 412.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 600.0
+        }
+      },
       {
         "kind": "악세사리",
         "enchant": "+3",
