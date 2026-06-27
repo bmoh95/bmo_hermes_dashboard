@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 03:43:30 KST",
+  "checkedAt": "2026-06-28 03:52:10 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -214,22 +214,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 99.5
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "마도서 (템페스트 Ⅱ)",
-        "price": "10다이아",
-        "note": "중앙 29.5 • 초저가 의심",
-        "raw": {
-          "itemId": 500354007,
-          "itemName": "마도서 (템페스트 Ⅱ)",
-          "enchantLevel": 0,
-          "salePrice": 10.0,
-          "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 29.5
         }
       },
       {
