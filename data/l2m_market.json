@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 11:27:33 KST",
+  "checkedAt": "2026-06-27 11:35:11 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -41,7 +41,7 @@
         "enchant": "+5",
         "name": "환멸의 팔찌",
         "price": "10다이아",
-        "note": "중앙 25 • 초저가 의심",
+        "note": "중앙 24 • 초저가 의심",
         "raw": {
           "itemId": 300560003,
           "itemName": "+5 환멸의 팔찌",
@@ -49,7 +49,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 25.0
+          "median": 24.0
         }
       }
     ],
@@ -237,7 +237,7 @@
         "enchant": "+0",
         "name": "마도서 (마나 리제네레이션)",
         "price": "10다이아",
-        "note": "중앙 16 • 초저가 의심",
+        "note": "중앙 17 • 초저가 의심",
         "raw": {
           "itemId": 500354006,
           "itemName": "마도서 (마나 리제네레이션)",
@@ -245,7 +245,7 @@
           "salePrice": 10.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 16.0
+          "median": 17.0
         }
       },
       {
