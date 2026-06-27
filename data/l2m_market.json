@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 11:59:15 KST",
+  "checkedAt": "2026-06-27 12:07:15 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -198,22 +198,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 16.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+2",
-        "name": "베히모스 가죽 벨트",
-        "price": "10다이아",
-        "note": "중앙 18.5 • 초저가 의심",
-        "raw": {
-          "itemId": 300440003,
-          "itemName": "+2 베히모스 가죽 벨트",
-          "enchantLevel": 2,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 18.5
         }
       },
       {
