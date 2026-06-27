@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 08:51:51 KST",
+  "checkedAt": "2026-06-27 08:59:52 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -107,7 +107,7 @@
         "enchant": "+4",
         "name": "강철 손목 보호대",
         "price": "99다이아",
-        "note": "중앙 120 • 저가",
+        "note": "중앙 127 • 저가",
         "raw": {
           "itemId": 301550002,
           "itemName": "+4 강철 손목 보호대",
@@ -115,7 +115,7 @@
           "salePrice": 99.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 120.0
+          "median": 127.0
         }
       }
     ],
@@ -157,7 +157,7 @@
         "enchant": "+3",
         "name": "말룩의 목걸이",
         "price": "50다이아",
-        "note": "중앙 68 • 저가",
+        "note": "중앙 68.5 • 저가",
         "raw": {
           "itemId": 300140015,
           "itemName": "+3 말룩의 목걸이",
@@ -165,7 +165,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 68.0
+          "median": 68.5
         }
       },
       {
