@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 17:22:56 KST",
+  "checkedAt": "2026-06-27 17:30:58 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -246,22 +246,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 112.0
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "마도서 (마나 리제네레이션)",
-        "price": "10다이아",
-        "note": "중앙 17 • 초저가 의심",
-        "raw": {
-          "itemId": 500354006,
-          "itemName": "마도서 (마나 리제네레이션)",
-          "enchantLevel": 0,
-          "salePrice": 10.0,
-          "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 17.0
         }
       },
       {
