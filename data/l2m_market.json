@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 08:59:52 KST",
+  "checkedAt": "2026-06-27 09:07:53 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -236,6 +236,22 @@
     "heroic": [
       {
         "kind": "악세사리",
+        "enchant": "+0",
+        "name": "광휘의 벨트",
+        "price": "190다이아",
+        "note": "중앙 380 • 초저가 의심",
+        "raw": {
+          "itemId": 300430013,
+          "itemName": "광휘의 벨트",
+          "enchantLevel": 0,
+          "salePrice": 190.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 380.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+4",
         "name": "마제스틱 네크리스",
         "price": "487다이아",
@@ -287,7 +303,7 @@
         "enchant": "+6",
         "name": "잊혀진 영웅의 흉갑",
         "price": "200다이아",
-        "note": "중앙 326.5 • 초저가 의심",
+        "note": "중앙 333 • 초저가 의심",
         "raw": {
           "itemId": 200130010,
           "itemName": "+6 잊혀진 영웅의 흉갑",
@@ -295,7 +311,7 @@
           "salePrice": 200.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 326.5
+          "median": 333.0
         }
       },
       {
