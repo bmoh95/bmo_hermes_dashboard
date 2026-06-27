@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 16:18:47 KST",
+  "checkedAt": "2026-06-27 16:26:48 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -186,22 +186,6 @@
       },
       {
         "kind": "악세사리",
-        "enchant": "+1",
-        "name": "열화의 귀걸이",
-        "price": "10다이아",
-        "note": "중앙 16 • 초저가 의심",
-        "raw": {
-          "itemId": 300240008,
-          "itemName": "+1 열화의 귀걸이",
-          "enchantLevel": 1,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 16.0
-        }
-      },
-      {
-        "kind": "악세사리",
         "enchant": "+4",
         "name": "천궁의 눈",
         "price": "20다이아",
@@ -253,7 +237,7 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 101 • 초저가 의심",
+        "note": "중앙 112 • 초저가 의심",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
@@ -261,7 +245,7 @@
           "salePrice": 65.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 101.0
+          "median": 112.0
         }
       },
       {
@@ -344,6 +328,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 799.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "아나킴의 영혼 목걸이 (초월 +1)",
+        "price": "880다이아",
+        "note": "중앙 1,345 • 하위권",
+        "raw": {
+          "itemId": 360130002,
+          "itemName": "+1 아나킴의 영혼 목걸이 (초월 +1)",
+          "enchantLevel": 1,
+          "salePrice": 880.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 1345.0
         }
       },
       {
