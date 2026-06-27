@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 20:04:17 KST",
+  "checkedAt": "2026-06-27 20:12:18 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -25,7 +25,7 @@
         "enchant": "+3",
         "name": "타이거 아이",
         "price": "10다이아",
-        "note": "중앙 23 • 초저가 의심",
+        "note": "중앙 22 • 초저가 의심",
         "raw": {
           "itemId": 300260007,
           "itemName": "+3 타이거 아이",
@@ -33,7 +33,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 23.0
+          "median": 22.0
         }
       },
       {
@@ -91,7 +91,7 @@
         "enchant": "+3",
         "name": "강철 손목 보호대",
         "price": "50다이아",
-        "note": "중앙 85 • 초저가 의심",
+        "note": "중앙 81 • 초저가 의심",
         "raw": {
           "itemId": 301550002,
           "itemName": "+3 강철 손목 보호대",
@@ -99,7 +99,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 85.0
+          "median": 81.0
         }
       },
       {
@@ -234,22 +234,6 @@
       },
       {
         "kind": "악세사리",
-        "enchant": "+3",
-        "name": "말룩의 목걸이",
-        "price": "50다이아",
-        "note": "중앙 69 • 저가",
-        "raw": {
-          "itemId": 300140015,
-          "itemName": "+3 말룩의 목걸이",
-          "enchantLevel": 3,
-          "salePrice": 50.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 69.0
-        }
-      },
-      {
-        "kind": "악세사리",
         "enchant": "+5",
         "name": "헤르문쿠스의 반지",
         "price": "55다이아",
@@ -294,6 +278,22 @@
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
           "median": 30.5
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "창술서 (라이트닝 스트라이크)",
+        "price": "30다이아",
+        "note": "중앙 40 • 저가",
+        "raw": {
+          "itemId": 500374003,
+          "itemName": "창술서 (라이트닝 스트라이크)",
+          "enchantLevel": 0,
+          "salePrice": 30.0,
+          "category": "스킬북",
+          "dealLabel": "아이템별 저가",
+          "median": 40.0
         }
       },
       {
@@ -431,7 +431,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "599다이아",
-        "note": "중앙 1,199 • 초저가 의심",
+        "note": "중앙 1,099 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -439,23 +439,7 @@
           "salePrice": 599.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1199.0
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "계승자의 서 (인크리즈 위즈덤)",
-        "price": "190다이아",
-        "note": "중앙 255 • 저가",
-        "raw": {
-          "itemId": 500303005,
-          "itemName": "계승자의 서 (인크리즈 위즈덤)",
-          "enchantLevel": 0,
-          "salePrice": 190.0,
-          "category": "스킬북",
-          "dealLabel": "아이템별 저가",
-          "median": 255.0
+          "median": 1099.0
         }
       }
     ],
