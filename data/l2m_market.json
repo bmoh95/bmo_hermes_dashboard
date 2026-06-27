@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 21:33:28 KST",
+  "checkedAt": "2026-06-27 21:41:30 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -50,6 +50,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 24.0
+        }
+      },
+      {
+        "kind": "견갑",
+        "enchant": "+3",
+        "name": "사슬 견갑",
+        "price": "20다이아",
+        "note": "중앙 25 • 저가",
+        "raw": {
+          "itemId": 200960005,
+          "itemName": "+3 사슬 견갑",
+          "enchantLevel": 3,
+          "salePrice": 20.0,
+          "category": "방어구",
+          "dealLabel": "아이템별 저가",
+          "median": 25.0
         }
       }
     ],
@@ -237,7 +253,7 @@
         "enchant": "+5",
         "name": "헤르문쿠스의 반지",
         "price": "55다이아",
-        "note": "중앙 97 • 초저가 의심",
+        "note": "중앙 97.5 • 초저가 의심",
         "raw": {
           "itemId": 300340012,
           "itemName": "+5 헤르문쿠스의 반지",
@@ -245,7 +261,7 @@
           "salePrice": 55.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 97.0
+          "median": 97.5
         }
       },
       {
@@ -319,7 +335,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 824.5 • 초저가 의심",
+        "note": "중앙 869 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -327,7 +343,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 824.5
+          "median": 869.0
         }
       },
       {
