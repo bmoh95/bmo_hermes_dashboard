@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 00:30:50 KST",
+  "checkedAt": "2026-06-28 00:38:51 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -91,15 +91,15 @@
         "enchant": "+5",
         "name": "팔라듐 팔찌",
         "price": "40다이아",
-        "note": "중앙 54.5 • 저가",
+        "note": "중앙 55 • 하위권",
         "raw": {
           "itemId": 300550006,
           "itemName": "+5 팔라듐 팔찌",
           "enchantLevel": 5,
           "salePrice": 40.0,
           "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 54.5
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 55.0
         }
       },
       {
@@ -107,7 +107,7 @@
         "enchant": "+3",
         "name": "강철 손목 보호대",
         "price": "50다이아",
-        "note": "중앙 85 • 초저가 의심",
+        "note": "중앙 84 • 초저가 의심",
         "raw": {
           "itemId": 301550002,
           "itemName": "+3 강철 손목 보호대",
@@ -115,7 +115,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 85.0
+          "median": 84.0
         }
       }
     ],
