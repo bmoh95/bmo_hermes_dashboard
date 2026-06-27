@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 17:47:00 KST",
+  "checkedAt": "2026-06-27 17:55:01 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -70,22 +70,6 @@
       }
     ],
     "uncommon": [
-      {
-        "kind": "악세사리",
-        "enchant": "+0",
-        "name": "사원의 유물",
-        "price": "15다이아",
-        "note": "중앙 1,840 • 초저가 의심",
-        "raw": {
-          "itemId": 301150011,
-          "itemName": "사원의 유물",
-          "enchantLevel": 0,
-          "salePrice": 15.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 1840.0
-        }
-      },
       {
         "kind": "악세사리",
         "enchant": "+5",
@@ -218,10 +202,26 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+4",
+        "name": "헤르문쿠스의 목걸이",
+        "price": "30다이아",
+        "note": "중앙 80 • 초저가 의심",
+        "raw": {
+          "itemId": 300140009,
+          "itemName": "+4 헤르문쿠스의 목걸이",
+          "enchantLevel": 4,
+          "salePrice": 30.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 80.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+3",
         "name": "말룩의 목걸이",
         "price": "50다이아",
-        "note": "중앙 68 • 저가",
+        "note": "중앙 69 • 저가",
         "raw": {
           "itemId": 300140015,
           "itemName": "+3 말룩의 목걸이",
@@ -229,7 +229,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 68.0
+          "median": 69.0
         }
       },
       {
@@ -303,15 +303,15 @@
         "enchant": "+3",
         "name": "마제스틱 네크리스 (초월 +1)",
         "price": "412다이아",
-        "note": "중앙 650 • 초저가 의심",
+        "note": "중앙 600 • 저가",
         "raw": {
           "itemId": 360130007,
           "itemName": "+3 마제스틱 네크리스 (초월 +1)",
           "enchantLevel": 3,
           "salePrice": 412.0,
           "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 650.0
+          "dealLabel": "아이템별 저가",
+          "median": 600.0
         }
       },
       {
@@ -319,7 +319,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 799 • 초저가 의심",
+        "note": "중앙 824.5 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -327,7 +327,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 799.0
+          "median": 824.5
         }
       },
       {
