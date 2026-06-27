@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 23:25:41 KST",
+  "checkedAt": "2026-06-27 23:34:06 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -125,7 +125,7 @@
         "enchant": "+8",
         "name": "커스드 트윈 액스",
         "price": "15다이아",
-        "note": "중앙 58 • 초저가 의심",
+        "note": "중앙 58.5 • 초저가 의심",
         "raw": {
           "itemId": 101340004,
           "itemName": "+8 커스드 트윈 액스",
@@ -133,7 +133,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 58.0
+          "median": 58.5
         }
       },
       {
@@ -376,6 +376,22 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 1738.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "작열의 반지 (초월 +1)",
+        "price": "2,150다이아",
+        "note": "중앙 3,049.5 • 저가",
+        "raw": {
+          "itemId": 360330015,
+          "itemName": "+1 작열의 반지 (초월 +1)",
+          "enchantLevel": 1,
+          "salePrice": 2150.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 3049.5
         }
       },
       {
