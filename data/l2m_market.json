@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 14:00:29 KST",
+  "checkedAt": "2026-06-27 14:08:30 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -299,22 +299,6 @@
         }
       },
       {
-        "kind": "악세사리",
-        "enchant": "+1",
-        "name": "작열의 반지 (초월 +1)",
-        "price": "2,200다이아",
-        "note": "중앙 3,049.5 • 저가",
-        "raw": {
-          "itemId": 360330015,
-          "itemName": "+1 작열의 반지 (초월 +1)",
-          "enchantLevel": 1,
-          "salePrice": 2200.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 3049.5
-        }
-      },
-      {
         "kind": "방어구",
         "enchant": "+6",
         "name": "잊혀진 영웅의 흉갑",
@@ -351,7 +335,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "599다이아",
-        "note": "중앙 1,199 • 초저가 의심",
+        "note": "중앙 1,099.5 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -359,7 +343,7 @@
           "salePrice": 599.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1199.0
+          "median": 1099.5
         }
       }
     ],
