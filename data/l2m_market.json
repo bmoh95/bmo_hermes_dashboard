@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 22:37:38 KST",
+  "checkedAt": "2026-06-27 22:45:39 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -125,7 +125,7 @@
         "enchant": "+8",
         "name": "인페르노 지팡이",
         "price": "10다이아",
-        "note": "중앙 40.5 • 초저가 의심",
+        "note": "중앙 41 • 초저가 의심",
         "raw": {
           "itemId": 100540007,
           "itemName": "+8 인페르노 지팡이",
@@ -133,7 +133,7 @@
           "salePrice": 10.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 40.5
+          "median": 41.0
         }
       },
       {
@@ -182,6 +182,22 @@
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 88.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+8",
+        "name": "아바돈 부츠",
+        "price": "10다이아",
+        "note": "중앙 23 • 초저가 의심",
+        "raw": {
+          "itemId": 200440005,
+          "itemName": "+8 아바돈 부츠",
+          "enchantLevel": 8,
+          "salePrice": 10.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 23.0
         }
       },
       {
@@ -246,22 +262,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 97.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+4",
-        "name": "달의 반지",
-        "price": "65다이아",
-        "note": "중앙 105 • 초저가 의심",
-        "raw": {
-          "itemId": 300340018,
-          "itemName": "+4 달의 반지",
-          "enchantLevel": 4,
-          "salePrice": 65.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 105.0
         }
       },
       {
