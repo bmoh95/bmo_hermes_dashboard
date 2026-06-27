@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 09:24:55 KST",
+  "checkedAt": "2026-06-27 09:32:56 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -38,22 +38,6 @@
       }
     ],
     "uncommon": [
-      {
-        "kind": "악세사리",
-        "enchant": "+2",
-        "name": "토파즈 목걸이",
-        "price": "10다이아",
-        "note": "중앙 17 • 초저가 의심",
-        "raw": {
-          "itemId": 300150011,
-          "itemName": "+2 토파즈 목걸이",
-          "enchantLevel": 2,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 17.0
-        }
-      },
       {
         "kind": "악세사리",
         "enchant": "+0",
@@ -198,6 +182,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 110.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "헤르문쿠스의 반지",
+        "price": "75다이아",
+        "note": "중앙 97 • 저가",
+        "raw": {
+          "itemId": 300340012,
+          "itemName": "+5 헤르문쿠스의 반지",
+          "enchantLevel": 5,
+          "salePrice": 75.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 97.0
         }
       },
       {
