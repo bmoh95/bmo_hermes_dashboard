@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 20:45:03 KST",
+  "checkedAt": "2026-06-27 20:53:23 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -41,7 +41,7 @@
         "enchant": "+5",
         "name": "환멸의 팔찌",
         "price": "10다이아",
-        "note": "중앙 25 • 초저가 의심",
+        "note": "중앙 24 • 초저가 의심",
         "raw": {
           "itemId": 300560003,
           "itemName": "+5 환멸의 팔찌",
@@ -49,7 +49,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 25.0
+          "median": 24.0
         }
       },
       {
@@ -253,7 +253,7 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 101 • 초저가 의심",
+        "note": "중앙 105 • 초저가 의심",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
@@ -261,7 +261,7 @@
           "salePrice": 65.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 101.0
+          "median": 105.0
         }
       },
       {
