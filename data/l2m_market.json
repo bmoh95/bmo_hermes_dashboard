@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 21:25:27 KST",
+  "checkedAt": "2026-06-27 21:33:28 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -314,22 +314,6 @@
       }
     ],
     "heroic": [
-      {
-        "kind": "악세사리",
-        "enchant": "+0",
-        "name": "광휘의 벨트",
-        "price": "200다이아",
-        "note": "중앙 365 • 초저가 의심",
-        "raw": {
-          "itemId": 300430013,
-          "itemName": "광휘의 벨트",
-          "enchantLevel": 0,
-          "salePrice": 200.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 365.0
-        }
-      },
       {
         "kind": "악세사리",
         "enchant": "+3",
