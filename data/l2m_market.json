@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 11:11:08 KST",
+  "checkedAt": "2026-06-27 11:19:09 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -141,7 +141,7 @@
         "enchant": "+8",
         "name": "커스드 트윈 액스",
         "price": "15다이아",
-        "note": "중앙 59 • 초저가 의심",
+        "note": "중앙 57 • 초저가 의심",
         "raw": {
           "itemId": 101340004,
           "itemName": "+8 커스드 트윈 액스",
@@ -149,7 +149,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 59.0
+          "median": 57.0
         }
       },
       {
