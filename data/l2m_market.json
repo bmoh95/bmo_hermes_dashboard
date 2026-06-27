@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 15:46:43 KST",
+  "checkedAt": "2026-06-27 15:54:44 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -91,7 +91,7 @@
         "enchant": "+3",
         "name": "강철 손목 보호대",
         "price": "50다이아",
-        "note": "중앙 90 • 초저가 의심",
+        "note": "중앙 87.5 • 초저가 의심",
         "raw": {
           "itemId": 301550002,
           "itemName": "+3 강철 손목 보호대",
@@ -99,7 +99,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 90.0
+          "median": 87.5
         }
       },
       {
@@ -253,7 +253,7 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 110 • 초저가 의심",
+        "note": "중앙 101 • 초저가 의심",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
@@ -261,7 +261,7 @@
           "salePrice": 65.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 110.0
+          "median": 101.0
         }
       },
       {
