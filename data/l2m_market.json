@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 04:00:19 KST",
+  "checkedAt": "2026-06-28 04:08:19 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -73,7 +73,7 @@
         "enchant": "+5",
         "name": "옛 숲의 목걸이",
         "price": "54다이아",
-        "note": "중앙 64 • 저가",
+        "note": "중앙 64.5 • 저가",
         "raw": {
           "itemId": 300160003,
           "itemName": "+5 옛 숲의 목걸이",
@@ -81,7 +81,7 @@
           "salePrice": 54.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 64.0
+          "median": 64.5
         }
       }
     ],
@@ -383,7 +383,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "599다이아",
-        "note": "중앙 1,099 • 초저가 의심",
+        "note": "중앙 1,199 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -391,7 +391,7 @@
           "salePrice": 599.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1099.0
+          "median": 1199.0
         }
       },
       {
