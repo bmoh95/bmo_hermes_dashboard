@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 20:20:19 KST",
+  "checkedAt": "2026-06-27 20:28:20 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -75,7 +75,7 @@
         "enchant": "+5",
         "name": "팔라듐 팔찌",
         "price": "40다이아",
-        "note": "중앙 54.5 • 저가",
+        "note": "중앙 54 • 저가",
         "raw": {
           "itemId": 300550006,
           "itemName": "+5 팔라듐 팔찌",
@@ -83,7 +83,7 @@
           "salePrice": 40.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 54.5
+          "median": 54.0
         }
       },
       {
