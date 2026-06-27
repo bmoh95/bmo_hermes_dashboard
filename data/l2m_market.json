@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 07:44:50 KST",
+  "checkedAt": "2026-06-28 07:52:50 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -86,6 +86,22 @@
       }
     ],
     "uncommon": [
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "카넬리안 팔찌",
+        "price": "19다이아",
+        "note": "중앙 29 • 저가",
+        "raw": {
+          "itemId": 300550005,
+          "itemName": "+5 카넬리안 팔찌",
+          "enchantLevel": 5,
+          "salePrice": 19.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 29.0
+        }
+      },
       {
         "kind": "악세사리",
         "enchant": "+5",
@@ -205,7 +221,7 @@
         "enchant": "+0",
         "name": "석궁 훈련서 (보우맨 어빌리티)",
         "price": "11다이아",
-        "note": "중앙 59 • 초저가 의심",
+        "note": "중앙 32 • 초저가 의심",
         "raw": {
           "itemId": 500394006,
           "itemName": "석궁 훈련서 (보우맨 어빌리티)",
@@ -213,7 +229,7 @@
           "salePrice": 11.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 59.0
+          "median": 32.0
         }
       },
       {
@@ -344,6 +360,22 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 3049.5
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+0",
+        "name": "마르딜의 분노",
+        "price": "100다이아",
+        "note": "중앙 209.5 • 초저가 의심",
+        "raw": {
+          "itemId": 100230004,
+          "itemName": "마르딜의 분노",
+          "enchantLevel": 0,
+          "salePrice": 100.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 209.5
         }
       },
       {
