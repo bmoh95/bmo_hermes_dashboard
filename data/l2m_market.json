@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 16:26:48 KST",
+  "checkedAt": "2026-06-27 16:34:47 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -75,7 +75,7 @@
         "enchant": "+5",
         "name": "팔라듐 팔찌",
         "price": "40다이아",
-        "note": "중앙 55 • 저가",
+        "note": "중앙 54 • 저가",
         "raw": {
           "itemId": 300550006,
           "itemName": "+5 팔라듐 팔찌",
@@ -83,7 +83,7 @@
           "salePrice": 40.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 55.0
+          "median": 54.0
         }
       },
       {
@@ -383,7 +383,7 @@
         "enchant": "+6",
         "name": "잊혀진 영웅의 흉갑",
         "price": "200다이아",
-        "note": "중앙 310 • 초저가 의심",
+        "note": "중앙 300 • 초저가 의심",
         "raw": {
           "itemId": 200130010,
           "itemName": "+6 잊혀진 영웅의 흉갑",
@@ -391,7 +391,7 @@
           "salePrice": 200.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 310.0
+          "median": 300.0
         }
       },
       {
