@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 14:57:38 KST",
+  "checkedAt": "2026-06-27 15:05:39 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -139,6 +139,22 @@
       {
         "kind": "무기",
         "enchant": "+9",
+        "name": "싸울아비 장검",
+        "price": "30다이아",
+        "note": "중앙 58.5 • 초저가 의심",
+        "raw": {
+          "itemId": 100140003,
+          "itemName": "+9 싸울아비 장검",
+          "enchantLevel": 9,
+          "salePrice": 30.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 58.5
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
         "name": "야크샤 트윈 액스",
         "price": "60다이아",
         "note": "중앙 90 • 하위권",
@@ -182,6 +198,22 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 68.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "헤르문쿠스의 반지",
+        "price": "55다이아",
+        "note": "중앙 99.5 • 초저가 의심",
+        "raw": {
+          "itemId": 300340012,
+          "itemName": "+5 헤르문쿠스의 반지",
+          "enchantLevel": 5,
+          "salePrice": 55.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 99.5
         }
       },
       {
@@ -252,6 +284,22 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+4",
+        "name": "에라토네의 벨트",
+        "price": "742다이아",
+        "note": "중앙 994.5 • 저가",
+        "raw": {
+          "itemId": 300430004,
+          "itemName": "+4 에라토네의 벨트",
+          "enchantLevel": 4,
+          "salePrice": 742.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 994.5
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+1",
         "name": "사멸의 목걸이 (초월 +3)",
         "price": "1,100다이아",
@@ -271,7 +319,7 @@
         "enchant": "+1",
         "name": "작열의 반지 (초월 +1)",
         "price": "2,150다이아",
-        "note": "중앙 3,049.5 • 저가",
+        "note": "중앙 3,025 • 저가",
         "raw": {
           "itemId": 360330015,
           "itemName": "+1 작열의 반지 (초월 +1)",
@@ -279,7 +327,7 @@
           "salePrice": 2150.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 3049.5
+          "median": 3025.0
         }
       },
       {
