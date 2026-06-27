@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-27 18:59:09 KST",
+  "checkedAt": "2026-06-27 19:07:10 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -182,6 +182,22 @@
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 90.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "열화의 귀걸이",
+        "price": "10다이아",
+        "note": "중앙 16 • 초저가 의심",
+        "raw": {
+          "itemId": 300240008,
+          "itemName": "+1 열화의 귀걸이",
+          "enchantLevel": 1,
+          "salePrice": 10.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 16.0
         }
       },
       {
