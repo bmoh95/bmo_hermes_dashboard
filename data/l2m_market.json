@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 04:40:24 KST",
+  "checkedAt": "2026-06-28 04:48:25 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -415,7 +415,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 위즈덤)",
         "price": "190다이아",
-        "note": "중앙 280 • 저가",
+        "note": "중앙 290 • 저가",
         "raw": {
           "itemId": 500303005,
           "itemName": "계승자의 서 (인크리즈 위즈덤)",
@@ -423,7 +423,7 @@
           "salePrice": 190.0,
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
-          "median": 280.0
+          "median": 290.0
         }
       }
     ],
