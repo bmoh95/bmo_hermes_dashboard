@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 06:48:41 KST",
+  "checkedAt": "2026-06-28 06:56:42 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -214,6 +214,22 @@
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
           "median": 59.0
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "계승자의 서 (쓰러스터 Ⅰ)",
+        "price": "15다이아",
+        "note": "중앙 21.5 • 하위권",
+        "raw": {
+          "itemId": 500304026,
+          "itemName": "계승자의 서 (쓰러스터 Ⅰ)",
+          "enchantLevel": 0,
+          "salePrice": 15.0,
+          "category": "스킬북",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 21.5
         }
       },
       {
