@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 13:14:31 KST",
+  "checkedAt": "2026-06-28 13:22:32 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -335,7 +335,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 799 • 초저가 의심",
+        "note": "중앙 824.5 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -343,7 +343,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 799.0
+          "median": 824.5
         }
       },
       {
@@ -376,22 +376,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1700.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+1",
-        "name": "작열의 반지 (초월 +1)",
-        "price": "2,222다이아",
-        "note": "중앙 3,049.5 • 저가",
-        "raw": {
-          "itemId": 360330015,
-          "itemName": "+1 작열의 반지 (초월 +1)",
-          "enchantLevel": 1,
-          "salePrice": 2222.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 3049.5
         }
       },
       {
