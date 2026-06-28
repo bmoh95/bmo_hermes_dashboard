@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 16:12:55 KST",
+  "checkedAt": "2026-06-28 16:20:57 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -335,7 +335,7 @@
         "enchant": "+3",
         "name": "광휘의 목걸이",
         "price": "399다이아",
-        "note": "중앙 545 • 하위권",
+        "note": "중앙 534.5 • 하위권",
         "raw": {
           "itemId": 300130010,
           "itemName": "+3 광휘의 목걸이",
@@ -343,7 +343,7 @@
           "salePrice": 399.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 545.0
+          "median": 534.5
         }
       },
       {
