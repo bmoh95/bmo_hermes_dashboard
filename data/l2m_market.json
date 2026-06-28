@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 13:38:34 KST",
+  "checkedAt": "2026-06-28 13:46:36 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -185,6 +185,22 @@
         }
       },
       {
+        "kind": "무기",
+        "enchant": "+10",
+        "name": "퍼스트 블러드",
+        "price": "888다이아",
+        "note": "중앙 1,065 • 저가",
+        "raw": {
+          "itemId": 100940007,
+          "itemName": "+10 퍼스트 블러드",
+          "enchantLevel": 10,
+          "salePrice": 888.0,
+          "category": "무기",
+          "dealLabel": "아이템별 저가",
+          "median": 1065.0
+        }
+      },
+      {
         "kind": "악세사리",
         "enchant": "+3",
         "name": "화안의 귀걸이",
@@ -214,6 +230,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 80.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "헤르문쿠스의 목걸이",
+        "price": "66다이아",
+        "note": "중앙 110 • 초저가 의심",
+        "raw": {
+          "itemId": 300140009,
+          "itemName": "+5 헤르문쿠스의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 66.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 110.0
         }
       },
       {
@@ -440,6 +472,22 @@
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
           "median": 229.0
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "창술서 (자이언트 스톰프)",
+        "price": "130다이아",
+        "note": "중앙 230 • 초저가 의심",
+        "raw": {
+          "itemId": 500373001,
+          "itemName": "창술서 (자이언트 스톰프)",
+          "enchantLevel": 0,
+          "salePrice": 130.0,
+          "category": "스킬북",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 230.0
         }
       },
       {
