@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 14:44:34 KST",
+  "checkedAt": "2026-06-28 14:52:45 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -25,7 +25,7 @@
         "enchant": "+3",
         "name": "타이거 아이",
         "price": "10다이아",
-        "note": "중앙 19.5 • 초저가 의심",
+        "note": "중앙 19 • 초저가 의심",
         "raw": {
           "itemId": 300260007,
           "itemName": "+3 타이거 아이",
@@ -33,7 +33,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 19.5
+          "median": 19.0
         }
       },
       {
@@ -281,22 +281,6 @@
         }
       },
       {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "창술서 (라이트닝 스트라이크)",
-        "price": "30다이아",
-        "note": "중앙 39.5 • 저가",
-        "raw": {
-          "itemId": 500374003,
-          "itemName": "창술서 (라이트닝 스트라이크)",
-          "enchantLevel": 0,
-          "salePrice": 30.0,
-          "category": "스킬북",
-          "dealLabel": "아이템별 저가",
-          "median": 39.5
-        }
-      },
-      {
         "kind": "견갑",
         "enchant": "+1",
         "name": "사념의 견갑",
@@ -360,6 +344,22 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 545.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+3",
+        "name": "아펠라의 목걸이 (초월 +3)",
+        "price": "500다이아",
+        "note": "중앙 824.5 • 초저가 의심",
+        "raw": {
+          "itemId": 360130208,
+          "itemName": "+3 아펠라의 목걸이 (초월 +3)",
+          "enchantLevel": 3,
+          "salePrice": 500.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 824.5
         }
       },
       {
