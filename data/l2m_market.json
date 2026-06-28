@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 20:39:31 KST",
+  "checkedAt": "2026-06-28 20:47:33 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -25,7 +25,7 @@
         "enchant": "+3",
         "name": "타이거 아이",
         "price": "10다이아",
-        "note": "중앙 24 • 초저가 의심",
+        "note": "중앙 22 • 초저가 의심",
         "raw": {
           "itemId": 300260007,
           "itemName": "+3 타이거 아이",
@@ -33,7 +33,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 24.0
+          "median": 22.0
         }
       },
       {
@@ -157,7 +157,7 @@
         "enchant": "+8",
         "name": "커스드 트윈 액스",
         "price": "15다이아",
-        "note": "중앙 58.5 • 초저가 의심",
+        "note": "중앙 56.5 • 초저가 의심",
         "raw": {
           "itemId": 101340004,
           "itemName": "+8 커스드 트윈 액스",
@@ -165,7 +165,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 58.5
+          "median": 56.5
         }
       },
       {
@@ -317,7 +317,7 @@
         "enchant": "+4",
         "name": "마염의 귀걸이",
         "price": "22다이아",
-        "note": "중앙 29.5 • 저가",
+        "note": "중앙 29 • 저가",
         "raw": {
           "itemId": 300240003,
           "itemName": "+4 마염의 귀걸이",
@@ -325,7 +325,7 @@
           "salePrice": 22.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 29.5
+          "median": 29.0
         }
       },
       {
@@ -495,7 +495,7 @@
         "enchant": "+4",
         "name": "오르펜의 목걸이",
         "price": "445다이아",
-        "note": "중앙 677 • 저가",
+        "note": "중앙 637.5 • 저가",
         "raw": {
           "itemId": 300130005,
           "itemName": "+4 오르펜의 목걸이",
@@ -503,7 +503,7 @@
           "salePrice": 445.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 677.0
+          "median": 637.5
         }
       },
       {
