@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 13:54:37 KST",
+  "checkedAt": "2026-06-28 14:02:38 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -235,17 +235,17 @@
       {
         "kind": "악세사리",
         "enchant": "+5",
-        "name": "헤르문쿠스의 목걸이",
-        "price": "66다이아",
-        "note": "중앙 110 • 초저가 의심",
+        "name": "헤르문쿠스의 반지",
+        "price": "45다이아",
+        "note": "중앙 99.5 • 초저가 의심",
         "raw": {
-          "itemId": 300140009,
-          "itemName": "+5 헤르문쿠스의 목걸이",
+          "itemId": 300340012,
+          "itemName": "+5 헤르문쿠스의 반지",
           "enchantLevel": 5,
-          "salePrice": 66.0,
+          "salePrice": 45.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 110.0
+          "median": 99.5
         }
       },
       {
@@ -481,7 +481,7 @@
         "enchant": "+5",
         "name": "네비트의 빛의 망토",
         "price": "3,000다이아",
-        "note": "중앙 3,850 • 하위권",
+        "note": "중앙 3,800 • 하위권",
         "raw": {
           "itemId": 200620001,
           "itemName": "+5 네비트의 빛의 망토",
@@ -489,7 +489,7 @@
           "salePrice": 3000.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 3850.0
+          "median": 3800.0
         }
       },
       {
