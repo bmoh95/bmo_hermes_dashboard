@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 14:34:59 KST",
+  "checkedAt": "2026-06-28 14:44:34 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -25,7 +25,7 @@
         "enchant": "+3",
         "name": "타이거 아이",
         "price": "10다이아",
-        "note": "중앙 22 • 초저가 의심",
+        "note": "중앙 19.5 • 초저가 의심",
         "raw": {
           "itemId": 300260007,
           "itemName": "+3 타이거 아이",
@@ -33,7 +33,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 22.0
+          "median": 19.5
         }
       },
       {
@@ -367,7 +367,7 @@
         "enchant": "+1",
         "name": "사멸의 벨트 (초월 +2)",
         "price": "730다이아",
-        "note": "중앙 994 • 하위권",
+        "note": "중앙 990 • 하위권",
         "raw": {
           "itemId": 360430106,
           "itemName": "+1 사멸의 벨트 (초월 +2)",
@@ -375,7 +375,7 @@
           "salePrice": 730.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 994.0
+          "median": 990.0
         }
       },
       {
@@ -408,6 +408,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1700.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+7",
+        "name": "바리사다",
+        "price": "180다이아",
+        "note": "중앙 289 • 초저가 의심",
+        "raw": {
+          "itemId": 101130001,
+          "itemName": "+7 바리사다",
+          "enchantLevel": 7,
+          "salePrice": 180.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 289.0
         }
       },
       {
