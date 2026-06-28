@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 08:04:00 KST",
+  "checkedAt": "2026-06-29 08:12:02 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -504,22 +504,6 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 300.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+7",
-        "name": "프로스트바이트 (초월 +2)",
-        "price": "599다이아",
-        "note": "중앙 999 • 초저가 의심",
-        "raw": {
-          "itemId": 161430105,
-          "itemName": "+7 프로스트바이트 (초월 +2)",
-          "enchantLevel": 7,
-          "salePrice": 599.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 999.0
         }
       },
       {
