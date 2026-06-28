@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 22:23:47 KST",
+  "checkedAt": "2026-06-28 22:31:48 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -365,7 +365,7 @@
         "enchant": "+5",
         "name": "헤르문쿠스의 반지",
         "price": "45다이아",
-        "note": "중앙 100.5 • 초저가 의심",
+        "note": "중앙 100 • 초저가 의심",
         "raw": {
           "itemId": 300340012,
           "itemName": "+5 헤르문쿠스의 반지",
@@ -373,7 +373,7 @@
           "salePrice": 45.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 100.5
+          "median": 100.0
         }
       },
       {
@@ -413,7 +413,7 @@
         "enchant": "+1",
         "name": "제사장의 견갑",
         "price": "398다이아",
-        "note": "중앙 498.5 • 저가",
+        "note": "중앙 498 • 저가",
         "raw": {
           "itemId": 200940026,
           "itemName": "+1 제사장의 견갑",
@@ -421,7 +421,7 @@
           "salePrice": 398.0,
           "category": "방어구",
           "dealLabel": "아이템별 저가",
-          "median": 498.5
+          "median": 498.0
         }
       },
       {
@@ -543,7 +543,7 @@
         "enchant": "+1",
         "name": "사멸의 목걸이 (초월 +3)",
         "price": "1,100다이아",
-        "note": "중앙 1,600 • 하위권",
+        "note": "중앙 1,500 • 하위권",
         "raw": {
           "itemId": 360130212,
           "itemName": "+1 사멸의 목걸이 (초월 +3)",
@@ -551,7 +551,7 @@
           "salePrice": 1100.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1600.0
+          "median": 1500.0
         }
       },
       {
