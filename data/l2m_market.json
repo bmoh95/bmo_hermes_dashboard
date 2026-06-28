@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 20:07:26 KST",
+  "checkedAt": "2026-06-28 20:15:27 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -66,6 +66,22 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 64.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "빛바랜 유물",
+        "price": "650다이아",
+        "note": "중앙 899 • 하위권",
+        "raw": {
+          "itemId": 301160001,
+          "itemName": "+5 빛바랜 유물",
+          "enchantLevel": 5,
+          "salePrice": 650.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 899.0
         }
       },
       {
@@ -205,7 +221,7 @@
         "enchant": "+9",
         "name": "세인트 듀얼 소드",
         "price": "43다이아",
-        "note": "중앙 72 • 초저가 의심",
+        "note": "중앙 74 • 초저가 의심",
         "raw": {
           "itemId": 100240008,
           "itemName": "+9 세인트 듀얼 소드",
@@ -213,7 +229,7 @@
           "salePrice": 43.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 72.0
+          "median": 74.0
         }
       },
       {
@@ -342,6 +358,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 100.0
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "마도서 (마나 리제네레이션)",
+        "price": "10다이아",
+        "note": "중앙 15 • 하위권",
+        "raw": {
+          "itemId": 500354006,
+          "itemName": "마도서 (마나 리제네레이션)",
+          "enchantLevel": 0,
+          "salePrice": 10.0,
+          "category": "스킬북",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 15.0
         }
       },
       {
