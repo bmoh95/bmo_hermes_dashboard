@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 22:07:42 KST",
+  "checkedAt": "2026-06-28 22:15:46 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -155,7 +155,7 @@
         "enchant": "+2",
         "name": "시련의 견갑",
         "price": "28다이아",
-        "note": "중앙 62 • 초저가 의심",
+        "note": "중앙 59.5 • 초저가 의심",
         "raw": {
           "itemId": 200950004,
           "itemName": "+2 시련의 견갑",
@@ -163,7 +163,7 @@
           "salePrice": 28.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 62.0
+          "median": 59.5
         }
       }
     ],
@@ -173,7 +173,7 @@
         "enchant": "+8",
         "name": "커스드 트윈 액스",
         "price": "15다이아",
-        "note": "중앙 55 • 초저가 의심",
+        "note": "중앙 56.5 • 초저가 의심",
         "raw": {
           "itemId": 101340004,
           "itemName": "+8 커스드 트윈 액스",
@@ -181,7 +181,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 55.0
+          "median": 56.5
         }
       },
       {
