@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 10:34:12 KST",
+  "checkedAt": "2026-06-28 10:42:14 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -335,7 +335,7 @@
         "enchant": "+0",
         "name": "마르딜의 분노",
         "price": "100다이아",
-        "note": "중앙 209.5 • 초저가 의심",
+        "note": "중앙 250 • 초저가 의심",
         "raw": {
           "itemId": 100230004,
           "itemName": "마르딜의 분노",
@@ -343,7 +343,7 @@
           "salePrice": 100.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 209.5
+          "median": 250.0
         }
       },
       {
