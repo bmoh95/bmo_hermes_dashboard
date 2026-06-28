@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 01:15:08 KST",
+  "checkedAt": "2026-06-29 01:23:09 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -41,7 +41,7 @@
         "enchant": "+5",
         "name": "신성의 반지",
         "price": "10다이아",
-        "note": "중앙 45 • 초저가 의심",
+        "note": "중앙 44.5 • 초저가 의심",
         "raw": {
           "itemId": 300360009,
           "itemName": "+5 신성의 반지",
@@ -49,7 +49,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 45.0
+          "median": 44.5
         }
       },
       {
@@ -107,15 +107,15 @@
         "enchant": "+2",
         "name": "페트람의 유물",
         "price": "35다이아",
-        "note": "중앙 55 • 초저가 의심",
+        "note": "중앙 49.5 • 저가",
         "raw": {
           "itemId": 301150008,
           "itemName": "+2 페트람의 유물",
           "enchantLevel": 2,
           "salePrice": 35.0,
           "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 55.0
+          "dealLabel": "아이템별 저가",
+          "median": 49.5
         }
       },
       {
@@ -123,7 +123,7 @@
         "enchant": "+5",
         "name": "피닉스 링",
         "price": "39다이아",
-        "note": "중앙 53 • 저가",
+        "note": "중앙 53.5 • 저가",
         "raw": {
           "itemId": 300350001,
           "itemName": "+5 피닉스 링",
@@ -131,7 +131,7 @@
           "salePrice": 39.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 53.0
+          "median": 53.5
         }
       },
       {
@@ -171,7 +171,7 @@
         "enchant": "+2",
         "name": "시련의 견갑",
         "price": "28다이아",
-        "note": "중앙 59.5 • 초저가 의심",
+        "note": "중앙 59 • 초저가 의심",
         "raw": {
           "itemId": 200950004,
           "itemName": "+2 시련의 견갑",
@@ -179,7 +179,7 @@
           "salePrice": 28.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 59.5
+          "median": 59.0
         }
       }
     ],
@@ -205,7 +205,7 @@
         "enchant": "+8",
         "name": "알바레스트",
         "price": "30다이아",
-        "note": "중앙 58 • 초저가 의심",
+        "note": "중앙 60 • 초저가 의심",
         "raw": {
           "itemId": 100840001,
           "itemName": "+8 알바레스트",
@@ -213,7 +213,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 58.0
+          "median": 60.0
         }
       },
       {
@@ -374,22 +374,6 @@
           "category": "스킬북",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 21.0
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "창술서 (라이트닝 스트라이크)",
-        "price": "30다이아",
-        "note": "중앙 56.5 • 초저가 의심",
-        "raw": {
-          "itemId": 500374003,
-          "itemName": "창술서 (라이트닝 스트라이크)",
-          "enchantLevel": 0,
-          "salePrice": 30.0,
-          "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 56.5
         }
       },
       {
