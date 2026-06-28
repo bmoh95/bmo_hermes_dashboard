@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 23:30:36 KST",
+  "checkedAt": "2026-06-28 23:38:57 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -119,6 +119,22 @@
         }
       },
       {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "피닉스 링",
+        "price": "39다이아",
+        "note": "중앙 53 • 저가",
+        "raw": {
+          "itemId": 300350001,
+          "itemName": "+5 피닉스 링",
+          "enchantLevel": 5,
+          "salePrice": 39.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 53.0
+        }
+      },
+      {
         "kind": "손목",
         "enchant": "+3",
         "name": "강철 손목 보호대",
@@ -173,7 +189,7 @@
         "enchant": "+8",
         "name": "커스드 트윈 액스",
         "price": "15다이아",
-        "note": "중앙 55 • 초저가 의심",
+        "note": "중앙 56.5 • 초저가 의심",
         "raw": {
           "itemId": 101340004,
           "itemName": "+8 커스드 트윈 액스",
@@ -181,7 +197,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 55.0
+          "median": 56.5
         }
       },
       {
