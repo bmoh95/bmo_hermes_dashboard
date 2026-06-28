@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 12:42:27 KST",
+  "checkedAt": "2026-06-28 12:50:28 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -82,6 +82,22 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 64.5
+        }
+      },
+      {
+        "kind": "견갑",
+        "enchant": "+3",
+        "name": "사슬 견갑",
+        "price": "20다이아",
+        "note": "중앙 25 • 저가",
+        "raw": {
+          "itemId": 200960005,
+          "itemName": "+3 사슬 견갑",
+          "enchantLevel": 3,
+          "salePrice": 20.0,
+          "category": "방어구",
+          "dealLabel": "아이템별 저가",
+          "median": 25.0
         }
       }
     ],
@@ -214,22 +230,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 80.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "헤르문쿠스의 반지",
-        "price": "55다이아",
-        "note": "중앙 99.5 • 초저가 의심",
-        "raw": {
-          "itemId": 300340012,
-          "itemName": "+5 헤르문쿠스의 반지",
-          "enchantLevel": 5,
-          "salePrice": 55.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 99.5
         }
       },
       {
