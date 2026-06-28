@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 21:43:40 KST",
+  "checkedAt": "2026-06-28 21:51:41 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -57,7 +57,7 @@
         "enchant": "+5",
         "name": "옛 숲의 목걸이",
         "price": "54다이아",
-        "note": "중앙 65 • 저가",
+        "note": "중앙 64 • 저가",
         "raw": {
           "itemId": 300160003,
           "itemName": "+5 옛 숲의 목걸이",
@@ -65,7 +65,7 @@
           "salePrice": 54.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 65.0
+          "median": 64.0
         }
       },
       {
@@ -349,7 +349,7 @@
         "enchant": "+4",
         "name": "헤르문쿠스의 목걸이",
         "price": "30다이아",
-        "note": "중앙 73.5 • 초저가 의심",
+        "note": "중앙 70 • 초저가 의심",
         "raw": {
           "itemId": 300140009,
           "itemName": "+4 헤르문쿠스의 목걸이",
@@ -357,7 +357,7 @@
           "salePrice": 30.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 73.5
+          "median": 70.0
         }
       },
       {
@@ -365,7 +365,7 @@
         "enchant": "+5",
         "name": "신성의 수호 반지",
         "price": "39다이아",
-        "note": "중앙 54.5 • 하위권",
+        "note": "중앙 55 • 하위권",
         "raw": {
           "itemId": 300340008,
           "itemName": "+5 신성의 수호 반지",
@@ -373,7 +373,7 @@
           "salePrice": 39.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 54.5
+          "median": 55.0
         }
       },
       {
@@ -479,7 +479,7 @@
         "enchant": "+3",
         "name": "광휘의 목걸이",
         "price": "399다이아",
-        "note": "중앙 568.5 • 하위권",
+        "note": "중앙 549 • 하위권",
         "raw": {
           "itemId": 300130010,
           "itemName": "+3 광휘의 목걸이",
@@ -487,7 +487,7 @@
           "salePrice": 399.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 568.5
+          "median": 549.0
         }
       },
       {
@@ -605,9 +605,25 @@
       {
         "kind": "스킬북",
         "enchant": "+0",
+        "name": "이도류 비전서 (소닉 블래스터)",
+        "price": "144다이아",
+        "note": "중앙 207.5 • 하위권",
+        "raw": {
+          "itemId": 500323002,
+          "itemName": "이도류 비전서 (소닉 블래스터)",
+          "enchantLevel": 0,
+          "salePrice": 144.0,
+          "category": "스킬북",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 207.5
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
         "name": "계승자의 서 (인크리즈 위즈덤)",
         "price": "190다이아",
-        "note": "중앙 369 • 초저가 의심",
+        "note": "중앙 384 • 초저가 의심",
         "raw": {
           "itemId": 500303005,
           "itemName": "계승자의 서 (인크리즈 위즈덤)",
@@ -615,7 +631,7 @@
           "salePrice": 190.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 369.0
+          "median": 384.0
         }
       }
     ],
