@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 12:58:29 KST",
+  "checkedAt": "2026-06-28 13:06:51 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -249,6 +249,22 @@
         }
       },
       {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "창술서 (라이트닝 스트라이크)",
+        "price": "30다이아",
+        "note": "중앙 40 • 저가",
+        "raw": {
+          "itemId": 500374003,
+          "itemName": "창술서 (라이트닝 스트라이크)",
+          "enchantLevel": 0,
+          "salePrice": 30.0,
+          "category": "스킬북",
+          "dealLabel": "아이템별 저가",
+          "median": 40.0
+        }
+      },
+      {
         "kind": "견갑",
         "enchant": "+1",
         "name": "사념의 견갑",
@@ -360,6 +376,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1700.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "작열의 반지 (초월 +1)",
+        "price": "2,222다이아",
+        "note": "중앙 3,049.5 • 저가",
+        "raw": {
+          "itemId": 360330015,
+          "itemName": "+1 작열의 반지 (초월 +1)",
+          "enchantLevel": 1,
+          "salePrice": 2222.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 3049.5
         }
       },
       {
