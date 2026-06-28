@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 19:43:24 KST",
+  "checkedAt": "2026-06-28 19:51:26 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -205,7 +205,7 @@
         "enchant": "+9",
         "name": "세인트 듀얼 소드",
         "price": "43다이아",
-        "note": "중앙 74 • 초저가 의심",
+        "note": "중앙 72 • 초저가 의심",
         "raw": {
           "itemId": 100240008,
           "itemName": "+9 세인트 듀얼 소드",
@@ -213,7 +213,7 @@
           "salePrice": 43.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 74.0
+          "median": 72.0
         }
       },
       {
@@ -230,6 +230,22 @@
           "category": "무기",
           "dealLabel": "아이템별 저가",
           "median": 90.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "열화의 귀걸이",
+        "price": "10다이아",
+        "note": "중앙 16 • 초저가 의심",
+        "raw": {
+          "itemId": 300240008,
+          "itemName": "+1 열화의 귀걸이",
+          "enchantLevel": 1,
+          "salePrice": 10.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 16.0
         }
       },
       {
