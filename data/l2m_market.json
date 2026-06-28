@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 20:23:29 KST",
+  "checkedAt": "2026-06-28 20:31:30 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -173,7 +173,7 @@
         "enchant": "+8",
         "name": "알바레스트",
         "price": "30다이아",
-        "note": "중앙 63.5 • 초저가 의심",
+        "note": "중앙 60 • 초저가 의심",
         "raw": {
           "itemId": 100840001,
           "itemName": "+8 알바레스트",
@@ -181,7 +181,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 63.5
+          "median": 60.0
         }
       },
       {
@@ -221,7 +221,7 @@
         "enchant": "+9",
         "name": "세인트 듀얼 소드",
         "price": "43다이아",
-        "note": "중앙 72 • 초저가 의심",
+        "note": "중앙 74 • 초저가 의심",
         "raw": {
           "itemId": 100240008,
           "itemName": "+9 세인트 듀얼 소드",
@@ -229,7 +229,7 @@
           "salePrice": 43.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 72.0
+          "median": 74.0
         }
       },
       {
