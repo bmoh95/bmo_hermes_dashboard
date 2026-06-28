@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 03:23:24 KST",
+  "checkedAt": "2026-06-29 03:31:25 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -577,7 +577,7 @@
         "enchant": "+5",
         "name": "메이저 아르카나 서클릿",
         "price": "2,977다이아",
-        "note": "중앙 3,540 • 하위권",
+        "note": "중앙 3,539.5 • 하위권",
         "raw": {
           "itemId": 200520002,
           "itemName": "+5 메이저 아르카나 서클릿",
@@ -585,7 +585,7 @@
           "salePrice": 2977.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 3540.0
+          "median": 3539.5
         }
       },
       {
