@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 11:38:21 KST",
+  "checkedAt": "2026-06-28 11:46:21 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -25,7 +25,7 @@
         "enchant": "+3",
         "name": "타이거 아이",
         "price": "10다이아",
-        "note": "중앙 23 • 초저가 의심",
+        "note": "중앙 22 • 초저가 의심",
         "raw": {
           "itemId": 300260007,
           "itemName": "+3 타이거 아이",
@@ -33,7 +33,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 23.0
+          "median": 22.0
         }
       },
       {
@@ -433,7 +433,7 @@
         "enchant": "+5",
         "name": "네비트의 빛의 망토",
         "price": "3,000다이아",
-        "note": "중앙 3,850 • 하위권",
+        "note": "중앙 3,800 • 하위권",
         "raw": {
           "itemId": 200620001,
           "itemName": "+5 네비트의 빛의 망토",
@@ -441,7 +441,7 @@
           "salePrice": 3000.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 3850.0
+          "median": 3800.0
         }
       },
       {
