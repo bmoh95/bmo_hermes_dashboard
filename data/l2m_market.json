@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 17:25:06 KST",
+  "checkedAt": "2026-06-28 17:33:07 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -171,6 +171,22 @@
       {
         "kind": "무기",
         "enchant": "+9",
+        "name": "크로노 키타라",
+        "price": "30다이아",
+        "note": "중앙 49 • 초저가 의심",
+        "raw": {
+          "itemId": 101040001,
+          "itemName": "+9 크로노 키타라",
+          "enchantLevel": 9,
+          "salePrice": 30.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 49.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
         "name": "세인트 듀얼 소드",
         "price": "43다이아",
         "note": "중앙 72 • 초저가 의심",
@@ -317,7 +333,7 @@
         "enchant": "+1",
         "name": "제사장의 견갑",
         "price": "398다이아",
-        "note": "중앙 499 • 하위권",
+        "note": "중앙 498.5 • 하위권",
         "raw": {
           "itemId": 200940026,
           "itemName": "+1 제사장의 견갑",
@@ -325,7 +341,7 @@
           "salePrice": 398.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 499.0
+          "median": 498.5
         }
       },
       {
@@ -463,7 +479,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 위즈덤)",
         "price": "190다이아",
-        "note": "중앙 300 • 초저가 의심",
+        "note": "중앙 369 • 초저가 의심",
         "raw": {
           "itemId": 500303005,
           "itemName": "계승자의 서 (인크리즈 위즈덤)",
@@ -471,7 +487,7 @@
           "salePrice": 190.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 300.0
+          "median": 369.0
         }
       }
     ],
@@ -513,7 +529,7 @@
         "enchant": "+5",
         "name": "크란벨의 망토 (초월 +1)",
         "price": "19,000다이아",
-        "note": "중앙 22,465 • 하위권",
+        "note": "중앙 24,500 • 하위권",
         "raw": {
           "itemId": 260620004,
           "itemName": "+5 크란벨의 망토 (초월 +1)",
@@ -521,7 +537,7 @@
           "salePrice": 19000.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 22465.0
+          "median": 24500.0
         }
       },
       {
