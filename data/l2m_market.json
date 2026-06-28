@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 23:21:54 KST",
+  "checkedAt": "2026-06-28 23:30:36 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -102,22 +102,6 @@
       }
     ],
     "uncommon": [
-      {
-        "kind": "악세사리",
-        "enchant": "+4",
-        "name": "너구리의 반지",
-        "price": "10다이아",
-        "note": "중앙 15.5 • 초저가 의심",
-        "raw": {
-          "itemId": 300350006,
-          "itemName": "+4 너구리의 반지",
-          "enchantLevel": 4,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 15.5
-        }
-      },
       {
         "kind": "악세사리",
         "enchant": "+2",
