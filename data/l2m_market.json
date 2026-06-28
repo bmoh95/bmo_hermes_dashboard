@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 16:28:58 KST",
+  "checkedAt": "2026-06-28 16:36:59 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -408,22 +408,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1700.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+7",
-        "name": "바리사다",
-        "price": "180다이아",
-        "note": "중앙 289 • 초저가 의심",
-        "raw": {
-          "itemId": 101130001,
-          "itemName": "+7 바리사다",
-          "enchantLevel": 7,
-          "salePrice": 180.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 289.0
         }
       },
       {
