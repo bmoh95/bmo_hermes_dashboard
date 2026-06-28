@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 13:22:32 KST",
+  "checkedAt": "2026-06-28 13:30:33 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -82,22 +82,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 64.5
-        }
-      },
-      {
-        "kind": "견갑",
-        "enchant": "+3",
-        "name": "사슬 견갑",
-        "price": "20다이아",
-        "note": "중앙 25 • 저가",
-        "raw": {
-          "itemId": 200960005,
-          "itemName": "+3 사슬 견갑",
-          "enchantLevel": 3,
-          "salePrice": 20.0,
-          "category": "방어구",
-          "dealLabel": "아이템별 저가",
-          "median": 25.0
         }
       }
     ],
@@ -319,7 +303,7 @@
         "enchant": "+3",
         "name": "광휘의 목걸이",
         "price": "399다이아",
-        "note": "중앙 532.5 • 하위권",
+        "note": "중앙 545 • 하위권",
         "raw": {
           "itemId": 300130010,
           "itemName": "+3 광휘의 목걸이",
@@ -327,7 +311,7 @@
           "salePrice": 399.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 532.5
+          "median": 545.0
         }
       },
       {
@@ -344,6 +328,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 824.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "사멸의 벨트 (초월 +2)",
+        "price": "730다이아",
+        "note": "중앙 994 • 하위권",
+        "raw": {
+          "itemId": 360430106,
+          "itemName": "+1 사멸의 벨트 (초월 +2)",
+          "enchantLevel": 1,
+          "salePrice": 730.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 994.0
         }
       },
       {
