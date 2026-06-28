@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 14:52:45 KST",
+  "checkedAt": "2026-06-28 15:00:46 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -198,22 +198,6 @@
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 90.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+10",
-        "name": "퍼스트 블러드",
-        "price": "888다이아",
-        "note": "중앙 1,065 • 저가",
-        "raw": {
-          "itemId": 100940007,
-          "itemName": "+10 퍼스트 블러드",
-          "enchantLevel": 10,
-          "salePrice": 888.0,
-          "category": "무기",
-          "dealLabel": "아이템별 저가",
-          "median": 1065.0
         }
       },
       {
@@ -463,7 +447,7 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "130다이아",
-        "note": "중앙 220 • 초저가 의심",
+        "note": "중앙 207.5 • 초저가 의심",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
@@ -471,7 +455,7 @@
           "salePrice": 130.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 220.0
+          "median": 207.5
         }
       },
       {
