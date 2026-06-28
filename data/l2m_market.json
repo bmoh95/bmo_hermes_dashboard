@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 17:49:08 KST",
+  "checkedAt": "2026-06-28 17:57:09 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -201,6 +201,22 @@
         }
       },
       {
+        "kind": "방어구",
+        "enchant": "+9",
+        "name": "아바돈 로브",
+        "price": "15다이아",
+        "note": "중앙 189 • 초저가 의심",
+        "raw": {
+          "itemId": 200140003,
+          "itemName": "+9 아바돈 로브",
+          "enchantLevel": 9,
+          "salePrice": 15.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 189.0
+        }
+      },
+      {
         "kind": "악세사리",
         "enchant": "+1",
         "name": "열화의 귀걸이",
@@ -269,7 +285,7 @@
         "enchant": "+4",
         "name": "헤르문쿠스의 목걸이",
         "price": "30다이아",
-        "note": "중앙 77 • 초저가 의심",
+        "note": "중앙 73.5 • 초저가 의심",
         "raw": {
           "itemId": 300140009,
           "itemName": "+4 헤르문쿠스의 목걸이",
@@ -277,7 +293,7 @@
           "salePrice": 30.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 77.0
+          "median": 73.5
         }
       },
       {
@@ -301,7 +317,7 @@
         "enchant": "+5",
         "name": "헤르문쿠스의 반지",
         "price": "45다이아",
-        "note": "중앙 99.5 • 초저가 의심",
+        "note": "중앙 100 • 초저가 의심",
         "raw": {
           "itemId": 300340012,
           "itemName": "+5 헤르문쿠스의 반지",
@@ -309,7 +325,7 @@
           "salePrice": 45.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 99.5
+          "median": 100.0
         }
       },
       {
@@ -529,7 +545,7 @@
         "enchant": "+5",
         "name": "타락 천사의 장갑 (초월 +1)",
         "price": "7,500다이아",
-        "note": "중앙 9,790 • 하위권",
+        "note": "중앙 9,680 • 하위권",
         "raw": {
           "itemId": 260320003,
           "itemName": "+5 타락 천사의 장갑 (초월 +1)",
@@ -537,7 +553,7 @@
           "salePrice": 7500.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 9790.0
+          "median": 9680.0
         }
       },
       {
