@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 18:13:12 KST",
+  "checkedAt": "2026-06-28 18:21:13 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -218,22 +218,6 @@
       },
       {
         "kind": "악세사리",
-        "enchant": "+1",
-        "name": "열화의 귀걸이",
-        "price": "10다이아",
-        "note": "중앙 16 • 초저가 의심",
-        "raw": {
-          "itemId": 300240008,
-          "itemName": "+1 열화의 귀걸이",
-          "enchantLevel": 1,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 16.0
-        }
-      },
-      {
-        "kind": "악세사리",
         "enchant": "+3",
         "name": "화안의 귀걸이",
         "price": "10다이아",
@@ -331,22 +315,6 @@
       {
         "kind": "스킬북",
         "enchant": "+0",
-        "name": "마도서 (마나 리제네레이션)",
-        "price": "10다이아",
-        "note": "중앙 15 • 하위권",
-        "raw": {
-          "itemId": 500354006,
-          "itemName": "마도서 (마나 리제네레이션)",
-          "enchantLevel": 0,
-          "salePrice": 10.0,
-          "category": "스킬북",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 15.0
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
         "name": "계승자의 서 (쓰러스터 Ⅰ)",
         "price": "15다이아",
         "note": "중앙 21 • 하위권",
@@ -381,7 +349,7 @@
         "enchant": "+1",
         "name": "제사장의 견갑",
         "price": "398다이아",
-        "note": "중앙 498.5 • 저가",
+        "note": "중앙 499 • 저가",
         "raw": {
           "itemId": 200940026,
           "itemName": "+1 제사장의 견갑",
@@ -389,7 +357,7 @@
           "salePrice": 398.0,
           "category": "방어구",
           "dealLabel": "아이템별 저가",
-          "median": 498.5
+          "median": 499.0
         }
       },
       {
@@ -507,22 +475,6 @@
         }
       },
       {
-        "kind": "악세사리",
-        "enchant": "+1",
-        "name": "사멸의 목걸이 (초월 +3)",
-        "price": "1,100다이아",
-        "note": "중앙 1,600 • 하위권",
-        "raw": {
-          "itemId": 360130212,
-          "itemName": "+1 사멸의 목걸이 (초월 +3)",
-          "enchantLevel": 1,
-          "salePrice": 1100.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 1600.0
-        }
-      },
-      {
         "kind": "방어구",
         "enchant": "+6",
         "name": "잊혀진 영웅의 흉갑",
@@ -572,22 +524,6 @@
       }
     ],
     "legendary": [
-      {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "네비트의 빛의 망토",
-        "price": "3,000다이아",
-        "note": "중앙 3,800 • 하위권",
-        "raw": {
-          "itemId": 200620001,
-          "itemName": "+5 네비트의 빛의 망토",
-          "enchantLevel": 5,
-          "salePrice": 3000.0,
-          "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 3800.0
-        }
-      },
       {
         "kind": "방어구",
         "enchant": "+5",
