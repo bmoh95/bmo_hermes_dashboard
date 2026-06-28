@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 21:35:40 KST",
+  "checkedAt": "2026-06-28 21:43:40 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -155,7 +155,7 @@
         "enchant": "+2",
         "name": "시련의 견갑",
         "price": "28다이아",
-        "note": "중앙 60 • 초저가 의심",
+        "note": "중앙 62 • 초저가 의심",
         "raw": {
           "itemId": 200950004,
           "itemName": "+2 시련의 견갑",
@@ -163,7 +163,7 @@
           "salePrice": 28.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 60.0
+          "median": 62.0
         }
       }
     ],
@@ -262,22 +262,6 @@
           "category": "무기",
           "dealLabel": "아이템별 저가",
           "median": 90.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+1",
-        "name": "열화의 귀걸이",
-        "price": "10다이아",
-        "note": "중앙 16 • 초저가 의심",
-        "raw": {
-          "itemId": 300240008,
-          "itemName": "+1 열화의 귀걸이",
-          "enchantLevel": 1,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 16.0
         }
       },
       {
@@ -381,7 +365,7 @@
         "enchant": "+5",
         "name": "신성의 수호 반지",
         "price": "39다이아",
-        "note": "중앙 55 • 하위권",
+        "note": "중앙 54.5 • 하위권",
         "raw": {
           "itemId": 300340008,
           "itemName": "+5 신성의 수호 반지",
@@ -389,7 +373,7 @@
           "salePrice": 39.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 55.0
+          "median": 54.5
         }
       },
       {
@@ -445,7 +429,7 @@
         "enchant": "+1",
         "name": "제사장의 견갑",
         "price": "398다이아",
-        "note": "중앙 499 • 저가",
+        "note": "중앙 498.5 • 저가",
         "raw": {
           "itemId": 200940026,
           "itemName": "+1 제사장의 견갑",
@@ -453,7 +437,7 @@
           "salePrice": 398.0,
           "category": "방어구",
           "dealLabel": "아이템별 저가",
-          "median": 499.0
+          "median": 498.5
         }
       },
       {
@@ -511,15 +495,15 @@
         "enchant": "+4",
         "name": "오르펜의 목걸이",
         "price": "445다이아",
-        "note": "중앙 677 • 저가",
+        "note": "중앙 713.5 • 초저가 의심",
         "raw": {
           "itemId": 300130005,
           "itemName": "+4 오르펜의 목걸이",
           "enchantLevel": 4,
           "salePrice": 445.0,
           "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 677.0
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 713.5
         }
       },
       {
@@ -552,22 +536,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 824.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+1",
-        "name": "아나킴의 영혼 목걸이 (초월 +1)",
-        "price": "880다이아",
-        "note": "중앙 1,400 • 초저가 의심",
-        "raw": {
-          "itemId": 360130002,
-          "itemName": "+1 아나킴의 영혼 목걸이 (초월 +1)",
-          "enchantLevel": 1,
-          "salePrice": 880.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 1400.0
         }
       },
       {
@@ -623,7 +591,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "100다이아",
-        "note": "중앙 219.5 • 초저가 의심",
+        "note": "중앙 220 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -631,7 +599,7 @@
           "salePrice": 100.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 219.5
+          "median": 220.0
         }
       },
       {
