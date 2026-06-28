@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 19:03:20 KST",
+  "checkedAt": "2026-06-28 19:11:21 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -100,6 +100,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 86.5
+        }
+      },
+      {
+        "kind": "손목",
+        "enchant": "+4",
+        "name": "강철 손목 보호대",
+        "price": "99다이아",
+        "note": "중앙 117 • 저가",
+        "raw": {
+          "itemId": 301550002,
+          "itemName": "+4 강철 손목 보호대",
+          "enchantLevel": 4,
+          "salePrice": 99.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 117.0
         }
       },
       {
@@ -463,7 +479,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 799 • 초저가 의심",
+        "note": "중앙 824.5 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -471,7 +487,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 799.0
+          "median": 824.5
         }
       },
       {
