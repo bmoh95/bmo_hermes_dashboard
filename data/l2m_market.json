@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 13:06:51 KST",
+  "checkedAt": "2026-06-28 13:14:31 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -157,7 +157,7 @@
         "enchant": "+8",
         "name": "알바레스트",
         "price": "30다이아",
-        "note": "중앙 63 • 초저가 의심",
+        "note": "중앙 62 • 초저가 의심",
         "raw": {
           "itemId": 100840001,
           "itemName": "+8 알바레스트",
@@ -165,7 +165,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 63.0
+          "median": 62.0
         }
       },
       {
@@ -253,7 +253,7 @@
         "enchant": "+0",
         "name": "창술서 (라이트닝 스트라이크)",
         "price": "30다이아",
-        "note": "중앙 40 • 저가",
+        "note": "중앙 39.5 • 저가",
         "raw": {
           "itemId": 500374003,
           "itemName": "창술서 (라이트닝 스트라이크)",
@@ -261,7 +261,7 @@
           "salePrice": 30.0,
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
-          "median": 40.0
+          "median": 39.5
         }
       },
       {
@@ -463,7 +463,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 위즈덤)",
         "price": "190다이아",
-        "note": "중앙 290 • 저가",
+        "note": "중앙 277.5 • 저가",
         "raw": {
           "itemId": 500303005,
           "itemName": "계승자의 서 (인크리즈 위즈덤)",
@@ -471,7 +471,7 @@
           "salePrice": 190.0,
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
-          "median": 290.0
+          "median": 277.5
         }
       }
     ],
