@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 21:51:41 KST",
+  "checkedAt": "2026-06-28 21:59:41 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -317,14 +317,14 @@
         "enchant": "+4",
         "name": "마염의 귀걸이",
         "price": "22다이아",
-        "note": "중앙 29.5 • 저가",
+        "note": "중앙 29.5 • 하위권",
         "raw": {
           "itemId": 300240003,
           "itemName": "+4 마염의 귀걸이",
           "enchantLevel": 4,
           "salePrice": 22.0,
           "category": "악세사리",
-          "dealLabel": "아이템별 저가",
+          "dealLabel": "전서버 하위 10% 저가",
           "median": 29.5
         }
       },
@@ -623,7 +623,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 위즈덤)",
         "price": "190다이아",
-        "note": "중앙 384 • 초저가 의심",
+        "note": "중앙 369 • 초저가 의심",
         "raw": {
           "itemId": 500303005,
           "itemName": "계승자의 서 (인크리즈 위즈덤)",
@@ -631,7 +631,7 @@
           "salePrice": 190.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 384.0
+          "median": 369.0
         }
       }
     ],
