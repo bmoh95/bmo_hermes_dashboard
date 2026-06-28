@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 10:10:09 KST",
+  "checkedAt": "2026-06-28 10:18:10 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -134,22 +134,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 58.5
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+8",
-        "name": "디스멘틀러",
-        "price": "19다이아",
-        "note": "중앙 35 • 초저가 의심",
-        "raw": {
-          "itemId": 101040006,
-          "itemName": "+8 디스멘틀러",
-          "enchantLevel": 8,
-          "salePrice": 19.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 35.0
         }
       },
       {
@@ -344,22 +328,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1700.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+1",
-        "name": "작열의 반지 (초월 +1)",
-        "price": "2,150다이아",
-        "note": "중앙 3,049.5 • 저가",
-        "raw": {
-          "itemId": 360330015,
-          "itemName": "+1 작열의 반지 (초월 +1)",
-          "enchantLevel": 1,
-          "salePrice": 2150.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 3049.5
         }
       },
       {
