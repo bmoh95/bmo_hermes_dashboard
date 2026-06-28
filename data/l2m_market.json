@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 02:51:22 KST",
+  "checkedAt": "2026-06-29 02:59:23 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -189,7 +189,7 @@
         "enchant": "+8",
         "name": "커스드 트윈 액스",
         "price": "15다이아",
-        "note": "중앙 59 • 초저가 의심",
+        "note": "중앙 58 • 초저가 의심",
         "raw": {
           "itemId": 101340004,
           "itemName": "+8 커스드 트윈 액스",
@@ -197,7 +197,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 59.0
+          "median": 58.0
         }
       },
       {
@@ -577,7 +577,7 @@
         "enchant": "+5",
         "name": "메이저 아르카나 서클릿",
         "price": "2,977다이아",
-        "note": "중앙 3,539.5 • 하위권",
+        "note": "중앙 3,540 • 하위권",
         "raw": {
           "itemId": 200520002,
           "itemName": "+5 메이저 아르카나 서클릿",
@@ -585,7 +585,7 @@
           "salePrice": 2977.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 3539.5
+          "median": 3540.0
         }
       },
       {
