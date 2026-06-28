@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 15:56:53 KST",
+  "checkedAt": "2026-06-28 16:04:54 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -41,7 +41,7 @@
         "enchant": "+5",
         "name": "신성의 반지",
         "price": "10다이아",
-        "note": "중앙 44 • 초저가 의심",
+        "note": "중앙 45 • 초저가 의심",
         "raw": {
           "itemId": 300360009,
           "itemName": "+5 신성의 반지",
@@ -49,7 +49,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 44.0
+          "median": 45.0
         }
       },
       {
@@ -100,6 +100,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 86.5
+        }
+      },
+      {
+        "kind": "견갑",
+        "enchant": "+2",
+        "name": "시련의 견갑",
+        "price": "28다이아",
+        "note": "중앙 55 • 초저가 의심",
+        "raw": {
+          "itemId": 200950004,
+          "itemName": "+2 시련의 견갑",
+          "enchantLevel": 2,
+          "salePrice": 28.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 55.0
         }
       }
     ],
@@ -314,22 +330,6 @@
       }
     ],
     "heroic": [
-      {
-        "kind": "악세사리",
-        "enchant": "+1",
-        "name": "사멸의 반지",
-        "price": "100다이아",
-        "note": "중앙 299 • 초저가 의심",
-        "raw": {
-          "itemId": 300330013,
-          "itemName": "+1 사멸의 반지",
-          "enchantLevel": 1,
-          "salePrice": 100.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 299.0
-        }
-      },
       {
         "kind": "악세사리",
         "enchant": "+3",
