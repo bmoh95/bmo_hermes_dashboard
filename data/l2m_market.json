@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 21:11:36 KST",
+  "checkedAt": "2026-06-28 21:19:38 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -333,7 +333,7 @@
         "enchant": "+4",
         "name": "마염의 귀걸이",
         "price": "22다이아",
-        "note": "중앙 29 • 저가",
+        "note": "중앙 29.5 • 저가",
         "raw": {
           "itemId": 300240003,
           "itemName": "+4 마염의 귀걸이",
@@ -341,7 +341,7 @@
           "salePrice": 22.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 29.0
+          "median": 29.5
         }
       },
       {
@@ -511,7 +511,7 @@
         "enchant": "+4",
         "name": "오르펜의 목걸이",
         "price": "445다이아",
-        "note": "중앙 637.5 • 저가",
+        "note": "중앙 677 • 저가",
         "raw": {
           "itemId": 300130005,
           "itemName": "+4 오르펜의 목걸이",
@@ -519,7 +519,7 @@
           "salePrice": 445.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 637.5
+          "median": 677.0
         }
       },
       {
@@ -623,7 +623,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "100다이아",
-        "note": "중앙 220 • 초저가 의심",
+        "note": "중앙 219.5 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -631,7 +631,7 @@
           "salePrice": 100.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 220.0
+          "median": 219.5
         }
       },
       {
