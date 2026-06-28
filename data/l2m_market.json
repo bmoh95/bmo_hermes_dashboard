@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 20:15:27 KST",
+  "checkedAt": "2026-06-28 20:23:29 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -9,7 +9,7 @@
         "enchant": "+3",
         "name": "용기의 목걸이",
         "price": "10다이아",
-        "note": "중앙 21 • 초저가 의심",
+        "note": "중앙 20 • 초저가 의심",
         "raw": {
           "itemId": 300160006,
           "itemName": "+3 용기의 목걸이",
@@ -17,7 +17,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 21.0
+          "median": 20.0
         }
       },
       {
@@ -139,7 +139,7 @@
         "enchant": "+2",
         "name": "시련의 견갑",
         "price": "28다이아",
-        "note": "중앙 55 • 초저가 의심",
+        "note": "중앙 60 • 초저가 의심",
         "raw": {
           "itemId": 200950004,
           "itemName": "+2 시련의 견갑",
@@ -147,7 +147,7 @@
           "salePrice": 28.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 55.0
+          "median": 60.0
         }
       }
     ],
@@ -221,7 +221,7 @@
         "enchant": "+9",
         "name": "세인트 듀얼 소드",
         "price": "43다이아",
-        "note": "중앙 74 • 초저가 의심",
+        "note": "중앙 72 • 초저가 의심",
         "raw": {
           "itemId": 100240008,
           "itemName": "+9 세인트 듀얼 소드",
@@ -229,7 +229,7 @@
           "salePrice": 43.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 74.0
+          "median": 72.0
         }
       },
       {
@@ -294,6 +294,22 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 27.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+4",
+        "name": "땅의 수호 반지",
+        "price": "22다이아",
+        "note": "중앙 30 • 하위권",
+        "raw": {
+          "itemId": 300340004,
+          "itemName": "+4 땅의 수호 반지",
+          "enchantLevel": 4,
+          "salePrice": 22.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 30.0
         }
       },
       {
