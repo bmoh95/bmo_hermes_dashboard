@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 10:18:10 KST",
+  "checkedAt": "2026-06-28 10:26:11 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -344,22 +344,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 209.5
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+4",
-        "name": "하이랜더의 상징",
-        "price": "111다이아",
-        "note": "중앙 250 • 초저가 의심",
-        "raw": {
-          "itemId": 200230011,
-          "itemName": "+4 하이랜더의 상징",
-          "enchantLevel": 4,
-          "salePrice": 111.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 250.0
         }
       },
       {
