@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 02:27:19 KST",
+  "checkedAt": "2026-06-29 02:35:20 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -73,14 +73,14 @@
         "enchant": "+5",
         "name": "빛바랜 유물",
         "price": "650다이아",
-        "note": "중앙 899 • 하위권",
+        "note": "중앙 899 • 저가",
         "raw": {
           "itemId": 301160001,
           "itemName": "+5 빛바랜 유물",
           "enchantLevel": 5,
           "salePrice": 650.0,
           "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
+          "dealLabel": "아이템별 저가",
           "median": 899.0
         }
       },
@@ -123,7 +123,7 @@
         "enchant": "+5",
         "name": "피닉스 링",
         "price": "39다이아",
-        "note": "중앙 53.5 • 저가",
+        "note": "중앙 54 • 저가",
         "raw": {
           "itemId": 300350001,
           "itemName": "+5 피닉스 링",
@@ -131,7 +131,7 @@
           "salePrice": 39.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 53.5
+          "median": 54.0
         }
       },
       {
