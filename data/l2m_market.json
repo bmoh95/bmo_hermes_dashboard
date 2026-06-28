@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 22:49:32 KST",
+  "checkedAt": "2026-06-28 22:57:52 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -139,7 +139,7 @@
         "enchant": "+3",
         "name": "강철 손목 보호대",
         "price": "50다이아",
-        "note": "중앙 86.5 • 초저가 의심",
+        "note": "중앙 89.5 • 초저가 의심",
         "raw": {
           "itemId": 301550002,
           "itemName": "+3 강철 손목 보호대",
@@ -147,7 +147,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 86.5
+          "median": 89.5
         }
       },
       {
@@ -189,7 +189,7 @@
         "enchant": "+8",
         "name": "커스드 트윈 액스",
         "price": "15다이아",
-        "note": "중앙 56.5 • 초저가 의심",
+        "note": "중앙 55 • 초저가 의심",
         "raw": {
           "itemId": 101340004,
           "itemName": "+8 커스드 트윈 액스",
@@ -197,7 +197,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 56.5
+          "median": 55.0
         }
       },
       {
@@ -266,26 +266,10 @@
       },
       {
         "kind": "악세사리",
-        "enchant": "+3",
-        "name": "화안의 귀걸이",
-        "price": "10다이아",
-        "note": "중앙 25 • 초저가 의심",
-        "raw": {
-          "itemId": 300240007,
-          "itemName": "+3 화안의 귀걸이",
-          "enchantLevel": 3,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 25.0
-        }
-      },
-      {
-        "kind": "악세사리",
         "enchant": "+0",
         "name": "혹한의 귀걸이",
         "price": "20다이아",
-        "note": "중앙 27 • 하위권",
+        "note": "중앙 27.5 • 하위권",
         "raw": {
           "itemId": 300240011,
           "itemName": "혹한의 귀걸이",
@@ -293,7 +277,7 @@
           "salePrice": 20.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 27.0
+          "median": 27.5
         }
       },
       {
@@ -429,15 +413,15 @@
         "enchant": "+3",
         "name": "파수꾼의 견갑",
         "price": "900다이아",
-        "note": "중앙 1,190 • 하위권",
+        "note": "중앙 1,157.5 • 저가",
         "raw": {
           "itemId": 200940024,
           "itemName": "+3 파수꾼의 견갑",
           "enchantLevel": 3,
           "salePrice": 900.0,
           "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 1190.0
+          "dealLabel": "아이템별 저가",
+          "median": 1157.5
         }
       },
       {
@@ -458,22 +442,6 @@
       }
     ],
     "heroic": [
-      {
-        "kind": "악세사리",
-        "enchant": "+3",
-        "name": "광휘의 목걸이",
-        "price": "399다이아",
-        "note": "중앙 549 • 하위권",
-        "raw": {
-          "itemId": 300130010,
-          "itemName": "+3 광휘의 목걸이",
-          "enchantLevel": 3,
-          "salePrice": 399.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 549.0
-        }
-      },
       {
         "kind": "악세사리",
         "enchant": "+4",
