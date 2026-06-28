@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 23:13:53 KST",
+  "checkedAt": "2026-06-28 23:21:54 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -50,6 +50,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 45.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "옛 숲의 목걸이",
+        "price": "52다이아",
+        "note": "중앙 64 • 저가",
+        "raw": {
+          "itemId": 300160003,
+          "itemName": "+5 옛 숲의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 52.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 64.0
         }
       },
       {
@@ -269,31 +285,15 @@
         "enchant": "+4",
         "name": "마염의 귀걸이",
         "price": "22다이아",
-        "note": "중앙 29.5 • 하위권",
+        "note": "중앙 29.5 • 저가",
         "raw": {
           "itemId": 300240003,
           "itemName": "+4 마염의 귀걸이",
           "enchantLevel": 4,
           "salePrice": 22.0,
           "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 29.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+3",
-        "name": "미궁의 목걸이",
-        "price": "30다이아",
-        "note": "중앙 35.5 • 저가",
-        "raw": {
-          "itemId": 300140018,
-          "itemName": "+3 미궁의 목걸이",
-          "enchantLevel": 3,
-          "salePrice": 30.0,
-          "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 35.5
+          "median": 29.5
         }
       },
       {
@@ -365,7 +365,7 @@
         "enchant": "+0",
         "name": "창술서 (라이트닝 스트라이크)",
         "price": "30다이아",
-        "note": "중앙 49 • 초저가 의심",
+        "note": "중앙 56.5 • 초저가 의심",
         "raw": {
           "itemId": 500374003,
           "itemName": "창술서 (라이트닝 스트라이크)",
@@ -373,7 +373,7 @@
           "salePrice": 30.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 49.0
+          "median": 56.5
         }
       },
       {
@@ -559,7 +559,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 위즈덤)",
         "price": "190다이아",
-        "note": "중앙 369 • 초저가 의심",
+        "note": "중앙 329.5 • 초저가 의심",
         "raw": {
           "itemId": 500303005,
           "itemName": "계승자의 서 (인크리즈 위즈덤)",
@@ -567,7 +567,7 @@
           "salePrice": 190.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 369.0
+          "median": 329.5
         }
       }
     ],
