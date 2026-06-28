@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-28 12:34:27 KST",
+  "checkedAt": "2026-06-28 12:42:27 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -25,7 +25,7 @@
         "enchant": "+3",
         "name": "타이거 아이",
         "price": "10다이아",
-        "note": "중앙 23 • 초저가 의심",
+        "note": "중앙 22 • 초저가 의심",
         "raw": {
           "itemId": 300260007,
           "itemName": "+3 타이거 아이",
@@ -33,7 +33,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 23.0
+          "median": 22.0
         }
       },
       {
@@ -173,7 +173,7 @@
         "enchant": "+9",
         "name": "야크샤 트윈 액스",
         "price": "60다이아",
-        "note": "중앙 88 • 하위권",
+        "note": "중앙 90 • 하위권",
         "raw": {
           "itemId": 101340002,
           "itemName": "+9 야크샤 트윈 액스",
@@ -181,7 +181,7 @@
           "salePrice": 60.0,
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 88.0
+          "median": 90.0
         }
       },
       {
@@ -246,22 +246,6 @@
           "category": "스킬북",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 21.0
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "창술서 (라이트닝 스트라이크)",
-        "price": "30다이아",
-        "note": "중앙 40 • 저가",
-        "raw": {
-          "itemId": 500374003,
-          "itemName": "창술서 (라이트닝 스트라이크)",
-          "enchantLevel": 0,
-          "salePrice": 30.0,
-          "category": "스킬북",
-          "dealLabel": "아이템별 저가",
-          "median": 40.0
         }
       },
       {
@@ -408,6 +392,22 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 250.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+6",
+        "name": "잊혀진 영웅의 흉갑",
+        "price": "200다이아",
+        "note": "중앙 300 • 초저가 의심",
+        "raw": {
+          "itemId": 200130010,
+          "itemName": "+6 잊혀진 영웅의 흉갑",
+          "enchantLevel": 6,
+          "salePrice": 200.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 300.0
         }
       },
       {
