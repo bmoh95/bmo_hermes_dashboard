@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 01:07:08 KST",
+  "checkedAt": "2026-06-29 01:15:08 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -429,7 +429,7 @@
         "enchant": "+3",
         "name": "제사장의 견갑",
         "price": "1,200다이아",
-        "note": "중앙 1,550 • 하위권",
+        "note": "중앙 1,549 • 하위권",
         "raw": {
           "itemId": 200940026,
           "itemName": "+3 제사장의 견갑",
@@ -437,7 +437,7 @@
           "salePrice": 1200.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1550.0
+          "median": 1549.0
         }
       }
     ],
