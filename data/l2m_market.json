@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 17:20:09 KST",
+  "checkedAt": "2026-06-29 17:28:09 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -431,7 +431,7 @@
         "enchant": "+4",
         "name": "마제스틱 링 (초월 +3)",
         "price": "777다이아",
-        "note": "중앙 1,122 • 저가",
+        "note": "중앙 1,061 • 저가",
         "raw": {
           "itemId": 360330209,
           "itemName": "+4 마제스틱 링 (초월 +3)",
@@ -439,7 +439,7 @@
           "salePrice": 777.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 1122.0
+          "median": 1061.0
         }
       },
       {
