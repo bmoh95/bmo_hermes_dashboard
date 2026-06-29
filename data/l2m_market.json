@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 20:26:34 KST",
+  "checkedAt": "2026-06-29 20:34:36 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -152,6 +152,22 @@
       }
     ],
     "rare": [
+      {
+        "kind": "무기",
+        "enchant": "+8",
+        "name": "소드 오브 이포스",
+        "price": "15다이아",
+        "note": "중앙 33 • 초저가 의심",
+        "raw": {
+          "itemId": 100940001,
+          "itemName": "+8 소드 오브 이포스",
+          "enchantLevel": 8,
+          "salePrice": 15.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 33.0
+        }
+      },
       {
         "kind": "무기",
         "enchant": "+8",
@@ -577,7 +593,7 @@
         "enchant": "+5",
         "name": "크란벨의 망토 (초월 +1)",
         "price": "19,000다이아",
-        "note": "중앙 24,500 • 하위권",
+        "note": "중앙 24,650 • 하위권",
         "raw": {
           "itemId": 260620004,
           "itemName": "+5 크란벨의 망토 (초월 +1)",
@@ -585,7 +601,7 @@
           "salePrice": 19000.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 24500.0
+          "median": 24650.0
         }
       }
     ]
