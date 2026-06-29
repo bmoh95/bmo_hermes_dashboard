@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 07:54:03 KST",
+  "checkedAt": "2026-06-30 08:02:05 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -157,7 +157,7 @@
         "enchant": "+9",
         "name": "싸울아비 장검",
         "price": "30다이아",
-        "note": "중앙 56.5 • 초저가 의심",
+        "note": "중앙 58 • 초저가 의심",
         "raw": {
           "itemId": 100140003,
           "itemName": "+9 싸울아비 장검",
@@ -165,7 +165,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 56.5
+          "median": 58.0
         }
       },
       {
@@ -230,22 +230,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 15.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+1",
-        "name": "미궁의 귀걸이",
-        "price": "18다이아",
-        "note": "중앙 25 • 하위권",
-        "raw": {
-          "itemId": 300240006,
-          "itemName": "+1 미궁의 귀걸이",
-          "enchantLevel": 1,
-          "salePrice": 18.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 25.0
         }
       },
       {
@@ -447,7 +431,7 @@
         "enchant": "+6",
         "name": "실렌의 숨결",
         "price": "450다이아",
-        "note": "중앙 777 • 초저가 의심",
+        "note": "중앙 788 • 초저가 의심",
         "raw": {
           "itemId": 200230001,
           "itemName": "+6 실렌의 숨결",
@@ -455,7 +439,7 @@
           "salePrice": 450.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 777.0
+          "median": 788.0
         }
       },
       {
