@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 21:14:40 KST",
+  "checkedAt": "2026-06-29 21:23:41 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -139,7 +139,7 @@
         "enchant": "+2",
         "name": "시련의 견갑",
         "price": "28다이아",
-        "note": "중앙 49 • 초저가 의심",
+        "note": "중앙 51.5 • 초저가 의심",
         "raw": {
           "itemId": 200950004,
           "itemName": "+2 시련의 견갑",
@@ -147,11 +147,27 @@
           "salePrice": 28.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 49.0
+          "median": 51.5
         }
       }
     ],
     "rare": [
+      {
+        "kind": "무기",
+        "enchant": "+8",
+        "name": "데스페리온의 지팡이",
+        "price": "15다이아",
+        "note": "중앙 32 • 초저가 의심",
+        "raw": {
+          "itemId": 100540001,
+          "itemName": "+8 데스페리온의 지팡이",
+          "enchantLevel": 8,
+          "salePrice": 15.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 32.0
+        }
+      },
       {
         "kind": "무기",
         "enchant": "+8",
@@ -570,6 +586,22 @@
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 24500.0
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "쌍도끼 전승서 (래쓰 오브 타이탄)",
+        "price": "4,000다이아",
+        "note": "중앙 5,400 • 하위권",
+        "raw": {
+          "itemId": 503222004,
+          "itemName": "쌍도끼 전승서 (래쓰 오브 타이탄)",
+          "enchantLevel": 0,
+          "salePrice": 4000.0,
+          "category": "스킬북",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 5400.0
         }
       }
     ]
