@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 13:16:40 KST",
+  "checkedAt": "2026-06-29 13:24:41 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -253,7 +253,7 @@
         "enchant": "+8",
         "name": "아이스 스톰 트윈 액스",
         "price": "85다이아",
-        "note": "중앙 105 • 저가",
+        "note": "중앙 100 • 저가",
         "raw": {
           "itemId": 101340001,
           "itemName": "+8 아이스 스톰 트윈 액스",
@@ -261,7 +261,7 @@
           "salePrice": 85.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 105.0
+          "median": 100.0
         }
       },
       {
