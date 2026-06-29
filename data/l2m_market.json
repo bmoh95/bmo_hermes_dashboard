@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 22:44:54 KST",
+  "checkedAt": "2026-06-29 22:52:55 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -429,15 +429,15 @@
         "enchant": "+3",
         "name": "파수꾼의 견갑",
         "price": "900다이아",
-        "note": "중앙 1,205 • 저가",
+        "note": "중앙 1,220 • 하위권",
         "raw": {
           "itemId": 200940024,
           "itemName": "+3 파수꾼의 견갑",
           "enchantLevel": 3,
           "salePrice": 900.0,
           "category": "방어구",
-          "dealLabel": "아이템별 저가",
-          "median": 1205.0
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 1220.0
         }
       }
     ],
@@ -488,22 +488,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1700.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "악마의 부츠",
-        "price": "184다이아",
-        "note": "중앙 320.5 • 초저가 의심",
-        "raw": {
-          "itemId": 200430001,
-          "itemName": "+5 악마의 부츠",
-          "enchantLevel": 5,
-          "salePrice": 184.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 320.5
         }
       },
       {
