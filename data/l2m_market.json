@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 10:30:18 KST",
+  "checkedAt": "2026-06-29 10:38:21 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -269,7 +269,7 @@
         "enchant": "+2",
         "name": "부유의 귀걸이",
         "price": "10다이아",
-        "note": "중앙 16.5 • 초저가 의심",
+        "note": "중앙 15.5 • 초저가 의심",
         "raw": {
           "itemId": 300240009,
           "itemName": "+2 부유의 귀걸이",
@@ -277,7 +277,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 16.5
+          "median": 15.5
         }
       },
       {
@@ -618,6 +618,22 @@
           "category": "스킬북",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 5400.0
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "사제의 기록 (프레이)",
+        "price": "5,500다이아",
+        "note": "중앙 6,995 • 하위권",
+        "raw": {
+          "itemId": 500362002,
+          "itemName": "사제의 기록 (프레이)",
+          "enchantLevel": 0,
+          "salePrice": 5500.0,
+          "category": "스킬북",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 6995.0
         }
       }
     ]
