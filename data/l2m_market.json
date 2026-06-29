@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 01:09:13 KST",
+  "checkedAt": "2026-06-30 01:17:13 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -100,22 +100,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 55.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "피닉스 링",
-        "price": "36다이아",
-        "note": "중앙 56.5 • 초저가 의심",
-        "raw": {
-          "itemId": 300350001,
-          "itemName": "+5 피닉스 링",
-          "enchantLevel": 5,
-          "salePrice": 36.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 56.5
         }
       },
       {
@@ -249,6 +233,22 @@
         }
       },
       {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "피스메이커",
+        "price": "150다이아",
+        "note": "중앙 199 • 하위권",
+        "raw": {
+          "itemId": 100840004,
+          "itemName": "+9 피스메이커",
+          "enchantLevel": 9,
+          "salePrice": 150.0,
+          "category": "무기",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 199.0
+        }
+      },
+      {
         "kind": "악세사리",
         "enchant": "+2",
         "name": "부유의 귀걸이",
@@ -262,6 +262,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 15.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "미궁의 귀걸이",
+        "price": "18다이아",
+        "note": "중앙 25 • 하위권",
+        "raw": {
+          "itemId": 300240006,
+          "itemName": "+1 미궁의 귀걸이",
+          "enchantLevel": 1,
+          "salePrice": 18.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 25.0
         }
       },
       {
@@ -415,7 +431,7 @@
         "enchant": "+4",
         "name": "마제스틱 링 (초월 +3)",
         "price": "777다이아",
-        "note": "중앙 1,122 • 저가",
+        "note": "중앙 1,061 • 저가",
         "raw": {
           "itemId": 360330209,
           "itemName": "+4 마제스틱 링 (초월 +3)",
@@ -423,7 +439,7 @@
           "salePrice": 777.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 1122.0
+          "median": 1061.0
         }
       },
       {
@@ -447,15 +463,15 @@
         "enchant": "+1",
         "name": "사멸의 목걸이 (초월 +3)",
         "price": "1,100다이아",
-        "note": "중앙 1,700 • 초저가 의심",
+        "note": "중앙 1,599.5 • 저가",
         "raw": {
           "itemId": 360130212,
           "itemName": "+1 사멸의 목걸이 (초월 +3)",
           "enchantLevel": 1,
           "salePrice": 1100.0,
           "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 1700.0
+          "dealLabel": "아이템별 저가",
+          "median": 1599.5
         }
       },
       {
