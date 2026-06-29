@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 22:27:51 KST",
+  "checkedAt": "2026-06-29 22:36:34 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -141,7 +141,7 @@
         "enchant": "+8",
         "name": "데스페리온의 지팡이",
         "price": "15다이아",
-        "note": "중앙 32 • 초저가 의심",
+        "note": "중앙 30 • 초저가 의심",
         "raw": {
           "itemId": 100540001,
           "itemName": "+8 데스페리온의 지팡이",
@@ -149,7 +149,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 32.0
+          "median": 30.0
         }
       },
       {
@@ -317,7 +317,7 @@
         "enchant": "+3",
         "name": "미궁의 목걸이",
         "price": "30다이아",
-        "note": "중앙 38.5 • 하위권",
+        "note": "중앙 40 • 하위권",
         "raw": {
           "itemId": 300140018,
           "itemName": "+3 미궁의 목걸이",
@@ -325,7 +325,7 @@
           "salePrice": 30.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 38.5
+          "median": 40.0
         }
       },
       {
@@ -333,7 +333,7 @@
         "enchant": "+5",
         "name": "오만의 반지",
         "price": "33다이아",
-        "note": "중앙 45 • 하위권",
+        "note": "중앙 44.5 • 하위권",
         "raw": {
           "itemId": 300340002,
           "itemName": "+5 오만의 반지",
@@ -341,7 +341,7 @@
           "salePrice": 33.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 45.0
+          "median": 44.5
         }
       },
       {
@@ -358,6 +358,22 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 54.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+4",
+        "name": "달의 반지",
+        "price": "65다이아",
+        "note": "중앙 117.5 • 초저가 의심",
+        "raw": {
+          "itemId": 300340018,
+          "itemName": "+4 달의 반지",
+          "enchantLevel": 4,
+          "salePrice": 65.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 117.5
         }
       },
       {
