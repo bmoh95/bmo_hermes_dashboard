@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 20:18:34 KST",
+  "checkedAt": "2026-06-29 20:26:34 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -155,22 +155,6 @@
       {
         "kind": "무기",
         "enchant": "+8",
-        "name": "커스드 트윈 액스",
-        "price": "15다이아",
-        "note": "중앙 60 • 초저가 의심",
-        "raw": {
-          "itemId": 101340004,
-          "itemName": "+8 커스드 트윈 액스",
-          "enchantLevel": 8,
-          "salePrice": 15.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 60.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+8",
         "name": "알바레스트",
         "price": "30다이아",
         "note": "중앙 60 • 초저가 의심",
@@ -317,7 +301,7 @@
         "enchant": "+5",
         "name": "오만의 반지",
         "price": "33다이아",
-        "note": "중앙 46 • 하위권",
+        "note": "중앙 44 • 하위권",
         "raw": {
           "itemId": 300340002,
           "itemName": "+5 오만의 반지",
@@ -325,7 +309,7 @@
           "salePrice": 33.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 46.0
+          "median": 44.0
         }
       },
       {
@@ -495,7 +479,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 1,150 • 초저가 의심",
+        "note": "중앙 1,075 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -503,7 +487,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1150.0
+          "median": 1075.0
         }
       },
       {
