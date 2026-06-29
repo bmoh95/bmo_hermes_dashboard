@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 10:46:23 KST",
+  "checkedAt": "2026-06-29 10:54:24 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -83,22 +83,6 @@
           "dealLabel": "아이템별 저가",
           "median": 899.0
         }
-      },
-      {
-        "kind": "견갑",
-        "enchant": "+3",
-        "name": "사슬 견갑",
-        "price": "20다이아",
-        "note": "중앙 25 • 저가",
-        "raw": {
-          "itemId": 200960005,
-          "itemName": "+3 사슬 견갑",
-          "enchantLevel": 3,
-          "salePrice": 20.0,
-          "category": "방어구",
-          "dealLabel": "아이템별 저가",
-          "median": 25.0
-        }
       }
     ],
     "uncommon": [
@@ -139,7 +123,7 @@
         "enchant": "+3",
         "name": "강철 손목 보호대",
         "price": "50다이아",
-        "note": "중앙 89.5 • 초저가 의심",
+        "note": "중앙 86 • 초저가 의심",
         "raw": {
           "itemId": 301550002,
           "itemName": "+3 강철 손목 보호대",
@@ -147,7 +131,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 89.5
+          "median": 86.0
         }
       },
       {
@@ -349,7 +333,7 @@
         "enchant": "+4",
         "name": "마염의 귀걸이",
         "price": "22다이아",
-        "note": "중앙 30 • 저가",
+        "note": "중앙 29 • 저가",
         "raw": {
           "itemId": 300240003,
           "itemName": "+4 마염의 귀걸이",
@@ -357,7 +341,7 @@
           "salePrice": 22.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 30.0
+          "median": 29.0
         }
       },
       {
