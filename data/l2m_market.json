@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 03:04:27 KST",
+  "checkedAt": "2026-06-30 03:12:28 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -431,7 +431,7 @@
         "enchant": "+6",
         "name": "잊혀진 영웅의 흉갑",
         "price": "200다이아",
-        "note": "중앙 316 • 초저가 의심",
+        "note": "중앙 300 • 초저가 의심",
         "raw": {
           "itemId": 200130010,
           "itemName": "+6 잊혀진 영웅의 흉갑",
@@ -439,7 +439,7 @@
           "salePrice": 200.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 316.0
+          "median": 300.0
         }
       },
       {
@@ -554,6 +554,22 @@
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 6500.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "타락 천사의 장갑 (초월 +1)",
+        "price": "7,500다이아",
+        "note": "중앙 9,590 • 하위권",
+        "raw": {
+          "itemId": 260320003,
+          "itemName": "+5 타락 천사의 장갑 (초월 +1)",
+          "enchantLevel": 5,
+          "salePrice": 7500.0,
+          "category": "방어구",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 9590.0
         }
       },
       {
