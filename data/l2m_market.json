@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 22:19:50 KST",
+  "checkedAt": "2026-06-29 22:27:51 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -198,22 +198,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 75.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "세인트 듀얼 소드",
-        "price": "41다이아",
-        "note": "중앙 65 • 초저가 의심",
-        "raw": {
-          "itemId": 100240008,
-          "itemName": "+9 세인트 듀얼 소드",
-          "enchantLevel": 9,
-          "salePrice": 41.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 65.0
         }
       },
       {
