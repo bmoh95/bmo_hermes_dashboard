@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 18:00:14 KST",
+  "checkedAt": "2026-06-29 18:08:16 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -9,7 +9,7 @@
         "enchant": "+4",
         "name": "환멸의 팔찌",
         "price": "10다이아",
-        "note": "중앙 27.5 • 초저가 의심",
+        "note": "중앙 25 • 초저가 의심",
         "raw": {
           "itemId": 300560003,
           "itemName": "+4 환멸의 팔찌",
@@ -17,7 +17,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 27.5
+          "median": 25.0
         }
       },
       {
@@ -301,7 +301,7 @@
         "enchant": "+4",
         "name": "마염의 귀걸이",
         "price": "22다이아",
-        "note": "중앙 28 • 저가",
+        "note": "중앙 29 • 저가",
         "raw": {
           "itemId": 300240003,
           "itemName": "+4 마염의 귀걸이",
@@ -309,7 +309,7 @@
           "salePrice": 22.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 28.0
+          "median": 29.0
         }
       },
       {
@@ -349,7 +349,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (쓰러스터 Ⅰ)",
         "price": "15다이아",
-        "note": "중앙 20.5 • 저가",
+        "note": "중앙 20 • 저가",
         "raw": {
           "itemId": 500304026,
           "itemName": "계승자의 서 (쓰러스터 Ⅰ)",
@@ -357,7 +357,7 @@
           "salePrice": 15.0,
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
-          "median": 20.5
+          "median": 20.0
         }
       },
       {
