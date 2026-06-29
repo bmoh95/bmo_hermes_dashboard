@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 19:54:31 KST",
+  "checkedAt": "2026-06-29 20:02:32 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -475,27 +475,11 @@
         }
       },
       {
-        "kind": "방어구",
-        "enchant": "+6",
-        "name": "잊혀진 영웅의 흉갑",
-        "price": "200다이아",
-        "note": "중앙 315.5 • 초저가 의심",
-        "raw": {
-          "itemId": 200130010,
-          "itemName": "+6 잊혀진 영웅의 흉갑",
-          "enchantLevel": 6,
-          "salePrice": 200.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 315.5
-        }
-      },
-      {
         "kind": "무기",
         "enchant": "+7",
         "name": "블러디 네뷸라이트 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 1,047.5 • 초저가 의심",
+        "note": "중앙 1,095 • 초저가 의심",
         "raw": {
           "itemId": 160530105,
           "itemName": "+7 블러디 네뷸라이트 (초월 +2)",
@@ -503,7 +487,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1047.5
+          "median": 1095.0
         }
       },
       {
