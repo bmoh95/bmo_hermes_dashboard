@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 08:10:06 KST",
+  "checkedAt": "2026-06-30 08:18:07 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -285,7 +285,7 @@
         "enchant": "+4",
         "name": "마염의 귀걸이",
         "price": "22다이아",
-        "note": "중앙 29 • 저가",
+        "note": "중앙 28 • 저가",
         "raw": {
           "itemId": 300240003,
           "itemName": "+4 마염의 귀걸이",
@@ -293,7 +293,7 @@
           "salePrice": 22.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 29.0
+          "median": 28.0
         }
       },
       {
