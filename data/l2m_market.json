@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 02:56:16 KST",
+  "checkedAt": "2026-06-30 03:04:27 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -166,22 +166,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 70.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "신앙의 홀",
-        "price": "58다이아",
-        "note": "중앙 99.5 • 초저가 의심",
-        "raw": {
-          "itemId": 100640007,
-          "itemName": "+9 신앙의 홀",
-          "enchantLevel": 9,
-          "salePrice": 58.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 99.5
         }
       },
       {
