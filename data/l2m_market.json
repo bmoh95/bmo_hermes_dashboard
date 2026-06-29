@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 18:40:21 KST",
+  "checkedAt": "2026-06-29 18:48:22 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -394,6 +394,22 @@
       }
     ],
     "heroic": [
+      {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "심연의 벨트",
+        "price": "199다이아",
+        "note": "중앙 305 • 초저가 의심",
+        "raw": {
+          "itemId": 300430009,
+          "itemName": "+1 심연의 벨트",
+          "enchantLevel": 1,
+          "salePrice": 199.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 305.0
+        }
+      },
       {
         "kind": "악세사리",
         "enchant": "+4",
