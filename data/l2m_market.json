@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 20:02:32 KST",
+  "checkedAt": "2026-06-29 20:10:33 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -67,6 +67,22 @@
           "dealLabel": "아이템별 저가",
           "median": 849.5
         }
+      },
+      {
+        "kind": "견갑",
+        "enchant": "+3",
+        "name": "사슬 견갑",
+        "price": "20다이아",
+        "note": "중앙 25 • 저가",
+        "raw": {
+          "itemId": 200960005,
+          "itemName": "+3 사슬 견갑",
+          "enchantLevel": 3,
+          "salePrice": 20.0,
+          "category": "방어구",
+          "dealLabel": "아이템별 저가",
+          "median": 25.0
+        }
       }
     ],
     "uncommon": [
@@ -123,7 +139,7 @@
         "enchant": "+2",
         "name": "시련의 견갑",
         "price": "28다이아",
-        "note": "중앙 51.5 • 초저가 의심",
+        "note": "중앙 49 • 초저가 의심",
         "raw": {
           "itemId": 200950004,
           "itemName": "+2 시련의 견갑",
@@ -131,7 +147,7 @@
           "salePrice": 28.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 51.5
+          "median": 49.0
         }
       }
     ],
