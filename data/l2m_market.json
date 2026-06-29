@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 22:52:55 KST",
+  "checkedAt": "2026-06-29 23:00:56 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -34,22 +34,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 44.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "옛 숲의 목걸이",
-        "price": "52다이아",
-        "note": "중앙 66 • 저가",
-        "raw": {
-          "itemId": 300160003,
-          "itemName": "+5 옛 숲의 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 52.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 66.0
         }
       },
       {
@@ -100,22 +84,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 48.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "피닉스 링",
-        "price": "39다이아",
-        "note": "중앙 56.5 • 저가",
-        "raw": {
-          "itemId": 300350001,
-          "itemName": "+5 피닉스 링",
-          "enchantLevel": 5,
-          "salePrice": 39.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 56.5
         }
       },
       {
@@ -406,6 +374,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 117.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "판 드라이드의 목걸이",
+        "price": "170다이아",
+        "note": "중앙 235 • 저가",
+        "raw": {
+          "itemId": 300140001,
+          "itemName": "+5 판 드라이드의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 170.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 235.0
         }
       },
       {
