@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 21:23:41 KST",
+  "checkedAt": "2026-06-29 21:31:42 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -91,7 +91,7 @@
         "enchant": "+2",
         "name": "페트람의 유물",
         "price": "35다이아",
-        "note": "중앙 44 • 저가",
+        "note": "중앙 48 • 저가",
         "raw": {
           "itemId": 301150008,
           "itemName": "+2 페트람의 유물",
@@ -99,7 +99,7 @@
           "salePrice": 35.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 44.0
+          "median": 48.0
         }
       },
       {
@@ -198,6 +198,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 58.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "크리스탈 보우건",
+        "price": "38다이아",
+        "note": "중앙 75 • 초저가 의심",
+        "raw": {
+          "itemId": 100840007,
+          "itemName": "+9 크리스탈 보우건",
+          "enchantLevel": 9,
+          "salePrice": 38.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 75.0
         }
       },
       {
@@ -381,15 +397,15 @@
         "enchant": "+3",
         "name": "파수꾼의 견갑",
         "price": "900다이아",
-        "note": "중앙 1,220 • 하위권",
+        "note": "중앙 1,205 • 저가",
         "raw": {
           "itemId": 200940024,
           "itemName": "+3 파수꾼의 견갑",
           "enchantLevel": 3,
           "salePrice": 900.0,
           "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 1220.0
+          "dealLabel": "아이템별 저가",
+          "median": 1205.0
         }
       },
       {
