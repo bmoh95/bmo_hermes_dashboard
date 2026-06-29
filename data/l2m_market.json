@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 06:49:55 KST",
+  "checkedAt": "2026-06-30 06:57:56 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -285,15 +285,15 @@
         "enchant": "+3",
         "name": "균열의 반지",
         "price": "22다이아",
-        "note": "중앙 34.5 • 초저가 의심",
+        "note": "중앙 33 • 하위권",
         "raw": {
           "itemId": 300340019,
           "itemName": "+3 균열의 반지",
           "enchantLevel": 3,
           "salePrice": 22.0,
           "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 34.5
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 33.0
         }
       },
       {
@@ -447,7 +447,7 @@
         "enchant": "+6",
         "name": "실렌의 숨결",
         "price": "450다이아",
-        "note": "중앙 777 • 초저가 의심",
+        "note": "중앙 728 • 초저가 의심",
         "raw": {
           "itemId": 200230001,
           "itemName": "+6 실렌의 숨결",
@@ -455,7 +455,7 @@
           "salePrice": 450.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 777.0
+          "median": 728.0
         }
       },
       {
