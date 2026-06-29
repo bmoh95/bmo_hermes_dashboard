@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 22:03:48 KST",
+  "checkedAt": "2026-06-29 22:11:49 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -349,15 +349,15 @@
         "enchant": "+3",
         "name": "미궁의 목걸이",
         "price": "30다이아",
-        "note": "중앙 37 • 저가",
+        "note": "중앙 38.5 • 하위권",
         "raw": {
           "itemId": 300140018,
           "itemName": "+3 미궁의 목걸이",
           "enchantLevel": 3,
           "salePrice": 30.0,
           "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 37.0
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 38.5
         }
       },
       {
@@ -422,22 +422,6 @@
           "category": "방어구",
           "dealLabel": "아이템별 저가",
           "median": 1205.0
-        }
-      },
-      {
-        "kind": "견갑",
-        "enchant": "+3",
-        "name": "제사장의 견갑",
-        "price": "1,200다이아",
-        "note": "중앙 1,598 • 하위권",
-        "raw": {
-          "itemId": 200940026,
-          "itemName": "+3 제사장의 견갑",
-          "enchantLevel": 3,
-          "salePrice": 1200.0,
-          "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 1598.0
         }
       }
     ],
@@ -520,6 +504,22 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 320.5
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+6",
+        "name": "잊혀진 영웅의 흉갑",
+        "price": "200다이아",
+        "note": "중앙 315.5 • 초저가 의심",
+        "raw": {
+          "itemId": 200130010,
+          "itemName": "+6 잊혀진 영웅의 흉갑",
+          "enchantLevel": 6,
+          "salePrice": 200.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 315.5
         }
       },
       {
