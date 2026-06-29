@@ -1,25 +1,9 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 15:10:53 KST",
+  "checkedAt": "2026-06-29 15:18:54 KST",
   "errors": [],
   "groups": {
     "common": [
-      {
-        "kind": "악세사리",
-        "enchant": "+3",
-        "name": "용기의 목걸이",
-        "price": "10다이아",
-        "note": "중앙 19.5 • 초저가 의심",
-        "raw": {
-          "itemId": 300160006,
-          "itemName": "+3 용기의 목걸이",
-          "enchantLevel": 3,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 19.5
-        }
-      },
       {
         "kind": "악세사리",
         "enchant": "+4",
@@ -91,7 +75,7 @@
         "enchant": "+2",
         "name": "페트람의 유물",
         "price": "35다이아",
-        "note": "중앙 49.5 • 저가",
+        "note": "중앙 44 • 저가",
         "raw": {
           "itemId": 301150008,
           "itemName": "+2 페트람의 유물",
@@ -99,7 +83,7 @@
           "salePrice": 35.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 49.5
+          "median": 44.0
         }
       },
       {
@@ -278,6 +262,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 15.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "미궁의 귀걸이",
+        "price": "18다이아",
+        "note": "중앙 25 • 하위권",
+        "raw": {
+          "itemId": 300240006,
+          "itemName": "+1 미궁의 귀걸이",
+          "enchantLevel": 1,
+          "salePrice": 18.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 25.0
         }
       },
       {
