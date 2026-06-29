@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 08:26:08 KST",
+  "checkedAt": "2026-06-30 08:36:00 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -34,6 +34,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 44.0
+        }
+      },
+      {
+        "kind": "견갑",
+        "enchant": "+3",
+        "name": "사슬 견갑",
+        "price": "19다이아",
+        "note": "중앙 25 • 저가",
+        "raw": {
+          "itemId": 200960005,
+          "itemName": "+3 사슬 견갑",
+          "enchantLevel": 3,
+          "salePrice": 19.0,
+          "category": "방어구",
+          "dealLabel": "아이템별 저가",
+          "median": 25.0
         }
       }
     ],
@@ -187,6 +203,22 @@
       {
         "kind": "무기",
         "enchant": "+9",
+        "name": "커스드 트윈 액스",
+        "price": "76다이아",
+        "note": "중앙 121 • 초저가 의심",
+        "raw": {
+          "itemId": 101340004,
+          "itemName": "+9 커스드 트윈 액스",
+          "enchantLevel": 9,
+          "salePrice": 76.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 121.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
         "name": "망각의 활",
         "price": "88다이아",
         "note": "중앙 122 • 저가",
@@ -283,6 +315,22 @@
       {
         "kind": "악세사리",
         "enchant": "+3",
+        "name": "열화의 귀걸이",
+        "price": "20다이아",
+        "note": "중앙 45 • 초저가 의심",
+        "raw": {
+          "itemId": 300240008,
+          "itemName": "+3 열화의 귀걸이",
+          "enchantLevel": 3,
+          "salePrice": 20.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 45.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+3",
         "name": "균열의 반지",
         "price": "22다이아",
         "note": "중앙 30 • 하위권",
@@ -301,7 +349,7 @@
         "enchant": "+4",
         "name": "마염의 귀걸이",
         "price": "22다이아",
-        "note": "중앙 28 • 저가",
+        "note": "중앙 29 • 저가",
         "raw": {
           "itemId": 300240003,
           "itemName": "+4 마염의 귀걸이",
@@ -309,7 +357,7 @@
           "salePrice": 22.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 28.0
+          "median": 29.0
         }
       },
       {
