@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 10:38:21 KST",
+  "checkedAt": "2026-06-29 10:46:23 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -18,6 +18,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 20.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+4",
+        "name": "환멸의 팔찌",
+        "price": "10다이아",
+        "note": "중앙 27.5 • 초저가 의심",
+        "raw": {
+          "itemId": 300560003,
+          "itemName": "+4 환멸의 팔찌",
+          "enchantLevel": 4,
+          "salePrice": 10.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 27.5
         }
       },
       {
@@ -187,6 +203,22 @@
       {
         "kind": "무기",
         "enchant": "+8",
+        "name": "솔다트 에스터크",
+        "price": "22다이아",
+        "note": "중앙 40 • 초저가 의심",
+        "raw": {
+          "itemId": 101140001,
+          "itemName": "+8 솔다트 에스터크",
+          "enchantLevel": 8,
+          "salePrice": 22.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 40.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+8",
         "name": "알바레스트",
         "price": "30다이아",
         "note": "중앙 60 • 초저가 의심",
@@ -301,7 +333,7 @@
         "enchant": "+3",
         "name": "균열의 반지",
         "price": "22다이아",
-        "note": "중앙 34.5 • 초저가 의심",
+        "note": "중앙 35 • 초저가 의심",
         "raw": {
           "itemId": 300340019,
           "itemName": "+3 균열의 반지",
@@ -309,7 +341,7 @@
           "salePrice": 22.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 34.5
+          "median": 35.0
         }
       },
       {
