@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 15:50:57 KST",
+  "checkedAt": "2026-06-29 15:58:58 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -253,7 +253,7 @@
         "enchant": "+9",
         "name": "피스메이커",
         "price": "150다이아",
-        "note": "중앙 199 • 하위권",
+        "note": "중앙 210 • 하위권",
         "raw": {
           "itemId": 100840004,
           "itemName": "+9 피스메이커",
@@ -261,7 +261,7 @@
           "salePrice": 150.0,
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 199.0
+          "median": 210.0
         }
       },
       {
