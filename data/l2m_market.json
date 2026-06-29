@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 23:39:00 KST",
+  "checkedAt": "2026-06-29 23:47:01 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -141,7 +141,7 @@
         "enchant": "+8",
         "name": "데스페리온의 지팡이",
         "price": "15다이아",
-        "note": "중앙 30 • 초저가 의심",
+        "note": "중앙 32 • 초저가 의심",
         "raw": {
           "itemId": 100540001,
           "itemName": "+8 데스페리온의 지팡이",
@@ -149,7 +149,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 30.0
+          "median": 32.0
         }
       },
       {
@@ -266,22 +266,6 @@
       },
       {
         "kind": "악세사리",
-        "enchant": "+1",
-        "name": "미궁의 귀걸이",
-        "price": "18다이아",
-        "note": "중앙 25 • 하위권",
-        "raw": {
-          "itemId": 300240006,
-          "itemName": "+1 미궁의 귀걸이",
-          "enchantLevel": 1,
-          "salePrice": 18.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 25.0
-        }
-      },
-      {
-        "kind": "악세사리",
         "enchant": "+0",
         "name": "혹한의 귀걸이",
         "price": "20다이아",
@@ -390,22 +374,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 117.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "판 드라이드의 목걸이",
-        "price": "170다이아",
-        "note": "중앙 235 • 저가",
-        "raw": {
-          "itemId": 300140001,
-          "itemName": "+5 판 드라이드의 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 170.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 235.0
         }
       },
       {
