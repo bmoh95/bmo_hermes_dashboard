@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 06:33:53 KST",
+  "checkedAt": "2026-06-30 06:41:54 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -150,6 +150,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 59.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "싸울아비 장검",
+        "price": "30다이아",
+        "note": "중앙 58 • 초저가 의심",
+        "raw": {
+          "itemId": 100140003,
+          "itemName": "+9 싸울아비 장검",
+          "enchantLevel": 9,
+          "salePrice": 30.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 58.0
         }
       },
       {
@@ -504,22 +520,6 @@
           "category": "스킬북",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 207.5
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "계승자의 서 (인크리즈 위즈덤)",
-        "price": "190다이아",
-        "note": "중앙 334.5 • 초저가 의심",
-        "raw": {
-          "itemId": 500303005,
-          "itemName": "계승자의 서 (인크리즈 위즈덤)",
-          "enchantLevel": 0,
-          "salePrice": 190.0,
-          "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 334.5
         }
       }
     ],
