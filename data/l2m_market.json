@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 09:08:07 KST",
+  "checkedAt": "2026-06-29 09:17:08 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -447,15 +447,15 @@
         "enchant": "+1",
         "name": "사멸의 목걸이 (초월 +3)",
         "price": "1,100다이아",
-        "note": "중앙 1,499.5 • 저가",
+        "note": "중앙 1,600 • 하위권",
         "raw": {
           "itemId": 360130212,
           "itemName": "+1 사멸의 목걸이 (초월 +3)",
           "enchantLevel": 1,
           "salePrice": 1100.0,
           "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 1499.5
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 1600.0
         }
       },
       {
