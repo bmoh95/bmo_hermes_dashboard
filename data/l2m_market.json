@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 07:21:58 KST",
+  "checkedAt": "2026-06-30 07:29:59 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -166,22 +166,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 58.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "크리스탈 보우건",
-        "price": "38다이아",
-        "note": "중앙 68 • 초저가 의심",
-        "raw": {
-          "itemId": 100840007,
-          "itemName": "+9 크리스탈 보우건",
-          "enchantLevel": 9,
-          "salePrice": 38.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 68.0
         }
       },
       {
@@ -412,6 +396,22 @@
     "heroic": [
       {
         "kind": "악세사리",
+        "enchant": "+3",
+        "name": "아펠라의 목걸이 (초월 +3)",
+        "price": "500다이아",
+        "note": "중앙 777 • 초저가 의심",
+        "raw": {
+          "itemId": 360130208,
+          "itemName": "+3 아펠라의 목걸이 (초월 +3)",
+          "enchantLevel": 3,
+          "salePrice": 500.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 777.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+1",
         "name": "사멸의 목걸이 (초월 +3)",
         "price": "1,100다이아",
@@ -431,7 +431,7 @@
         "enchant": "+6",
         "name": "실렌의 숨결",
         "price": "450다이아",
-        "note": "중앙 728 • 초저가 의심",
+        "note": "중앙 777 • 초저가 의심",
         "raw": {
           "itemId": 200230001,
           "itemName": "+6 실렌의 숨결",
@@ -439,7 +439,7 @@
           "salePrice": 450.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 728.0
+          "median": 777.0
         }
       },
       {
