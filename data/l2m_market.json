@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 17:12:08 KST",
+  "checkedAt": "2026-06-29 17:20:09 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -136,22 +136,6 @@
       }
     ],
     "rare": [
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "배틀 스피어",
-        "price": "10다이아",
-        "note": "중앙 49 • 초저가 의심",
-        "raw": {
-          "itemId": 100740008,
-          "itemName": "+9 배틀 스피어",
-          "enchantLevel": 9,
-          "salePrice": 10.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 49.0
-        }
-      },
       {
         "kind": "무기",
         "enchant": "+8",
@@ -333,7 +317,7 @@
         "enchant": "+5",
         "name": "오만의 반지",
         "price": "33다이아",
-        "note": "중앙 45 • 하위권",
+        "note": "중앙 46 • 하위권",
         "raw": {
           "itemId": 300340002,
           "itemName": "+5 오만의 반지",
@@ -341,7 +325,7 @@
           "salePrice": 33.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 45.0
+          "median": 46.0
         }
       },
       {
@@ -447,7 +431,7 @@
         "enchant": "+4",
         "name": "마제스틱 링 (초월 +3)",
         "price": "777다이아",
-        "note": "중앙 1,061 • 저가",
+        "note": "중앙 1,122 • 저가",
         "raw": {
           "itemId": 360330209,
           "itemName": "+4 마제스틱 링 (초월 +3)",
@@ -455,7 +439,7 @@
           "salePrice": 777.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 1061.0
+          "median": 1122.0
         }
       },
       {
@@ -586,22 +570,6 @@
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 3650.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "타락 천사의 장갑 (초월 +1)",
-        "price": "7,500다이아",
-        "note": "중앙 9,680 • 하위권",
-        "raw": {
-          "itemId": 260320003,
-          "itemName": "+5 타락 천사의 장갑 (초월 +1)",
-          "enchantLevel": 5,
-          "salePrice": 7500.0,
-          "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 9680.0
         }
       },
       {
