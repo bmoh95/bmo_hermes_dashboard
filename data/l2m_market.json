@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 01:01:12 KST",
+  "checkedAt": "2026-06-30 01:09:13 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -249,22 +249,6 @@
         }
       },
       {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "피스메이커",
-        "price": "150다이아",
-        "note": "중앙 199 • 하위권",
-        "raw": {
-          "itemId": 100840004,
-          "itemName": "+9 피스메이커",
-          "enchantLevel": 9,
-          "salePrice": 150.0,
-          "category": "무기",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 199.0
-        }
-      },
-      {
         "kind": "악세사리",
         "enchant": "+2",
         "name": "부유의 귀걸이",
@@ -301,7 +285,7 @@
         "enchant": "+3",
         "name": "균열의 반지",
         "price": "22다이아",
-        "note": "중앙 32.5 • 하위권",
+        "note": "중앙 33 • 하위권",
         "raw": {
           "itemId": 300340019,
           "itemName": "+3 균열의 반지",
@@ -309,7 +293,7 @@
           "salePrice": 22.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 32.5
+          "median": 33.0
         }
       },
       {
@@ -591,7 +575,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 위즈덤)",
         "price": "190다이아",
-        "note": "중앙 300 • 초저가 의심",
+        "note": "중앙 334.5 • 초저가 의심",
         "raw": {
           "itemId": 500303005,
           "itemName": "계승자의 서 (인크리즈 위즈덤)",
@@ -599,7 +583,7 @@
           "salePrice": 190.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 300.0
+          "median": 334.5
         }
       }
     ],
