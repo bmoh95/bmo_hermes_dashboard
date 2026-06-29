@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 19:22:28 KST",
+  "checkedAt": "2026-06-29 19:30:28 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -285,7 +285,7 @@
         "enchant": "+3",
         "name": "균열의 반지",
         "price": "22다이아",
-        "note": "중앙 35 • 초저가 의심",
+        "note": "중앙 34.5 • 초저가 의심",
         "raw": {
           "itemId": 300340019,
           "itemName": "+3 균열의 반지",
@@ -293,7 +293,7 @@
           "salePrice": 22.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 35.0
+          "median": 34.5
         }
       },
       {
@@ -456,6 +456,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1700.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "악마의 부츠",
+        "price": "184다이아",
+        "note": "중앙 320.5 • 초저가 의심",
+        "raw": {
+          "itemId": 200430001,
+          "itemName": "+5 악마의 부츠",
+          "enchantLevel": 5,
+          "salePrice": 184.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 320.5
         }
       },
       {
