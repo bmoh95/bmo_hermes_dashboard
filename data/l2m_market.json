@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 11:27:26 KST",
+  "checkedAt": "2026-06-29 11:35:27 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -561,7 +561,7 @@
         "enchant": "+5",
         "name": "네비트의 빛의 망토",
         "price": "3,000다이아",
-        "note": "중앙 3,700 • 하위권",
+        "note": "중앙 3,650 • 하위권",
         "raw": {
           "itemId": 200620001,
           "itemName": "+5 네비트의 빛의 망토",
@@ -569,7 +569,7 @@
           "salePrice": 3000.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 3700.0
+          "median": 3650.0
         }
       },
       {
