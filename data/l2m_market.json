@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 05:53:06 KST",
+  "checkedAt": "2026-06-30 06:01:25 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -139,22 +139,6 @@
       {
         "kind": "무기",
         "enchant": "+9",
-        "name": "싸울아비 장검",
-        "price": "30다이아",
-        "note": "중앙 58 • 초저가 의심",
-        "raw": {
-          "itemId": 100140003,
-          "itemName": "+9 싸울아비 장검",
-          "enchantLevel": 9,
-          "salePrice": 30.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 58.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
         "name": "크리스탈 보우건",
         "price": "38다이아",
         "note": "중앙 68 • 초저가 의심",
@@ -269,15 +253,15 @@
         "enchant": "+3",
         "name": "균열의 반지",
         "price": "22다이아",
-        "note": "중앙 33 • 하위권",
+        "note": "중앙 34.5 • 초저가 의심",
         "raw": {
           "itemId": 300340019,
           "itemName": "+3 균열의 반지",
           "enchantLevel": 3,
           "salePrice": 22.0,
           "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 33.0
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 34.5
         }
       },
       {
