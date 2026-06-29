@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 21:39:45 KST",
+  "checkedAt": "2026-06-29 21:47:46 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -285,7 +285,7 @@
         "enchant": "+0",
         "name": "혹한의 귀걸이",
         "price": "20다이아",
-        "note": "중앙 27 • 하위권",
+        "note": "중앙 26.5 • 하위권",
         "raw": {
           "itemId": 300240011,
           "itemName": "혹한의 귀걸이",
@@ -293,7 +293,7 @@
           "salePrice": 20.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 27.0
+          "median": 26.5
         }
       },
       {
@@ -543,7 +543,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "100다이아",
-        "note": "중앙 220 • 초저가 의심",
+        "note": "중앙 219.5 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -551,7 +551,7 @@
           "salePrice": 100.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 220.0
+          "median": 219.5
         }
       },
       {
