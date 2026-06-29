@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 00:28:57 KST",
+  "checkedAt": "2026-06-30 00:37:09 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -285,7 +285,7 @@
         "enchant": "+0",
         "name": "혹한의 귀걸이",
         "price": "20다이아",
-        "note": "중앙 26 • 하위권",
+        "note": "중앙 26.5 • 하위권",
         "raw": {
           "itemId": 300240011,
           "itemName": "혹한의 귀걸이",
@@ -293,7 +293,7 @@
           "salePrice": 20.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 26.0
+          "median": 26.5
         }
       },
       {
@@ -527,7 +527,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 1,000 • 초저가 의심",
+        "note": "중앙 999.5 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -535,7 +535,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1000.0
+          "median": 999.5
         }
       },
       {
@@ -559,7 +559,7 @@
         "enchant": "+0",
         "name": "이도류 비전서 (소닉 블래스터)",
         "price": "144다이아",
-        "note": "중앙 207.5 • 저가",
+        "note": "중앙 200 • 저가",
         "raw": {
           "itemId": 500323002,
           "itemName": "이도류 비전서 (소닉 블래스터)",
@@ -567,7 +567,7 @@
           "salePrice": 144.0,
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
-          "median": 207.5
+          "median": 200.0
         }
       },
       {
