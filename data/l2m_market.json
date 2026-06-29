@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 01:59:44 KST",
+  "checkedAt": "2026-06-30 02:07:19 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -552,22 +552,6 @@
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
           "median": 219.5
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "이도류 비전서 (센트리 소드)",
-        "price": "100다이아",
-        "note": "중앙 237.5 • 초저가 의심",
-        "raw": {
-          "itemId": 500323003,
-          "itemName": "이도류 비전서 (센트리 소드)",
-          "enchantLevel": 0,
-          "salePrice": 100.0,
-          "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 237.5
         }
       },
       {
