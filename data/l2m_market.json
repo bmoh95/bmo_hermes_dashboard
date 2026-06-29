@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 02:47:25 KST",
+  "checkedAt": "2026-06-30 02:56:16 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -415,15 +415,15 @@
         "enchant": "+1",
         "name": "아나킴의 영혼 목걸이 (초월 +1)",
         "price": "880다이아",
-        "note": "중앙 1,400 • 초저가 의심",
+        "note": "중앙 1,345 • 하위권",
         "raw": {
           "itemId": 360130002,
           "itemName": "+1 아나킴의 영혼 목걸이 (초월 +1)",
           "enchantLevel": 1,
           "salePrice": 880.0,
           "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 1400.0
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 1345.0
         }
       },
       {
