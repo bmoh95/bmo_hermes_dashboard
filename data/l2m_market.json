@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 16:55:06 KST",
+  "checkedAt": "2026-06-29 17:04:07 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -107,7 +107,7 @@
         "enchant": "+3",
         "name": "강철 손목 보호대",
         "price": "50다이아",
-        "note": "중앙 84 • 초저가 의심",
+        "note": "중앙 80.5 • 초저가 의심",
         "raw": {
           "itemId": 301550002,
           "itemName": "+3 강철 손목 보호대",
@@ -115,7 +115,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 84.0
+          "median": 80.5
         }
       },
       {
@@ -136,6 +136,22 @@
       }
     ],
     "rare": [
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "배틀 스피어",
+        "price": "10다이아",
+        "note": "중앙 49 • 초저가 의심",
+        "raw": {
+          "itemId": 100740008,
+          "itemName": "+9 배틀 스피어",
+          "enchantLevel": 9,
+          "salePrice": 10.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 49.0
+        }
+      },
       {
         "kind": "무기",
         "enchant": "+8",
@@ -479,7 +495,7 @@
         "enchant": "+7",
         "name": "블러디 네뷸라이트 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 1,047.5 • 초저가 의심",
+        "note": "중앙 1,000 • 초저가 의심",
         "raw": {
           "itemId": 160530105,
           "itemName": "+7 블러디 네뷸라이트 (초월 +2)",
@@ -487,7 +503,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1047.5
+          "median": 1000.0
         }
       },
       {
@@ -511,7 +527,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "100다이아",
-        "note": "중앙 220 • 초저가 의심",
+        "note": "중앙 227 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -519,7 +535,7 @@
           "salePrice": 100.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 220.0
+          "median": 227.0
         }
       },
       {
