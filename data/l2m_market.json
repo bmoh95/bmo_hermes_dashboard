@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-29 18:32:19 KST",
+  "checkedAt": "2026-06-29 18:40:21 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -333,15 +333,15 @@
         "enchant": "+5",
         "name": "신성의 수호 반지",
         "price": "39다이아",
-        "note": "중앙 55 • 하위권",
+        "note": "중앙 54 • 저가",
         "raw": {
           "itemId": 300340008,
           "itemName": "+5 신성의 수호 반지",
           "enchantLevel": 5,
           "salePrice": 39.0,
           "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 55.0
+          "dealLabel": "아이템별 저가",
+          "median": 54.0
         }
       },
       {
@@ -399,7 +399,7 @@
         "enchant": "+4",
         "name": "마제스틱 링 (초월 +3)",
         "price": "777다이아",
-        "note": "중앙 1,061 • 저가",
+        "note": "중앙 1,122 • 저가",
         "raw": {
           "itemId": 360330209,
           "itemName": "+4 마제스틱 링 (초월 +3)",
@@ -407,7 +407,7 @@
           "salePrice": 777.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 1061.0
+          "median": 1122.0
         }
       },
       {
