@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 20:01:50 KST",
+  "checkedAt": "2026-06-30 20:15:08 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -18,6 +18,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 37.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "오크족 반지",
+        "price": "49다이아",
+        "note": "중앙 60.5 • 저가",
+        "raw": {
+          "itemId": 300360010,
+          "itemName": "+5 오크족 반지",
+          "enchantLevel": 5,
+          "salePrice": 49.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 60.5
         }
       },
       {
@@ -107,7 +123,7 @@
         "enchant": "+2",
         "name": "시련의 견갑",
         "price": "28다이아",
-        "note": "중앙 49 • 초저가 의심",
+        "note": "중앙 45 • 초저가 의심",
         "raw": {
           "itemId": 200950004,
           "itemName": "+2 시련의 견갑",
@@ -115,7 +131,7 @@
           "salePrice": 28.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 49.0
+          "median": 45.0
         }
       }
     ],
@@ -157,7 +173,7 @@
         "enchant": "+9",
         "name": "너바나",
         "price": "55다이아",
-        "note": "중앙 90.5 • 초저가 의심",
+        "note": "중앙 88.5 • 초저가 의심",
         "raw": {
           "itemId": 100640006,
           "itemName": "+9 너바나",
@@ -165,7 +181,7 @@
           "salePrice": 55.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 90.5
+          "median": 88.5
         }
       },
       {
@@ -283,22 +299,6 @@
       {
         "kind": "악세사리",
         "enchant": "+4",
-        "name": "천궁의 눈",
-        "price": "10다이아",
-        "note": "중앙 35 • 초저가 의심",
-        "raw": {
-          "itemId": 300340014,
-          "itemName": "+4 천궁의 눈",
-          "enchantLevel": 4,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 35.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+4",
         "name": "마염의 귀걸이",
         "price": "22다이아",
         "note": "중앙 29 • 저가",
@@ -381,7 +381,7 @@
         "enchant": "+3",
         "name": "파수꾼의 견갑",
         "price": "900다이아",
-        "note": "중앙 1,190 • 저가",
+        "note": "중앙 1,195 • 저가",
         "raw": {
           "itemId": 200940024,
           "itemName": "+3 파수꾼의 견갑",
@@ -389,7 +389,7 @@
           "salePrice": 900.0,
           "category": "방어구",
           "dealLabel": "아이템별 저가",
-          "median": 1190.0
+          "median": 1195.0
         }
       }
     ],
@@ -472,6 +472,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1097.5
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+7",
+        "name": "쏜 크로스보우 (초월 +1)",
+        "price": "499다이아",
+        "note": "중앙 798 • 초저가 의심",
+        "raw": {
+          "itemId": 160830001,
+          "itemName": "+7 쏜 크로스보우 (초월 +1)",
+          "enchantLevel": 7,
+          "salePrice": 499.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 798.0
         }
       },
       {
