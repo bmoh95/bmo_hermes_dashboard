@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 21:33:15 KST",
+  "checkedAt": "2026-06-30 21:41:15 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -205,7 +205,7 @@
         "enchant": "+9",
         "name": "이클립스 오브",
         "price": "55다이아",
-        "note": "중앙 74 • 저가",
+        "note": "중앙 76.5 • 저가",
         "raw": {
           "itemId": 100640003,
           "itemName": "+9 이클립스 오브",
@@ -213,7 +213,7 @@
           "salePrice": 55.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 74.0
+          "median": 76.5
         }
       },
       {
@@ -495,7 +495,7 @@
         "enchant": "+7",
         "name": "블러디 네뷸라이트 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 1,097.5 • 초저가 의심",
+        "note": "중앙 1,108 • 초저가 의심",
         "raw": {
           "itemId": 160530105,
           "itemName": "+7 블러디 네뷸라이트 (초월 +2)",
@@ -503,7 +503,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1097.5
+          "median": 1108.0
         }
       },
       {
