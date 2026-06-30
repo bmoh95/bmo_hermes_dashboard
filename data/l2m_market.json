@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 07:38:39 KST",
+  "checkedAt": "2026-07-01 07:46:40 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -189,7 +189,7 @@
         "enchant": "+9",
         "name": "커스드 트윈 액스",
         "price": "76다이아",
-        "note": "중앙 109 • 하위권",
+        "note": "중앙 110 • 하위권",
         "raw": {
           "itemId": 101340004,
           "itemName": "+9 커스드 트윈 액스",
@@ -197,7 +197,7 @@
           "salePrice": 76.0,
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 109.0
+          "median": 110.0
         }
       },
       {
@@ -230,6 +230,22 @@
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 196.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+8",
+        "name": "헤르문쿠스의 망토",
+        "price": "20다이아",
+        "note": "중앙 30 • 초저가 의심",
+        "raw": {
+          "itemId": 200640007,
+          "itemName": "+8 헤르문쿠스의 망토",
+          "enchantLevel": 8,
+          "salePrice": 20.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 30.0
         }
       },
       {
@@ -282,22 +298,6 @@
       },
       {
         "kind": "악세사리",
-        "enchant": "+3",
-        "name": "미궁의 목걸이",
-        "price": "30다이아",
-        "note": "중앙 37.5 • 저가",
-        "raw": {
-          "itemId": 300140018,
-          "itemName": "+3 미궁의 목걸이",
-          "enchantLevel": 3,
-          "salePrice": 30.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 37.5
-        }
-      },
-      {
-        "kind": "악세사리",
         "enchant": "+5",
         "name": "오만의 반지",
         "price": "33다이아",
@@ -317,7 +317,7 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 119 • 초저가 의심",
+        "note": "중앙 120 • 초저가 의심",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
@@ -325,7 +325,7 @@
           "salePrice": 65.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 119.0
+          "median": 120.0
         }
       },
       {
@@ -342,6 +342,22 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 92.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "차원의 반지",
+        "price": "150다이아",
+        "note": "중앙 180 • 저가",
+        "raw": {
+          "itemId": 300340020,
+          "itemName": "+5 차원의 반지",
+          "enchantLevel": 5,
+          "salePrice": 150.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 180.0
         }
       }
     ],
@@ -376,6 +392,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 230.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "악마의 부츠",
+        "price": "185다이아",
+        "note": "중앙 369 • 초저가 의심",
+        "raw": {
+          "itemId": 200430001,
+          "itemName": "+5 악마의 부츠",
+          "enchantLevel": 5,
+          "salePrice": 185.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 369.0
         }
       },
       {
@@ -511,15 +543,15 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 200 • 저가",
+        "note": "중앙 220 • 초저가 의심",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
           "enchantLevel": 0,
           "salePrice": 137.0,
           "category": "스킬북",
-          "dealLabel": "아이템별 저가",
-          "median": 200.0
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 220.0
         }
       }
     ],
