@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 02:00:50 KST",
+  "checkedAt": "2026-07-01 02:08:52 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -317,7 +317,7 @@
         "enchant": "+5",
         "name": "축복의 벨트",
         "price": "66다이아",
-        "note": "중앙 98 • 저가",
+        "note": "중앙 92.5 • 저가",
         "raw": {
           "itemId": 300440001,
           "itemName": "+5 축복의 벨트",
@@ -325,7 +325,7 @@
           "salePrice": 66.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 98.0
+          "median": 92.5
         }
       },
       {
