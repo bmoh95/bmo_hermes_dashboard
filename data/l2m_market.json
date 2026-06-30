@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 17:42:29 KST",
+  "checkedAt": "2026-06-30 17:50:30 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -171,6 +171,22 @@
       {
         "kind": "무기",
         "enchant": "+9",
+        "name": "이클립스 오브",
+        "price": "55다이아",
+        "note": "중앙 72 • 저가",
+        "raw": {
+          "itemId": 100640003,
+          "itemName": "+9 이클립스 오브",
+          "enchantLevel": 9,
+          "salePrice": 55.0,
+          "category": "무기",
+          "dealLabel": "아이템별 저가",
+          "median": 72.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
         "name": "트롬바의 송곳니",
         "price": "71다이아",
         "note": "중앙 94.5 • 저가",
@@ -294,22 +310,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 26.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+3",
-        "name": "균열의 반지",
-        "price": "22다이아",
-        "note": "중앙 30 • 하위권",
-        "raw": {
-          "itemId": 300340019,
-          "itemName": "+3 균열의 반지",
-          "enchantLevel": 3,
-          "salePrice": 22.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 30.0
         }
       },
       {
