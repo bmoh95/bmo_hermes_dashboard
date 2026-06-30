@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 09:08:13 KST",
+  "checkedAt": "2026-06-30 09:16:14 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -221,7 +221,7 @@
         "enchant": "+9",
         "name": "망각의 활",
         "price": "88다이아",
-        "note": "중앙 122 • 저가",
+        "note": "중앙 123.5 • 저가",
         "raw": {
           "itemId": 100440009,
           "itemName": "+9 망각의 활",
@@ -229,7 +229,7 @@
           "salePrice": 88.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 122.0
+          "median": 123.5
         }
       },
       {
