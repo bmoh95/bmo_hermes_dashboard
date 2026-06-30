@@ -6,6 +6,7 @@
 
 - 메인: `index.html`
 - 리니지2M 매물 감시: `l2m-market.html`
+- PDF to JPG: `pdf-to-jpg.html` — 브라우저 로컬 변환, PDF 업로드 없음, JPG ZIP 다운로드
 
 ## 데이터 갱신
 
