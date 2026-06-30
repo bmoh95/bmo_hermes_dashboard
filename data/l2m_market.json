@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 22:46:24 KST",
+  "checkedAt": "2026-06-30 22:54:26 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -9,7 +9,7 @@
         "enchant": "+5",
         "name": "신성의 반지",
         "price": "10다이아",
-        "note": "중앙 37 • 초저가 의심",
+        "note": "중앙 30 • 초저가 의심",
         "raw": {
           "itemId": 300360009,
           "itemName": "+5 신성의 반지",
@@ -17,7 +17,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 37.0
+          "median": 30.0
         }
       }
     ],
@@ -447,7 +447,7 @@
         "enchant": "+6",
         "name": "실렌의 숨결",
         "price": "450다이아",
-        "note": "중앙 788 • 초저가 의심",
+        "note": "중앙 799.5 • 초저가 의심",
         "raw": {
           "itemId": 200230001,
           "itemName": "+6 실렌의 숨결",
@@ -455,7 +455,7 @@
           "salePrice": 450.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 788.0
+          "median": 799.5
         }
       },
       {
