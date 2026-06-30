@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 02:24:54 KST",
+  "checkedAt": "2026-07-01 02:32:56 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -329,6 +329,22 @@
         }
       },
       {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "차원의 반지",
+        "price": "135다이아",
+        "note": "중앙 180 • 저가",
+        "raw": {
+          "itemId": 300340020,
+          "itemName": "+5 차원의 반지",
+          "enchantLevel": 5,
+          "salePrice": 135.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 180.0
+        }
+      },
+      {
         "kind": "스킬북",
         "enchant": "+0",
         "name": "계승자의 서 (쓰러스터 Ⅰ)",
@@ -463,7 +479,7 @@
         "enchant": "+7",
         "name": "쏜 크로스보우 (초월 +1)",
         "price": "499다이아",
-        "note": "중앙 790 • 초저가 의심",
+        "note": "중앙 770 • 초저가 의심",
         "raw": {
           "itemId": 160830001,
           "itemName": "+7 쏜 크로스보우 (초월 +1)",
@@ -471,7 +487,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 790.0
+          "median": 770.0
         }
       },
       {
