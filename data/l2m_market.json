@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 10:44:26 KST",
+  "checkedAt": "2026-06-30 10:52:28 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -9,7 +9,7 @@
         "enchant": "+3",
         "name": "용기의 목걸이",
         "price": "10다이아",
-        "note": "중앙 20 • 초저가 의심",
+        "note": "중앙 21.5 • 초저가 의심",
         "raw": {
           "itemId": 300160006,
           "itemName": "+3 용기의 목걸이",
@@ -17,7 +17,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 20.0
+          "median": 21.5
         }
       },
       {
@@ -572,22 +572,6 @@
       }
     ],
     "legendary": [
-      {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "네비트의 빛의 망토",
-        "price": "3,000다이아",
-        "note": "중앙 3,550 • 하위권",
-        "raw": {
-          "itemId": 200620001,
-          "itemName": "+5 네비트의 빛의 망토",
-          "enchantLevel": 5,
-          "salePrice": 3000.0,
-          "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 3550.0
-        }
-      },
       {
         "kind": "무기",
         "enchant": "+7",
