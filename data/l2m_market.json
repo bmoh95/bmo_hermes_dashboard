@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 05:22:18 KST",
+  "checkedAt": "2026-07-01 05:30:21 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -134,6 +134,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 56.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "크리스탈 보우건",
+        "price": "38다이아",
+        "note": "중앙 67 • 초저가 의심",
+        "raw": {
+          "itemId": 100840007,
+          "itemName": "+9 크리스탈 보우건",
+          "enchantLevel": 9,
+          "salePrice": 38.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 67.0
         }
       },
       {
