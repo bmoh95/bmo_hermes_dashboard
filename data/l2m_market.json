@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 21:00:11 KST",
+  "checkedAt": "2026-06-30 21:08:12 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -23,25 +23,9 @@
       {
         "kind": "악세사리",
         "enchant": "+5",
-        "name": "오크족 반지",
-        "price": "49다이아",
-        "note": "중앙 60.5 • 저가",
-        "raw": {
-          "itemId": 300360010,
-          "itemName": "+5 오크족 반지",
-          "enchantLevel": 5,
-          "salePrice": 49.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 60.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
         "name": "옛 숲의 목걸이",
         "price": "51다이아",
-        "note": "중앙 62 • 저가",
+        "note": "중앙 61.5 • 저가",
         "raw": {
           "itemId": 300160003,
           "itemName": "+5 옛 숲의 목걸이",
@@ -49,7 +33,7 @@
           "salePrice": 51.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 62.0
+          "median": 61.5
         }
       }
     ],
@@ -397,15 +381,15 @@
         "enchant": "+3",
         "name": "파수꾼의 견갑",
         "price": "900다이아",
-        "note": "중앙 1,195 • 저가",
+        "note": "중앙 1,200 • 하위권",
         "raw": {
           "itemId": 200940024,
           "itemName": "+3 파수꾼의 견갑",
           "enchantLevel": 3,
           "salePrice": 900.0,
           "category": "방어구",
-          "dealLabel": "아이템별 저가",
-          "median": 1195.0
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 1200.0
         }
       }
     ],
@@ -577,15 +561,15 @@
         "enchant": "+7",
         "name": "세이크리디움",
         "price": "5,200다이아",
-        "note": "중앙 6,495 • 저가",
+        "note": "중앙 6,500 • 하위권",
         "raw": {
           "itemId": 100620003,
           "itemName": "+7 세이크리디움",
           "enchantLevel": 7,
           "salePrice": 5200.0,
           "category": "무기",
-          "dealLabel": "아이템별 저가",
-          "median": 6495.0
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 6500.0
         }
       },
       {
