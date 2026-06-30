@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 01:11:44 KST",
+  "checkedAt": "2026-07-01 01:19:45 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -246,6 +246,22 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 28.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+3",
+        "name": "미궁의 목걸이",
+        "price": "30다이아",
+        "note": "중앙 37.5 • 저가",
+        "raw": {
+          "itemId": 300140018,
+          "itemName": "+3 미궁의 목걸이",
+          "enchantLevel": 3,
+          "salePrice": 30.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 37.5
         }
       },
       {
