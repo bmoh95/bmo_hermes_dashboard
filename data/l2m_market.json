@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 23:43:14 KST",
+  "checkedAt": "2026-06-30 23:50:34 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -166,22 +166,6 @@
           "category": "무기",
           "dealLabel": "아이템별 저가",
           "median": 89.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "트롬바의 송곳니",
-        "price": "71다이아",
-        "note": "중앙 96.5 • 하위권",
-        "raw": {
-          "itemId": 101140005,
-          "itemName": "+9 트롬바의 송곳니",
-          "enchantLevel": 9,
-          "salePrice": 71.0,
-          "category": "무기",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 96.5
         }
       },
       {
