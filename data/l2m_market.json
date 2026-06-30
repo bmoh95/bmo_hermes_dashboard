@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 02:48:58 KST",
+  "checkedAt": "2026-07-01 02:56:59 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -141,7 +141,7 @@
         "enchant": "+9",
         "name": "너바나",
         "price": "55다이아",
-        "note": "중앙 88.5 • 초저가 의심",
+        "note": "중앙 87.5 • 초저가 의심",
         "raw": {
           "itemId": 100640006,
           "itemName": "+9 너바나",
@@ -149,7 +149,7 @@
           "salePrice": 55.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 88.5
+          "median": 87.5
         }
       },
       {
@@ -253,7 +253,7 @@
         "enchant": "+4",
         "name": "마염의 귀걸이",
         "price": "22다이아",
-        "note": "중앙 28.5 • 저가",
+        "note": "중앙 29.5 • 저가",
         "raw": {
           "itemId": 300240003,
           "itemName": "+4 마염의 귀걸이",
@@ -261,7 +261,7 @@
           "salePrice": 22.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 28.5
+          "median": 29.5
         }
       },
       {
@@ -427,6 +427,22 @@
         }
       },
       {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "광휘의 투구",
+        "price": "220다이아",
+        "note": "중앙 416 • 초저가 의심",
+        "raw": {
+          "itemId": 200530012,
+          "itemName": "+5 광휘의 투구",
+          "enchantLevel": 5,
+          "salePrice": 220.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 416.0
+        }
+      },
+      {
         "kind": "무기",
         "enchant": "+8",
         "name": "핸드 오브 카브리오",
@@ -545,7 +561,7 @@
         "enchant": "+5",
         "name": "네비트의 빛의 망토",
         "price": "3,000다이아",
-        "note": "중앙 3,650 • 하위권",
+        "note": "중앙 3,600 • 하위권",
         "raw": {
           "itemId": 200620001,
           "itemName": "+5 네비트의 빛의 망토",
@@ -553,7 +569,7 @@
           "salePrice": 3000.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 3650.0
+          "median": 3600.0
         }
       },
       {
