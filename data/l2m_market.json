@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 18:30:36 KST",
+  "checkedAt": "2026-06-30 18:38:37 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -18,22 +18,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 22.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+4",
-        "name": "환멸의 팔찌",
-        "price": "10다이아",
-        "note": "중앙 25 • 초저가 의심",
-        "raw": {
-          "itemId": 300560003,
-          "itemName": "+4 환멸의 팔찌",
-          "enchantLevel": 4,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 25.0
         }
       },
       {
@@ -107,7 +91,7 @@
         "enchant": "+5",
         "name": "피닉스 링",
         "price": "36다이아",
-        "note": "중앙 54 • 저가",
+        "note": "중앙 52.5 • 저가",
         "raw": {
           "itemId": 300350001,
           "itemName": "+5 피닉스 링",
@@ -115,7 +99,7 @@
           "salePrice": 36.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 54.0
+          "median": 52.5
         }
       },
       {
@@ -269,7 +253,7 @@
         "enchant": "+9",
         "name": "피스메이커",
         "price": "150다이아",
-        "note": "중앙 190 • 하위권",
+        "note": "중앙 180 • 하위권",
         "raw": {
           "itemId": 100840004,
           "itemName": "+9 피스메이커",
@@ -277,7 +261,7 @@
           "salePrice": 150.0,
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 190.0
+          "median": 180.0
         }
       },
       {
@@ -447,15 +431,15 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 777 • 초저가 의심",
+        "note": "중앙 749.5 • 하위권",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
           "enchantLevel": 3,
           "salePrice": 500.0,
           "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 777.0
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 749.5
         }
       },
       {
