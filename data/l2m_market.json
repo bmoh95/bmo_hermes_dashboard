@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 06:34:30 KST",
+  "checkedAt": "2026-07-01 06:42:31 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -91,15 +91,15 @@
         "enchant": "+2",
         "name": "시련의 견갑",
         "price": "28다이아",
-        "note": "중앙 45 • 초저가 의심",
+        "note": "중앙 42 • 하위권",
         "raw": {
           "itemId": 200950004,
           "itemName": "+2 시련의 견갑",
           "enchantLevel": 2,
           "salePrice": 28.0,
           "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 45.0
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 42.0
         }
       }
     ],
@@ -440,22 +440,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 500.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+6",
-        "name": "마제스틱 장갑",
-        "price": "350다이아",
-        "note": "중앙 800 • 초저가 의심",
-        "raw": {
-          "itemId": 200330004,
-          "itemName": "+6 마제스틱 장갑",
-          "enchantLevel": 6,
-          "salePrice": 350.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 800.0
         }
       },
       {
