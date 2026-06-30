@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 09:40:16 KST",
+  "checkedAt": "2026-06-30 09:48:18 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -25,7 +25,7 @@
         "enchant": "+5",
         "name": "신성의 반지",
         "price": "10다이아",
-        "note": "중앙 44 • 초저가 의심",
+        "note": "중앙 30 • 초저가 의심",
         "raw": {
           "itemId": 300360009,
           "itemName": "+5 신성의 반지",
@@ -33,7 +33,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 44.0
+          "median": 30.0
         }
       },
       {
@@ -625,7 +625,7 @@
         "enchant": "+0",
         "name": "쌍도끼 전승서 (래쓰 오브 타이탄)",
         "price": "4,000다이아",
-        "note": "중앙 5,400 • 하위권",
+        "note": "중앙 5,800 • 하위권",
         "raw": {
           "itemId": 503222004,
           "itemName": "쌍도끼 전승서 (래쓰 오브 타이탄)",
@@ -633,7 +633,7 @@
           "salePrice": 4000.0,
           "category": "스킬북",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 5400.0
+          "median": 5800.0
         }
       }
     ]
