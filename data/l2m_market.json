@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 20:15:08 KST",
+  "checkedAt": "2026-06-30 20:44:10 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -54,6 +54,22 @@
       }
     ],
     "uncommon": [
+      {
+        "kind": "악세사리",
+        "enchant": "+0",
+        "name": "사원의 유물",
+        "price": "15다이아",
+        "note": "중앙 3,655 • 초저가 의심",
+        "raw": {
+          "itemId": 301150011,
+          "itemName": "사원의 유물",
+          "enchantLevel": 0,
+          "salePrice": 15.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 3655.0
+        }
+      },
       {
         "kind": "악세사리",
         "enchant": "+2",
@@ -253,7 +269,7 @@
         "enchant": "+9",
         "name": "망각의 활",
         "price": "88다이아",
-        "note": "중앙 124 • 저가",
+        "note": "중앙 123 • 저가",
         "raw": {
           "itemId": 100440009,
           "itemName": "+9 망각의 활",
@@ -261,7 +277,7 @@
           "salePrice": 88.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 124.0
+          "median": 123.0
         }
       },
       {
@@ -479,7 +495,7 @@
         "enchant": "+7",
         "name": "쏜 크로스보우 (초월 +1)",
         "price": "499다이아",
-        "note": "중앙 798 • 초저가 의심",
+        "note": "중앙 889 • 초저가 의심",
         "raw": {
           "itemId": 160830001,
           "itemName": "+7 쏜 크로스보우 (초월 +1)",
@@ -487,7 +503,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 798.0
+          "median": 889.0
         }
       },
       {
@@ -511,7 +527,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "100다이아",
-        "note": "중앙 219.5 • 초저가 의심",
+        "note": "중앙 219 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -519,7 +535,7 @@
           "salePrice": 100.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 219.5
+          "median": 219.0
         }
       },
       {
@@ -561,15 +577,15 @@
         "enchant": "+7",
         "name": "세이크리디움",
         "price": "5,200다이아",
-        "note": "중앙 6,495 • 저가",
+        "note": "중앙 6,500 • 하위권",
         "raw": {
           "itemId": 100620003,
           "itemName": "+7 세이크리디움",
           "enchantLevel": 7,
           "salePrice": 5200.0,
           "category": "무기",
-          "dealLabel": "아이템별 저가",
-          "median": 6495.0
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 6500.0
         }
       },
       {
