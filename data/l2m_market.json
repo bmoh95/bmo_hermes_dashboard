@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 21:16:12 KST",
+  "checkedAt": "2026-06-30 21:24:12 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -413,7 +413,7 @@
         "enchant": "+3",
         "name": "파수꾼의 견갑",
         "price": "900다이아",
-        "note": "중앙 1,200 • 하위권",
+        "note": "중앙 1,210 • 하위권",
         "raw": {
           "itemId": 200940024,
           "itemName": "+3 파수꾼의 견갑",
@@ -421,7 +421,7 @@
           "salePrice": 900.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 1200.0
+          "median": 1210.0
         }
       }
     ],
