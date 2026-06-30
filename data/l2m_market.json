@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 22:21:19 KST",
+  "checkedAt": "2026-06-30 22:29:22 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -173,14 +173,14 @@
         "enchant": "+9",
         "name": "트롬바의 송곳니",
         "price": "71다이아",
-        "note": "중앙 96.5 • 저가",
+        "note": "중앙 96.5 • 하위권",
         "raw": {
           "itemId": 101140005,
           "itemName": "+9 트롬바의 송곳니",
           "enchantLevel": 9,
           "salePrice": 71.0,
           "category": "무기",
-          "dealLabel": "아이템별 저가",
+          "dealLabel": "전서버 하위 10% 저가",
           "median": 96.5
         }
       },
@@ -349,7 +349,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (쓰러스터 Ⅰ)",
         "price": "15다이아",
-        "note": "중앙 20 • 저가",
+        "note": "중앙 20.5 • 저가",
         "raw": {
           "itemId": 500304026,
           "itemName": "계승자의 서 (쓰러스터 Ⅰ)",
@@ -357,7 +357,7 @@
           "salePrice": 15.0,
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
-          "median": 20.0
+          "median": 20.5
         }
       },
       {
@@ -383,7 +383,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 770 • 초저가 의심",
+        "note": "중앙 840 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -391,7 +391,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 770.0
+          "median": 840.0
         }
       },
       {
