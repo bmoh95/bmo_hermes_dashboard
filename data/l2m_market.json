@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 17:10:09 KST",
+  "checkedAt": "2026-06-30 17:18:25 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -536,6 +536,22 @@
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
           "median": 197.5
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "이도류 비전서 (소닉 블래스터)",
+        "price": "144다이아",
+        "note": "중앙 217.5 • 하위권",
+        "raw": {
+          "itemId": 500323002,
+          "itemName": "이도류 비전서 (소닉 블래스터)",
+          "enchantLevel": 0,
+          "salePrice": 144.0,
+          "category": "스킬북",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 217.5
         }
       }
     ],
