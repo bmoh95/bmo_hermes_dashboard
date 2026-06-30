@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 23:35:12 KST",
+  "checkedAt": "2026-06-30 23:43:14 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -75,7 +75,7 @@
         "enchant": "+4",
         "name": "강철 손목 보호대",
         "price": "99다이아",
-        "note": "중앙 120 • 저가",
+        "note": "중앙 124.5 • 저가",
         "raw": {
           "itemId": 301550002,
           "itemName": "+4 강철 손목 보호대",
@@ -83,7 +83,7 @@
           "salePrice": 99.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 120.0
+          "median": 124.5
         }
       },
       {
@@ -285,7 +285,7 @@
         "enchant": "+3",
         "name": "말룩의 목걸이",
         "price": "33다이아",
-        "note": "중앙 68.5 • 초저가 의심",
+        "note": "중앙 70 • 초저가 의심",
         "raw": {
           "itemId": 300140015,
           "itemName": "+3 말룩의 목걸이",
@@ -293,7 +293,7 @@
           "salePrice": 33.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 68.5
+          "median": 70.0
         }
       },
       {
@@ -477,6 +477,22 @@
       {
         "kind": "무기",
         "enchant": "+7",
+        "name": "쏜 크로스보우 (초월 +1)",
+        "price": "499다이아",
+        "note": "중앙 790 • 초저가 의심",
+        "raw": {
+          "itemId": 160830001,
+          "itemName": "+7 쏜 크로스보우 (초월 +1)",
+          "enchantLevel": 7,
+          "salePrice": 499.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 790.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "499다이아",
         "note": "중앙 999 • 초저가 의심",
@@ -529,7 +545,7 @@
         "enchant": "+5",
         "name": "네비트의 빛의 망토",
         "price": "3,000다이아",
-        "note": "중앙 3,550 • 하위권",
+        "note": "중앙 3,650 • 하위권",
         "raw": {
           "itemId": 200620001,
           "itemName": "+5 네비트의 빛의 망토",
@@ -537,7 +553,7 @@
           "salePrice": 3000.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 3550.0
+          "median": 3650.0
         }
       },
       {
