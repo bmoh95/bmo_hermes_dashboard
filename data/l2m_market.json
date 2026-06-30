@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 01:28:03 KST",
+  "checkedAt": "2026-07-01 01:36:42 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -262,22 +262,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 37.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+3",
-        "name": "말룩의 목걸이",
-        "price": "33다이아",
-        "note": "중앙 70 • 초저가 의심",
-        "raw": {
-          "itemId": 300140015,
-          "itemName": "+3 말룩의 목걸이",
-          "enchantLevel": 3,
-          "salePrice": 33.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 70.0
         }
       },
       {
