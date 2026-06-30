@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 09:16:14 KST",
+  "checkedAt": "2026-06-30 09:24:14 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -182,22 +182,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 58.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "야크샤 트윈 액스",
-        "price": "60다이아",
-        "note": "중앙 89 • 저가",
-        "raw": {
-          "itemId": 101340002,
-          "itemName": "+9 야크샤 트윈 액스",
-          "enchantLevel": 9,
-          "salePrice": 60.0,
-          "category": "무기",
-          "dealLabel": "아이템별 저가",
-          "median": 89.0
         }
       },
       {
