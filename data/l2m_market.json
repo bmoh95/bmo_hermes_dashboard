@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 21:41:15 KST",
+  "checkedAt": "2026-06-30 21:49:16 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -18,22 +18,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 37.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "옛 숲의 목걸이",
-        "price": "51다이아",
-        "note": "중앙 61.5 • 저가",
-        "raw": {
-          "itemId": 300160003,
-          "itemName": "+5 옛 숲의 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 51.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 61.5
         }
       },
       {
@@ -84,22 +68,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 55.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "피닉스 링",
-        "price": "36다이아",
-        "note": "중앙 54 • 저가",
-        "raw": {
-          "itemId": 300350001,
-          "itemName": "+5 피닉스 링",
-          "enchantLevel": 5,
-          "salePrice": 36.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 54.0
         }
       },
       {
