@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 03:30:04 KST",
+  "checkedAt": "2026-07-01 03:38:05 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -317,14 +317,14 @@
         "enchant": "+5",
         "name": "축복의 벨트",
         "price": "66다이아",
-        "note": "중앙 92.5 • 저가",
+        "note": "중앙 92.5 • 하위권",
         "raw": {
           "itemId": 300440001,
           "itemName": "+5 축복의 벨트",
           "enchantLevel": 5,
           "salePrice": 66.0,
           "category": "악세사리",
-          "dealLabel": "아이템별 저가",
+          "dealLabel": "전서버 하위 10% 저가",
           "median": 92.5
         }
       },
@@ -520,22 +520,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 999.0
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "계승자의 서 (인크리즈 스트렝스)",
-        "price": "100다이아",
-        "note": "중앙 209.5 • 초저가 의심",
-        "raw": {
-          "itemId": 500303001,
-          "itemName": "계승자의 서 (인크리즈 스트렝스)",
-          "enchantLevel": 0,
-          "salePrice": 100.0,
-          "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 209.5
         }
       },
       {
