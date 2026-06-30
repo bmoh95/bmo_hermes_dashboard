@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 21:57:17 KST",
+  "checkedAt": "2026-06-30 22:05:19 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -59,7 +59,7 @@
         "enchant": "+3",
         "name": "강철 손목 보호대",
         "price": "50다이아",
-        "note": "중앙 97 • 초저가 의심",
+        "note": "중앙 84 • 초저가 의심",
         "raw": {
           "itemId": 301550002,
           "itemName": "+3 강철 손목 보호대",
@@ -67,7 +67,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 97.0
+          "median": 84.0
         }
       },
       {
@@ -150,22 +150,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 88.5
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "이클립스 오브",
-        "price": "55다이아",
-        "note": "중앙 76.5 • 저가",
-        "raw": {
-          "itemId": 100640003,
-          "itemName": "+9 이클립스 오브",
-          "enchantLevel": 9,
-          "salePrice": 55.0,
-          "category": "무기",
-          "dealLabel": "아이템별 저가",
-          "median": 76.5
         }
       },
       {
