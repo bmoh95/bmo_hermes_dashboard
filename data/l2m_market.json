@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 06:58:34 KST",
+  "checkedAt": "2026-07-01 07:06:35 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -27,7 +27,7 @@
         "enchant": "+0",
         "name": "사원의 유물",
         "price": "15다이아",
-        "note": "중앙 3,655 • 초저가 의심",
+        "note": "중앙 1,840 • 초저가 의심",
         "raw": {
           "itemId": 301150011,
           "itemName": "사원의 유물",
@@ -35,7 +35,7 @@
           "salePrice": 15.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 3655.0
+          "median": 1840.0
         }
       },
       {
@@ -376,6 +376,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 230.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+6",
+        "name": "잊혀진 영웅의 흉갑",
+        "price": "200다이아",
+        "note": "중앙 316 • 초저가 의심",
+        "raw": {
+          "itemId": 200130010,
+          "itemName": "+6 잊혀진 영웅의 흉갑",
+          "enchantLevel": 6,
+          "salePrice": 200.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 316.0
         }
       },
       {
