@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 07:14:36 KST",
+  "checkedAt": "2026-07-01 07:22:37 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -173,7 +173,7 @@
         "enchant": "+9",
         "name": "워피크",
         "price": "70다이아",
-        "note": "중앙 89 • 저가",
+        "note": "중앙 91 • 저가",
         "raw": {
           "itemId": 101340008,
           "itemName": "+9 워피크",
@@ -181,7 +181,7 @@
           "salePrice": 70.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 89.0
+          "median": 91.0
         }
       },
       {
@@ -333,7 +333,7 @@
         "enchant": "+5",
         "name": "축복의 벨트",
         "price": "66다이아",
-        "note": "중앙 87 • 하위권",
+        "note": "중앙 92.5 • 하위권",
         "raw": {
           "itemId": 300440001,
           "itemName": "+5 축복의 벨트",
@@ -341,7 +341,7 @@
           "salePrice": 66.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 87.0
+          "median": 92.5
         }
       }
     ],
