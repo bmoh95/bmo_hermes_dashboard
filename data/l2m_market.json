@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 07:46:40 KST",
+  "checkedAt": "2026-07-01 07:54:42 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -399,7 +399,7 @@
         "enchant": "+5",
         "name": "악마의 부츠",
         "price": "185다이아",
-        "note": "중앙 369 • 초저가 의심",
+        "note": "중앙 373 • 초저가 의심",
         "raw": {
           "itemId": 200430001,
           "itemName": "+5 악마의 부츠",
@@ -407,39 +407,23 @@
           "salePrice": 185.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 369.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+6",
-        "name": "잊혀진 영웅의 흉갑",
-        "price": "200다이아",
-        "note": "중앙 316 • 초저가 의심",
-        "raw": {
-          "itemId": 200130010,
-          "itemName": "+6 잊혀진 영웅의 흉갑",
-          "enchantLevel": 6,
-          "salePrice": 200.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 316.0
+          "median": 373.0
         }
       },
       {
         "kind": "방어구",
         "enchant": "+5",
         "name": "광휘의 투구",
-        "price": "220다이아",
-        "note": "중앙 500 • 초저가 의심",
+        "price": "255다이아",
+        "note": "중앙 499.5 • 초저가 의심",
         "raw": {
           "itemId": 200530012,
           "itemName": "+5 광휘의 투구",
           "enchantLevel": 5,
-          "salePrice": 220.0,
+          "salePrice": 255.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 500.0
+          "median": 499.5
         }
       },
       {
@@ -543,15 +527,15 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 220 • 초저가 의심",
+        "note": "중앙 200 • 저가",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
           "enchantLevel": 0,
           "salePrice": 137.0,
           "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 220.0
+          "dealLabel": "아이템별 저가",
+          "median": 200.0
         }
       }
     ],
