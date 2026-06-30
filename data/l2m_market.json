@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 23:50:34 KST",
+  "checkedAt": "2026-06-30 23:58:34 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -237,7 +237,7 @@
         "enchant": "+4",
         "name": "마염의 귀걸이",
         "price": "22다이아",
-        "note": "중앙 29 • 저가",
+        "note": "중앙 28.5 • 저가",
         "raw": {
           "itemId": 300240003,
           "itemName": "+4 마염의 귀걸이",
@@ -245,7 +245,7 @@
           "salePrice": 22.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 29.0
+          "median": 28.5
         }
       },
       {
@@ -511,7 +511,7 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 200 • 저가",
+        "note": "중앙 198 • 저가",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
@@ -519,7 +519,7 @@
           "salePrice": 137.0,
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
-          "median": 200.0
+          "median": 198.0
         }
       }
     ],
