@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 10:28:24 KST",
+  "checkedAt": "2026-06-30 10:36:25 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -132,22 +132,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 56.0
-        }
-      },
-      {
-        "kind": "손목",
-        "enchant": "+3",
-        "name": "강철 손목 보호대",
-        "price": "50다이아",
-        "note": "중앙 80.5 • 초저가 의심",
-        "raw": {
-          "itemId": 301550002,
-          "itemName": "+3 강철 손목 보호대",
-          "enchantLevel": 3,
-          "salePrice": 50.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 80.5
         }
       },
       {
