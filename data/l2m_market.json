@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 10:12:21 KST",
+  "checkedAt": "2026-06-30 10:20:23 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -34,6 +34,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 30.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "오크족 반지",
+        "price": "49다이아",
+        "note": "중앙 62 • 저가",
+        "raw": {
+          "itemId": 300360010,
+          "itemName": "+5 오크족 반지",
+          "enchantLevel": 5,
+          "salePrice": 49.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 62.0
         }
       },
       {
