@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 22:05:19 KST",
+  "checkedAt": "2026-06-30 22:13:18 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -221,7 +221,7 @@
         "enchant": "+9",
         "name": "피스메이커",
         "price": "150다이아",
-        "note": "중앙 196 • 하위권",
+        "note": "중앙 212 • 하위권",
         "raw": {
           "itemId": 100840004,
           "itemName": "+9 피스메이커",
@@ -229,7 +229,7 @@
           "salePrice": 150.0,
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 196.0
+          "median": 212.0
         }
       },
       {
@@ -285,7 +285,7 @@
         "enchant": "+3",
         "name": "말룩의 목걸이",
         "price": "33다이아",
-        "note": "중앙 67 • 초저가 의심",
+        "note": "중앙 68.5 • 초저가 의심",
         "raw": {
           "itemId": 300140015,
           "itemName": "+3 말룩의 목걸이",
@@ -293,7 +293,7 @@
           "salePrice": 33.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 67.0
+          "median": 68.5
         }
       },
       {
@@ -317,7 +317,7 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 119 • 초저가 의심",
+        "note": "중앙 117 • 초저가 의심",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
@@ -325,7 +325,7 @@
           "salePrice": 65.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 119.0
+          "median": 117.0
         }
       },
       {
