@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 08:52:12 KST",
+  "checkedAt": "2026-06-30 09:00:13 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -413,7 +413,7 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 119 • 초저가 의심",
+        "note": "중앙 117 • 초저가 의심",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
@@ -421,7 +421,7 @@
           "salePrice": 65.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 119.0
+          "median": 117.0
         }
       },
       {
@@ -588,6 +588,22 @@
       }
     ],
     "legendary": [
+      {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "네비트의 빛의 망토",
+        "price": "3,000다이아",
+        "note": "중앙 3,550 • 하위권",
+        "raw": {
+          "itemId": 200620001,
+          "itemName": "+5 네비트의 빛의 망토",
+          "enchantLevel": 5,
+          "salePrice": 3000.0,
+          "category": "방어구",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 3550.0
+        }
+      },
       {
         "kind": "무기",
         "enchant": "+7",
