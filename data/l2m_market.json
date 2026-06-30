@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 19:35:27 KST",
+  "checkedAt": "2026-06-30 19:45:47 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -75,7 +75,7 @@
         "enchant": "+3",
         "name": "강철 손목 보호대",
         "price": "50다이아",
-        "note": "중앙 84 • 초저가 의심",
+        "note": "중앙 83.5 • 초저가 의심",
         "raw": {
           "itemId": 301550002,
           "itemName": "+3 강철 손목 보호대",
@@ -83,7 +83,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 84.0
+          "median": 83.5
         }
       },
       {
@@ -173,7 +173,7 @@
         "enchant": "+9",
         "name": "이클립스 오브",
         "price": "55다이아",
-        "note": "중앙 72 • 저가",
+        "note": "중앙 74 • 저가",
         "raw": {
           "itemId": 100640003,
           "itemName": "+9 이클립스 오브",
@@ -181,7 +181,7 @@
           "salePrice": 55.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 72.0
+          "median": 74.0
         }
       },
       {
@@ -237,7 +237,7 @@
         "enchant": "+9",
         "name": "망각의 활",
         "price": "88다이아",
-        "note": "중앙 122 • 저가",
+        "note": "중앙 124 • 저가",
         "raw": {
           "itemId": 100440009,
           "itemName": "+9 망각의 활",
@@ -245,7 +245,7 @@
           "salePrice": 88.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 122.0
+          "median": 124.0
         }
       },
       {
@@ -269,7 +269,7 @@
         "enchant": "+2",
         "name": "부유의 귀걸이",
         "price": "10다이아",
-        "note": "중앙 15.5 • 초저가 의심",
+        "note": "중앙 16.5 • 초저가 의심",
         "raw": {
           "itemId": 300240009,
           "itemName": "+2 부유의 귀걸이",
@@ -277,7 +277,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 15.5
+          "median": 16.5
         }
       },
       {
@@ -545,15 +545,15 @@
         "enchant": "+7",
         "name": "세이크리디움",
         "price": "5,200다이아",
-        "note": "중앙 6,500 • 하위권",
+        "note": "중앙 6,495 • 저가",
         "raw": {
           "itemId": 100620003,
           "itemName": "+7 세이크리디움",
           "enchantLevel": 7,
           "salePrice": 5200.0,
           "category": "무기",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 6500.0
+          "dealLabel": "아이템별 저가",
+          "median": 6495.0
         }
       },
       {
