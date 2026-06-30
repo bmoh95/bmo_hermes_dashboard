@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 19:02:41 KST",
+  "checkedAt": "2026-06-30 19:10:42 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -205,7 +205,7 @@
         "enchant": "+9",
         "name": "트롬바의 송곳니",
         "price": "71다이아",
-        "note": "중앙 94.5 • 저가",
+        "note": "중앙 95 • 저가",
         "raw": {
           "itemId": 101140005,
           "itemName": "+9 트롬바의 송곳니",
@@ -213,7 +213,7 @@
           "salePrice": 71.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 94.5
+          "median": 95.0
         }
       },
       {
@@ -317,7 +317,7 @@
         "enchant": "+0",
         "name": "혹한의 귀걸이",
         "price": "20다이아",
-        "note": "중앙 26.5 • 저가",
+        "note": "중앙 27 • 저가",
         "raw": {
           "itemId": 300240011,
           "itemName": "혹한의 귀걸이",
@@ -325,7 +325,7 @@
           "salePrice": 20.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 26.5
+          "median": 27.0
         }
       },
       {
