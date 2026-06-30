@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 07:30:38 KST",
+  "checkedAt": "2026-07-01 07:38:39 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -205,7 +205,7 @@
         "enchant": "+9",
         "name": "망각의 활",
         "price": "88다이아",
-        "note": "중앙 123 • 저가",
+        "note": "중앙 122 • 저가",
         "raw": {
           "itemId": 100440009,
           "itemName": "+9 망각의 활",
@@ -213,7 +213,7 @@
           "salePrice": 88.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 123.0
+          "median": 122.0
         }
       },
       {
@@ -399,7 +399,7 @@
         "enchant": "+5",
         "name": "광휘의 투구",
         "price": "220다이아",
-        "note": "중앙 416 • 초저가 의심",
+        "note": "중앙 500 • 초저가 의심",
         "raw": {
           "itemId": 200530012,
           "itemName": "+5 광휘의 투구",
@@ -407,7 +407,7 @@
           "salePrice": 220.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 416.0
+          "median": 500.0
         }
       },
       {
@@ -447,7 +447,7 @@
         "enchant": "+7",
         "name": "블러디 네뷸라이트 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 1,108 • 초저가 의심",
+        "note": "중앙 1,110.5 • 초저가 의심",
         "raw": {
           "itemId": 160530105,
           "itemName": "+7 블러디 네뷸라이트 (초월 +2)",
@@ -455,7 +455,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1108.0
+          "median": 1110.5
         }
       },
       {
