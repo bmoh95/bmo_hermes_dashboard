@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-06-30 19:45:47 KST",
+  "checkedAt": "2026-06-30 19:53:48 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -333,7 +333,7 @@
         "enchant": "+5",
         "name": "오만의 반지",
         "price": "33다이아",
-        "note": "중앙 44.5 • 하위권",
+        "note": "중앙 44 • 하위권",
         "raw": {
           "itemId": 300340002,
           "itemName": "+5 오만의 반지",
@@ -341,7 +341,7 @@
           "salePrice": 33.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 44.5
+          "median": 44.0
         }
       },
       {
@@ -381,7 +381,7 @@
         "enchant": "+3",
         "name": "파수꾼의 견갑",
         "price": "900다이아",
-        "note": "중앙 1,205 • 저가",
+        "note": "중앙 1,190 • 저가",
         "raw": {
           "itemId": 200940024,
           "itemName": "+3 파수꾼의 견갑",
@@ -389,7 +389,7 @@
           "salePrice": 900.0,
           "category": "방어구",
           "dealLabel": "아이템별 저가",
-          "median": 1205.0
+          "median": 1190.0
         }
       }
     ],
