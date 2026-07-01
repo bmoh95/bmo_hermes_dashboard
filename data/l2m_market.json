@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 03:25:32 KST",
+  "checkedAt": "2026-07-02 03:33:33 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -59,7 +59,7 @@
         "enchant": "+3",
         "name": "강철 손목 보호대",
         "price": "50다이아",
-        "note": "중앙 97 • 초저가 의심",
+        "note": "중앙 94.5 • 초저가 의심",
         "raw": {
           "itemId": 301550002,
           "itemName": "+3 강철 손목 보호대",
@@ -67,7 +67,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 97.0
+          "median": 94.5
         }
       },
       {
@@ -221,7 +221,7 @@
         "enchant": "+5",
         "name": "신성의 수호 반지",
         "price": "38다이아",
-        "note": "중앙 60.5 • 초저가 의심",
+        "note": "중앙 60 • 초저가 의심",
         "raw": {
           "itemId": 300340008,
           "itemName": "+5 신성의 수호 반지",
@@ -229,7 +229,7 @@
           "salePrice": 38.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 60.5
+          "median": 60.0
         }
       },
       {
@@ -479,7 +479,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "100다이아",
-        "note": "중앙 219.5 • 초저가 의심",
+        "note": "중앙 220 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -487,7 +487,7 @@
           "salePrice": 100.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 219.5
+          "median": 220.0
         }
       },
       {
