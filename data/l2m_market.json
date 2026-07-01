@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 00:59:09 KST",
+  "checkedAt": "2026-07-02 01:07:52 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -253,15 +253,15 @@
         "enchant": "+5",
         "name": "신성의 수호 반지",
         "price": "38다이아",
-        "note": "중앙 56 • 하위권",
+        "note": "중앙 60.5 • 초저가 의심",
         "raw": {
           "itemId": 300340008,
           "itemName": "+5 신성의 수호 반지",
           "enchantLevel": 5,
           "salePrice": 38.0,
           "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 56.0
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 60.5
         }
       },
       {
@@ -431,7 +431,7 @@
         "enchant": "+0",
         "name": "카오스 브레이커",
         "price": "120다이아",
-        "note": "중앙 265 • 초저가 의심",
+        "note": "중앙 260 • 초저가 의심",
         "raw": {
           "itemId": 100930001,
           "itemName": "카오스 브레이커",
@@ -439,7 +439,23 @@
           "salePrice": 120.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 265.0
+          "median": 260.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+4",
+        "name": "광휘의 투구",
+        "price": "150다이아",
+        "note": "중앙 294.5 • 초저가 의심",
+        "raw": {
+          "itemId": 200530012,
+          "itemName": "+4 광휘의 투구",
+          "enchantLevel": 4,
+          "salePrice": 150.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 294.5
         }
       },
       {
@@ -602,6 +618,22 @@
           "category": "스킬북",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 5400.0
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "사제의 기록 (하이 큐어)",
+        "price": "12,000다이아",
+        "note": "중앙 18,000 • 하위권",
+        "raw": {
+          "itemId": 500362009,
+          "itemName": "사제의 기록 (하이 큐어)",
+          "enchantLevel": 0,
+          "salePrice": 12000.0,
+          "category": "스킬북",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 18000.0
         }
       }
     ]
