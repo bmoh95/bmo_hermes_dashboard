@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 10:23:19 KST",
+  "checkedAt": "2026-07-01 10:32:04 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -269,7 +269,7 @@
         "enchant": "+9",
         "name": "피스메이커",
         "price": "150다이아",
-        "note": "중앙 199 • 하위권",
+        "note": "중앙 205.5 • 하위권",
         "raw": {
           "itemId": 100840004,
           "itemName": "+9 피스메이커",
@@ -277,7 +277,7 @@
           "salePrice": 150.0,
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 199.0
+          "median": 205.5
         }
       },
       {
@@ -349,7 +349,7 @@
         "enchant": "+3",
         "name": "미궁의 목걸이",
         "price": "30다이아",
-        "note": "중앙 40 • 저가",
+        "note": "중앙 37.5 • 저가",
         "raw": {
           "itemId": 300140018,
           "itemName": "+3 미궁의 목걸이",
@@ -357,7 +357,7 @@
           "salePrice": 30.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 40.0
+          "median": 37.5
         }
       },
       {
@@ -397,7 +397,7 @@
         "enchant": "+5",
         "name": "축복의 벨트",
         "price": "66다이아",
-        "note": "중앙 87 • 하위권",
+        "note": "중앙 92.5 • 하위권",
         "raw": {
           "itemId": 300440001,
           "itemName": "+5 축복의 벨트",
@@ -405,7 +405,7 @@
           "salePrice": 66.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 87.0
+          "median": 92.5
         }
       },
       {
@@ -511,7 +511,7 @@
         "enchant": "+5",
         "name": "악마의 부츠",
         "price": "185다이아",
-        "note": "중앙 369 • 초저가 의심",
+        "note": "중앙 373 • 초저가 의심",
         "raw": {
           "itemId": 200430001,
           "itemName": "+5 악마의 부츠",
@@ -519,7 +519,7 @@
           "salePrice": 185.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 369.0
+          "median": 373.0
         }
       },
       {
