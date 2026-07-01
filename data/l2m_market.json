@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 13:23:31 KST",
+  "checkedAt": "2026-07-01 13:31:32 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -252,15 +252,15 @@
         "enchant": "+0",
         "name": "혹한의 귀걸이",
         "price": "20다이아",
-        "note": "중앙 25.5 • 저가",
+        "note": "중앙 26 • 하위권",
         "raw": {
           "itemId": 300240011,
           "itemName": "혹한의 귀걸이",
           "enchantLevel": 0,
           "salePrice": 20.0,
           "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 25.5
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 26.0
         }
       },
       {
@@ -277,6 +277,22 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 29.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+3",
+        "name": "미궁의 목걸이",
+        "price": "30다이아",
+        "note": "중앙 37.5 • 저가",
+        "raw": {
+          "itemId": 300140018,
+          "itemName": "+3 미궁의 목걸이",
+          "enchantLevel": 3,
+          "salePrice": 30.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 37.5
         }
       },
       {
@@ -300,7 +316,7 @@
         "enchant": "+5",
         "name": "사제의 목걸이",
         "price": "45다이아",
-        "note": "중앙 58.5 • 저가",
+        "note": "중앙 62 • 저가",
         "raw": {
           "itemId": 300140010,
           "itemName": "+5 사제의 목걸이",
@@ -308,7 +324,7 @@
           "salePrice": 45.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 58.5
+          "median": 62.0
         }
       },
       {
@@ -398,15 +414,15 @@
         "enchant": "+3",
         "name": "마제스틱 네크리스 (초월 +1)",
         "price": "412다이아",
-        "note": "중앙 650 • 초저가 의심",
+        "note": "중앙 600 • 저가",
         "raw": {
           "itemId": 360130007,
           "itemName": "+3 마제스틱 네크리스 (초월 +1)",
           "enchantLevel": 3,
           "salePrice": 412.0,
           "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 650.0
+          "dealLabel": "아이템별 저가",
+          "median": 600.0
         }
       },
       {
@@ -462,7 +478,7 @@
         "enchant": "+5",
         "name": "악마의 부츠",
         "price": "185다이아",
-        "note": "중앙 380 • 초저가 의심",
+        "note": "중앙 399 • 초저가 의심",
         "raw": {
           "itemId": 200430001,
           "itemName": "+5 악마의 부츠",
@@ -470,7 +486,7 @@
           "salePrice": 185.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 380.0
+          "median": 399.0
         }
       },
       {
