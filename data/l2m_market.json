@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 21:03:14 KST",
+  "checkedAt": "2026-07-01 21:11:34 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -68,6 +68,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 97.0
+        }
+      },
+      {
+        "kind": "손목",
+        "enchant": "+4",
+        "name": "강철 손목 보호대",
+        "price": "99다이아",
+        "note": "중앙 123 • 하위권",
+        "raw": {
+          "itemId": 301550002,
+          "itemName": "+4 강철 손목 보호대",
+          "enchantLevel": 4,
+          "salePrice": 99.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 123.0
         }
       }
     ],
@@ -447,7 +463,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 819.5 • 초저가 의심",
+        "note": "중앙 799 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -455,23 +471,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 819.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+3",
-        "name": "광휘의 반지 (초월 +3)",
-        "price": "750다이아",
-        "note": "중앙 1,000 • 하위권",
-        "raw": {
-          "itemId": 360330211,
-          "itemName": "+3 광휘의 반지 (초월 +3)",
-          "enchantLevel": 3,
-          "salePrice": 750.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 1000.0
+          "median": 799.0
         }
       },
       {
@@ -479,7 +479,7 @@
         "enchant": "+0",
         "name": "카오스 브레이커",
         "price": "120다이아",
-        "note": "중앙 260 • 초저가 의심",
+        "note": "중앙 265 • 초저가 의심",
         "raw": {
           "itemId": 100930001,
           "itemName": "카오스 브레이커",
@@ -487,7 +487,7 @@
           "salePrice": 120.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 260.0
+          "median": 265.0
         }
       },
       {
@@ -511,7 +511,7 @@
         "enchant": "+5",
         "name": "악마의 부츠",
         "price": "185다이아",
-        "note": "중앙 380 • 초저가 의심",
+        "note": "중앙 370 • 초저가 의심",
         "raw": {
           "itemId": 200430001,
           "itemName": "+5 악마의 부츠",
@@ -519,7 +519,7 @@
           "salePrice": 185.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 380.0
+          "median": 370.0
         }
       },
       {
@@ -559,7 +559,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 1,074.5 • 초저가 의심",
+        "note": "중앙 999 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -567,7 +567,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1074.5
+          "median": 999.0
         }
       },
       {
