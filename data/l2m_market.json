@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 18:12:13 KST",
+  "checkedAt": "2026-07-01 18:21:14 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -447,7 +447,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 777 • 초저가 의심",
+        "note": "중앙 788 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -455,7 +455,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 777.0
+          "median": 788.0
         }
       },
       {
