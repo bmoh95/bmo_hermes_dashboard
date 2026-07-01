@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 23:30:37 KST",
+  "checkedAt": "2026-07-01 23:38:57 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -9,7 +9,7 @@
         "enchant": "+3",
         "name": "타이거 아이",
         "price": "10다이아",
-        "note": "중앙 22 • 초저가 의심",
+        "note": "중앙 20 • 초저가 의심",
         "raw": {
           "itemId": 300260007,
           "itemName": "+3 타이거 아이",
@@ -17,7 +17,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 22.0
+          "median": 20.0
         }
       }
     ],
@@ -250,6 +250,22 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+3",
+        "name": "미궁의 목걸이",
+        "price": "30다이아",
+        "note": "중앙 37.5 • 저가",
+        "raw": {
+          "itemId": 300140018,
+          "itemName": "+3 미궁의 목걸이",
+          "enchantLevel": 3,
+          "salePrice": 30.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 37.5
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+5",
         "name": "신성의 수호 반지",
         "price": "38다이아",
@@ -399,15 +415,15 @@
         "enchant": "+3",
         "name": "마제스틱 네크리스 (초월 +1)",
         "price": "412다이아",
-        "note": "중앙 600 • 저가",
+        "note": "중앙 650 • 초저가 의심",
         "raw": {
           "itemId": 360130007,
           "itemName": "+3 마제스틱 네크리스 (초월 +1)",
           "enchantLevel": 3,
           "salePrice": 412.0,
           "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 600.0
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 650.0
         }
       },
       {
@@ -575,7 +591,7 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 197.5 • 저가",
+        "note": "중앙 200 • 저가",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
@@ -583,7 +599,7 @@
           "salePrice": 137.0,
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
-          "median": 197.5
+          "median": 200.0
         }
       }
     ],
