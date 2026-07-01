@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 11:33:14 KST",
+  "checkedAt": "2026-07-01 11:41:56 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -141,7 +141,7 @@
         "enchant": "+8",
         "name": "알바레스트",
         "price": "29다이아",
-        "note": "중앙 59 • 초저가 의심",
+        "note": "중앙 59.5 • 초저가 의심",
         "raw": {
           "itemId": 100840001,
           "itemName": "+8 알바레스트",
@@ -149,7 +149,7 @@
           "salePrice": 29.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 59.0
+          "median": 59.5
         }
       },
       {
@@ -333,7 +333,7 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 119.5 • 초저가 의심",
+        "note": "중앙 120 • 초저가 의심",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
@@ -341,7 +341,7 @@
           "salePrice": 65.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 119.5
+          "median": 120.0
         }
       },
       {
@@ -479,7 +479,7 @@
         "enchant": "+5",
         "name": "악마의 부츠",
         "price": "185다이아",
-        "note": "중앙 378.5 • 초저가 의심",
+        "note": "중앙 380 • 초저가 의심",
         "raw": {
           "itemId": 200430001,
           "itemName": "+5 악마의 부츠",
@@ -487,7 +487,7 @@
           "salePrice": 185.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 378.5
+          "median": 380.0
         }
       },
       {
