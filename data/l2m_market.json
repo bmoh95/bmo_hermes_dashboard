@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 15:50:53 KST",
+  "checkedAt": "2026-07-01 16:00:36 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -26,7 +26,7 @@
         "enchant": "+2",
         "name": "빛나는 유물",
         "price": "30다이아",
-        "note": "중앙 39 • 저가",
+        "note": "중앙 41.5 • 저가",
         "raw": {
           "itemId": 301150001,
           "itemName": "+2 빛나는 유물",
@@ -34,7 +34,7 @@
           "salePrice": 30.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 39.0
+          "median": 41.5
         }
       },
       {
@@ -376,22 +376,6 @@
         }
       },
       {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "차원의 반지",
-        "price": "150다이아",
-        "note": "중앙 190 • 저가",
-        "raw": {
-          "itemId": 300340020,
-          "itemName": "+5 차원의 반지",
-          "enchantLevel": 5,
-          "salePrice": 150.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 190.0
-        }
-      },
-      {
         "kind": "스킬북",
         "enchant": "+0",
         "name": "이도류 비전서 (소닉 러시)",
@@ -427,18 +411,34 @@
     "heroic": [
       {
         "kind": "악세사리",
+        "enchant": "+1",
+        "name": "심연의 벨트",
+        "price": "199다이아",
+        "note": "중앙 309 • 초저가 의심",
+        "raw": {
+          "itemId": 300430009,
+          "itemName": "+1 심연의 벨트",
+          "enchantLevel": 1,
+          "salePrice": 199.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 309.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+3",
         "name": "마제스틱 네크리스 (초월 +1)",
         "price": "412다이아",
-        "note": "중앙 600 • 저가",
+        "note": "중앙 650 • 초저가 의심",
         "raw": {
           "itemId": 360130007,
           "itemName": "+3 마제스틱 네크리스 (초월 +1)",
           "enchantLevel": 3,
           "salePrice": 412.0,
           "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 600.0
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 650.0
         }
       },
       {
