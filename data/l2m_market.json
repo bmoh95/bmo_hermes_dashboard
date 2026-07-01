@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 07:35:09 KST",
+  "checkedAt": "2026-07-02 07:43:10 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -283,6 +283,22 @@
       {
         "kind": "악세사리",
         "enchant": "+5",
+        "name": "사령 템페스트의 목걸이",
+        "price": "73다이아",
+        "note": "중앙 87 • 저가",
+        "raw": {
+          "itemId": 300140002,
+          "itemName": "+5 사령 템페스트의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 73.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 87.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
         "name": "각성의 목걸이",
         "price": "84다이아",
         "note": "중앙 100 • 하위권",
@@ -447,7 +463,7 @@
         "enchant": "+6",
         "name": "실렌의 숨결",
         "price": "450다이아",
-        "note": "중앙 799 • 초저가 의심",
+        "note": "중앙 799.5 • 초저가 의심",
         "raw": {
           "itemId": 200230001,
           "itemName": "+6 실렌의 숨결",
@@ -455,7 +471,7 @@
           "salePrice": 450.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 799.0
+          "median": 799.5
         }
       },
       {
