@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 17:01:04 KST",
+  "checkedAt": "2026-07-01 17:10:19 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -9,7 +9,7 @@
         "enchant": "+3",
         "name": "타이거 아이",
         "price": "10다이아",
-        "note": "중앙 20 • 초저가 의심",
+        "note": "중앙 21 • 초저가 의심",
         "raw": {
           "itemId": 300260007,
           "itemName": "+3 타이거 아이",
@@ -17,7 +17,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 20.0
+          "median": 21.0
         }
       }
     ],
@@ -118,6 +118,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 59.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "갈라틴",
+        "price": "30다이아",
+        "note": "중앙 48 • 초저가 의심",
+        "raw": {
+          "itemId": 101340006,
+          "itemName": "+9 갈라틴",
+          "enchantLevel": 9,
+          "salePrice": 30.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 48.0
         }
       },
       {
@@ -262,22 +278,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 27.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+3",
-        "name": "미궁의 목걸이",
-        "price": "30다이아",
-        "note": "중앙 40 • 저가",
-        "raw": {
-          "itemId": 300140018,
-          "itemName": "+3 미궁의 목걸이",
-          "enchantLevel": 3,
-          "salePrice": 30.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 40.0
         }
       },
       {
@@ -431,7 +431,7 @@
         "enchant": "+3",
         "name": "광휘의 반지 (초월 +3)",
         "price": "750다이아",
-        "note": "중앙 1,000 • 저가",
+        "note": "중앙 1,050 • 저가",
         "raw": {
           "itemId": 360330211,
           "itemName": "+3 광휘의 반지 (초월 +3)",
@@ -439,7 +439,7 @@
           "salePrice": 750.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 1000.0
+          "median": 1050.0
         }
       },
       {
