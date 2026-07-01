@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 13:31:32 KST",
+  "checkedAt": "2026-07-01 13:40:14 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -252,15 +252,15 @@
         "enchant": "+0",
         "name": "혹한의 귀걸이",
         "price": "20다이아",
-        "note": "중앙 26 • 하위권",
+        "note": "중앙 25.5 • 저가",
         "raw": {
           "itemId": 300240011,
           "itemName": "혹한의 귀걸이",
           "enchantLevel": 0,
           "salePrice": 20.0,
           "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 26.0
+          "dealLabel": "아이템별 저가",
+          "median": 25.5
         }
       },
       {
