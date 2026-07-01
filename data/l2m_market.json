@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 22:00:42 KST",
+  "checkedAt": "2026-07-01 22:08:43 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -109,7 +109,7 @@
         "enchant": "+8",
         "name": "알바레스트",
         "price": "29다이아",
-        "note": "중앙 62 • 초저가 의심",
+        "note": "중앙 63.5 • 초저가 의심",
         "raw": {
           "itemId": 100840001,
           "itemName": "+8 알바레스트",
@@ -117,7 +117,7 @@
           "salePrice": 29.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 62.0
+          "median": 63.5
         }
       },
       {
@@ -189,7 +189,7 @@
         "enchant": "+9",
         "name": "워피크",
         "price": "70다이아",
-        "note": "중앙 91 • 저가",
+        "note": "중앙 92 • 저가",
         "raw": {
           "itemId": 101340008,
           "itemName": "+9 워피크",
@@ -197,7 +197,7 @@
           "salePrice": 70.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 91.0
+          "median": 92.0
         }
       },
       {
