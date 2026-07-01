@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 20:46:31 KST",
+  "checkedAt": "2026-07-01 20:54:31 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -109,7 +109,7 @@
         "enchant": "+9",
         "name": "갈라틴",
         "price": "30다이아",
-        "note": "중앙 49 • 초저가 의심",
+        "note": "중앙 49.5 • 초저가 의심",
         "raw": {
           "itemId": 101340006,
           "itemName": "+9 갈라틴",
@@ -117,7 +117,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 49.0
+          "median": 49.5
         }
       },
       {
@@ -377,6 +377,22 @@
         }
       },
       {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "차원의 반지",
+        "price": "135다이아",
+        "note": "중앙 175 • 저가",
+        "raw": {
+          "itemId": 300340020,
+          "itemName": "+5 차원의 반지",
+          "enchantLevel": 5,
+          "salePrice": 135.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 175.0
+        }
+      },
+      {
         "kind": "견갑",
         "enchant": "+0",
         "name": "요새의 견갑",
@@ -504,22 +520,6 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 380.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+8",
-        "name": "핸드 오브 카브리오",
-        "price": "285다이아",
-        "note": "중앙 500 • 초저가 의심",
-        "raw": {
-          "itemId": 100630002,
-          "itemName": "+8 핸드 오브 카브리오",
-          "enchantLevel": 8,
-          "salePrice": 285.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 500.0
         }
       },
       {
