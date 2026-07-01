@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 22:48:49 KST",
+  "checkedAt": "2026-07-01 22:56:50 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -301,7 +301,7 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 119 • 초저가 의심",
+        "note": "중앙 117 • 초저가 의심",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
@@ -309,7 +309,7 @@
           "salePrice": 65.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 119.0
+          "median": 117.0
         }
       },
       {
@@ -440,6 +440,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 799.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+3",
+        "name": "광휘의 반지 (초월 +3)",
+        "price": "750다이아",
+        "note": "중앙 1,049.5 • 하위권",
+        "raw": {
+          "itemId": 360330211,
+          "itemName": "+3 광휘의 반지 (초월 +3)",
+          "enchantLevel": 3,
+          "salePrice": 750.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 1049.5
         }
       },
       {
@@ -609,7 +625,7 @@
         "enchant": "+0",
         "name": "쌍도끼 전승서 (래쓰 오브 타이탄)",
         "price": "4,000다이아",
-        "note": "중앙 5,800 • 하위권",
+        "note": "중앙 5,400 • 하위권",
         "raw": {
           "itemId": 503222004,
           "itemName": "쌍도끼 전승서 (래쓰 오브 타이탄)",
@@ -617,7 +633,7 @@
           "salePrice": 4000.0,
           "category": "스킬북",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 5800.0
+          "median": 5400.0
         }
       }
     ]
