@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 21:19:35 KST",
+  "checkedAt": "2026-07-01 21:27:37 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -150,6 +150,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 58.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "그레이트 액스",
+        "price": "33다이아",
+        "note": "중앙 57.5 • 초저가 의심",
+        "raw": {
+          "itemId": 100740001,
+          "itemName": "+9 그레이트 액스",
+          "enchantLevel": 9,
+          "salePrice": 33.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 57.5
         }
       },
       {
@@ -333,7 +349,7 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 117 • 초저가 의심",
+        "note": "중앙 119 • 초저가 의심",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
@@ -341,7 +357,7 @@
           "salePrice": 65.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 117.0
+          "median": 119.0
         }
       },
       {
