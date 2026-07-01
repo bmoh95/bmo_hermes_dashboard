@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 11:08:10 KST",
+  "checkedAt": "2026-07-01 11:16:11 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -381,7 +381,7 @@
         "enchant": "+5",
         "name": "차원의 반지",
         "price": "150다이아",
-        "note": "중앙 185 • 저가",
+        "note": "중앙 180 • 저가",
         "raw": {
           "itemId": 300340020,
           "itemName": "+5 차원의 반지",
@@ -389,7 +389,7 @@
           "salePrice": 150.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 185.0
+          "median": 180.0
         }
       },
       {
