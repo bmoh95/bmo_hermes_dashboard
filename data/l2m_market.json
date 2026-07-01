@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 10:59:50 KST",
+  "checkedAt": "2026-07-01 11:08:10 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -333,7 +333,7 @@
         "enchant": "+5",
         "name": "오만의 반지",
         "price": "33다이아",
-        "note": "중앙 44 • 하위권",
+        "note": "중앙 46.5 • 하위권",
         "raw": {
           "itemId": 300340002,
           "itemName": "+5 오만의 반지",
@@ -341,7 +341,7 @@
           "salePrice": 33.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 44.0
+          "median": 46.5
         }
       },
       {
