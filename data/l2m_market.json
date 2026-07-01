@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 11:41:56 KST",
+  "checkedAt": "2026-07-01 11:50:17 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -52,22 +52,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 40.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+2",
-        "name": "페트람의 유물",
-        "price": "35다이아",
-        "note": "중앙 55 • 초저가 의심",
-        "raw": {
-          "itemId": 301150008,
-          "itemName": "+2 페트람의 유물",
-          "enchantLevel": 2,
-          "salePrice": 35.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 55.0
         }
       },
       {
@@ -157,7 +141,7 @@
         "enchant": "+9",
         "name": "싸울아비 장검",
         "price": "30다이아",
-        "note": "중앙 57 • 초저가 의심",
+        "note": "중앙 58 • 초저가 의심",
         "raw": {
           "itemId": 100140003,
           "itemName": "+9 싸울아비 장검",
@@ -165,7 +149,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 57.0
+          "median": 58.0
         }
       },
       {
@@ -391,6 +375,22 @@
           "dealLabel": "아이템별 저가",
           "median": 20.5
         }
+      },
+      {
+        "kind": "견갑",
+        "enchant": "+3",
+        "name": "제사장의 견갑",
+        "price": "1,200다이아",
+        "note": "중앙 1,500 • 하위권",
+        "raw": {
+          "itemId": 200940026,
+          "itemName": "+3 제사장의 견갑",
+          "enchantLevel": 3,
+          "salePrice": 1200.0,
+          "category": "방어구",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 1500.0
+        }
       }
     ],
     "heroic": [
@@ -495,7 +495,7 @@
         "enchant": "+5",
         "name": "광휘의 투구",
         "price": "255다이아",
-        "note": "중앙 499.5 • 초저가 의심",
+        "note": "중앙 500 • 초저가 의심",
         "raw": {
           "itemId": 200530012,
           "itemName": "+5 광휘의 투구",
@@ -503,7 +503,7 @@
           "salePrice": 255.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 499.5
+          "median": 500.0
         }
       },
       {
@@ -543,7 +543,7 @@
         "enchant": "+6",
         "name": "실렌의 숨결",
         "price": "450다이아",
-        "note": "중앙 799.5 • 초저가 의심",
+        "note": "중앙 799 • 초저가 의심",
         "raw": {
           "itemId": 200230001,
           "itemName": "+6 실렌의 숨결",
@@ -551,7 +551,7 @@
           "salePrice": 450.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 799.5
+          "median": 799.0
         }
       },
       {
@@ -641,7 +641,7 @@
         "enchant": "+7",
         "name": "세이크리디움",
         "price": "5,200다이아",
-        "note": "중앙 6,372.5 • 하위권",
+        "note": "중앙 6,347.5 • 하위권",
         "raw": {
           "itemId": 100620003,
           "itemName": "+7 세이크리디움",
@@ -649,7 +649,7 @@
           "salePrice": 5200.0,
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 6372.5
+          "median": 6347.5
         }
       },
       {
