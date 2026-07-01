@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 09:48:39 KST",
+  "checkedAt": "2026-07-01 09:56:59 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -397,7 +397,7 @@
         "enchant": "+5",
         "name": "축복의 벨트",
         "price": "66다이아",
-        "note": "중앙 87 • 하위권",
+        "note": "중앙 92.5 • 하위권",
         "raw": {
           "itemId": 300440001,
           "itemName": "+5 축복의 벨트",
@@ -405,7 +405,7 @@
           "salePrice": 66.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 87.0
+          "median": 92.5
         }
       },
       {
@@ -475,6 +475,22 @@
         }
       },
       {
+        "kind": "악세사리",
+        "enchant": "+3",
+        "name": "광휘의 반지 (초월 +3)",
+        "price": "750다이아",
+        "note": "중앙 1,000 • 하위권",
+        "raw": {
+          "itemId": 360330211,
+          "itemName": "+3 광휘의 반지 (초월 +3)",
+          "enchantLevel": 3,
+          "salePrice": 750.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 1000.0
+        }
+      },
+      {
         "kind": "무기",
         "enchant": "+0",
         "name": "카오스 브레이커",
@@ -488,22 +504,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 230.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "인내의 각반",
-        "price": "150다이아",
-        "note": "중앙 280 • 초저가 의심",
-        "raw": {
-          "itemId": 200230008,
-          "itemName": "+5 인내의 각반",
-          "enchantLevel": 5,
-          "salePrice": 150.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 280.0
         }
       },
       {
@@ -673,7 +673,7 @@
         "enchant": "+5",
         "name": "타락 천사의 장갑 (초월 +1)",
         "price": "7,500다이아",
-        "note": "중앙 9,450 • 하위권",
+        "note": "중앙 9,400 • 하위권",
         "raw": {
           "itemId": 260320003,
           "itemName": "+5 타락 천사의 장갑 (초월 +1)",
@@ -681,7 +681,7 @@
           "salePrice": 7500.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 9450.0
+          "median": 9400.0
         }
       },
       {
