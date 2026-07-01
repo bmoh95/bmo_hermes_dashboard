@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 22:16:45 KST",
+  "checkedAt": "2026-07-01 22:24:46 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -155,22 +155,6 @@
       {
         "kind": "무기",
         "enchant": "+9",
-        "name": "그레이트 액스",
-        "price": "33다이아",
-        "note": "중앙 57.5 • 초저가 의심",
-        "raw": {
-          "itemId": 100740001,
-          "itemName": "+9 그레이트 액스",
-          "enchantLevel": 9,
-          "salePrice": 33.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 57.5
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
         "name": "너바나",
         "price": "55다이아",
         "note": "중앙 87.5 • 초저가 의심",
@@ -285,15 +269,15 @@
         "enchant": "+5",
         "name": "신성의 수호 반지",
         "price": "38다이아",
-        "note": "중앙 60.5 • 초저가 의심",
+        "note": "중앙 56 • 하위권",
         "raw": {
           "itemId": 300340008,
           "itemName": "+5 신성의 수호 반지",
           "enchantLevel": 5,
           "salePrice": 38.0,
           "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 60.5
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 56.0
         }
       },
       {
@@ -381,7 +365,7 @@
         "enchant": "+5",
         "name": "차원의 반지",
         "price": "135다이아",
-        "note": "중앙 175 • 저가",
+        "note": "중앙 170 • 저가",
         "raw": {
           "itemId": 300340020,
           "itemName": "+5 차원의 반지",
@@ -389,7 +373,7 @@
           "salePrice": 135.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 175.0
+          "median": 170.0
         }
       },
       {
@@ -415,7 +399,7 @@
         "enchant": "+1",
         "name": "심연의 벨트",
         "price": "199다이아",
-        "note": "중앙 300 • 초저가 의심",
+        "note": "중앙 309 • 초저가 의심",
         "raw": {
           "itemId": 300430009,
           "itemName": "+1 심연의 벨트",
@@ -423,7 +407,7 @@
           "salePrice": 199.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 300.0
+          "median": 309.0
         }
       },
       {
@@ -495,7 +479,7 @@
         "enchant": "+5",
         "name": "악마의 부츠",
         "price": "185다이아",
-        "note": "중앙 370 • 초저가 의심",
+        "note": "중앙 380 • 초저가 의심",
         "raw": {
           "itemId": 200430001,
           "itemName": "+5 악마의 부츠",
@@ -503,7 +487,7 @@
           "salePrice": 185.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 370.0
+          "median": 380.0
         }
       },
       {
