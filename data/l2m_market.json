@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 22:08:43 KST",
+  "checkedAt": "2026-07-01 22:16:45 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -205,7 +205,7 @@
         "enchant": "+9",
         "name": "트롬바의 송곳니",
         "price": "74다이아",
-        "note": "중앙 96 • 하위권",
+        "note": "중앙 97.5 • 하위권",
         "raw": {
           "itemId": 101140005,
           "itemName": "+9 트롬바의 송곳니",
@@ -213,23 +213,7 @@
           "salePrice": 74.0,
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 96.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+8",
-        "name": "악마의 활",
-        "price": "130다이아",
-        "note": "중앙 155 • 저가",
-        "raw": {
-          "itemId": 100440008,
-          "itemName": "+8 악마의 활",
-          "enchantLevel": 8,
-          "salePrice": 130.0,
-          "category": "무기",
-          "dealLabel": "아이템별 저가",
-          "median": 155.0
+          "median": 97.5
         }
       },
       {
@@ -294,22 +278,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 40.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "오만의 반지",
-        "price": "33다이아",
-        "note": "중앙 49.5 • 하위권",
-        "raw": {
-          "itemId": 300340002,
-          "itemName": "+5 오만의 반지",
-          "enchantLevel": 5,
-          "salePrice": 33.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 49.5
         }
       },
       {
@@ -397,14 +365,14 @@
         "enchant": "+5",
         "name": "각성의 목걸이",
         "price": "84다이아",
-        "note": "중앙 105.5 • 저가",
+        "note": "중앙 105.5 • 하위권",
         "raw": {
           "itemId": 300140005,
           "itemName": "+5 각성의 목걸이",
           "enchantLevel": 5,
           "salePrice": 84.0,
           "category": "악세사리",
-          "dealLabel": "아이템별 저가",
+          "dealLabel": "전서버 하위 10% 저가",
           "median": 105.5
         }
       },
@@ -650,22 +618,6 @@
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 9450.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+7",
-        "name": "네비트의 빛의 망토 (초월 +1)",
-        "price": "9,900다이아",
-        "note": "중앙 12,000 • 하위권",
-        "raw": {
-          "itemId": 260620001,
-          "itemName": "+7 네비트의 빛의 망토 (초월 +1)",
-          "enchantLevel": 7,
-          "salePrice": 9900.0,
-          "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 12000.0
         }
       },
       {
