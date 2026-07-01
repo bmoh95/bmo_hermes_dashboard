@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 11:59:18 KST",
+  "checkedAt": "2026-07-01 12:07:19 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -443,6 +443,22 @@
         }
       },
       {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "마제스틱 서클릿",
+        "price": "110다이아",
+        "note": "중앙 210 • 초저가 의심",
+        "raw": {
+          "itemId": 200530003,
+          "itemName": "+5 마제스틱 서클릿",
+          "enchantLevel": 5,
+          "salePrice": 110.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 210.0
+        }
+      },
+      {
         "kind": "무기",
         "enchant": "+0",
         "name": "카오스 브레이커",
@@ -495,7 +511,7 @@
         "enchant": "+5",
         "name": "광휘의 투구",
         "price": "255다이아",
-        "note": "중앙 500 • 초저가 의심",
+        "note": "중앙 555 • 초저가 의심",
         "raw": {
           "itemId": 200530012,
           "itemName": "+5 광휘의 투구",
@@ -503,7 +519,7 @@
           "salePrice": 255.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 500.0
+          "median": 555.0
         }
       },
       {
@@ -623,15 +639,15 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 200 • 저가",
+        "note": "중앙 220 • 초저가 의심",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
           "enchantLevel": 0,
           "salePrice": 137.0,
           "category": "스킬북",
-          "dealLabel": "아이템별 저가",
-          "median": 200.0
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 220.0
         }
       }
     ],
