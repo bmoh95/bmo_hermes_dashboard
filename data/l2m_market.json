@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 18:47:17 KST",
+  "checkedAt": "2026-07-01 18:55:25 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -253,7 +253,7 @@
         "enchant": "+2",
         "name": "부유의 귀걸이",
         "price": "10다이아",
-        "note": "중앙 15.5 • 초저가 의심",
+        "note": "중앙 17 • 초저가 의심",
         "raw": {
           "itemId": 300240009,
           "itemName": "+2 부유의 귀걸이",
@@ -261,7 +261,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 15.5
+          "median": 17.0
         }
       },
       {
@@ -463,7 +463,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 799 • 초저가 의심",
+        "note": "중앙 819.5 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -471,7 +471,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 799.0
+          "median": 819.5
         }
       },
       {
@@ -559,7 +559,7 @@
         "enchant": "+6",
         "name": "실렌의 숨결",
         "price": "450다이아",
-        "note": "중앙 799 • 초저가 의심",
+        "note": "중앙 799.5 • 초저가 의심",
         "raw": {
           "itemId": 200230001,
           "itemName": "+6 실렌의 숨결",
@@ -567,7 +567,7 @@
           "salePrice": 450.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 799.0
+          "median": 799.5
         }
       },
       {
