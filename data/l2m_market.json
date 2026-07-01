@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 18:30:15 KST",
+  "checkedAt": "2026-07-01 18:39:16 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -157,7 +157,7 @@
         "enchant": "+9",
         "name": "마염의 단검",
         "price": "39다이아",
-        "note": "중앙 65 • 초저가 의심",
+        "note": "중앙 72 • 초저가 의심",
         "raw": {
           "itemId": 100340007,
           "itemName": "+9 마염의 단검",
@@ -165,7 +165,7 @@
           "salePrice": 39.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 65.0
+          "median": 72.0
         }
       },
       {
@@ -253,7 +253,7 @@
         "enchant": "+2",
         "name": "부유의 귀걸이",
         "price": "10다이아",
-        "note": "중앙 17 • 초저가 의심",
+        "note": "중앙 15.5 • 초저가 의심",
         "raw": {
           "itemId": 300240009,
           "itemName": "+2 부유의 귀걸이",
@@ -261,7 +261,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 17.0
+          "median": 15.5
         }
       },
       {
@@ -479,15 +479,15 @@
         "enchant": "+3",
         "name": "광휘의 반지 (초월 +3)",
         "price": "750다이아",
-        "note": "중앙 1,050 • 저가",
+        "note": "중앙 1,000 • 하위권",
         "raw": {
           "itemId": 360330211,
           "itemName": "+3 광휘의 반지 (초월 +3)",
           "enchantLevel": 3,
           "salePrice": 750.0,
           "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 1050.0
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 1000.0
         }
       },
       {
@@ -607,7 +607,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "100다이아",
-        "note": "중앙 200 • 초저가 의심",
+        "note": "중앙 209.5 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -615,7 +615,7 @@
           "salePrice": 100.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 200.0
+          "median": 209.5
         }
       },
       {
