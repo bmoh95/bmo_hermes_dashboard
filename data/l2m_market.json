@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 16:35:41 KST",
+  "checkedAt": "2026-07-01 16:44:02 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -252,7 +252,7 @@
         "enchant": "+4",
         "name": "마염의 귀걸이",
         "price": "22다이아",
-        "note": "중앙 29 • 저가",
+        "note": "중앙 27 • 저가",
         "raw": {
           "itemId": 300240003,
           "itemName": "+4 마염의 귀걸이",
@@ -260,7 +260,7 @@
           "salePrice": 22.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 29.0
+          "median": 27.0
         }
       },
       {
@@ -494,7 +494,7 @@
         "enchant": "+5",
         "name": "악마의 부츠",
         "price": "185다이아",
-        "note": "중앙 389.5 • 초저가 의심",
+        "note": "중앙 380 • 초저가 의심",
         "raw": {
           "itemId": 200430001,
           "itemName": "+5 악마의 부츠",
@@ -502,7 +502,7 @@
           "salePrice": 185.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 389.5
+          "median": 380.0
         }
       },
       {
