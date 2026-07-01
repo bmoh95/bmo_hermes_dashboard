@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 21:27:37 KST",
+  "checkedAt": "2026-07-01 21:35:38 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -584,22 +584,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 999.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "악마의 건틀렛 (초월 +3)",
-        "price": "700다이아",
-        "note": "중앙 1,150 • 초저가 의심",
-        "raw": {
-          "itemId": 260330211,
-          "itemName": "+5 악마의 건틀렛 (초월 +3)",
-          "enchantLevel": 5,
-          "salePrice": 700.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 1150.0
         }
       },
       {
