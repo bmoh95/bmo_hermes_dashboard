@@ -1,26 +1,9 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 12:32:21 KST",
+  "checkedAt": "2026-07-01 12:40:22 KST",
   "errors": [],
   "groups": {
-    "common": [
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "신성의 반지",
-        "price": "10다이아",
-        "note": "중앙 30 • 초저가 의심",
-        "raw": {
-          "itemId": 300360009,
-          "itemName": "+5 신성의 반지",
-          "enchantLevel": 5,
-          "salePrice": 10.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 30.0
-        }
-      }
-    ],
+    "common": [],
     "uncommon": [
       {
         "kind": "악세사리",
@@ -431,7 +414,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 799 • 초저가 의심",
+        "note": "중앙 788 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -439,7 +422,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 799.0
+          "median": 788.0
         }
       },
       {
@@ -456,22 +439,6 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 1000.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "마제스틱 서클릿",
-        "price": "110다이아",
-        "note": "중앙 210 • 초저가 의심",
-        "raw": {
-          "itemId": 200530003,
-          "itemName": "+5 마제스틱 서클릿",
-          "enchantLevel": 5,
-          "salePrice": 110.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 210.0
         }
       },
       {
