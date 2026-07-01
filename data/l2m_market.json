@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 15:25:30 KST",
+  "checkedAt": "2026-07-01 15:33:50 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -236,7 +236,7 @@
         "enchant": "+2",
         "name": "부유의 귀걸이",
         "price": "10다이아",
-        "note": "중앙 16.5 • 초저가 의심",
+        "note": "중앙 17 • 초저가 의심",
         "raw": {
           "itemId": 300240009,
           "itemName": "+2 부유의 귀걸이",
@@ -244,7 +244,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 16.5
+          "median": 17.0
         }
       },
       {
