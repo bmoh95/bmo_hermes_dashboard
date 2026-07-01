@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 19:54:24 KST",
+  "checkedAt": "2026-07-01 20:02:25 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -9,7 +9,7 @@
         "enchant": "+3",
         "name": "타이거 아이",
         "price": "10다이아",
-        "note": "중앙 20 • 초저가 의심",
+        "note": "중앙 21 • 초저가 의심",
         "raw": {
           "itemId": 300260007,
           "itemName": "+3 타이거 아이",
@@ -17,7 +17,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 20.0
+          "median": 21.0
         }
       }
     ],
@@ -301,7 +301,7 @@
         "enchant": "+5",
         "name": "헤르문쿠스의 목걸이",
         "price": "50다이아",
-        "note": "중앙 120 • 초저가 의심",
+        "note": "중앙 125 • 초저가 의심",
         "raw": {
           "itemId": 300140009,
           "itemName": "+5 헤르문쿠스의 목걸이",
@@ -309,7 +309,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 120.0
+          "median": 125.0
         }
       },
       {
@@ -317,7 +317,7 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 119.5 • 초저가 의심",
+        "note": "중앙 117 • 초저가 의심",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
@@ -325,7 +325,7 @@
           "salePrice": 65.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 119.5
+          "median": 117.0
         }
       },
       {
