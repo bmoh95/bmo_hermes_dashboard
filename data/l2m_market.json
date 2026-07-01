@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 14:44:43 KST",
+  "checkedAt": "2026-07-01 14:52:44 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -19,6 +19,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 40.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+2",
+        "name": "빛나는 유물",
+        "price": "30다이아",
+        "note": "중앙 39 • 저가",
+        "raw": {
+          "itemId": 301150001,
+          "itemName": "+2 빛나는 유물",
+          "enchantLevel": 2,
+          "salePrice": 30.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 39.0
         }
       },
       {
@@ -42,7 +58,7 @@
         "enchant": "+4",
         "name": "강철 손목 보호대",
         "price": "99다이아",
-        "note": "중앙 125.5 • 하위권",
+        "note": "중앙 123 • 하위권",
         "raw": {
           "itemId": 301550002,
           "itemName": "+4 강철 손목 보호대",
@@ -50,7 +66,7 @@
           "salePrice": 99.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 125.5
+          "median": 123.0
         }
       },
       {
@@ -236,15 +252,15 @@
         "enchant": "+0",
         "name": "혹한의 귀걸이",
         "price": "20다이아",
-        "note": "중앙 25.5 • 저가",
+        "note": "중앙 26 • 하위권",
         "raw": {
           "itemId": 300240011,
           "itemName": "혹한의 귀걸이",
           "enchantLevel": 0,
           "salePrice": 20.0,
           "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 25.5
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 26.0
         }
       },
       {
@@ -252,7 +268,7 @@
         "enchant": "+3",
         "name": "균열의 반지",
         "price": "20다이아",
-        "note": "중앙 30 • 하위권",
+        "note": "중앙 29.5 • 하위권",
         "raw": {
           "itemId": 300340019,
           "itemName": "+3 균열의 반지",
@@ -260,7 +276,7 @@
           "salePrice": 20.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 30.0
+          "median": 29.5
         }
       },
       {
@@ -277,22 +293,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 29.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+3",
-        "name": "미궁의 목걸이",
-        "price": "30다이아",
-        "note": "중앙 40 • 저가",
-        "raw": {
-          "itemId": 300140018,
-          "itemName": "+3 미궁의 목걸이",
-          "enchantLevel": 3,
-          "salePrice": 30.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 40.0
         }
       },
       {
@@ -446,7 +446,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 788 • 초저가 의심",
+        "note": "중앙 777 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -454,7 +454,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 788.0
+          "median": 777.0
         }
       },
       {
@@ -462,7 +462,7 @@
         "enchant": "+0",
         "name": "카오스 브레이커",
         "price": "120다이아",
-        "note": "중앙 230 • 초저가 의심",
+        "note": "중앙 232.5 • 초저가 의심",
         "raw": {
           "itemId": 100930001,
           "itemName": "카오스 브레이커",
@@ -470,7 +470,7 @@
           "salePrice": 120.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 230.0
+          "median": 232.5
         }
       },
       {
