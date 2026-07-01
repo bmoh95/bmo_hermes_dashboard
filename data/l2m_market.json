@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 08:23:16 KST",
+  "checkedAt": "2026-07-02 08:31:16 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -91,7 +91,7 @@
         "enchant": "+4",
         "name": "강철 손목 보호대",
         "price": "99다이아",
-        "note": "중앙 120 • 하위권",
+        "note": "중앙 123 • 하위권",
         "raw": {
           "itemId": 301550002,
           "itemName": "+4 강철 손목 보호대",
@@ -99,7 +99,7 @@
           "salePrice": 99.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 120.0
+          "median": 123.0
         }
       }
     ],
@@ -408,22 +408,6 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 1049.5
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+0",
-        "name": "카오스 브레이커",
-        "price": "120다이아",
-        "note": "중앙 244.5 • 초저가 의심",
-        "raw": {
-          "itemId": 100930001,
-          "itemName": "카오스 브레이커",
-          "enchantLevel": 0,
-          "salePrice": 120.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 244.5
         }
       },
       {
