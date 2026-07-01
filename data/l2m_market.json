@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 09:38:56 KST",
+  "checkedAt": "2026-07-01 09:48:39 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -36,6 +36,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1840.0
+        }
+      },
+      {
+        "kind": "손목",
+        "enchant": "+3",
+        "name": "전사의 손목 보호대",
+        "price": "25다이아",
+        "note": "중앙 40 • 초저가 의심",
+        "raw": {
+          "itemId": 301550003,
+          "itemName": "+3 전사의 손목 보호대",
+          "enchantLevel": 3,
+          "salePrice": 25.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 40.0
         }
       },
       {
@@ -301,14 +317,14 @@
         "enchant": "+0",
         "name": "혹한의 귀걸이",
         "price": "20다이아",
-        "note": "중앙 26 • 하위권",
+        "note": "중앙 26 • 저가",
         "raw": {
           "itemId": 300240011,
           "itemName": "혹한의 귀걸이",
           "enchantLevel": 0,
           "salePrice": 20.0,
           "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
+          "dealLabel": "아이템별 저가",
           "median": 26.0
         }
       },
@@ -381,7 +397,7 @@
         "enchant": "+5",
         "name": "축복의 벨트",
         "price": "66다이아",
-        "note": "중앙 92.5 • 하위권",
+        "note": "중앙 87 • 하위권",
         "raw": {
           "itemId": 300440001,
           "itemName": "+5 축복의 벨트",
@@ -389,7 +405,7 @@
           "salePrice": 66.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 92.5
+          "median": 87.0
         }
       },
       {
@@ -397,7 +413,7 @@
         "enchant": "+5",
         "name": "차원의 반지",
         "price": "150다이아",
-        "note": "중앙 180 • 저가",
+        "note": "중앙 185 • 저가",
         "raw": {
           "itemId": 300340020,
           "itemName": "+5 차원의 반지",
@@ -405,7 +421,7 @@
           "salePrice": 150.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 180.0
+          "median": 185.0
         }
       },
       {
@@ -472,6 +488,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 230.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "인내의 각반",
+        "price": "150다이아",
+        "note": "중앙 280 • 초저가 의심",
+        "raw": {
+          "itemId": 200230008,
+          "itemName": "+5 인내의 각반",
+          "enchantLevel": 5,
+          "salePrice": 150.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 280.0
         }
       },
       {
