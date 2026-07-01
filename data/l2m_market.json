@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 16:44:02 KST",
+  "checkedAt": "2026-07-01 16:53:03 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -101,22 +101,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 59.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "갈라틴",
-        "price": "30다이아",
-        "note": "중앙 48 • 초저가 의심",
-        "raw": {
-          "itemId": 101340006,
-          "itemName": "+9 갈라틴",
-          "enchantLevel": 9,
-          "salePrice": 30.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 48.0
         }
       },
       {
@@ -446,7 +430,7 @@
         "enchant": "+3",
         "name": "광휘의 반지 (초월 +3)",
         "price": "750다이아",
-        "note": "중앙 1,050 • 저가",
+        "note": "중앙 1,000 • 저가",
         "raw": {
           "itemId": 360330211,
           "itemName": "+3 광휘의 반지 (초월 +3)",
@@ -454,7 +438,7 @@
           "salePrice": 750.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 1050.0
+          "median": 1000.0
         }
       },
       {
@@ -494,7 +478,7 @@
         "enchant": "+5",
         "name": "악마의 부츠",
         "price": "185다이아",
-        "note": "중앙 380 • 초저가 의심",
+        "note": "중앙 369 • 초저가 의심",
         "raw": {
           "itemId": 200430001,
           "itemName": "+5 악마의 부츠",
@@ -502,7 +486,7 @@
           "salePrice": 185.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 380.0
+          "median": 369.0
         }
       },
       {
