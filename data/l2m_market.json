@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 19:04:19 KST",
+  "checkedAt": "2026-07-01 19:12:20 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -22,22 +22,6 @@
       }
     ],
     "uncommon": [
-      {
-        "kind": "손목",
-        "enchant": "+3",
-        "name": "전사의 손목 보호대",
-        "price": "25다이아",
-        "note": "중앙 39 • 초저가 의심",
-        "raw": {
-          "itemId": 301550003,
-          "itemName": "+3 전사의 손목 보호대",
-          "enchantLevel": 3,
-          "salePrice": 25.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 39.0
-        }
-      },
       {
         "kind": "악세사리",
         "enchant": "+2",
@@ -69,22 +53,6 @@
           "dealLabel": "초저가/이동매물 의심",
           "median": 97.0
         }
-      },
-      {
-        "kind": "손목",
-        "enchant": "+4",
-        "name": "강철 손목 보호대",
-        "price": "99다이아",
-        "note": "중앙 123 • 하위권",
-        "raw": {
-          "itemId": 301550002,
-          "itemName": "+4 강철 손목 보호대",
-          "enchantLevel": 4,
-          "salePrice": 99.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 123.0
-        }
       }
     ],
     "rare": [
@@ -93,7 +61,7 @@
         "enchant": "+8",
         "name": "데스페리온의 지팡이",
         "price": "15다이아",
-        "note": "중앙 31.5 • 초저가 의심",
+        "note": "중앙 30 • 초저가 의심",
         "raw": {
           "itemId": 100540001,
           "itemName": "+8 데스페리온의 지팡이",
@@ -101,7 +69,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 31.5
+          "median": 30.0
         }
       },
       {
@@ -150,22 +118,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 58.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "마염의 단검",
-        "price": "39다이아",
-        "note": "중앙 72 • 초저가 의심",
-        "raw": {
-          "itemId": 100340007,
-          "itemName": "+9 마염의 단검",
-          "enchantLevel": 9,
-          "salePrice": 39.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 72.0
         }
       },
       {
@@ -301,7 +253,7 @@
         "enchant": "+5",
         "name": "오만의 반지",
         "price": "33다이아",
-        "note": "중앙 46.5 • 하위권",
+        "note": "중앙 49 • 하위권",
         "raw": {
           "itemId": 300340002,
           "itemName": "+5 오만의 반지",
@@ -309,7 +261,7 @@
           "salePrice": 33.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 46.5
+          "median": 49.0
         }
       },
       {
@@ -381,7 +333,7 @@
         "enchant": "+5",
         "name": "각성의 목걸이",
         "price": "84다이아",
-        "note": "중앙 105.5 • 저가",
+        "note": "중앙 100 • 저가",
         "raw": {
           "itemId": 300140005,
           "itemName": "+5 각성의 목걸이",
@@ -389,7 +341,7 @@
           "salePrice": 84.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 105.5
+          "median": 100.0
         }
       },
       {
