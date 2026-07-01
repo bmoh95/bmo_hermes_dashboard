@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 21:52:41 KST",
+  "checkedAt": "2026-07-01 22:00:42 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -317,7 +317,7 @@
         "enchant": "+5",
         "name": "신성의 수호 반지",
         "price": "38다이아",
-        "note": "중앙 62 • 초저가 의심",
+        "note": "중앙 60.5 • 초저가 의심",
         "raw": {
           "itemId": 300340008,
           "itemName": "+5 신성의 수호 반지",
@@ -325,7 +325,7 @@
           "salePrice": 38.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 62.0
+          "median": 60.5
         }
       },
       {
@@ -397,7 +397,7 @@
         "enchant": "+5",
         "name": "각성의 목걸이",
         "price": "84다이아",
-        "note": "중앙 100 • 저가",
+        "note": "중앙 105.5 • 저가",
         "raw": {
           "itemId": 300140005,
           "itemName": "+5 각성의 목걸이",
@@ -405,7 +405,7 @@
           "salePrice": 84.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 100.0
+          "median": 105.5
         }
       },
       {
@@ -536,6 +536,22 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 370.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+8",
+        "name": "핸드 오브 카브리오",
+        "price": "285다이아",
+        "note": "중앙 500 • 초저가 의심",
+        "raw": {
+          "itemId": 100630002,
+          "itemName": "+8 핸드 오브 카브리오",
+          "enchantLevel": 8,
+          "salePrice": 285.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 500.0
         }
       },
       {
