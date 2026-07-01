@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 12:49:24 KST",
+  "checkedAt": "2026-07-01 12:58:25 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -313,6 +313,38 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+5",
+        "name": "사제의 목걸이",
+        "price": "45다이아",
+        "note": "중앙 58.5 • 저가",
+        "raw": {
+          "itemId": 300140010,
+          "itemName": "+5 사제의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 45.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 58.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "헤르문쿠스의 목걸이",
+        "price": "50다이아",
+        "note": "중앙 120 • 초저가 의심",
+        "raw": {
+          "itemId": 300140009,
+          "itemName": "+5 헤르문쿠스의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 50.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 120.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
@@ -357,22 +389,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 180.0
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "마도서 (마나 리제네레이션)",
-        "price": "10다이아",
-        "note": "중앙 15 • 하위권",
-        "raw": {
-          "itemId": 500354006,
-          "itemName": "마도서 (마나 리제네레이션)",
-          "enchantLevel": 0,
-          "salePrice": 10.0,
-          "category": "스킬북",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 15.0
         }
       },
       {
@@ -638,15 +654,15 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 200 • 저가",
+        "note": "중앙 220 • 초저가 의심",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
           "enchantLevel": 0,
           "salePrice": 137.0,
           "category": "스킬북",
-          "dealLabel": "아이템별 저가",
-          "median": 200.0
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 220.0
         }
       }
     ],
