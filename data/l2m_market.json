@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 13:56:36 KST",
+  "checkedAt": "2026-07-01 14:04:37 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -92,7 +92,7 @@
         "enchant": "+8",
         "name": "알바레스트",
         "price": "29다이아",
-        "note": "중앙 58 • 초저가 의심",
+        "note": "중앙 59 • 초저가 의심",
         "raw": {
           "itemId": 100840001,
           "itemName": "+8 알바레스트",
@@ -100,7 +100,7 @@
           "salePrice": 29.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 58.0
+          "median": 59.0
         }
       },
       {
@@ -236,15 +236,15 @@
         "enchant": "+0",
         "name": "혹한의 귀걸이",
         "price": "20다이아",
-        "note": "중앙 26 • 하위권",
+        "note": "중앙 25.5 • 저가",
         "raw": {
           "itemId": 300240011,
           "itemName": "혹한의 귀걸이",
           "enchantLevel": 0,
           "salePrice": 20.0,
           "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 26.0
+          "dealLabel": "아이템별 저가",
+          "median": 25.5
         }
       },
       {
