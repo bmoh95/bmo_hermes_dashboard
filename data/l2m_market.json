@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 12:15:19 KST",
+  "checkedAt": "2026-07-01 12:24:20 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -125,7 +125,7 @@
         "enchant": "+8",
         "name": "알바레스트",
         "price": "29다이아",
-        "note": "중앙 59.5 • 초저가 의심",
+        "note": "중앙 59 • 초저가 의심",
         "raw": {
           "itemId": 100840001,
           "itemName": "+8 알바레스트",
@@ -133,7 +133,23 @@
           "salePrice": 29.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 59.5
+          "median": 59.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+9",
+        "name": "갈라틴",
+        "price": "30다이아",
+        "note": "중앙 48 • 초저가 의심",
+        "raw": {
+          "itemId": 101340006,
+          "itemName": "+9 갈라틴",
+          "enchantLevel": 9,
+          "salePrice": 30.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 48.0
         }
       },
       {
