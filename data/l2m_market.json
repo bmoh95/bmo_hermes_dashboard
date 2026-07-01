@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 10:50:07 KST",
+  "checkedAt": "2026-07-01 10:59:50 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -75,7 +75,7 @@
         "enchant": "+3",
         "name": "강철 손목 보호대",
         "price": "50다이아",
-        "note": "중앙 90 • 초저가 의심",
+        "note": "중앙 97 • 초저가 의심",
         "raw": {
           "itemId": 301550002,
           "itemName": "+3 강철 손목 보호대",
@@ -83,7 +83,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 90.0
+          "median": 97.0
         }
       },
       {
@@ -171,22 +171,6 @@
       {
         "kind": "무기",
         "enchant": "+9",
-        "name": "크리스탈 보우건",
-        "price": "38다이아",
-        "note": "중앙 68.5 • 초저가 의심",
-        "raw": {
-          "itemId": 100840007,
-          "itemName": "+9 크리스탈 보우건",
-          "enchantLevel": 9,
-          "salePrice": 38.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 68.5
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
         "name": "너바나",
         "price": "55다이아",
         "note": "중앙 87.5 • 초저가 의심",
@@ -235,25 +219,9 @@
       {
         "kind": "무기",
         "enchant": "+9",
-        "name": "커스드 트윈 액스",
-        "price": "76다이아",
-        "note": "중앙 110 • 하위권",
-        "raw": {
-          "itemId": 101340004,
-          "itemName": "+9 커스드 트윈 액스",
-          "enchantLevel": 9,
-          "salePrice": 76.0,
-          "category": "무기",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 110.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
         "name": "망각의 활",
         "price": "88다이아",
-        "note": "중앙 122 • 저가",
+        "note": "중앙 113.5 • 저가",
         "raw": {
           "itemId": 100440009,
           "itemName": "+9 망각의 활",
@@ -261,7 +229,7 @@
           "salePrice": 88.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 122.0
+          "median": 113.5
         }
       },
       {
@@ -463,7 +431,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 840 • 초저가 의심",
+        "note": "중앙 799 • 초저가 의심",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -471,7 +439,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 840.0
+          "median": 799.0
         }
       },
       {
@@ -639,7 +607,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 978.5 • 초저가 의심",
+        "note": "중앙 999 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -647,7 +615,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 978.5
+          "median": 999.0
         }
       },
       {
@@ -655,7 +623,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "100다이아",
-        "note": "중앙 209.5 • 초저가 의심",
+        "note": "중앙 200 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -663,7 +631,7 @@
           "salePrice": 100.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 209.5
+          "median": 200.0
         }
       },
       {
