@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 12:58:25 KST",
+  "checkedAt": "2026-07-01 13:07:29 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -108,7 +108,7 @@
         "enchant": "+8",
         "name": "알바레스트",
         "price": "29다이아",
-        "note": "중앙 59 • 초저가 의심",
+        "note": "중앙 58 • 초저가 의심",
         "raw": {
           "itemId": 100840001,
           "itemName": "+8 알바레스트",
@@ -116,7 +116,7 @@
           "salePrice": 29.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 59.0
+          "median": 58.0
         }
       },
       {
@@ -389,22 +389,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 180.0
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "계승자의 서 (쓰러스터 Ⅰ)",
-        "price": "15다이아",
-        "note": "중앙 20.5 • 저가",
-        "raw": {
-          "itemId": 500304026,
-          "itemName": "계승자의 서 (쓰러스터 Ⅰ)",
-          "enchantLevel": 0,
-          "salePrice": 15.0,
-          "category": "스킬북",
-          "dealLabel": "아이템별 저가",
-          "median": 20.5
         }
       },
       {
