@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 01:16:12 KST",
+  "checkedAt": "2026-07-02 01:24:13 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -310,22 +310,6 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 98.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "사령 템페스트의 목걸이",
-        "price": "73다이아",
-        "note": "중앙 87 • 저가",
-        "raw": {
-          "itemId": 300140002,
-          "itemName": "+5 사령 템페스트의 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 73.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 87.0
         }
       },
       {
