@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 03:17:30 KST",
+  "checkedAt": "2026-07-02 03:25:32 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -102,22 +102,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 31.5
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+8",
-        "name": "알바레스트",
-        "price": "29다이아",
-        "note": "중앙 60 • 초저가 의심",
-        "raw": {
-          "itemId": 100840001,
-          "itemName": "+8 알바레스트",
-          "enchantLevel": 8,
-          "salePrice": 29.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 60.0
         }
       },
       {
