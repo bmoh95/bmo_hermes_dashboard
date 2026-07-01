@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 19:12:20 KST",
+  "checkedAt": "2026-07-01 19:20:21 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -61,7 +61,7 @@
         "enchant": "+8",
         "name": "데스페리온의 지팡이",
         "price": "15다이아",
-        "note": "중앙 30 • 초저가 의심",
+        "note": "중앙 31.5 • 초저가 의심",
         "raw": {
           "itemId": 100540001,
           "itemName": "+8 데스페리온의 지팡이",
@@ -69,7 +69,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 30.0
+          "median": 31.5
         }
       },
       {
@@ -253,7 +253,7 @@
         "enchant": "+5",
         "name": "오만의 반지",
         "price": "33다이아",
-        "note": "중앙 49 • 하위권",
+        "note": "중앙 46.5 • 하위권",
         "raw": {
           "itemId": 300340002,
           "itemName": "+5 오만의 반지",
@@ -261,7 +261,7 @@
           "salePrice": 33.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 49.0
+          "median": 46.5
         }
       },
       {
@@ -301,7 +301,7 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 120 • 초저가 의심",
+        "note": "중앙 119 • 초저가 의심",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
@@ -309,7 +309,7 @@
           "salePrice": 65.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 120.0
+          "median": 119.0
         }
       },
       {
@@ -555,6 +555,22 @@
         }
       },
       {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "악마의 건틀렛 (초월 +3)",
+        "price": "700다이아",
+        "note": "중앙 1,200 • 초저가 의심",
+        "raw": {
+          "itemId": 260330211,
+          "itemName": "+5 악마의 건틀렛 (초월 +3)",
+          "enchantLevel": 5,
+          "salePrice": 700.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 1200.0
+        }
+      },
+      {
         "kind": "스킬북",
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
@@ -575,7 +591,7 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 197.5 • 저가",
+        "note": "중앙 200 • 저가",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
@@ -583,7 +599,7 @@
           "salePrice": 137.0,
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
-          "median": 197.5
+          "median": 200.0
         }
       }
     ],
