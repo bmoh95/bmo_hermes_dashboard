@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 13:40:14 KST",
+  "checkedAt": "2026-07-01 13:48:35 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -265,6 +265,22 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+3",
+        "name": "균열의 반지",
+        "price": "20다이아",
+        "note": "중앙 29.5 • 하위권",
+        "raw": {
+          "itemId": 300340019,
+          "itemName": "+3 균열의 반지",
+          "enchantLevel": 3,
+          "salePrice": 20.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 29.5
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+4",
         "name": "마염의 귀걸이",
         "price": "22다이아",
@@ -277,22 +293,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 29.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+3",
-        "name": "미궁의 목걸이",
-        "price": "30다이아",
-        "note": "중앙 37.5 • 저가",
-        "raw": {
-          "itemId": 300140018,
-          "itemName": "+3 미궁의 목걸이",
-          "enchantLevel": 3,
-          "salePrice": 30.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 37.5
         }
       },
       {
