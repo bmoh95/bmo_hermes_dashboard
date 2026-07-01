@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 21:11:34 KST",
+  "checkedAt": "2026-07-01 21:19:35 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -109,7 +109,7 @@
         "enchant": "+8",
         "name": "알바레스트",
         "price": "29다이아",
-        "note": "중앙 61 • 초저가 의심",
+        "note": "중앙 62 • 초저가 의심",
         "raw": {
           "itemId": 100840001,
           "itemName": "+8 알바레스트",
@@ -117,7 +117,7 @@
           "salePrice": 29.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 61.0
+          "median": 62.0
         }
       },
       {
@@ -571,11 +571,27 @@
         }
       },
       {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "악마의 건틀렛 (초월 +3)",
+        "price": "700다이아",
+        "note": "중앙 1,150 • 초저가 의심",
+        "raw": {
+          "itemId": 260330211,
+          "itemName": "+5 악마의 건틀렛 (초월 +3)",
+          "enchantLevel": 5,
+          "salePrice": 700.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 1150.0
+        }
+      },
+      {
         "kind": "스킬북",
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "100다이아",
-        "note": "중앙 220 • 초저가 의심",
+        "note": "중앙 219 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -583,7 +599,7 @@
           "salePrice": 100.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 220.0
+          "median": 219.0
         }
       },
       {
@@ -591,7 +607,7 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 200 • 저가",
+        "note": "중앙 197.5 • 저가",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
@@ -599,7 +615,7 @@
           "salePrice": 137.0,
           "category": "스킬북",
           "dealLabel": "아이템별 저가",
-          "median": 200.0
+          "median": 197.5
         }
       }
     ],
