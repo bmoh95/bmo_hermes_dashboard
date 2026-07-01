@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 14:36:42 KST",
+  "checkedAt": "2026-07-01 14:44:43 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -252,7 +252,7 @@
         "enchant": "+3",
         "name": "균열의 반지",
         "price": "20다이아",
-        "note": "중앙 29.5 • 하위권",
+        "note": "중앙 30 • 하위권",
         "raw": {
           "itemId": 300340019,
           "itemName": "+3 균열의 반지",
@@ -260,7 +260,7 @@
           "salePrice": 20.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 29.5
+          "median": 30.0
         }
       },
       {
@@ -277,6 +277,22 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 29.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+3",
+        "name": "미궁의 목걸이",
+        "price": "30다이아",
+        "note": "중앙 40 • 저가",
+        "raw": {
+          "itemId": 300140018,
+          "itemName": "+3 미궁의 목걸이",
+          "enchantLevel": 3,
+          "salePrice": 30.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 40.0
         }
       },
       {
@@ -364,7 +380,7 @@
         "enchant": "+5",
         "name": "차원의 반지",
         "price": "150다이아",
-        "note": "중앙 180 • 저가",
+        "note": "중앙 190 • 저가",
         "raw": {
           "itemId": 300340020,
           "itemName": "+5 차원의 반지",
@@ -372,7 +388,7 @@
           "salePrice": 150.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 180.0
+          "median": 190.0
         }
       },
       {
@@ -590,15 +606,15 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 220 • 초저가 의심",
+        "note": "중앙 200 • 저가",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
           "enchantLevel": 0,
           "salePrice": 137.0,
           "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 220.0
+          "dealLabel": "아이템별 저가",
+          "median": 200.0
         }
       }
     ],
@@ -608,7 +624,7 @@
         "enchant": "+7",
         "name": "세이크리디움",
         "price": "5,200다이아",
-        "note": "중앙 6,347.5 • 하위권",
+        "note": "중앙 6,200 • 하위권",
         "raw": {
           "itemId": 100620003,
           "itemName": "+7 세이크리디움",
@@ -616,7 +632,7 @@
           "salePrice": 5200.0,
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 6347.5
+          "median": 6200.0
         }
       },
       {
