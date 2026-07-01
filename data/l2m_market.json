@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 18:39:16 KST",
+  "checkedAt": "2026-07-01 18:47:17 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -27,7 +27,7 @@
         "enchant": "+3",
         "name": "전사의 손목 보호대",
         "price": "25다이아",
-        "note": "중앙 41.5 • 초저가 의심",
+        "note": "중앙 39 • 초저가 의심",
         "raw": {
           "itemId": 301550003,
           "itemName": "+3 전사의 손목 보호대",
@@ -35,7 +35,7 @@
           "salePrice": 25.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 41.5
+          "median": 39.0
         }
       },
       {
@@ -495,7 +495,7 @@
         "enchant": "+0",
         "name": "카오스 브레이커",
         "price": "120다이아",
-        "note": "중앙 230 • 초저가 의심",
+        "note": "중앙 260 • 초저가 의심",
         "raw": {
           "itemId": 100930001,
           "itemName": "카오스 브레이커",
@@ -503,7 +503,7 @@
           "salePrice": 120.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 230.0
+          "median": 260.0
         }
       },
       {
@@ -641,7 +641,7 @@
         "enchant": "+5",
         "name": "타락 천사의 장갑 (초월 +1)",
         "price": "7,500다이아",
-        "note": "중앙 9,500 • 하위권",
+        "note": "중앙 9,450 • 하위권",
         "raw": {
           "itemId": 260320003,
           "itemName": "+5 타락 천사의 장갑 (초월 +1)",
@@ -649,7 +649,7 @@
           "salePrice": 7500.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 9500.0
+          "median": 9450.0
         }
       },
       {
