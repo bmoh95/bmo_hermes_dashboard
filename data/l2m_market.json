@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 20:11:07 KST",
+  "checkedAt": "2026-07-01 20:21:10 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -22,22 +22,6 @@
       }
     ],
     "uncommon": [
-      {
-        "kind": "악세사리",
-        "enchant": "+2",
-        "name": "빛나는 유물",
-        "price": "30다이아",
-        "note": "중앙 36.5 • 저가",
-        "raw": {
-          "itemId": 301150001,
-          "itemName": "+2 빛나는 유물",
-          "enchantLevel": 2,
-          "salePrice": 30.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 36.5
-        }
-      },
       {
         "kind": "손목",
         "enchant": "+3",
@@ -527,7 +511,7 @@
         "enchant": "+6",
         "name": "실렌의 숨결",
         "price": "450다이아",
-        "note": "중앙 799.5 • 초저가 의심",
+        "note": "중앙 800 • 초저가 의심",
         "raw": {
           "itemId": 200230001,
           "itemName": "+6 실렌의 숨결",
@@ -535,7 +519,7 @@
           "salePrice": 450.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 799.5
+          "median": 800.0
         }
       },
       {
@@ -559,7 +543,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 1,074.5 • 초저가 의심",
+        "note": "중앙 1,150 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -567,7 +551,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1074.5
+          "median": 1150.0
         }
       },
       {
