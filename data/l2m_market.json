@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 05:01:46 KST",
+  "checkedAt": "2026-07-02 05:09:45 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -472,22 +472,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 999.0
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "계승자의 서 (인크리즈 스트렝스)",
-        "price": "100다이아",
-        "note": "중앙 220 • 초저가 의심",
-        "raw": {
-          "itemId": 500303001,
-          "itemName": "계승자의 서 (인크리즈 스트렝스)",
-          "enchantLevel": 0,
-          "salePrice": 100.0,
-          "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 220.0
         }
       },
       {
