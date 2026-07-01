@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 07:19:06 KST",
+  "checkedAt": "2026-07-02 07:27:07 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -319,15 +319,15 @@
         "enchant": "+3",
         "name": "마제스틱 네크리스 (초월 +1)",
         "price": "412다이아",
-        "note": "중앙 650 • 초저가 의심",
+        "note": "중앙 600 • 저가",
         "raw": {
           "itemId": 360130007,
           "itemName": "+3 마제스틱 네크리스 (초월 +1)",
           "enchantLevel": 3,
           "salePrice": 412.0,
           "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 650.0
+          "dealLabel": "아이템별 저가",
+          "median": 600.0
         }
       },
       {
@@ -415,7 +415,7 @@
         "enchant": "+6",
         "name": "실렌의 숨결",
         "price": "450다이아",
-        "note": "중앙 799.5 • 초저가 의심",
+        "note": "중앙 799 • 초저가 의심",
         "raw": {
           "itemId": 200230001,
           "itemName": "+6 실렌의 숨결",
@@ -423,7 +423,7 @@
           "salePrice": 450.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 799.5
+          "median": 799.0
         }
       },
       {
