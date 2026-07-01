@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 12:07:19 KST",
+  "checkedAt": "2026-07-01 12:15:19 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -559,7 +559,7 @@
         "enchant": "+6",
         "name": "실렌의 숨결",
         "price": "450다이아",
-        "note": "중앙 799 • 초저가 의심",
+        "note": "중앙 788.5 • 초저가 의심",
         "raw": {
           "itemId": 200230001,
           "itemName": "+6 실렌의 숨결",
@@ -567,7 +567,7 @@
           "salePrice": 450.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 799.0
+          "median": 788.5
         }
       },
       {
@@ -639,15 +639,15 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 220 • 초저가 의심",
+        "note": "중앙 200 • 저가",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
           "enchantLevel": 0,
           "salePrice": 137.0,
           "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 220.0
+          "dealLabel": "아이템별 저가",
+          "median": 200.0
         }
       }
     ],
