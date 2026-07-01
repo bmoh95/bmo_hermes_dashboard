@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 15:08:46 KST",
+  "checkedAt": "2026-07-01 15:16:48 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -478,7 +478,7 @@
         "enchant": "+0",
         "name": "카오스 브레이커",
         "price": "120다이아",
-        "note": "중앙 232.5 • 초저가 의심",
+        "note": "중앙 230 • 초저가 의심",
         "raw": {
           "itemId": 100930001,
           "itemName": "카오스 브레이커",
@@ -486,7 +486,7 @@
           "salePrice": 120.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 232.5
+          "median": 230.0
         }
       },
       {
@@ -510,7 +510,7 @@
         "enchant": "+5",
         "name": "악마의 부츠",
         "price": "185다이아",
-        "note": "중앙 399 • 초저가 의심",
+        "note": "중앙 389.5 • 초저가 의심",
         "raw": {
           "itemId": 200430001,
           "itemName": "+5 악마의 부츠",
@@ -518,7 +518,7 @@
           "salePrice": 185.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 399.0
+          "median": 389.5
         }
       },
       {
