@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 20:21:10 KST",
+  "checkedAt": "2026-07-01 20:29:28 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -166,22 +166,6 @@
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 96.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "파타",
-        "price": "90다이아",
-        "note": "중앙 108 • 저가",
-        "raw": {
-          "itemId": 101240001,
-          "itemName": "+9 파타",
-          "enchantLevel": 9,
-          "salePrice": 90.0,
-          "category": "무기",
-          "dealLabel": "아이템별 저가",
-          "median": 108.0
         }
       },
       {
@@ -543,7 +527,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 1,150 • 초저가 의심",
+        "note": "중앙 1,074.5 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -551,7 +535,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1150.0
+          "median": 1074.5
         }
       },
       {
@@ -559,7 +543,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (인크리즈 스트렝스)",
         "price": "100다이아",
-        "note": "중앙 210 • 초저가 의심",
+        "note": "중앙 220 • 초저가 의심",
         "raw": {
           "itemId": 500303001,
           "itemName": "계승자의 서 (인크리즈 스트렝스)",
@@ -567,7 +551,7 @@
           "salePrice": 100.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 210.0
+          "median": 220.0
         }
       },
       {
