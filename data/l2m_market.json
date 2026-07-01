@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 20:02:25 KST",
+  "checkedAt": "2026-07-01 20:11:07 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -559,7 +559,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 999 • 초저가 의심",
+        "note": "중앙 1,074.5 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -567,23 +567,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 999.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "악마의 건틀렛 (초월 +3)",
-        "price": "700다이아",
-        "note": "중앙 1,200 • 초저가 의심",
-        "raw": {
-          "itemId": 260330211,
-          "itemName": "+5 악마의 건틀렛 (초월 +3)",
-          "enchantLevel": 5,
-          "salePrice": 700.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 1200.0
+          "median": 1074.5
         }
       },
       {
