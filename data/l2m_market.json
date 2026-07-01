@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 20:38:29 KST",
+  "checkedAt": "2026-07-01 20:46:31 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -9,7 +9,7 @@
         "enchant": "+3",
         "name": "타이거 아이",
         "price": "10다이아",
-        "note": "중앙 21 • 초저가 의심",
+        "note": "중앙 22 • 초저가 의심",
         "raw": {
           "itemId": 300260007,
           "itemName": "+3 타이거 아이",
@@ -17,7 +17,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 21.0
+          "median": 22.0
         }
       }
     ],
@@ -36,6 +36,22 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 39.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+2",
+        "name": "페트람의 유물",
+        "price": "35다이아",
+        "note": "중앙 55 • 초저가 의심",
+        "raw": {
+          "itemId": 301150008,
+          "itemName": "+2 페트람의 유물",
+          "enchantLevel": 2,
+          "salePrice": 35.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 55.0
         }
       },
       {
@@ -166,6 +182,22 @@
           "category": "무기",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 96.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+8",
+        "name": "악마의 활",
+        "price": "130다이아",
+        "note": "중앙 155 • 저가",
+        "raw": {
+          "itemId": 100440008,
+          "itemName": "+8 악마의 활",
+          "enchantLevel": 8,
+          "salePrice": 130.0,
+          "category": "무기",
+          "dealLabel": "아이템별 저가",
+          "median": 155.0
         }
       },
       {
@@ -317,7 +349,7 @@
         "enchant": "+5",
         "name": "사령 템페스트의 목걸이",
         "price": "73다이아",
-        "note": "중앙 95 • 저가",
+        "note": "중앙 87 • 저가",
         "raw": {
           "itemId": 300140002,
           "itemName": "+5 사령 템페스트의 목걸이",
@@ -325,7 +357,7 @@
           "salePrice": 73.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 95.0
+          "median": 87.0
         }
       },
       {
@@ -349,7 +381,7 @@
         "enchant": "+0",
         "name": "요새의 견갑",
         "price": "430다이아",
-        "note": "중앙 545 • 저가",
+        "note": "중앙 565 • 저가",
         "raw": {
           "itemId": 200940020,
           "itemName": "요새의 견갑",
@@ -357,7 +389,7 @@
           "salePrice": 430.0,
           "category": "방어구",
           "dealLabel": "아이템별 저가",
-          "median": 545.0
+          "median": 565.0
         }
       }
     ],
