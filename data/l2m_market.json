@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 00:19:03 KST",
+  "checkedAt": "2026-07-02 00:27:04 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -218,6 +218,22 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+2",
+        "name": "부유의 귀걸이",
+        "price": "10다이아",
+        "note": "중앙 17 • 초저가 의심",
+        "raw": {
+          "itemId": 300240009,
+          "itemName": "+2 부유의 귀걸이",
+          "enchantLevel": 2,
+          "salePrice": 10.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 17.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+0",
         "name": "혹한의 귀걸이",
         "price": "20다이아",
@@ -362,22 +378,6 @@
       }
     ],
     "heroic": [
-      {
-        "kind": "악세사리",
-        "enchant": "+1",
-        "name": "베레스의 반지",
-        "price": "193다이아",
-        "note": "중앙 298 • 초저가 의심",
-        "raw": {
-          "itemId": 300330004,
-          "itemName": "+1 베레스의 반지",
-          "enchantLevel": 1,
-          "salePrice": 193.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 298.0
-        }
-      },
       {
         "kind": "악세사리",
         "enchant": "+1",
