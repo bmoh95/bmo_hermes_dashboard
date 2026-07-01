@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 17:55:11 KST",
+  "checkedAt": "2026-07-01 18:04:12 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -157,7 +157,7 @@
         "enchant": "+9",
         "name": "마염의 단검",
         "price": "39다이아",
-        "note": "중앙 72 • 초저가 의심",
+        "note": "중앙 65 • 초저가 의심",
         "raw": {
           "itemId": 100340007,
           "itemName": "+9 마염의 단검",
@@ -165,7 +165,7 @@
           "salePrice": 39.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 72.0
+          "median": 65.0
         }
       },
       {
