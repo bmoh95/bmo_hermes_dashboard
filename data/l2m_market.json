@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 16:00:36 KST",
+  "checkedAt": "2026-07-01 16:09:56 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -67,22 +67,6 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 123.0
-        }
-      },
-      {
-        "kind": "견갑",
-        "enchant": "+2",
-        "name": "시련의 견갑",
-        "price": "28다이아",
-        "note": "중앙 42 • 하위권",
-        "raw": {
-          "itemId": 200950004,
-          "itemName": "+2 시련의 견갑",
-          "enchantLevel": 2,
-          "salePrice": 28.0,
-          "category": "방어구",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 42.0
         }
       }
     ],
@@ -376,6 +360,22 @@
         }
       },
       {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "각성의 목걸이",
+        "price": "84다이아",
+        "note": "중앙 100 • 저가",
+        "raw": {
+          "itemId": 300140005,
+          "itemName": "+5 각성의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 84.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 100.0
+        }
+      },
+      {
         "kind": "스킬북",
         "enchant": "+0",
         "name": "이도류 비전서 (소닉 러시)",
@@ -606,15 +606,15 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 200 • 저가",
+        "note": "중앙 220 • 초저가 의심",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
           "enchantLevel": 0,
           "salePrice": 137.0,
           "category": "스킬북",
-          "dealLabel": "아이템별 저가",
-          "median": 200.0
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 220.0
         }
       }
     ],
