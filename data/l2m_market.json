@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 02:05:19 KST",
+  "checkedAt": "2026-07-02 02:13:21 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -495,7 +495,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 1,074.5 • 초저가 의심",
+        "note": "중앙 999 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -503,7 +503,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1074.5
+          "median": 999.0
         }
       },
       {
