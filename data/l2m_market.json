@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 15:33:50 KST",
+  "checkedAt": "2026-07-01 15:41:52 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -535,22 +535,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 500.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+3",
-        "name": "패러디아 시길",
-        "price": "425다이아",
-        "note": "중앙 775 • 초저가 의심",
-        "raw": {
-          "itemId": 200830003,
-          "itemName": "+3 패러디아 시길",
-          "enchantLevel": 3,
-          "salePrice": 425.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 775.0
         }
       },
       {
