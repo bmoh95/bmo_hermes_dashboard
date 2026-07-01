@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 07:27:07 KST",
+  "checkedAt": "2026-07-02 07:35:09 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -52,6 +52,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 57.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+3",
+        "name": "광신도의 유물",
+        "price": "43다이아",
+        "note": "중앙 54.5 • 저가",
+        "raw": {
+          "itemId": 301150002,
+          "itemName": "+3 광신도의 유물",
+          "enchantLevel": 3,
+          "salePrice": 43.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 54.5
         }
       },
       {
@@ -335,7 +351,7 @@
         "enchant": "+3",
         "name": "아펠라의 목걸이 (초월 +3)",
         "price": "500다이아",
-        "note": "중앙 749.5 • 하위권",
+        "note": "중앙 700 • 하위권",
         "raw": {
           "itemId": 360130208,
           "itemName": "+3 아펠라의 목걸이 (초월 +3)",
@@ -343,7 +359,7 @@
           "salePrice": 500.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 749.5
+          "median": 700.0
         }
       },
       {
@@ -408,6 +424,22 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 386.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+6",
+        "name": "잊혀진 영웅의 흉갑",
+        "price": "200다이아",
+        "note": "중앙 315.5 • 초저가 의심",
+        "raw": {
+          "itemId": 200130010,
+          "itemName": "+6 잊혀진 영웅의 흉갑",
+          "enchantLevel": 6,
+          "salePrice": 200.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 315.5
         }
       },
       {
