@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 01:40:15 KST",
+  "checkedAt": "2026-07-02 01:48:17 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -173,14 +173,14 @@
         "enchant": "+9",
         "name": "워피크",
         "price": "70다이아",
-        "note": "중앙 89.5 • 하위권",
+        "note": "중앙 89.5 • 저가",
         "raw": {
           "itemId": 101340008,
           "itemName": "+9 워피크",
           "enchantLevel": 9,
           "salePrice": 70.0,
           "category": "무기",
-          "dealLabel": "전서버 하위 10% 저가",
+          "dealLabel": "아이템별 저가",
           "median": 89.5
         }
       },
@@ -278,22 +278,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 117.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "축복의 벨트",
-        "price": "66다이아",
-        "note": "중앙 98 • 하위권",
-        "raw": {
-          "itemId": 300440001,
-          "itemName": "+5 축복의 벨트",
-          "enchantLevel": 5,
-          "salePrice": 66.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 98.0
         }
       },
       {
@@ -459,22 +443,6 @@
         }
       },
       {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "악마의 부츠",
-        "price": "185다이아",
-        "note": "중앙 370 • 초저가 의심",
-        "raw": {
-          "itemId": 200430001,
-          "itemName": "+5 악마의 부츠",
-          "enchantLevel": 5,
-          "salePrice": 185.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 370.0
-        }
-      },
-      {
         "kind": "무기",
         "enchant": "+8",
         "name": "핸드 오브 카브리오",
@@ -511,7 +479,7 @@
         "enchant": "+7",
         "name": "쏜 크로스보우 (초월 +1)",
         "price": "499다이아",
-        "note": "중앙 790 • 초저가 의심",
+        "note": "중앙 770 • 초저가 의심",
         "raw": {
           "itemId": 160830001,
           "itemName": "+7 쏜 크로스보우 (초월 +1)",
@@ -519,7 +487,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 790.0
+          "median": 770.0
         }
       },
       {
