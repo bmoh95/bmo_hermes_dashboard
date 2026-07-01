@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 19:38:23 KST",
+  "checkedAt": "2026-07-01 19:46:23 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -27,7 +27,7 @@
         "enchant": "+2",
         "name": "빛나는 유물",
         "price": "30다이아",
-        "note": "중앙 41.5 • 저가",
+        "note": "중앙 36.5 • 저가",
         "raw": {
           "itemId": 301150001,
           "itemName": "+2 빛나는 유물",
@@ -35,7 +35,7 @@
           "salePrice": 30.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 41.5
+          "median": 36.5
         }
       },
       {
@@ -317,7 +317,7 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 119 • 초저가 의심",
+        "note": "중앙 119.5 • 초저가 의심",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
@@ -325,7 +325,7 @@
           "salePrice": 65.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 119.0
+          "median": 119.5
         }
       },
       {
@@ -347,6 +347,22 @@
       {
         "kind": "악세사리",
         "enchant": "+5",
+        "name": "사령 템페스트의 목걸이",
+        "price": "73다이아",
+        "note": "중앙 95 • 저가",
+        "raw": {
+          "itemId": 300140002,
+          "itemName": "+5 사령 템페스트의 목걸이",
+          "enchantLevel": 5,
+          "salePrice": 73.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 95.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
         "name": "각성의 목걸이",
         "price": "84다이아",
         "note": "중앙 100 • 저가",
@@ -358,22 +374,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 100.0
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "이도류 비전서 (소닉 러시)",
-        "price": "10다이아",
-        "note": "중앙 74 • 초저가 의심",
-        "raw": {
-          "itemId": 500324009,
-          "itemName": "이도류 비전서 (소닉 러시)",
-          "enchantLevel": 0,
-          "salePrice": 10.0,
-          "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 74.0
         }
       },
       {
