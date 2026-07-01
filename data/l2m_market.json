@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-01 14:04:37 KST",
+  "checkedAt": "2026-07-01 14:12:39 KST",
   "errors": [],
   "groups": {
     "common": [],
@@ -252,7 +252,7 @@
         "enchant": "+3",
         "name": "균열의 반지",
         "price": "20다이아",
-        "note": "중앙 29.5 • 하위권",
+        "note": "중앙 30 • 하위권",
         "raw": {
           "itemId": 300340019,
           "itemName": "+3 균열의 반지",
@@ -260,7 +260,7 @@
           "salePrice": 20.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 29.5
+          "median": 30.0
         }
       },
       {
@@ -392,6 +392,22 @@
         }
       },
       {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "이도류 비전서 (소닉 러시)",
+        "price": "10다이아",
+        "note": "중앙 69.5 • 초저가 의심",
+        "raw": {
+          "itemId": 500324009,
+          "itemName": "이도류 비전서 (소닉 러시)",
+          "enchantLevel": 0,
+          "salePrice": 10.0,
+          "category": "스킬북",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 69.5
+        }
+      },
+      {
         "kind": "견갑",
         "enchant": "+3",
         "name": "제사장의 견갑",
@@ -487,22 +503,6 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 399.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "광휘의 투구",
-        "price": "255다이아",
-        "note": "중앙 555 • 초저가 의심",
-        "raw": {
-          "itemId": 200530012,
-          "itemName": "+5 광휘의 투구",
-          "enchantLevel": 5,
-          "salePrice": 255.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 555.0
         }
       },
       {
