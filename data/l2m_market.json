@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 19:39:49 KST",
+  "checkedAt": "2026-07-02 19:47:50 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -383,7 +383,7 @@
         "enchant": "+1",
         "name": "사멸의 벨트",
         "price": "220다이아",
-        "note": "중앙 333 • 하위권",
+        "note": "중앙 331.5 • 하위권",
         "raw": {
           "itemId": 300430006,
           "itemName": "+1 사멸의 벨트",
@@ -391,7 +391,7 @@
           "salePrice": 220.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 333.0
+          "median": 331.5
         }
       },
       {
@@ -504,6 +504,22 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 799.5
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+7",
+        "name": "쏜 크로스보우 (초월 +1)",
+        "price": "499다이아",
+        "note": "중앙 790 • 초저가 의심",
+        "raw": {
+          "itemId": 160830001,
+          "itemName": "+7 쏜 크로스보우 (초월 +1)",
+          "enchantLevel": 7,
+          "salePrice": 499.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 790.0
         }
       },
       {
