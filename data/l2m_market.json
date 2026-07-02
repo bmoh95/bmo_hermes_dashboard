@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 13:53:30 KST",
+  "checkedAt": "2026-07-02 14:02:32 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -22,6 +22,22 @@
       }
     ],
     "uncommon": [
+      {
+        "kind": "악세사리",
+        "enchant": "+0",
+        "name": "사원의 유물",
+        "price": "15다이아",
+        "note": "중앙 4,255 • 초저가 의심",
+        "raw": {
+          "itemId": 301150011,
+          "itemName": "사원의 유물",
+          "enchantLevel": 0,
+          "salePrice": 15.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 4255.0
+        }
+      },
       {
         "kind": "손목",
         "enchant": "+3",
@@ -408,22 +424,6 @@
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 1049.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+1",
-        "name": "아나킴의 영혼 목걸이 (초월 +1)",
-        "price": "880다이아",
-        "note": "중앙 1,311 • 하위권",
-        "raw": {
-          "itemId": 360130002,
-          "itemName": "+1 아나킴의 영혼 목걸이 (초월 +1)",
-          "enchantLevel": 1,
-          "salePrice": 880.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 1311.0
         }
       },
       {
