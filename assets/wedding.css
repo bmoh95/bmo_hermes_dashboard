@@ -187,6 +187,7 @@ h2 span { color: var(--wedding-accent-dark); }
 
 .date-section,
 .place-section,
+.gallery-section,
 .account-section,
 .closing-section { text-align: center; }
 .countdown {
@@ -261,12 +262,41 @@ h2 span { color: var(--wedding-accent-dark); }
 }
 
 .place-copy,
+.gallery-copy,
 .account-note,
 .closing-section p {
   margin: 14px 0 0;
   color: var(--wedding-muted);
   font-size: 14px;
   line-height: 1.75;
+}
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 20px;
+}
+.gallery-photo {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--wedding-line);
+  border-radius: 22px;
+  background: #fbf6f1;
+  aspect-ratio: 1;
+}
+.gallery-featured {
+  grid-column: 1 / -1;
+  aspect-ratio: 4 / 5;
+}
+.gallery-wide {
+  grid-column: 1 / -1;
+  aspect-ratio: 3 / 2;
+}
+.gallery-photo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 .map-actions {
   display: grid;
