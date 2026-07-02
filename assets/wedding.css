@@ -46,19 +46,6 @@ body::before {
   padding: 18px 18px 34px;
 }
 
-.home-link {
-  display: inline-flex;
-  align-items: center;
-  min-height: 40px;
-  margin: 2px 0 12px;
-  color: var(--wedding-muted);
-  text-decoration: none;
-  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
-  font-size: 13px;
-  font-weight: 800;
-  letter-spacing: .01em;
-}
-
 .card-section {
   position: relative;
   overflow: hidden;
@@ -72,55 +59,24 @@ body::before {
 }
 
 .cover {
-  min-height: calc(100svh - 54px);
-  display: grid;
-  place-items: center;
-  padding: 28px 0 36px;
-  border: 0;
-  border-radius: 0;
-  background: transparent;
-  box-shadow: none;
-  backdrop-filter: none;
-}
-
-.phone-frame {
-  position: relative;
-  width: min(304px, calc(100vw - 76px));
-  aspect-ratio: 9 / 18.6;
-  display: grid;
-  padding: 12px 10px 10px;
-  border: 8px solid #151312;
-  border-radius: 42px;
-  background: #151312;
-  box-shadow:
-    0 22px 44px rgba(20, 16, 14, .28),
-    0 0 0 1px rgba(255,255,255,.25) inset;
-}
-
-.phone-notch {
-  position: absolute;
-  top: 7px;
-  left: 50%;
-  z-index: 2;
-  width: 86px;
-  height: 20px;
-  transform: translateX(-50%);
-  border-radius: 0 0 18px 18px;
-  background: #151312;
+  min-height: calc(100svh - 36px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 58px 26px 50px;
+  border-radius: 34px;
+  text-align: center;
+  background:
+    linear-gradient(180deg, rgba(255,255,255,.92), rgba(255,255,255,0) 28%),
+    rgba(255, 253, 249, .94);
 }
 
 .save-card {
   position: relative;
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  min-height: 100%;
-  padding: 50px 24px 36px;
-  border-radius: 30px;
-  background:
-    linear-gradient(180deg, rgba(255,255,255,.86), rgba(255,255,255,0) 24%),
-    var(--wedding-paper);
+  width: 100%;
+  max-width: 342px;
+  margin: 0 auto;
+  padding: 28px 0;
   text-align: center;
 }
 
@@ -134,8 +90,8 @@ body::before {
   transform: translateX(-50%);
   background: linear-gradient(90deg, transparent, rgba(24,20,18,.16), transparent);
 }
-.save-card::before { top: 28px; }
-.save-card::after { bottom: 28px; }
+.save-card::before { top: 0; }
+.save-card::after { bottom: 0; }
 
 .kicker,
 .section-label {
@@ -441,11 +397,65 @@ h2 span { color: var(--wedding-accent-dark); }
 .copy-button:hover { transform: translateY(-1px); }
 .date-section > .outline-button { width: 100%; }
 
+.account-groups {
+  display: grid;
+  gap: 12px;
+  margin-top: 18px;
+  text-align: left;
+}
+.account-group {
+  overflow: hidden;
+  border: 1px solid var(--wedding-line);
+  border-radius: 24px;
+  background: #fffaf6;
+}
+.account-group summary {
+  list-style: none;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 8px 12px;
+  align-items: center;
+  min-height: 72px;
+  padding: 16px 18px;
+  cursor: pointer;
+  user-select: none;
+}
+.account-group summary::-webkit-details-marker { display: none; }
+.account-group summary span {
+  color: var(--wedding-ink);
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: .08em;
+}
+.account-group summary small {
+  grid-column: 1 / -1;
+  color: var(--wedding-muted);
+  font-size: 13px;
+  line-height: 1.45;
+}
+.account-group summary::after {
+  content: '펼치기';
+  grid-column: 2;
+  grid-row: 1;
+  justify-self: end;
+  padding: 7px 10px;
+  border: 1px solid #dacabc;
+  border-radius: 999px;
+  color: var(--wedding-accent-dark);
+  background: #fffdf9;
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+  font-size: 12px;
+  font-weight: 800;
+}
+.account-group[open] summary {
+  border-bottom: 1px solid var(--wedding-line);
+  background: rgba(255, 253, 249, .82);
+}
+.account-group[open] summary::after { content: '접기'; }
 .account-list {
   display: grid;
   gap: 10px;
-  margin-top: 18px;
-  text-align: left;
+  margin: 12px;
 }
 .account-card {
   display: grid;
@@ -454,8 +464,11 @@ h2 span { color: var(--wedding-accent-dark); }
   align-items: center;
   padding: 15px;
   border: 1px solid var(--wedding-line);
-  border-radius: 22px;
-  background: #fffaf6;
+  border-radius: 20px;
+  background: #fffdf9;
+}
+.account-card.temp-account {
+  background: linear-gradient(180deg, #fffdf9, #fff8f1);
 }
 .account-card .role {
   display: block;
@@ -463,7 +476,7 @@ h2 span { color: var(--wedding-accent-dark); }
   color: var(--wedding-accent-dark);
   font-size: 12px;
   font-weight: 700;
-  letter-spacing: .16em;
+  letter-spacing: .12em;
 }
 .account-card strong {
   display: block;
@@ -474,10 +487,12 @@ h2 span { color: var(--wedding-accent-dark); }
 .account-card p {
   margin: 0;
   color: #5b514b;
-  font-family: "Cormorant Garamond", Georgia, serif;
-  font-size: 17px;
-  font-weight: 600;
-  letter-spacing: .04em;
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1.45;
+  white-space: nowrap;
 }
 .copy-button {
   min-height: 40px;
@@ -526,9 +541,8 @@ h2 span { color: var(--wedding-accent-dark); }
 @media (max-width: 360px) {
   .invitation { padding-left: 12px; padding-right: 12px; }
   .card-section { padding-left: 18px; padding-right: 18px; border-radius: 26px; }
-  .cover { padding-left: 0; padding-right: 0; }
-  .phone-frame { width: min(286px, calc(100vw - 54px)); }
-  .save-card { padding-left: 18px; padding-right: 18px; }
+  .cover { padding: 48px 18px 42px; }
+  .save-card { padding-left: 0; padding-right: 0; }
   .script-word { font-size: 62px; }
   .hero-names { font-size: 15px; gap: 6px; letter-spacing: .14em; }
   .map-actions { grid-template-columns: 1fr; }

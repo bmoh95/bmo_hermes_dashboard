@@ -14,39 +14,34 @@
 </head>
 <body>
   <main class="invitation" aria-label="박용태 나수진 모바일 청첩장">
-    <a class="home-link" href="index.html" aria-label="BMO Hermes Dashboard로 돌아가기">← Dashboard</a>
-
     <section class="cover card-section" aria-labelledby="wedding-title">
-      <div class="phone-frame" aria-label="Save the Date 디자인 미리보기">
-        <div class="phone-notch" aria-hidden="true"></div>
-        <div class="save-card">
-          <p class="kicker">Happily ever after</p>
-          <h1 id="wedding-title" class="save-title">
-            <span class="script-word save-word">Save</span>
-            <span class="tiny-word">THE</span>
-            <span class="script-word date-word">Date</span>
-            <span class="heart" aria-hidden="true">♡</span>
-          </h1>
-          <p class="for-line">FOR THE WEDDING OF</p>
-          <div class="hero-names" aria-label="신랑 신부 이름">
-            <span>YONGTAE</span>
-            <i aria-hidden="true">&amp;</i>
-            <span>SUJIN</span>
-          </div>
-          <p class="korean-names">박용태 · 나수진</p>
-          <div class="family-lines" aria-label="양가 부모님과 신랑 신부 소개">
-            <p><span>박남일 · 이봉선의 차남 </span><strong>용태</strong></p>
-            <p><span>나철환 · 윤지은의 차녀 </span><strong>수진</strong></p>
-          </div>
-          <div class="date-strip" aria-label="예식 일시">
-            <span>Sunday</span>
-            <strong>22</strong>
-            <span>3:30 PM</span>
-          </div>
-          <p class="month-line">NOVEMBER 2026</p>
-          <p class="venue-line">THE CHAPEL AT CHEONGDAM<br>COTTAGE HALL</p>
-          <p class="signature">Yongtae and Sujin</p>
+      <div class="save-card">
+        <p class="kicker">Happily ever after</p>
+        <h1 id="wedding-title" class="save-title">
+          <span class="script-word save-word">Save</span>
+          <span class="tiny-word">THE</span>
+          <span class="script-word date-word">Date</span>
+          <span class="heart" aria-hidden="true">♡</span>
+        </h1>
+        <p class="for-line">FOR THE WEDDING OF</p>
+        <div class="hero-names" aria-label="신랑 신부 이름">
+          <span>YONGTAE</span>
+          <i aria-hidden="true">&amp;</i>
+          <span>SUJIN</span>
         </div>
+        <p class="korean-names">박용태 · 나수진</p>
+        <div class="family-lines" aria-label="양가 부모님과 신랑 신부 소개">
+          <p><span>박남일 · 이봉선의 차남 </span><strong>용태</strong></p>
+          <p><span>나철환 · 윤지은의 차녀 </span><strong>수진</strong></p>
+        </div>
+        <div class="date-strip" aria-label="예식 일시">
+          <span>Sunday</span>
+          <strong>22</strong>
+          <span>3:30 PM</span>
+        </div>
+        <p class="month-line">NOVEMBER 2026</p>
+        <p class="venue-line">THE CHAPEL AT CHEONGDAM<br>COTTAGE HALL</p>
+        <p class="signature">Yongtae and Sujin</p>
       </div>
     </section>
 
@@ -101,24 +96,73 @@
     <section class="card-section account-section" aria-labelledby="account-heading">
       <p class="section-label">Gift</p>
       <h2 id="account-heading">마음 전하실 곳</h2>
-      <p class="account-note">계좌번호는 버튼을 누르면 복사됩니다.</p>
-      <div class="account-list">
-        <article class="account-card">
-          <div>
-            <span class="role">신랑</span>
-            <strong>박용태</strong>
-            <p>우리은행 1002-458-166399</p>
+      <p class="account-note">신랑측과 신부측을 눌러 계좌를 확인하실 수 있습니다. 부모님 계좌는 임시 정보입니다.</p>
+      <div class="account-groups">
+        <details class="account-group">
+          <summary>
+            <span>신랑측</span>
+            <small>박용태 · 박남일 · 이봉선</small>
+          </summary>
+          <div class="account-list">
+            <article class="account-card">
+              <div>
+                <span class="role">신랑</span>
+                <strong>박용태</strong>
+                <p>우리은행 1002-458-166399</p>
+              </div>
+              <button type="button" class="copy-button" data-copy="우리은행 1002-458-166399 박용태">복사</button>
+            </article>
+            <article class="account-card temp-account">
+              <div>
+                <span class="role">신랑 아버지 · 임시</span>
+                <strong>박남일</strong>
+                <p>임시계좌 000-0000-0001</p>
+              </div>
+              <button type="button" class="copy-button" data-copy="임시계좌 000-0000-0001 박남일">복사</button>
+            </article>
+            <article class="account-card temp-account">
+              <div>
+                <span class="role">신랑 어머니 · 임시</span>
+                <strong>이봉선</strong>
+                <p>임시계좌 000-0000-0002</p>
+              </div>
+              <button type="button" class="copy-button" data-copy="임시계좌 000-0000-0002 이봉선">복사</button>
+            </article>
           </div>
-          <button type="button" class="copy-button" data-copy="우리은행 1002-458-166399 박용태">복사</button>
-        </article>
-        <article class="account-card">
-          <div>
-            <span class="role">신부</span>
-            <strong>나수진</strong>
-            <p>신한은행 110-454-771082</p>
+        </details>
+
+        <details class="account-group">
+          <summary>
+            <span>신부측</span>
+            <small>나수진 · 나철환 · 윤지은</small>
+          </summary>
+          <div class="account-list">
+            <article class="account-card">
+              <div>
+                <span class="role">신부</span>
+                <strong>나수진</strong>
+                <p>신한은행 110-454-771082</p>
+              </div>
+              <button type="button" class="copy-button" data-copy="신한은행 110-454-771082 나수진">복사</button>
+            </article>
+            <article class="account-card temp-account">
+              <div>
+                <span class="role">신부 아버지 · 임시</span>
+                <strong>나철환</strong>
+                <p>임시계좌 000-0000-0003</p>
+              </div>
+              <button type="button" class="copy-button" data-copy="임시계좌 000-0000-0003 나철환">복사</button>
+            </article>
+            <article class="account-card temp-account">
+              <div>
+                <span class="role">신부 어머니 · 임시</span>
+                <strong>윤지은</strong>
+                <p>임시계좌 000-0000-0004</p>
+              </div>
+              <button type="button" class="copy-button" data-copy="임시계좌 000-0000-0004 윤지은">복사</button>
+            </article>
           </div>
-          <button type="button" class="copy-button" data-copy="신한은행 110-454-771082 나수진">복사</button>
-        </article>
+        </details>
       </div>
     </section>
 
