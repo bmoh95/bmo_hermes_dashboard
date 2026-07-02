@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 22:50:18 KST",
+  "checkedAt": "2026-07-02 22:58:19 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -495,7 +495,7 @@
         "enchant": "+7",
         "name": "영혼의 검 (초월 +2)",
         "price": "700다이아",
-        "note": "중앙 1,172 • 초저가 의심",
+        "note": "중앙 1,174 • 초저가 의심",
         "raw": {
           "itemId": 161430104,
           "itemName": "+7 영혼의 검 (초월 +2)",
@@ -503,7 +503,7 @@
           "salePrice": 700.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1172.0
+          "median": 1174.0
         }
       },
       {
