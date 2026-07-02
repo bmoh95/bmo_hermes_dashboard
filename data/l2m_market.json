@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 12:16:49 KST",
+  "checkedAt": "2026-07-02 12:24:50 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -106,22 +106,6 @@
     "rare": [
       {
         "kind": "무기",
-        "enchant": "+8",
-        "name": "데스페리온의 지팡이",
-        "price": "15다이아",
-        "note": "중앙 31.5 • 초저가 의심",
-        "raw": {
-          "itemId": 100540001,
-          "itemName": "+8 데스페리온의 지팡이",
-          "enchantLevel": 8,
-          "salePrice": 15.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 31.5
-        }
-      },
-      {
-        "kind": "무기",
         "enchant": "+9",
         "name": "싸울아비 장검",
         "price": "30다이아",
@@ -166,6 +150,22 @@
           "category": "무기",
           "dealLabel": "아이템별 저가",
           "median": 89.5
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+8",
+        "name": "마나의 단검",
+        "price": "95다이아",
+        "note": "중앙 115 • 저가",
+        "raw": {
+          "itemId": 100340008,
+          "itemName": "+8 마나의 단검",
+          "enchantLevel": 8,
+          "salePrice": 95.0,
+          "category": "무기",
+          "dealLabel": "아이템별 저가",
+          "median": 115.0
         }
       },
       {
@@ -431,7 +431,7 @@
         "enchant": "+5",
         "name": "인내의 각반",
         "price": "180다이아",
-        "note": "중앙 400 • 초저가 의심",
+        "note": "중앙 386 • 초저가 의심",
         "raw": {
           "itemId": 200230008,
           "itemName": "+5 인내의 각반",
@@ -439,7 +439,7 @@
           "salePrice": 180.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 400.0
+          "median": 386.0
         }
       },
       {
