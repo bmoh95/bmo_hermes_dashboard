@@ -127,19 +127,41 @@ body::before {
 }
 .cover-family {
   display: grid;
-  gap: 5px;
+  grid-template-columns: minmax(0, 1fr) 20px minmax(0, 1fr);
+  align-items: center;
+  gap: 8px;
+  width: min(100%, 330px);
   margin: 22px auto 0;
   color: #5f554f;
-  font-size: 12px;
-  line-height: 1.55;
-  letter-spacing: .04em;
 }
-.cover-family p { margin: 0; }
+.cover-family .family-side {
+  display: grid;
+  gap: 3px;
+  min-width: 0;
+}
+.cover-family .family-side:first-child { text-align: right; }
+.cover-family .family-side:last-child { text-align: left; }
+.cover-family span {
+  display: block;
+  font-size: 10.5px;
+  line-height: 1.45;
+  letter-spacing: -.04em;
+  word-break: keep-all;
+}
 .cover-family strong {
-  margin-left: 7px;
+  display: block;
+  margin: 0;
   color: #211c18;
+  font-size: 16px;
   font-weight: 600;
   letter-spacing: .12em;
+}
+.cover-family i {
+  display: block;
+  width: 1px;
+  height: 36px;
+  justify-self: center;
+  background: var(--wedding-line);
 }
 .intro {
   margin: 28px 0 30px;
@@ -186,7 +208,6 @@ h2 {
 h2 span { color: var(--wedding-accent-dark); }
 
 .date-section,
-.family-section,
 .place-section,
 .account-section,
 .closing-section { text-align: center; }
@@ -257,30 +278,6 @@ h2 span { color: var(--wedding-accent-dark); }
   color: var(--wedding-muted);
   font-size: 14px;
   line-height: 1.75;
-}
-.family-list {
-  display: grid;
-  gap: 10px;
-  margin-top: 20px;
-}
-.family-list article {
-  display: grid;
-  gap: 5px;
-  padding: 16px 14px;
-  border: 1px solid var(--wedding-line);
-  border-radius: 22px;
-  background: #fffaf6;
-}
-.family-list span {
-  color: var(--wedding-muted);
-  font-size: 14px;
-  line-height: 1.5;
-}
-.family-list strong {
-  color: var(--wedding-ink);
-  font-size: 19px;
-  font-weight: 500;
-  letter-spacing: .12em;
 }
 .map-actions {
   display: grid;
@@ -358,24 +355,28 @@ h2 span { color: var(--wedding-accent-dark); }
   line-height: 1.45;
 }
 .account-group summary::after {
-  content: '펼치기';
+  content: '⌄';
   grid-column: 2;
   grid-row: 1;
   justify-self: end;
-  padding: 7px 10px;
-  border: 1px solid #dacabc;
+  display: grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
   border-radius: 999px;
   color: var(--wedding-accent-dark);
   background: #fffdf9;
   font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
-  font-size: 12px;
+  font-size: 19px;
   font-weight: 800;
+  line-height: 1;
+  transition: transform .16s ease, background .16s ease;
 }
 .account-group[open] summary {
   border-bottom: 1px solid var(--wedding-line);
   background: rgba(255, 253, 249, .82);
 }
-.account-group[open] summary::after { content: '접기'; }
+.account-group[open] summary::after { content: '⌃'; }
 .account-list {
   display: grid;
   gap: 10px;
@@ -468,7 +469,9 @@ h2 span { color: var(--wedding-accent-dark); }
   .cover { min-height: calc(100svh - 24px); }
   .lettering { font-size: 66px; }
   .names { font-size: 19px; letter-spacing: .18em; }
-  .cover-family { font-size: 11px; }
+  .cover-family { grid-template-columns: minmax(0, 1fr) 16px minmax(0, 1fr); gap: 6px; }
+  .cover-family span { font-size: 9.5px; letter-spacing: -.07em; }
+  .cover-family strong { font-size: 14px; }
   .map-actions { grid-template-columns: 1fr; }
   .account-card { grid-template-columns: 1fr; }
   .copy-button { width: 100%; }
