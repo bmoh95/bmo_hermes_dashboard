@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 16:18:25 KST",
+  "checkedAt": "2026-07-02 16:26:26 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -122,6 +122,22 @@
     "rare": [
       {
         "kind": "무기",
+        "enchant": "+8",
+        "name": "디스멘틀러",
+        "price": "18다이아",
+        "note": "중앙 34.5 • 초저가 의심",
+        "raw": {
+          "itemId": 101040006,
+          "itemName": "+8 디스멘틀러",
+          "enchantLevel": 8,
+          "salePrice": 18.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 34.5
+        }
+      },
+      {
+        "kind": "무기",
         "enchant": "+9",
         "name": "싸울아비 장검",
         "price": "30다이아",
@@ -237,7 +253,7 @@
         "enchant": "+3",
         "name": "미궁의 목걸이",
         "price": "30다이아",
-        "note": "중앙 38.5 • 저가",
+        "note": "중앙 37 • 저가",
         "raw": {
           "itemId": 300140018,
           "itemName": "+3 미궁의 목걸이",
@@ -245,7 +261,7 @@
           "salePrice": 30.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 38.5
+          "median": 37.0
         }
       },
       {
@@ -294,22 +310,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 112.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "사령 템페스트의 목걸이",
-        "price": "73다이아",
-        "note": "중앙 93 • 저가",
-        "raw": {
-          "itemId": 300140002,
-          "itemName": "+5 사령 템페스트의 목걸이",
-          "enchantLevel": 5,
-          "salePrice": 73.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 93.0
         }
       },
       {
@@ -593,7 +593,7 @@
         "enchant": "+5",
         "name": "타락 천사의 장갑 (초월 +1)",
         "price": "7,500다이아",
-        "note": "중앙 9,400 • 하위권",
+        "note": "중앙 9,515 • 하위권",
         "raw": {
           "itemId": 260320003,
           "itemName": "+5 타락 천사의 장갑 (초월 +1)",
@@ -601,7 +601,23 @@
           "salePrice": 7500.0,
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 9400.0
+          "median": 9515.0
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "크란벨의 망토 (초월 +1)",
+        "price": "19,000다이아",
+        "note": "중앙 22,500 • 하위권",
+        "raw": {
+          "itemId": 260620004,
+          "itemName": "+5 크란벨의 망토 (초월 +1)",
+          "enchantLevel": 5,
+          "salePrice": 19000.0,
+          "category": "방어구",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 22500.0
         }
       },
       {
