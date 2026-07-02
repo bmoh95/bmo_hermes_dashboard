@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 23:06:20 KST",
+  "checkedAt": "2026-07-02 23:14:22 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -91,7 +91,7 @@
         "enchant": "+3",
         "name": "강철 손목 보호대",
         "price": "50다이아",
-        "note": "중앙 89 • 초저가 의심",
+        "note": "중앙 86 • 초저가 의심",
         "raw": {
           "itemId": 301550002,
           "itemName": "+3 강철 손목 보호대",
@@ -99,7 +99,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 89.0
+          "median": 86.0
         }
       },
       {
@@ -463,7 +463,7 @@
         "enchant": "+7",
         "name": "쏜 크로스보우 (초월 +1)",
         "price": "499다이아",
-        "note": "중앙 790 • 초저가 의심",
+        "note": "중앙 770 • 초저가 의심",
         "raw": {
           "itemId": 160830001,
           "itemName": "+7 쏜 크로스보우 (초월 +1)",
@@ -471,7 +471,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 790.0
+          "median": 770.0
         }
       },
       {
@@ -488,22 +488,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1169.5
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+7",
-        "name": "영혼의 검 (초월 +2)",
-        "price": "700다이아",
-        "note": "중앙 1,174 • 초저가 의심",
-        "raw": {
-          "itemId": 161430104,
-          "itemName": "+7 영혼의 검 (초월 +2)",
-          "enchantLevel": 7,
-          "salePrice": 700.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 1174.0
         }
       },
       {
