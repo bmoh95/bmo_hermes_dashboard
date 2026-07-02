@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 11:36:43 KST",
+  "checkedAt": "2026-07-02 11:44:44 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -511,7 +511,7 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 240 • 초저가 의심",
+        "note": "중앙 220 • 초저가 의심",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
@@ -519,7 +519,7 @@
           "salePrice": 137.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 240.0
+          "median": 220.0
         }
       }
     ],
