@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 18:43:41 KST",
+  "checkedAt": "2026-07-02 18:51:42 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -447,7 +447,7 @@
         "enchant": "+5",
         "name": "월영의 흉갑 (초월 +3)",
         "price": "450다이아",
-        "note": "중앙 774 • 초저가 의심",
+        "note": "중앙 750 • 초저가 의심",
         "raw": {
           "itemId": 260130213,
           "itemName": "+5 월영의 흉갑 (초월 +3)",
@@ -455,7 +455,7 @@
           "salePrice": 450.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 774.0
+          "median": 750.0
         }
       },
       {
