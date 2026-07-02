@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 11:12:39 KST",
+  "checkedAt": "2026-07-02 11:20:40 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -205,7 +205,7 @@
         "enchant": "+4",
         "name": "마염의 벨트",
         "price": "15다이아",
-        "note": "중앙 26 • 초저가 의심",
+        "note": "중앙 25 • 초저가 의심",
         "raw": {
           "itemId": 300440006,
           "itemName": "+4 마염의 벨트",
@@ -213,7 +213,7 @@
           "salePrice": 15.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 26.0
+          "median": 25.0
         }
       },
       {
@@ -269,7 +269,7 @@
         "enchant": "+4",
         "name": "달의 반지",
         "price": "65다이아",
-        "note": "중앙 115 • 초저가 의심",
+        "note": "중앙 119 • 초저가 의심",
         "raw": {
           "itemId": 300340018,
           "itemName": "+4 달의 반지",
@@ -277,7 +277,7 @@
           "salePrice": 65.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 115.0
+          "median": 119.0
         }
       },
       {
@@ -411,6 +411,22 @@
         }
       },
       {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "아나킴의 영혼 목걸이 (초월 +1)",
+        "price": "880다이아",
+        "note": "중앙 1,311 • 하위권",
+        "raw": {
+          "itemId": 360130002,
+          "itemName": "+1 아나킴의 영혼 목걸이 (초월 +1)",
+          "enchantLevel": 1,
+          "salePrice": 880.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 1311.0
+        }
+      },
+      {
         "kind": "무기",
         "enchant": "+0",
         "name": "카오스 브레이커",
@@ -511,7 +527,7 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 240 • 초저가 의심",
+        "note": "중앙 220 • 초저가 의심",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
@@ -519,7 +535,7 @@
           "salePrice": 137.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 240.0
+          "median": 220.0
         }
       }
     ],
