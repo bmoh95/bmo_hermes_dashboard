@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 21:08:37 KST",
+  "checkedAt": "2026-07-02 21:17:03 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -123,22 +123,6 @@
       {
         "kind": "무기",
         "enchant": "+8",
-        "name": "트롬바의 송곳니",
-        "price": "13다이아",
-        "note": "중앙 28 • 초저가 의심",
-        "raw": {
-          "itemId": 101140005,
-          "itemName": "+8 트롬바의 송곳니",
-          "enchantLevel": 8,
-          "salePrice": 13.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 28.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+8",
         "name": "디스멘틀러",
         "price": "18다이아",
         "note": "중앙 34.5 • 초저가 의심",
@@ -150,22 +134,6 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 34.5
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+8",
-        "name": "솔다트 에스터크",
-        "price": "22다이아",
-        "note": "중앙 38 • 초저가 의심",
-        "raw": {
-          "itemId": 101140001,
-          "itemName": "+8 솔다트 에스터크",
-          "enchantLevel": 8,
-          "salePrice": 22.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 38.0
         }
       },
       {
@@ -283,22 +251,6 @@
       {
         "kind": "악세사리",
         "enchant": "+4",
-        "name": "축복의 벨트",
-        "price": "22다이아",
-        "note": "중앙 47 • 초저가 의심",
-        "raw": {
-          "itemId": 300440001,
-          "itemName": "+4 축복의 벨트",
-          "enchantLevel": 4,
-          "salePrice": 22.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 47.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+4",
         "name": "헤르문쿠스의 목걸이",
         "price": "25다이아",
         "note": "중앙 80 • 초저가 의심",
@@ -381,7 +333,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (스킬 블록 Ⅰ)",
         "price": "15다이아",
-        "note": "중앙 25 • 초저가 의심",
+        "note": "중앙 27 • 초저가 의심",
         "raw": {
           "itemId": 500304027,
           "itemName": "계승자의 서 (스킬 블록 Ⅰ)",
@@ -389,7 +341,7 @@
           "salePrice": 15.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 25.0
+          "median": 27.0
         }
       },
       {
@@ -637,6 +589,22 @@
     ],
     "legendary": [
       {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "린드비오르의 목걸이 (초월 +1)",
+        "price": "4,500다이아",
+        "note": "중앙 7,000 • 초저가 의심",
+        "raw": {
+          "itemId": 360120003,
+          "itemName": "+5 린드비오르의 목걸이 (초월 +1)",
+          "enchantLevel": 5,
+          "salePrice": 4500.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 7000.0
+        }
+      },
+      {
         "kind": "방어구",
         "enchant": "+5",
         "name": "메이저 아르카나 로브",
@@ -666,22 +634,6 @@
           "category": "방어구",
           "dealLabel": "전서버 하위 10% 저가",
           "median": 9630.0
-        }
-      },
-      {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "쌍도끼 전승서 (래쓰 오브 타이탄)",
-        "price": "4,000다이아",
-        "note": "중앙 5,000 • 하위권",
-        "raw": {
-          "itemId": 503222004,
-          "itemName": "쌍도끼 전승서 (래쓰 오브 타이탄)",
-          "enchantLevel": 0,
-          "salePrice": 4000.0,
-          "category": "스킬북",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 5000.0
         }
       },
       {
