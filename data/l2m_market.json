@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 14:58:13 KST",
+  "checkedAt": "2026-07-02 15:06:14 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -214,6 +214,22 @@
           "category": "무기",
           "dealLabel": "아이템별 저가",
           "median": 547.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+4",
+        "name": "마염의 반지",
+        "price": "15다이아",
+        "note": "중앙 25.5 • 초저가 의심",
+        "raw": {
+          "itemId": 300340013,
+          "itemName": "+4 마염의 반지",
+          "enchantLevel": 4,
+          "salePrice": 15.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 25.5
         }
       },
       {
@@ -492,6 +508,22 @@
       },
       {
         "kind": "방어구",
+        "enchant": "+5",
+        "name": "월영의 흉갑 (초월 +3)",
+        "price": "450다이아",
+        "note": "중앙 825 • 초저가 의심",
+        "raw": {
+          "itemId": 260130213,
+          "itemName": "+5 월영의 흉갑 (초월 +3)",
+          "enchantLevel": 5,
+          "salePrice": 450.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 825.0
+        }
+      },
+      {
+        "kind": "방어구",
         "enchant": "+6",
         "name": "실렌의 숨결",
         "price": "450다이아",
@@ -543,15 +575,31 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 220 • 초저가 의심",
+        "note": "중앙 200 • 저가",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
           "enchantLevel": 0,
           "salePrice": 137.0,
           "category": "스킬북",
+          "dealLabel": "아이템별 저가",
+          "median": 200.0
+        }
+      },
+      {
+        "kind": "스킬북",
+        "enchant": "+0",
+        "name": "전투 기술서 (윌 오브 아이언)",
+        "price": "150다이아",
+        "note": "중앙 236 • 초저가 의심",
+        "raw": {
+          "itemId": 500313003,
+          "itemName": "전투 기술서 (윌 오브 아이언)",
+          "enchantLevel": 0,
+          "salePrice": 150.0,
+          "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 220.0
+          "median": 236.0
         }
       }
     ],
