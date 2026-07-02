@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 18:35:39 KST",
+  "checkedAt": "2026-07-02 18:43:41 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -540,22 +540,6 @@
       }
     ],
     "legendary": [
-      {
-        "kind": "악세사리",
-        "enchant": "+5",
-        "name": "린드비오르의 목걸이 (초월 +1)",
-        "price": "4,500다이아",
-        "note": "중앙 7,000 • 초저가 의심",
-        "raw": {
-          "itemId": 360120003,
-          "itemName": "+5 린드비오르의 목걸이 (초월 +1)",
-          "enchantLevel": 5,
-          "salePrice": 4500.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 7000.0
-        }
-      },
       {
         "kind": "방어구",
         "enchant": "+5",
