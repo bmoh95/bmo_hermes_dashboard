@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 12:08:48 KST",
+  "checkedAt": "2026-07-02 12:16:49 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -91,7 +91,7 @@
         "enchant": "+4",
         "name": "강철 손목 보호대",
         "price": "99다이아",
-        "note": "중앙 123 • 하위권",
+        "note": "중앙 121.5 • 하위권",
         "raw": {
           "itemId": 301550002,
           "itemName": "+4 강철 손목 보호대",
@@ -99,7 +99,7 @@
           "salePrice": 99.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 123.0
+          "median": 121.5
         }
       }
     ],
@@ -479,7 +479,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 1,150 • 초저가 의심",
+        "note": "중앙 1,140 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -487,7 +487,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1150.0
+          "median": 1140.0
         }
       },
       {
