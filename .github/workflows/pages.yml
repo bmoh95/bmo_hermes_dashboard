@@ -32,7 +32,8 @@ jobs:
           tmpdir="$(mktemp -d)"
           cp -a _site/. "$tmpdir/"
           git checkout --orphan gh-pages
-          git rm -rf .
+          git rm -rf . || true
+          git clean -fdx
           cp -a "$tmpdir/." .
           touch .nojekyll
           git add -A
