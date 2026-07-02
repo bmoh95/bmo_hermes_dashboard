@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 17:22:57 KST",
+  "checkedAt": "2026-07-02 17:31:56 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -253,7 +253,7 @@
         "enchant": "+3",
         "name": "미궁의 목걸이",
         "price": "30다이아",
-        "note": "중앙 37 • 저가",
+        "note": "중앙 38.5 • 저가",
         "raw": {
           "itemId": 300140018,
           "itemName": "+3 미궁의 목걸이",
@@ -261,7 +261,7 @@
           "salePrice": 30.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 37.0
+          "median": 38.5
         }
       },
       {
@@ -333,7 +333,7 @@
         "enchant": "+0",
         "name": "마검 비술서 (포텐시)",
         "price": "20다이아",
-        "note": "중앙 38 • 초저가 의심",
+        "note": "중앙 34 • 초저가 의심",
         "raw": {
           "itemId": 503294006,
           "itemName": "마검 비술서 (포텐시)",
@@ -341,7 +341,7 @@
           "salePrice": 20.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 38.0
+          "median": 34.0
         }
       },
       {
