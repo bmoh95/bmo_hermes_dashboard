@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 10:07:47 KST",
+  "checkedAt": "2026-07-02 10:15:51 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -109,7 +109,7 @@
         "enchant": "+8",
         "name": "데스페리온의 지팡이",
         "price": "15다이아",
-        "note": "중앙 33 • 초저가 의심",
+        "note": "중앙 31.5 • 초저가 의심",
         "raw": {
           "itemId": 100540001,
           "itemName": "+8 데스페리온의 지팡이",
@@ -117,7 +117,7 @@
           "salePrice": 15.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 33.0
+          "median": 31.5
         }
       },
       {
