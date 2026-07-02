@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 20:51:59 KST",
+  "checkedAt": "2026-07-02 21:00:01 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -460,22 +460,6 @@
       },
       {
         "kind": "방어구",
-        "enchant": "+4",
-        "name": "광휘의 투구",
-        "price": "150다이아",
-        "note": "중앙 255 • 초저가 의심",
-        "raw": {
-          "itemId": 200530012,
-          "itemName": "+4 광휘의 투구",
-          "enchantLevel": 4,
-          "salePrice": 150.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 255.0
-        }
-      },
-      {
-        "kind": "방어구",
         "enchant": "+6",
         "name": "잊혀진 영웅의 흉갑",
         "price": "200다이아",
@@ -604,6 +588,22 @@
       }
     ],
     "legendary": [
+      {
+        "kind": "방어구",
+        "enchant": "+5",
+        "name": "메이저 아르카나 로브",
+        "price": "2,999다이아",
+        "note": "중앙 3,550 • 저가",
+        "raw": {
+          "itemId": 200120002,
+          "itemName": "+5 메이저 아르카나 로브",
+          "enchantLevel": 5,
+          "salePrice": 2999.0,
+          "category": "방어구",
+          "dealLabel": "아이템별 저가",
+          "median": 3550.0
+        }
+      },
       {
         "kind": "방어구",
         "enchant": "+5",
