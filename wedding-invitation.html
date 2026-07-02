@@ -77,20 +77,31 @@
     <section class="card-section gallery-section" aria-labelledby="gallery-heading">
       <p class="section-label">Gallery</p>
       <h2 id="gallery-heading">웨딩 갤러리</h2>
-      <p class="gallery-copy">사진은 추후 등록 예정입니다.</p>
-      <div class="gallery-grid" aria-label="웨딩 사진 샘플 갤러리">
-        <figure class="gallery-photo gallery-featured">
-          <img src="assets/wedding-gallery-sample-01.svg" width="900" height="1125" decoding="async" alt="웨딩 사진 샘플 1" />
-        </figure>
-        <figure class="gallery-photo">
-          <img src="assets/wedding-gallery-sample-02.svg" width="900" height="900" decoding="async" alt="웨딩 사진 샘플 2" />
-        </figure>
-        <figure class="gallery-photo">
-          <img src="assets/wedding-gallery-sample-03.svg" width="900" height="900" decoding="async" alt="웨딩 사진 샘플 3" />
-        </figure>
-        <figure class="gallery-photo gallery-wide">
-          <img src="assets/wedding-gallery-sample-04.svg" width="900" height="600" decoding="async" alt="웨딩 사진 샘플 4" />
-        </figure>
+      <p class="gallery-copy">샘플 사진을 좌우로 넘겨 보실 수 있습니다. 사진을 누르면 전체화면으로 확대됩니다.</p>
+      <div class="gallery-carousel" aria-roledescription="carousel" aria-label="웨딩 사진 샘플 갤러리">
+        <button class="gallery-arrow gallery-arrow-prev" type="button" data-gallery-prev aria-label="이전 사진">‹</button>
+        <button class="gallery-stage" type="button" data-gallery-open aria-label="현재 사진 전체화면으로 보기">
+          <img id="gallery-current" src="assets/wedding-gallery-sample-01.svg" width="900" height="1125" decoding="async" alt="웨딩 사진 샘플 1" />
+        </button>
+        <button class="gallery-arrow gallery-arrow-next" type="button" data-gallery-next aria-label="다음 사진">›</button>
+        <div class="gallery-status" aria-live="polite">
+          <span id="gallery-counter">1 / 4</span>
+          <span>탭해서 크게 보기</span>
+        </div>
+        <div class="gallery-thumbs" aria-label="사진 페이지 선택">
+          <button class="gallery-thumb is-active" type="button" data-gallery-index="0" aria-label="1번 사진 보기" aria-current="true">
+            <img src="assets/wedding-gallery-sample-01.svg" width="180" height="225" decoding="async" alt="웨딩 사진 샘플 1 미리보기" />
+          </button>
+          <button class="gallery-thumb" type="button" data-gallery-index="1" aria-label="2번 사진 보기">
+            <img src="assets/wedding-gallery-sample-02.svg" width="180" height="180" decoding="async" alt="웨딩 사진 샘플 2 미리보기" />
+          </button>
+          <button class="gallery-thumb" type="button" data-gallery-index="2" aria-label="3번 사진 보기">
+            <img src="assets/wedding-gallery-sample-03.svg" width="180" height="180" decoding="async" alt="웨딩 사진 샘플 3 미리보기" />
+          </button>
+          <button class="gallery-thumb" type="button" data-gallery-index="3" aria-label="4번 사진 보기">
+            <img src="assets/wedding-gallery-sample-04.svg" width="180" height="120" decoding="async" alt="웨딩 사진 샘플 4 미리보기" />
+          </button>
+        </div>
       </div>
     </section>
 
@@ -174,6 +185,22 @@
       <button class="solid-button" type="button" id="share-invitation">청첩장 공유하기</button>
     </section>
   </main>
+  <div class="gallery-lightbox" id="gallery-lightbox" role="dialog" aria-modal="true" aria-hidden="true" aria-label="웨딩 사진 전체화면 보기">
+    <div class="lightbox-topbar">
+      <button class="lightbox-close" type="button" data-lightbox-close aria-label="전체화면 닫기">닫기</button>
+      <span id="lightbox-counter">1 / 4</span>
+    </div>
+    <button class="lightbox-arrow lightbox-prev" type="button" data-lightbox-prev aria-label="이전 사진">‹</button>
+    <div class="lightbox-viewport" data-lightbox-viewport>
+      <img id="lightbox-image" src="assets/wedding-gallery-sample-01.svg" width="900" height="1125" decoding="async" alt="웨딩 사진 샘플 1 전체화면" />
+    </div>
+    <button class="lightbox-arrow lightbox-next" type="button" data-lightbox-next aria-label="다음 사진">›</button>
+    <div class="lightbox-tools" aria-label="사진 확대 축소">
+      <button type="button" data-zoom-out aria-label="축소">−</button>
+      <button type="button" data-zoom-reset aria-label="확대 초기화">100%</button>
+      <button type="button" data-zoom-in aria-label="확대">＋</button>
+    </div>
+  </div>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
   <script src="assets/wedding.js"></script>
 </body>

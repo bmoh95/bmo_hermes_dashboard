@@ -121,6 +121,219 @@
     });
   }
 
+  function setupGallery() {
+    const mainImage = document.getElementById('gallery-current');
+    const counter = document.getElementById('gallery-counter');
+    const prevButton = document.querySelector('[data-gallery-prev]');
+    const nextButton = document.querySelector('[data-gallery-next]');
+    const openButton = document.querySelector('[data-gallery-open]');
+    const thumbButtons = Array.from(document.querySelectorAll('[data-gallery-index]'));
+    const lightbox = document.getElementById('gallery-lightbox');
+    const lightboxImage = document.getElementById('lightbox-image');
+    const lightboxCounter = document.getElementById('lightbox-counter');
+    const viewport = document.querySelector('[data-lightbox-viewport]');
+    const closeButton = document.querySelector('[data-lightbox-close]');
+    const lightboxPrev = document.querySelector('[data-lightbox-prev]');
+    const lightboxNext = document.querySelector('[data-lightbox-next]');
+    const zoomOutButton = document.querySelector('[data-zoom-out]');
+    const zoomResetButton = document.querySelector('[data-zoom-reset]');
+    const zoomInButton = document.querySelector('[data-zoom-in]');
+
+    if (!mainImage || !counter || !prevButton || !nextButton || !openButton || !lightbox || !lightboxImage || !viewport) return;
+
+    const slides = thumbButtons.map((button, index) => {
+      const image = button.querySelector('img');
+      return {
+        src: image?.getAttribute('src') || '',
+        alt: `웨딩 사진 샘플 ${index + 1}`
+      };
+    }).filter((slide) => slide.src);
+    if (!slides.length) return;
+
+    let index = 0;
+    let zoom = 1;
+    let panX = 0;
+    let panY = 0;
+    let dragStart = null;
+    let pinchStart = null;
+    let touchPanStart = null;
+    let swipeStart = null;
+    let lastSwipeAt = 0;
+
+    function clamp(value, min, max) {
+      return Math.max(min, Math.min(max, value));
+    }
+
+    function updateZoom(nextZoom, resetPan = false) {
+      zoom = clamp(nextZoom, 1, 4);
+      if (resetPan || zoom === 1) {
+        panX = 0;
+        panY = 0;
+      }
+      lightboxImage.style.setProperty('--zoom', zoom.toFixed(2));
+      lightboxImage.style.setProperty('--pan-x', `${panX}px`);
+      lightboxImage.style.setProperty('--pan-y', `${panY}px`);
+      if (zoomResetButton) zoomResetButton.textContent = `${Math.round(zoom * 100)}%`;
+    }
+
+    function render() {
+      const slide = slides[index];
+      mainImage.src = slide.src;
+      mainImage.alt = slide.alt;
+      counter.textContent = `${index + 1} / ${slides.length}`;
+      thumbButtons.forEach((button, buttonIndex) => {
+        const active = buttonIndex === index;
+        button.classList.toggle('is-active', active);
+        if (active) button.setAttribute('aria-current', 'true');
+        else button.removeAttribute('aria-current');
+      });
+      if (lightbox.classList.contains('is-open')) renderLightbox(true);
+    }
+
+    function renderLightbox(resetZoom = false) {
+      const slide = slides[index];
+      lightboxImage.src = slide.src;
+      lightboxImage.alt = `${slide.alt} 전체화면`;
+      if (lightboxCounter) lightboxCounter.textContent = `${index + 1} / ${slides.length}`;
+      if (resetZoom) updateZoom(1, true);
+    }
+
+    function move(delta) {
+      index = (index + delta + slides.length) % slides.length;
+      render();
+    }
+
+    function goTo(nextIndex) {
+      index = clamp(nextIndex, 0, slides.length - 1);
+      render();
+    }
+
+    function openLightbox() {
+      renderLightbox(true);
+      lightbox.classList.add('is-open');
+      lightbox.setAttribute('aria-hidden', 'false');
+      document.body.classList.add('lightbox-open');
+      closeButton?.focus({ preventScroll: true });
+    }
+
+    function closeLightbox() {
+      lightbox.classList.remove('is-open');
+      lightbox.setAttribute('aria-hidden', 'true');
+      document.body.classList.remove('lightbox-open');
+      openButton.focus({ preventScroll: true });
+    }
+
+    function distance(touches) {
+      const [a, b] = touches;
+      return Math.hypot(a.clientX - b.clientX, a.clientY - b.clientY);
+    }
+
+    function attachSwipe(element) {
+      element.addEventListener('touchstart', (event) => {
+        if (element === viewport && zoom > 1) {
+          swipeStart = null;
+          return;
+        }
+        if (event.touches.length === 1) swipeStart = { x: event.touches[0].clientX, y: event.touches[0].clientY };
+      }, { passive: true });
+      element.addEventListener('touchend', (event) => {
+        if (!swipeStart) return;
+        const touch = event.changedTouches[0];
+        const dx = touch.clientX - swipeStart.x;
+        const dy = touch.clientY - swipeStart.y;
+        swipeStart = null;
+        if (Math.abs(dx) > 46 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+          lastSwipeAt = Date.now();
+          move(dx < 0 ? 1 : -1);
+        }
+      }, { passive: true });
+    }
+
+    prevButton.addEventListener('click', () => move(-1));
+    nextButton.addEventListener('click', () => move(1));
+    openButton.addEventListener('click', () => {
+      if (Date.now() - lastSwipeAt < 420) return;
+      openLightbox();
+    });
+    thumbButtons.forEach((button) => button.addEventListener('click', () => goTo(Number(button.dataset.galleryIndex || 0))));
+    closeButton?.addEventListener('click', closeLightbox);
+    lightboxPrev?.addEventListener('click', () => move(-1));
+    lightboxNext?.addEventListener('click', () => move(1));
+    zoomOutButton?.addEventListener('click', () => updateZoom(zoom - .35));
+    zoomResetButton?.addEventListener('click', () => updateZoom(1, true));
+    zoomInButton?.addEventListener('click', () => updateZoom(zoom + .35));
+
+    viewport.addEventListener('wheel', (event) => {
+      if (!lightbox.classList.contains('is-open')) return;
+      event.preventDefault();
+      updateZoom(zoom + (event.deltaY < 0 ? .18 : -.18));
+    }, { passive: false });
+
+    viewport.addEventListener('pointerdown', (event) => {
+      if (zoom <= 1 || event.pointerType === 'touch') return;
+      dragStart = { x: event.clientX, y: event.clientY, panX, panY };
+      viewport.classList.add('is-dragging');
+      viewport.setPointerCapture(event.pointerId);
+    });
+    viewport.addEventListener('pointermove', (event) => {
+      if (!dragStart) return;
+      panX = dragStart.panX + event.clientX - dragStart.x;
+      panY = dragStart.panY + event.clientY - dragStart.y;
+      updateZoom(zoom);
+    });
+    viewport.addEventListener('pointerup', () => {
+      dragStart = null;
+      viewport.classList.remove('is-dragging');
+    });
+    viewport.addEventListener('pointercancel', () => {
+      dragStart = null;
+      viewport.classList.remove('is-dragging');
+    });
+
+    viewport.addEventListener('touchstart', (event) => {
+      if (event.touches.length === 2) {
+        pinchStart = { distance: distance(event.touches), zoom };
+        touchPanStart = null;
+      } else if (event.touches.length === 1 && zoom > 1) {
+        touchPanStart = { x: event.touches[0].clientX, y: event.touches[0].clientY, panX, panY };
+      }
+    }, { passive: true });
+    viewport.addEventListener('touchmove', (event) => {
+      if (pinchStart && event.touches.length === 2) {
+        event.preventDefault();
+        updateZoom(pinchStart.zoom * (distance(event.touches) / pinchStart.distance));
+        return;
+      }
+      if (touchPanStart && event.touches.length === 1) {
+        event.preventDefault();
+        panX = touchPanStart.panX + event.touches[0].clientX - touchPanStart.x;
+        panY = touchPanStart.panY + event.touches[0].clientY - touchPanStart.y;
+        updateZoom(zoom);
+      }
+    }, { passive: false });
+    viewport.addEventListener('touchend', () => {
+      pinchStart = null;
+      touchPanStart = null;
+    }, { passive: true });
+
+    attachSwipe(openButton);
+    attachSwipe(viewport);
+
+    document.addEventListener('keydown', (event) => {
+      if (!lightbox.classList.contains('is-open')) return;
+      if (event.key === 'Escape') closeLightbox();
+      if (event.key === 'ArrowLeft') move(-1);
+      if (event.key === 'ArrowRight') move(1);
+      if (event.key === '+' || event.key === '=') updateZoom(zoom + .35);
+      if (event.key === '-') updateZoom(zoom - .35);
+      if (event.key === '0') updateZoom(1, true);
+    });
+
+    render();
+  }
+
+  setupGallery();
+
   updateCountdown();
   window.setInterval(updateCountdown, 60000);
 })();
