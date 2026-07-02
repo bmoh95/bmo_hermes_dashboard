@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 16:26:26 KST",
+  "checkedAt": "2026-07-02 16:34:27 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -317,7 +317,7 @@
         "enchant": "+0",
         "name": "계승자의 서 (스킬 블록 Ⅰ)",
         "price": "15다이아",
-        "note": "중앙 29.5 • 초저가 의심",
+        "note": "중앙 29 • 초저가 의심",
         "raw": {
           "itemId": 500304027,
           "itemName": "계승자의 서 (스킬 블록 Ⅰ)",
@@ -325,7 +325,7 @@
           "salePrice": 15.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 29.5
+          "median": 29.0
         }
       },
       {
@@ -383,15 +383,15 @@
         "enchant": "+3",
         "name": "마제스틱 네크리스 (초월 +1)",
         "price": "412다이아",
-        "note": "중앙 600 • 저가",
+        "note": "중앙 650 • 초저가 의심",
         "raw": {
           "itemId": 360130007,
           "itemName": "+3 마제스틱 네크리스 (초월 +1)",
           "enchantLevel": 3,
           "salePrice": 412.0,
           "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 600.0
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 650.0
         }
       },
       {
