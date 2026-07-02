@@ -1,4 +1,15 @@
 (() => {
+  function revealInvitation() {
+    document.documentElement.classList.remove('fonts-loading');
+  }
+
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(revealInvitation, revealInvitation);
+    window.setTimeout(revealInvitation, 1800);
+  } else {
+    revealInvitation();
+  }
+
   const weddingStart = new Date('2026-11-22T15:30:00+09:00');
   const weddingEnd = new Date('2026-11-22T17:30:00+09:00');
   const dday = document.getElementById('d-day');

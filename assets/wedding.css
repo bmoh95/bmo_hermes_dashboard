@@ -11,12 +11,13 @@
 
 * { box-sizing: border-box; }
 html { scroll-behavior: auto; }
+.fonts-loading .invitation { visibility: hidden; }
 body {
   margin: 0;
   min-height: 100%;
   background: #f7f3ef;
   color: var(--wedding-ink);
-  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif;
+  font-family: "Noto Serif KR", "Apple SD Gothic Neo", serif;
   font-weight: 300;
   overflow-x: hidden;
   position: relative;
@@ -68,7 +69,7 @@ body {
 .section-label {
   margin: 0 0 14px;
   color: var(--wedding-accent-dark);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Cormorant Garamond", Georgia, serif;
   font-size: 13px;
   font-weight: 600;
   letter-spacing: .28em;
@@ -78,7 +79,7 @@ body {
 .lettering {
   margin: 0 auto 22px;
   color: #14100e;
-  font-family: "Snell Roundhand", "Apple Chancery", "Segoe Script", "Brush Script MT", cursive;
+  font-family: "Oooh Baby", "Brush Script MT", cursive;
   font-size: clamp(70px, 24vw, 116px);
   font-weight: 400;
   line-height: .74;
@@ -106,7 +107,7 @@ body {
 .english-names {
   margin: 0;
   color: var(--wedding-muted);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Cormorant Garamond", Georgia, serif;
   font-size: 12px;
   font-weight: 600;
   letter-spacing: .18em;
@@ -153,7 +154,7 @@ body {
   gap: 4px;
   justify-items: center;
   margin: 0 auto 12px;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Cormorant Garamond", Georgia, serif;
 }
 .date-lockup .day {
   font-size: 25px;
@@ -176,7 +177,7 @@ body {
 
 h2 {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif;
+  font-family: "Noto Serif KR", "Apple SD Gothic Neo", serif;
   font-size: 24px;
   font-weight: 400;
   line-height: 1.55;
@@ -190,6 +191,11 @@ h2 span { color: var(--wedding-accent-dark); }
 .gallery-section,
 .account-section,
 .closing-section { text-align: center; }
+.date-section { min-height: 717px; }
+.place-section { min-height: 281px; }
+.gallery-section { min-height: 945px; }
+.account-section { min-height: 410px; }
+.closing-section { min-height: 345px; }
 .countdown {
   display: grid;
   gap: 5px;
@@ -201,7 +207,7 @@ h2 span { color: var(--wedding-accent-dark); }
   min-height: 104px;
 }
 .countdown strong {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Cormorant Garamond", Georgia, serif;
   font-size: 31px;
   font-weight: 600;
   letter-spacing: .02em;
@@ -220,7 +226,7 @@ h2 span { color: var(--wedding-accent-dark); }
 }
 .calendar-head {
   margin-bottom: 12px;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Cormorant Garamond", Georgia, serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: .16em;
@@ -234,14 +240,14 @@ h2 span { color: var(--wedding-accent-dark); }
   padding: 0;
   list-style: none;
 }
-.weekdays { margin-bottom: 8px; color: var(--wedding-muted); font-family: Georgia, "Times New Roman", serif; font-size: 12px; font-weight: 600; }
+.weekdays { margin-bottom: 8px; color: var(--wedding-muted); font-family: "Cormorant Garamond", Georgia, serif; font-size: 12px; font-weight: 600; }
 .dates li {
   display: grid;
   place-items: center;
   aspect-ratio: 1;
   border-radius: 999px;
   color: #5b514b;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: "Cormorant Garamond", Georgia, serif;
   font-size: 15px;
   font-weight: 600;
 }
@@ -440,7 +446,7 @@ h2 span { color: var(--wedding-accent-dark); }
 
 .closing-section { padding-bottom: 40px; }
 .closing-lettering {
-  font-family: "Snell Roundhand", "Apple Chancery", "Segoe Script", "Brush Script MT", cursive;
+  font-family: "Oooh Baby", "Brush Script MT", cursive;
   font-size: 54px;
   font-weight: 400;
   line-height: .9;
