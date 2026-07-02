@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 19:55:51 KST",
+  "checkedAt": "2026-07-02 20:03:52 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -141,7 +141,7 @@
         "enchant": "+9",
         "name": "싸울아비 장검",
         "price": "30다이아",
-        "note": "중앙 57.5 • 초저가 의심",
+        "note": "중앙 57 • 초저가 의심",
         "raw": {
           "itemId": 100140003,
           "itemName": "+9 싸울아비 장검",
@@ -149,7 +149,7 @@
           "salePrice": 30.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 57.5
+          "median": 57.0
         }
       },
       {
@@ -269,7 +269,7 @@
         "enchant": "+3",
         "name": "말룩의 목걸이",
         "price": "30다이아",
-        "note": "중앙 70.5 • 초저가 의심",
+        "note": "중앙 71 • 초저가 의심",
         "raw": {
           "itemId": 300140015,
           "itemName": "+3 말룩의 목걸이",
@@ -277,7 +277,7 @@
           "salePrice": 30.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 70.5
+          "median": 71.0
         }
       },
       {
@@ -428,6 +428,22 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+3",
+        "name": "광휘의 반지 (초월 +3)",
+        "price": "750다이아",
+        "note": "중앙 1,000 • 하위권",
+        "raw": {
+          "itemId": 360330211,
+          "itemName": "+3 광휘의 반지 (초월 +3)",
+          "enchantLevel": 3,
+          "salePrice": 750.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 1000.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+1",
         "name": "아나킴의 영혼 목걸이 (초월 +1)",
         "price": "880다이아",
@@ -463,7 +479,7 @@
         "enchant": "+6",
         "name": "잊혀진 영웅의 흉갑",
         "price": "200다이아",
-        "note": "중앙 330 • 초저가 의심",
+        "note": "중앙 331 • 초저가 의심",
         "raw": {
           "itemId": 200130010,
           "itemName": "+6 잊혀진 영웅의 흉갑",
@@ -471,7 +487,7 @@
           "salePrice": 200.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 330.0
+          "median": 331.0
         }
       },
       {
@@ -536,6 +552,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1169.5
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+7",
+        "name": "영혼의 검 (초월 +2)",
+        "price": "700다이아",
+        "note": "중앙 1,172 • 초저가 의심",
+        "raw": {
+          "itemId": 161430104,
+          "itemName": "+7 영혼의 검 (초월 +2)",
+          "enchantLevel": 7,
+          "salePrice": 700.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 1172.0
         }
       },
       {
