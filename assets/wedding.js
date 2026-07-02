@@ -52,46 +52,16 @@
     }
   }
 
-  function makeIcs() {
-    const lines = [
-      'BEGIN:VCALENDAR',
-      'VERSION:2.0',
-      'PRODID:-//BMO Hermes Dashboard//Wedding Invitation//KO',
-      'CALSCALE:GREGORIAN',
-      'METHOD:PUBLISH',
-      'BEGIN:VEVENT',
-      'UID:yongtae-sujin-wedding-20261122@bmo-hermes-dashboard',
-      'DTSTAMP:20260702T000000Z',
-      'DTSTART:20261122T063000Z',
-      'DTEND:20261122T083000Z',
-      'SUMMARY:박용태 · 나수진 결혼식',
-      'LOCATION:더채플앳청담 커티지홀',
-      'DESCRIPTION:박용태와 나수진의 결혼식에 초대합니다.',
-      'END:VEVENT',
-      'END:VCALENDAR'
-    ];
-    return lines.join('\r\n');
-  }
+  document.querySelectorAll('.calendar-link').forEach((link) => {
+    link.addEventListener('click', () => {
+      const label = link.dataset.calendarLabel || '캘린더';
+      showToast(`${label} 등록 화면을 엽니다.`);
+    });
+  });
 
   document.querySelectorAll('.copy-button').forEach((button) => {
     button.addEventListener('click', () => copyText(button.dataset.copy || ''));
   });
-
-  const calendarButton = document.getElementById('calendar-download');
-  if (calendarButton) {
-    calendarButton.addEventListener('click', () => {
-      const blob = new Blob([makeIcs()], { type: 'text/calendar;charset=utf-8' });
-      const url = URL.createObjectURL(blob);
-      const link = document.createElement('a');
-      link.href = url;
-      link.download = 'yongtae-sujin-wedding.ics';
-      document.body.appendChild(link);
-      link.click();
-      link.remove();
-      URL.revokeObjectURL(url);
-      showToast('캘린더 파일을 저장했습니다.');
-    });
-  }
 
   const shareButton = document.getElementById('share-invitation');
   if (shareButton) {

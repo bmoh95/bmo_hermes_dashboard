@@ -267,6 +267,20 @@ h2 span { color: var(--wedding-accent-dark); }
   box-shadow: 0 8px 18px rgba(27, 23, 21, .18);
 }
 
+.calendar-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: 18px;
+}
+.calendar-link { width: 100%; }
+.calendar-hint {
+  margin: 10px 0 0;
+  color: var(--wedding-muted);
+  font-size: 13px;
+  line-height: 1.55;
+}
+
 .place-copy,
 .account-note,
 .closing-section p {
@@ -312,7 +326,6 @@ h2 span { color: var(--wedding-accent-dark); }
 .solid-button:hover,
 .outline-button:hover,
 .copy-button:hover { transform: translateY(-1px); }
-.date-section > .outline-button { width: 100%; }
 
 .account-groups {
   display: grid;
@@ -467,7 +480,8 @@ h2 span { color: var(--wedding-accent-dark); }
   .names { font-size: 19px; letter-spacing: .18em; }
   .cover-family { grid-template-columns: minmax(0, 1fr) 16px minmax(0, 1fr); gap: 6px; }
   .cover-family span { font-size: 9.5px; letter-spacing: -.07em; }
-  .map-actions { grid-template-columns: 1fr; }
+  .map-actions,
+  .calendar-actions { grid-template-columns: 1fr; }
   .account-card { grid-template-columns: 1fr; }
   .copy-button { width: 100%; }
 }

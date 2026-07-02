@@ -60,7 +60,11 @@
           <li>29</li><li>30</li><li></li><li></li><li></li><li></li><li></li>
         </ol>
       </div>
-      <button class="outline-button" type="button" id="calendar-download">일정 저장하기</button>
+      <div class="calendar-actions" aria-label="일정 등록 방식 선택">
+        <a class="solid-button calendar-link" data-calendar-label="Google 캘린더" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=%EB%B0%95%EC%9A%A9%ED%83%9C%20%C2%B7%20%EB%82%98%EC%88%98%EC%A7%84%20%EA%B2%B0%ED%98%BC%EC%8B%9D&amp;dates=20261122T063000Z%2F20261122T083000Z&amp;ctz=Asia%2FSeoul&amp;location=%EB%8D%94%EC%B1%84%ED%94%8C%EC%95%B3%EC%B2%AD%EB%8B%B4%20%EC%BB%A4%ED%8B%B0%EC%A7%80%ED%99%80%2C%20%EC%84%9C%EC%9A%B8%20%EA%B0%95%EB%82%A8%EA%B5%AC%20%EC%84%A0%EB%A6%89%EB%A1%9C%20757&amp;details=%EB%B0%95%EC%9A%A9%ED%83%9C%EC%99%80%20%EB%82%98%EC%88%98%EC%A7%84%EC%9D%98%20%EA%B2%B0%ED%98%BC%EC%8B%9D%EC%97%90%20%EC%B4%88%EB%8C%80%ED%95%A9%EB%8B%88%EB%8B%A4.&amp;sf=true&amp;output=xml" target="_blank" rel="noopener">Google 캘린더</a>
+        <a class="outline-button calendar-link" data-calendar-label="iPhone 캘린더" href="wedding.ics" target="_blank" rel="noopener" type="text/calendar">iPhone 캘린더</a>
+      </div>
+      <p class="calendar-hint">Android는 Google 캘린더로, iPhone은 기본 캘린더로 등록됩니다.</p>
     </section>
 
     <section class="card-section place-section" aria-labelledby="place-heading">
