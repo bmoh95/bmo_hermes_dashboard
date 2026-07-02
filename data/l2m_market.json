@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 17:14:31 KST",
+  "checkedAt": "2026-07-02 17:22:57 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -333,7 +333,7 @@
         "enchant": "+0",
         "name": "마검 비술서 (포텐시)",
         "price": "20다이아",
-        "note": "중앙 34 • 초저가 의심",
+        "note": "중앙 38 • 초저가 의심",
         "raw": {
           "itemId": 503294006,
           "itemName": "마검 비술서 (포텐시)",
@@ -341,7 +341,7 @@
           "salePrice": 20.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 34.0
+          "median": 38.0
         }
       },
       {
@@ -349,7 +349,7 @@
         "enchant": "+0",
         "name": "요새의 견갑",
         "price": "430다이아",
-        "note": "중앙 560 • 저가",
+        "note": "중앙 545 • 저가",
         "raw": {
           "itemId": 200940020,
           "itemName": "요새의 견갑",
@@ -357,7 +357,7 @@
           "salePrice": 430.0,
           "category": "방어구",
           "dealLabel": "아이템별 저가",
-          "median": 560.0
+          "median": 545.0
         }
       }
     ],
@@ -456,22 +456,6 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 255.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+7",
-        "name": "테르시의 서클릿",
-        "price": "153다이아",
-        "note": "중앙 494 • 초저가 의심",
-        "raw": {
-          "itemId": 200530007,
-          "itemName": "+7 테르시의 서클릿",
-          "enchantLevel": 7,
-          "salePrice": 153.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 494.0
         }
       },
       {
