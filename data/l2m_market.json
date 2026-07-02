@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 12:32:51 KST",
+  "checkedAt": "2026-07-02 12:40:53 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -125,7 +125,7 @@
         "enchant": "+9",
         "name": "너바나",
         "price": "55다이아",
-        "note": "중앙 90 • 초저가 의심",
+        "note": "중앙 87.5 • 초저가 의심",
         "raw": {
           "itemId": 100640006,
           "itemName": "+9 너바나",
@@ -133,7 +133,7 @@
           "salePrice": 55.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 90.0
+          "median": 87.5
         }
       },
       {
@@ -189,7 +189,7 @@
         "enchant": "+9",
         "name": "악마의 활",
         "price": "420다이아",
-        "note": "중앙 540 • 저가",
+        "note": "중앙 545 • 저가",
         "raw": {
           "itemId": 100440008,
           "itemName": "+9 악마의 활",
@@ -197,7 +197,7 @@
           "salePrice": 420.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 540.0
+          "median": 545.0
         }
       },
       {
@@ -253,7 +253,7 @@
         "enchant": "+5",
         "name": "헤르문쿠스의 목걸이",
         "price": "50다이아",
-        "note": "중앙 130 • 초저가 의심",
+        "note": "중앙 129.5 • 초저가 의심",
         "raw": {
           "itemId": 300140009,
           "itemName": "+5 헤르문쿠스의 목걸이",
@@ -261,7 +261,7 @@
           "salePrice": 50.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 130.0
+          "median": 129.5
         }
       },
       {
