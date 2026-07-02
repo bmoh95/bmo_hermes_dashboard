@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 19:31:47 KST",
+  "checkedAt": "2026-07-02 19:39:49 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -22,6 +22,22 @@
       }
     ],
     "uncommon": [
+      {
+        "kind": "악세사리",
+        "enchant": "+1",
+        "name": "흑광의 목걸이",
+        "price": "10다이아",
+        "note": "중앙 19.5 • 초저가 의심",
+        "raw": {
+          "itemId": 300150003,
+          "itemName": "+1 흑광의 목걸이",
+          "enchantLevel": 1,
+          "salePrice": 10.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 19.5
+        }
+      },
       {
         "kind": "악세사리",
         "enchant": "+0",
@@ -251,6 +267,22 @@
       {
         "kind": "악세사리",
         "enchant": "+3",
+        "name": "말룩의 목걸이",
+        "price": "30다이아",
+        "note": "중앙 70.5 • 초저가 의심",
+        "raw": {
+          "itemId": 300140015,
+          "itemName": "+3 말룩의 목걸이",
+          "enchantLevel": 3,
+          "salePrice": 30.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 70.5
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+3",
         "name": "미궁의 목걸이",
         "price": "30다이아",
         "note": "중앙 38.5 • 저가",
@@ -348,6 +380,22 @@
       },
       {
         "kind": "악세사리",
+        "enchant": "+1",
+        "name": "사멸의 벨트",
+        "price": "220다이아",
+        "note": "중앙 333 • 하위권",
+        "raw": {
+          "itemId": 300430006,
+          "itemName": "+1 사멸의 벨트",
+          "enchantLevel": 1,
+          "salePrice": 220.0,
+          "category": "악세사리",
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 333.0
+        }
+      },
+      {
+        "kind": "악세사리",
         "enchant": "+3",
         "name": "마제스틱 네크리스 (초월 +1)",
         "price": "412다이아",
@@ -424,22 +472,6 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 330.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+3",
-        "name": "패러디아 시길",
-        "price": "425다이아",
-        "note": "중앙 720 • 초저가 의심",
-        "raw": {
-          "itemId": 200830003,
-          "itemName": "+3 패러디아 시길",
-          "enchantLevel": 3,
-          "salePrice": 425.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 720.0
         }
       },
       {
@@ -527,15 +559,15 @@
         "enchant": "+0",
         "name": "전투 기술서 (윌 오브 아이언)",
         "price": "150다이아",
-        "note": "중앙 236 • 초저가 의심",
+        "note": "중앙 222 • 하위권",
         "raw": {
           "itemId": 500313003,
           "itemName": "전투 기술서 (윌 오브 아이언)",
           "enchantLevel": 0,
           "salePrice": 150.0,
           "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 236.0
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 222.0
         }
       }
     ],
