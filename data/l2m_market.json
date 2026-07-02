@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 13:20:59 KST",
+  "checkedAt": "2026-07-02 13:29:00 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -125,7 +125,7 @@
         "enchant": "+9",
         "name": "너바나",
         "price": "55다이아",
-        "note": "중앙 87.5 • 초저가 의심",
+        "note": "중앙 87 • 초저가 의심",
         "raw": {
           "itemId": 100640006,
           "itemName": "+9 너바나",
@@ -133,7 +133,7 @@
           "salePrice": 55.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 87.5
+          "median": 87.0
         }
       },
       {
