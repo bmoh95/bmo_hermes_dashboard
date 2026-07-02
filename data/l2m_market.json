@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 09:51:27 KST",
+  "checkedAt": "2026-07-02 09:59:29 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -43,7 +43,7 @@
         "enchant": "+2",
         "name": "페트람의 유물",
         "price": "35다이아",
-        "note": "중앙 57.5 • 초저가 의심",
+        "note": "중앙 55 • 초저가 의심",
         "raw": {
           "itemId": 301150008,
           "itemName": "+2 페트람의 유물",
@@ -51,7 +51,7 @@
           "salePrice": 35.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 57.5
+          "median": 55.0
         }
       },
       {
