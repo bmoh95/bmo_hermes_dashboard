@@ -148,14 +148,6 @@ body::before {
   letter-spacing: -.04em;
   word-break: keep-all;
 }
-.cover-family strong {
-  display: block;
-  margin: 0;
-  color: #211c18;
-  font-size: 16px;
-  font-weight: 600;
-  letter-spacing: .12em;
-}
 .cover-family i {
   display: block;
   width: 1px;
@@ -471,7 +463,6 @@ h2 span { color: var(--wedding-accent-dark); }
   .names { font-size: 19px; letter-spacing: .18em; }
   .cover-family { grid-template-columns: minmax(0, 1fr) 16px minmax(0, 1fr); gap: 6px; }
   .cover-family span { font-size: 9.5px; letter-spacing: -.07em; }
-  .cover-family strong { font-size: 14px; }
   .map-actions { grid-template-columns: 1fr; }
   .account-card { grid-template-columns: 1fr; }
   .copy-button { width: 100%; }
