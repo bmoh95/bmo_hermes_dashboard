@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 23:55:28 KST",
+  "checkedAt": "2026-07-03 00:04:10 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -25,7 +25,7 @@
         "enchant": "+3",
         "name": "타이거 아이",
         "price": "10다이아",
-        "note": "중앙 21 • 초저가 의심",
+        "note": "중앙 20 • 초저가 의심",
         "raw": {
           "itemId": 300260007,
           "itemName": "+3 타이거 아이",
@@ -33,7 +33,7 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 21.0
+          "median": 20.0
         }
       },
       {
@@ -41,7 +41,7 @@
         "enchant": "+5",
         "name": "빛바랜 유물",
         "price": "650다이아",
-        "note": "중앙 898.5 • 저가",
+        "note": "중앙 898 • 저가",
         "raw": {
           "itemId": 301160001,
           "itemName": "+5 빛바랜 유물",
@@ -49,7 +49,7 @@
           "salePrice": 650.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 898.5
+          "median": 898.0
         }
       }
     ],
@@ -221,7 +221,7 @@
         "enchant": "+4",
         "name": "마염의 반지",
         "price": "15다이아",
-        "note": "중앙 26 • 초저가 의심",
+        "note": "중앙 25.5 • 초저가 의심",
         "raw": {
           "itemId": 300340013,
           "itemName": "+4 마염의 반지",
@@ -229,7 +229,7 @@
           "salePrice": 15.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 26.0
+          "median": 25.5
         }
       },
       {
@@ -246,6 +246,22 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 26.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+0",
+        "name": "혹한의 귀걸이",
+        "price": "20다이아",
+        "note": "중앙 25 • 저가",
+        "raw": {
+          "itemId": 300240011,
+          "itemName": "혹한의 귀걸이",
+          "enchantLevel": 0,
+          "salePrice": 20.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 25.0
         }
       },
       {
