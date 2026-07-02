@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 14:18:07 KST",
+  "checkedAt": "2026-07-02 14:26:08 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -301,7 +301,7 @@
         "enchant": "+5",
         "name": "사령 템페스트의 목걸이",
         "price": "73다이아",
-        "note": "중앙 87 • 저가",
+        "note": "중앙 93 • 저가",
         "raw": {
           "itemId": 300140002,
           "itemName": "+5 사령 템페스트의 목걸이",
@@ -309,7 +309,7 @@
           "salePrice": 73.0,
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
-          "median": 87.0
+          "median": 93.0
         }
       },
       {
@@ -488,6 +488,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 1140.0
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+7",
+        "name": "영혼의 검 (초월 +2)",
+        "price": "700다이아",
+        "note": "중앙 1,172 • 초저가 의심",
+        "raw": {
+          "itemId": 161430104,
+          "itemName": "+7 영혼의 검 (초월 +2)",
+          "enchantLevel": 7,
+          "salePrice": 700.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 1172.0
         }
       },
       {
