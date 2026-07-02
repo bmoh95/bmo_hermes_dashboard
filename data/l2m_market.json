@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 18:11:37 KST",
+  "checkedAt": "2026-07-02 18:19:37 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -68,22 +68,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 55.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+3",
-        "name": "광신도의 유물",
-        "price": "43다이아",
-        "note": "중앙 51.5 • 저가",
-        "raw": {
-          "itemId": 301150002,
-          "itemName": "+3 광신도의 유물",
-          "enchantLevel": 3,
-          "salePrice": 43.0,
-          "category": "악세사리",
-          "dealLabel": "아이템별 저가",
-          "median": 51.5
         }
       },
       {
@@ -495,7 +479,7 @@
         "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 1,199 • 초저가 의심",
+        "note": "중앙 1,200 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -503,7 +487,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1199.0
+          "median": 1200.0
         }
       },
       {
@@ -511,7 +495,7 @@
         "enchant": "+7",
         "name": "영혼의 검 (초월 +2)",
         "price": "700다이아",
-        "note": "중앙 1,195 • 초저가 의심",
+        "note": "중앙 1,172 • 초저가 의심",
         "raw": {
           "itemId": 161430104,
           "itemName": "+7 영혼의 검 (초월 +2)",
@@ -519,7 +503,7 @@
           "salePrice": 700.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1195.0
+          "median": 1172.0
         }
       },
       {
