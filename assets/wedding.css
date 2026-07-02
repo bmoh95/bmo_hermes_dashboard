@@ -1,0 +1,629 @@
+:root {
+  --wedding-bg: #f7f3ef;
+  --wedding-card: #fffdfa;
+  --wedding-ink: #1b1715;
+  --wedding-muted: #7b716b;
+  --wedding-line: #e7ded6;
+  --wedding-accent: #b6947d;
+  --wedding-accent-dark: #7b5c49;
+  --wedding-shadow: none;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: auto; }
+.fonts-loading .invitation { visibility: hidden; }
+body {
+  margin: 0;
+  min-height: 100%;
+  background: #f7f3ef;
+  color: var(--wedding-ink);
+  font-family: "Noto Serif KR", "Apple SD Gothic Neo", serif;
+  font-weight: 300;
+  overflow-x: hidden;
+  position: relative;
+  -webkit-font-smoothing: antialiased;
+}
+
+.invitation {
+  position: relative;
+  width: min(100%, 430px);
+  margin: 0 auto;
+  padding: 0 24px 40px;
+  background: #fffdfa;
+}
+
+.card-section {
+  position: relative;
+  margin: 0;
+  padding: 54px 0;
+  border: 0;
+  border-bottom: 1px solid var(--wedding-line);
+  background: transparent;
+}
+.card-section:last-of-type { border-bottom: 0; }
+
+.cover {
+  min-height: 720px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.cover::before,
+.cover::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 76%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(123, 92, 73, .28), transparent);
+}
+.cover::before { top: 28px; }
+.cover::after { bottom: 28px; }
+
+.kicker,
+.section-label {
+  margin: 0 0 14px;
+  color: var(--wedding-accent-dark);
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: .28em;
+  text-transform: uppercase;
+}
+
+.lettering {
+  margin: 0 auto 22px;
+  color: #14100e;
+  font-family: "Oooh Baby", "Brush Script MT", cursive;
+  font-size: clamp(70px, 24vw, 116px);
+  font-weight: 400;
+  line-height: .74;
+  letter-spacing: -.035em;
+  text-wrap: balance;
+}
+.lettering span { display: inline-block; transform: translateY(.08em) rotate(-7deg); }
+
+.names {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin: 8px auto 6px;
+  font-size: 21px;
+  font-weight: 500;
+  letter-spacing: .22em;
+}
+.names i {
+  display: block;
+  width: 34px;
+  height: 1px;
+  background: var(--wedding-line);
+}
+.english-names {
+  margin: 0;
+  color: var(--wedding-muted);
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: .18em;
+}
+.cover-family {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 20px minmax(0, 1fr);
+  align-items: center;
+  gap: 8px;
+  width: min(100%, 330px);
+  margin: 22px auto 0;
+  color: #5f554f;
+}
+.cover-family .family-side {
+  display: grid;
+  gap: 3px;
+  min-width: 0;
+}
+.cover-family .family-side:first-child { text-align: right; }
+.cover-family .family-side:last-child { text-align: left; }
+.cover-family span {
+  display: block;
+  font-size: 10.5px;
+  line-height: 1.45;
+  letter-spacing: -.04em;
+  word-break: keep-all;
+}
+.cover-family i {
+  display: block;
+  width: 1px;
+  height: 36px;
+  justify-self: center;
+  background: var(--wedding-line);
+}
+.intro {
+  margin: 28px 0 30px;
+  color: #4d4540;
+  font-size: 15px;
+  line-height: 1.9;
+  word-break: keep-all;
+}
+.date-lockup {
+  display: grid;
+  gap: 4px;
+  justify-items: center;
+  margin: 0 auto 12px;
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+.date-lockup .day {
+  font-size: 25px;
+  font-weight: 600;
+  letter-spacing: .08em;
+}
+.date-lockup .time {
+  color: var(--wedding-muted);
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: .2em;
+}
+.venue {
+  margin: 16px 0 0;
+  color: var(--wedding-accent-dark);
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: .08em;
+}
+
+h2 {
+  margin: 0;
+  font-family: "Noto Serif KR", "Apple SD Gothic Neo", serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.55;
+  letter-spacing: -.04em;
+  word-break: keep-all;
+}
+h2 span { color: var(--wedding-accent-dark); }
+
+.date-section,
+.place-section,
+.gallery-section,
+.account-section,
+.closing-section { text-align: center; }
+.countdown {
+  display: grid;
+  gap: 5px;
+  margin: 22px 0;
+  padding: 16px 0;
+  border-top: 1px solid var(--wedding-line);
+  border-bottom: 1px solid var(--wedding-line);
+  min-height: 104px;
+}
+.countdown strong {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 31px;
+  font-weight: 600;
+  letter-spacing: .02em;
+}
+.countdown span {
+  color: var(--wedding-muted);
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.calendar-box {
+  margin: 10px 0 18px;
+  padding: 18px 0 16px;
+}
+.calendar-head {
+  margin-bottom: 12px;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: .16em;
+}
+.weekdays,
+.dates {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.weekdays { margin-bottom: 8px; color: var(--wedding-muted); font-family: "Cormorant Garamond", Georgia, serif; font-size: 12px; font-weight: 600; }
+.dates li {
+  display: grid;
+  place-items: center;
+  aspect-ratio: 1;
+  border-radius: 999px;
+  color: #5b514b;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 15px;
+  font-weight: 600;
+}
+.dates .selected {
+  color: #fff;
+  background: var(--wedding-ink);
+}
+
+.calendar-add-button {
+  width: 100%;
+  margin-top: 18px;
+}
+.calendar-hint {
+  margin: 10px 0 0;
+  color: var(--wedding-muted);
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.place-copy,
+.gallery-copy,
+.account-note,
+.closing-section p {
+  margin: 14px 0 0;
+  color: var(--wedding-muted);
+  font-size: 14px;
+  line-height: 1.75;
+}
+.gallery-carousel {
+  position: relative;
+  margin-top: 22px;
+  padding-bottom: 4px;
+}
+.gallery-stage {
+  appearance: none;
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  border-radius: 0;
+  background: #f8f1eb;
+  aspect-ratio: 4 / 5;
+  cursor: zoom-in;
+}
+.gallery-stage img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.gallery-arrow,
+.lightbox-arrow {
+  appearance: none;
+  position: absolute;
+  z-index: 2;
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 52px;
+  border: 0;
+  color: #fff;
+  background: rgba(27, 23, 21, .38);
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 38px;
+  line-height: 1;
+  cursor: pointer;
+}
+.gallery-arrow { top: calc(50% - 52px); transform: translateY(-50%); }
+.gallery-arrow-prev { left: 0; }
+.gallery-arrow-next { right: 0; }
+.gallery-status {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 12px;
+  color: var(--wedding-muted);
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+}
+.gallery-status span:first-child {
+  color: var(--wedding-accent-dark);
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 15px;
+  letter-spacing: .08em;
+}
+.gallery-thumbs {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 12px;
+}
+.gallery-thumb {
+  appearance: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid transparent;
+  border-radius: 0;
+  background: transparent;
+  aspect-ratio: 1;
+  cursor: pointer;
+  opacity: .56;
+}
+.gallery-thumb.is-active {
+  border-color: var(--wedding-accent-dark);
+  opacity: 1;
+}
+.gallery-thumb img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.map-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: 22px;
+}
+
+.solid-button,
+.outline-button,
+.copy-button {
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  border-radius: 999px;
+  padding: 0 18px;
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+  font-size: 14px;
+  font-weight: 800;
+  text-decoration: none;
+  cursor: pointer;
+}
+.solid-button {
+  border: 1px solid var(--wedding-ink);
+  color: #fff;
+  background: var(--wedding-ink);
+}
+.outline-button {
+  border: 1px solid var(--wedding-line);
+  color: var(--wedding-ink);
+  background: #fffdf9;
+}
+.account-groups {
+  display: grid;
+  gap: 0;
+  margin-top: 22px;
+  text-align: left;
+  border-top: 1px solid var(--wedding-line);
+}
+.account-group {
+  overflow: hidden;
+  border: 0;
+  border-bottom: 1px solid var(--wedding-line);
+  background: transparent;
+}
+.account-group summary {
+  list-style: none;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 8px 12px;
+  align-items: center;
+  min-height: 72px;
+  padding: 16px 0;
+  cursor: pointer;
+  user-select: none;
+}
+.account-group summary::-webkit-details-marker { display: none; }
+.account-group summary span {
+  color: var(--wedding-ink);
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: .08em;
+}
+.account-group summary small {
+  grid-column: 1 / -1;
+  color: var(--wedding-muted);
+  font-size: 13px;
+  line-height: 1.45;
+}
+.account-group summary::after {
+  content: '⌄';
+  grid-column: 2;
+  grid-row: 1;
+  justify-self: end;
+  display: grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  color: var(--wedding-accent-dark);
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+  font-size: 21px;
+  font-weight: 800;
+  line-height: 1;
+}
+.account-group[open] summary { border-bottom: 1px solid var(--wedding-line); }
+.account-group[open] summary::after { content: '⌃'; }
+.account-list {
+  display: grid;
+  gap: 0;
+  margin: 0;
+}
+.account-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 12px;
+  align-items: center;
+  padding: 15px 0;
+  border: 0;
+  border-bottom: 1px solid rgba(231, 222, 214, .72);
+  background: transparent;
+}
+.account-card:last-child { border-bottom: 0; }
+.account-card.temp-account { background: transparent; }
+.account-card .role {
+  display: block;
+  margin-bottom: 5px;
+  color: var(--wedding-accent-dark);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .12em;
+}
+.account-card strong {
+  display: block;
+  margin-bottom: 4px;
+  font-size: 18px;
+  font-weight: 500;
+}
+.account-card p {
+  margin: 0;
+  color: #5b514b;
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1.45;
+  white-space: nowrap;
+}
+.copy-button {
+  min-height: 40px;
+  border: 1px solid #dacabc;
+  color: var(--wedding-accent-dark);
+  background: #fff;
+}
+
+.closing-section { padding-bottom: 40px; }
+.closing-lettering {
+  font-family: "Oooh Baby", "Brush Script MT", cursive;
+  font-size: 54px;
+  font-weight: 400;
+  line-height: .9;
+  letter-spacing: -.035em;
+}
+.closing-section .solid-button { width: 100%; margin-top: 24px; }
+
+body.lightbox-open { overflow: hidden; }
+.gallery-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 40;
+  display: grid;
+  grid-template-rows: 44px minmax(0, 1fr) 52px;
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
+  padding: max(18px, env(safe-area-inset-top)) 16px max(18px, env(safe-area-inset-bottom));
+  background: #100d0b;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+.gallery-lightbox.is-open {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+.lightbox-topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  min-height: 44px;
+  color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+  font-size: 13px;
+  font-weight: 800;
+}
+.lightbox-close,
+.lightbox-tools button {
+  appearance: none;
+  min-height: 38px;
+  border: 1px solid rgba(255, 255, 255, .24);
+  border-radius: 999px;
+  color: #fff;
+  background: rgba(255, 255, 255, .08);
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+  font-size: 13px;
+  font-weight: 800;
+}
+.lightbox-close { padding: 0 14px; }
+.lightbox-viewport {
+  position: relative;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+  min-height: 0;
+  touch-action: none;
+}
+.lightbox-viewport img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  transform: translate3d(var(--pan-x, 0px), var(--pan-y, 0px), 0) scale(var(--zoom, 1));
+  transform-origin: center center;
+  cursor: grab;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+.lightbox-viewport.is-dragging img { cursor: grabbing; }
+.lightbox-arrow {
+  top: 50%;
+  transform: translateY(-50%);
+  width: 42px;
+  height: 58px;
+  background: rgba(255, 255, 255, .14);
+}
+.lightbox-prev { left: 12px; }
+.lightbox-next { right: 12px; }
+.lightbox-tools {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  padding-top: 14px;
+}
+.lightbox-tools button { width: 100%; }
+
+.toast {
+  position: fixed;
+  left: 50%;
+  bottom: 22px;
+  z-index: 50;
+  transform: translate(-50%, 18px);
+  max-width: min(360px, calc(100% - 36px));
+  padding: 12px 16px;
+  border-radius: 999px;
+  color: #fff;
+  background: rgba(27, 23, 21, .92);
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif;
+  font-size: 13px;
+  font-weight: 800;
+  text-align: center;
+  opacity: 0;
+  pointer-events: none;
+}
+.toast.show { opacity: 1; transform: translate(-50%, 0); }
+
+@media (min-width: 720px) {
+  .invitation { padding-top: 30px; padding-bottom: 50px; }
+  .cover { min-height: 760px; }
+}
+
+@media (max-width: 360px) {
+  .invitation { padding-left: 14px; padding-right: 14px; }
+  .card-section { padding-top: 46px; padding-bottom: 46px; }
+  .cover { min-height: 680px; }
+  .lettering { font-size: 66px; }
+  .names { font-size: 19px; letter-spacing: .18em; }
+  .cover-family { grid-template-columns: minmax(0, 1fr) 16px minmax(0, 1fr); gap: 6px; }
+  .cover-family span { font-size: 9.5px; letter-spacing: -.07em; }
+  .map-actions { grid-template-columns: 1fr; }
+  .account-card { grid-template-columns: 1fr; }
+  .copy-button { width: 100%; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition: none !important; }
+}
