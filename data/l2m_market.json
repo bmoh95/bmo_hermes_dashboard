@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 12:40:53 KST",
+  "checkedAt": "2026-07-02 12:48:54 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -424,22 +424,6 @@
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
           "median": 255.0
-        }
-      },
-      {
-        "kind": "방어구",
-        "enchant": "+5",
-        "name": "인내의 각반",
-        "price": "180다이아",
-        "note": "중앙 386 • 초저가 의심",
-        "raw": {
-          "itemId": 200230008,
-          "itemName": "+5 인내의 각반",
-          "enchantLevel": 5,
-          "salePrice": 180.0,
-          "category": "방어구",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 386.0
         }
       },
       {
