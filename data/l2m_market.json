@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 10:56:37 KST",
+  "checkedAt": "2026-07-02 11:04:38 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -395,19 +395,19 @@
         }
       },
       {
-        "kind": "악세사리",
-        "enchant": "+1",
-        "name": "아나킴의 영혼 목걸이 (초월 +1)",
-        "price": "880다이아",
-        "note": "중앙 1,311 • 하위권",
+        "kind": "무기",
+        "enchant": "+0",
+        "name": "카오스 브레이커",
+        "price": "120다이아",
+        "note": "중앙 229 • 초저가 의심",
         "raw": {
-          "itemId": 360130002,
-          "itemName": "+1 아나킴의 영혼 목걸이 (초월 +1)",
-          "enchantLevel": 1,
-          "salePrice": 880.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 1311.0
+          "itemId": 100930001,
+          "itemName": "카오스 브레이커",
+          "enchantLevel": 0,
+          "salePrice": 120.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 229.0
         }
       },
       {
