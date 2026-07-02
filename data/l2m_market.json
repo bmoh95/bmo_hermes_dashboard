@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 13:37:01 KST",
+  "checkedAt": "2026-07-02 13:45:02 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -141,7 +141,7 @@
         "enchant": "+9",
         "name": "워피크",
         "price": "70다이아",
-        "note": "중앙 89.5 • 저가",
+        "note": "중앙 89 • 저가",
         "raw": {
           "itemId": 101340008,
           "itemName": "+9 워피크",
@@ -149,7 +149,7 @@
           "salePrice": 70.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 89.5
+          "median": 89.0
         }
       },
       {
