@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 22:42:16 KST",
+  "checkedAt": "2026-07-02 22:50:18 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -123,7 +123,7 @@
         "enchant": "+4",
         "name": "강철 손목 보호대",
         "price": "99다이아",
-        "note": "중앙 119 • 하위권",
+        "note": "중앙 123 • 하위권",
         "raw": {
           "itemId": 301550002,
           "itemName": "+4 강철 손목 보호대",
@@ -131,7 +131,7 @@
           "salePrice": 99.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 119.0
+          "median": 123.0
         }
       }
     ],
@@ -217,22 +217,6 @@
         }
       },
       {
-        "kind": "무기",
-        "enchant": "+9",
-        "name": "악마의 활",
-        "price": "420다이아",
-        "note": "중앙 545 • 저가",
-        "raw": {
-          "itemId": 100440008,
-          "itemName": "+9 악마의 활",
-          "enchantLevel": 9,
-          "salePrice": 420.0,
-          "category": "무기",
-          "dealLabel": "아이템별 저가",
-          "median": 545.0
-        }
-      },
-      {
         "kind": "악세사리",
         "enchant": "+4",
         "name": "마염의 반지",
@@ -285,7 +269,7 @@
         "enchant": "+4",
         "name": "헤르문쿠스의 목걸이",
         "price": "25다이아",
-        "note": "중앙 67.5 • 초저가 의심",
+        "note": "중앙 80 • 초저가 의심",
         "raw": {
           "itemId": 300140009,
           "itemName": "+4 헤르문쿠스의 목걸이",
@@ -293,7 +277,7 @@
           "salePrice": 25.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 67.5
+          "median": 80.0
         }
       },
       {
