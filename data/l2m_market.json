@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 14:10:06 KST",
+  "checkedAt": "2026-07-02 14:18:07 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -205,7 +205,7 @@
         "enchant": "+9",
         "name": "악마의 활",
         "price": "420다이아",
-        "note": "중앙 545 • 저가",
+        "note": "중앙 537.5 • 저가",
         "raw": {
           "itemId": 100440008,
           "itemName": "+9 악마의 활",
@@ -213,7 +213,7 @@
           "salePrice": 420.0,
           "category": "무기",
           "dealLabel": "아이템별 저가",
-          "median": 545.0
+          "median": 537.5
         }
       },
       {
@@ -495,7 +495,7 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 240 • 초저가 의심",
+        "note": "중앙 220 • 초저가 의심",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
@@ -503,7 +503,7 @@
           "salePrice": 137.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 240.0
+          "median": 220.0
         }
       }
     ],
