@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 20:43:58 KST",
+  "checkedAt": "2026-07-02 20:51:59 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -36,22 +36,6 @@
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
           "median": 19.5
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+0",
-        "name": "사원의 유물",
-        "price": "15다이아",
-        "note": "중앙 4,255 • 초저가 의심",
-        "raw": {
-          "itemId": 301150011,
-          "itemName": "사원의 유물",
-          "enchantLevel": 0,
-          "salePrice": 15.0,
-          "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 4255.0
         }
       },
       {
@@ -103,6 +87,22 @@
         }
       },
       {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "청동 벨트",
+        "price": "90다이아",
+        "note": "중앙 117 • 저가",
+        "raw": {
+          "itemId": 300450005,
+          "itemName": "+5 청동 벨트",
+          "enchantLevel": 5,
+          "salePrice": 90.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 117.0
+        }
+      },
+      {
         "kind": "손목",
         "enchant": "+4",
         "name": "강철 손목 보호대",
@@ -120,6 +120,22 @@
       }
     ],
     "rare": [
+      {
+        "kind": "무기",
+        "enchant": "+8",
+        "name": "트롬바의 송곳니",
+        "price": "13다이아",
+        "note": "중앙 28 • 초저가 의심",
+        "raw": {
+          "itemId": 101140005,
+          "itemName": "+8 트롬바의 송곳니",
+          "enchantLevel": 8,
+          "salePrice": 13.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 28.0
+        }
+      },
       {
         "kind": "무기",
         "enchant": "+8",
@@ -150,6 +166,22 @@
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
           "median": 34.5
+        }
+      },
+      {
+        "kind": "무기",
+        "enchant": "+8",
+        "name": "솔다트 에스터크",
+        "price": "22다이아",
+        "note": "중앙 38 • 초저가 의심",
+        "raw": {
+          "itemId": 101140001,
+          "itemName": "+8 솔다트 에스터크",
+          "enchantLevel": 8,
+          "salePrice": 22.0,
+          "category": "무기",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 38.0
         }
       },
       {
@@ -214,6 +246,22 @@
           "category": "무기",
           "dealLabel": "아이템별 저가",
           "median": 547.5
+        }
+      },
+      {
+        "kind": "방어구",
+        "enchant": "+8",
+        "name": "아바돈 로브",
+        "price": "32다이아",
+        "note": "중앙 66 • 초저가 의심",
+        "raw": {
+          "itemId": 200140003,
+          "itemName": "+8 아바돈 로브",
+          "enchantLevel": 8,
+          "salePrice": 32.0,
+          "category": "방어구",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 66.0
         }
       },
       {
