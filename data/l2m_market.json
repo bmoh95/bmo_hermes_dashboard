@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 17:31:56 KST",
+  "checkedAt": "2026-07-02 17:40:00 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -559,7 +559,7 @@
         "enchant": "+0",
         "name": "전투 기술서 (윌 오브 아이언)",
         "price": "150다이아",
-        "note": "중앙 250 • 초저가 의심",
+        "note": "중앙 236 • 초저가 의심",
         "raw": {
           "itemId": 500313003,
           "itemName": "전투 기술서 (윌 오브 아이언)",
@@ -567,7 +567,7 @@
           "salePrice": 150.0,
           "category": "스킬북",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 250.0
+          "median": 236.0
         }
       }
     ],
