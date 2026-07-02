@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 09:35:25 KST",
+  "checkedAt": "2026-07-02 09:43:26 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -27,7 +27,7 @@
         "enchant": "+3",
         "name": "전사의 손목 보호대",
         "price": "30다이아",
-        "note": "중앙 44 • 하위권",
+        "note": "중앙 40 • 하위권",
         "raw": {
           "itemId": 301550003,
           "itemName": "+3 전사의 손목 보호대",
@@ -35,7 +35,7 @@
           "salePrice": 30.0,
           "category": "악세사리",
           "dealLabel": "전서버 하위 10% 저가",
-          "median": 44.0
+          "median": 40.0
         }
       },
       {
@@ -463,7 +463,7 @@
         "enchant": "+6",
         "name": "잊혀진 영웅의 흉갑",
         "price": "200다이아",
-        "note": "중앙 315.5 • 초저가 의심",
+        "note": "중앙 314.5 • 초저가 의심",
         "raw": {
           "itemId": 200130010,
           "itemName": "+6 잊혀진 영웅의 흉갑",
@@ -471,7 +471,7 @@
           "salePrice": 200.0,
           "category": "방어구",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 315.5
+          "median": 314.5
         }
       },
       {
