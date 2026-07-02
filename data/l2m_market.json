@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 21:17:03 KST",
+  "checkedAt": "2026-07-02 21:25:05 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -345,22 +345,6 @@
         }
       },
       {
-        "kind": "스킬북",
-        "enchant": "+0",
-        "name": "마검 비술서 (포텐시)",
-        "price": "23다이아",
-        "note": "중앙 38 • 초저가 의심",
-        "raw": {
-          "itemId": 503294006,
-          "itemName": "마검 비술서 (포텐시)",
-          "enchantLevel": 0,
-          "salePrice": 23.0,
-          "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 38.0
-        }
-      },
-      {
         "kind": "견갑",
         "enchant": "+0",
         "name": "요새의 견갑",
@@ -559,15 +543,15 @@
         "enchant": "+0",
         "name": "창술서 (자이언트 스톰프)",
         "price": "137다이아",
-        "note": "중앙 220 • 초저가 의심",
+        "note": "중앙 200 • 저가",
         "raw": {
           "itemId": 500373001,
           "itemName": "창술서 (자이언트 스톰프)",
           "enchantLevel": 0,
           "salePrice": 137.0,
           "category": "스킬북",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 220.0
+          "dealLabel": "아이템별 저가",
+          "median": 200.0
         }
       },
       {
