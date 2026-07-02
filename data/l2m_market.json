@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 20:27:56 KST",
+  "checkedAt": "2026-07-02 20:35:57 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -75,15 +75,15 @@
         "enchant": "+2",
         "name": "페트람의 유물",
         "price": "35다이아",
-        "note": "중앙 55 • 초저가 의심",
+        "note": "중앙 53 • 하위권",
         "raw": {
           "itemId": 301150008,
           "itemName": "+2 페트람의 유물",
           "enchantLevel": 2,
           "salePrice": 35.0,
           "category": "악세사리",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 55.0
+          "dealLabel": "전서버 하위 10% 저가",
+          "median": 53.0
         }
       },
       {
@@ -251,6 +251,22 @@
       {
         "kind": "악세사리",
         "enchant": "+4",
+        "name": "축복의 벨트",
+        "price": "22다이아",
+        "note": "중앙 47 • 초저가 의심",
+        "raw": {
+          "itemId": 300440001,
+          "itemName": "+4 축복의 벨트",
+          "enchantLevel": 4,
+          "salePrice": 22.0,
+          "category": "악세사리",
+          "dealLabel": "초저가/이동매물 의심",
+          "median": 47.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+4",
         "name": "헤르문쿠스의 목걸이",
         "price": "25다이아",
         "note": "중앙 80 • 초저가 의심",
@@ -392,22 +408,6 @@
           "category": "악세사리",
           "dealLabel": "아이템별 저가",
           "median": 600.0
-        }
-      },
-      {
-        "kind": "악세사리",
-        "enchant": "+1",
-        "name": "아나킴의 영혼 목걸이 (초월 +1)",
-        "price": "880다이아",
-        "note": "중앙 1,311 • 하위권",
-        "raw": {
-          "itemId": 360130002,
-          "itemName": "+1 아나킴의 영혼 목걸이 (초월 +1)",
-          "enchantLevel": 1,
-          "salePrice": 880.0,
-          "category": "악세사리",
-          "dealLabel": "전서버 하위 10% 저가",
-          "median": 1311.0
         }
       },
       {
