@@ -10,22 +10,25 @@
 }
 
 * { box-sizing: border-box; }
-html { scroll-behavior: smooth; }
+html { scroll-behavior: auto; }
 body {
   margin: 0;
-  min-height: 100vh;
+  min-height: 100%;
   background:
     radial-gradient(circle at top left, rgba(255,255,255,.92) 0, transparent 28rem),
     linear-gradient(180deg, #f2ebe5 0%, var(--wedding-bg) 42%, #fffaf5 100%);
   color: var(--wedding-ink);
   font-family: "Noto Serif KR", "Apple SD Gothic Neo", serif;
   font-weight: 300;
+  overflow-x: hidden;
+  position: relative;
 }
 
 body::before {
   content: "";
-  position: fixed;
-  inset: 0;
+  position: absolute;
+  inset: 0 0 auto;
+  height: 1180px;
   pointer-events: none;
   opacity: .26;
   background-image:
@@ -49,13 +52,13 @@ body::before {
   padding: 34px 24px;
   border: 1px solid rgba(231, 222, 214, .95);
   border-radius: 30px;
-  background: rgba(255, 253, 250, .92);
+  background: rgba(255, 253, 250, .96);
   box-shadow: var(--wedding-shadow);
-  backdrop-filter: blur(18px);
+  contain: layout paint;
 }
 
 .cover {
-  min-height: calc(100svh - 36px);
+  min-height: 720px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -211,6 +214,7 @@ h2 span { color: var(--wedding-accent-dark); }
   border: 1px solid var(--wedding-line);
   border-radius: 20px;
   background: #fffaf6;
+  min-height: 104px;
 }
 .countdown strong {
   font-family: "Cormorant Garamond", Georgia, serif;
@@ -458,7 +462,7 @@ h2 span { color: var(--wedding-accent-dark); }
 @media (max-width: 360px) {
   .invitation { padding-left: 12px; padding-right: 12px; }
   .card-section { padding-left: 18px; padding-right: 18px; border-radius: 26px; }
-  .cover { min-height: calc(100svh - 24px); }
+  .cover { min-height: 680px; }
   .lettering { font-size: 66px; }
   .names { font-size: 19px; letter-spacing: .18em; }
   .cover-family { grid-template-columns: minmax(0, 1fr) 16px minmax(0, 1fr); gap: 6px; }
