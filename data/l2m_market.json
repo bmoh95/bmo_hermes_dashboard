@@ -1,6 +1,6 @@
 {
   "server": "안타라스",
-  "checkedAt": "2026-07-02 23:14:22 KST",
+  "checkedAt": "2026-07-02 23:23:04 KST",
   "errors": [],
   "groups": {
     "common": [
@@ -25,7 +25,7 @@
         "enchant": "+3",
         "name": "타이거 아이",
         "price": "10다이아",
-        "note": "중앙 21 • 초저가 의심",
+        "note": "중앙 20 • 초저가 의심",
         "raw": {
           "itemId": 300260007,
           "itemName": "+3 타이거 아이",
@@ -33,7 +33,23 @@
           "salePrice": 10.0,
           "category": "악세사리",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 21.0
+          "median": 20.0
+        }
+      },
+      {
+        "kind": "악세사리",
+        "enchant": "+5",
+        "name": "빛바랜 유물",
+        "price": "650다이아",
+        "note": "중앙 898.5 • 저가",
+        "raw": {
+          "itemId": 301160001,
+          "itemName": "+5 빛바랜 유물",
+          "enchantLevel": 5,
+          "salePrice": 650.0,
+          "category": "악세사리",
+          "dealLabel": "아이템별 저가",
+          "median": 898.5
         }
       }
     ],
@@ -136,22 +152,6 @@
       }
     ],
     "rare": [
-      {
-        "kind": "무기",
-        "enchant": "+8",
-        "name": "디스멘틀러",
-        "price": "18다이아",
-        "note": "중앙 37 • 초저가 의심",
-        "raw": {
-          "itemId": 101040006,
-          "itemName": "+8 디스멘틀러",
-          "enchantLevel": 8,
-          "salePrice": 18.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 37.0
-        }
-      },
       {
         "kind": "무기",
         "enchant": "+9",
@@ -461,25 +461,9 @@
       {
         "kind": "무기",
         "enchant": "+7",
-        "name": "쏜 크로스보우 (초월 +1)",
-        "price": "499다이아",
-        "note": "중앙 770 • 초저가 의심",
-        "raw": {
-          "itemId": 160830001,
-          "itemName": "+7 쏜 크로스보우 (초월 +1)",
-          "enchantLevel": 7,
-          "salePrice": 499.0,
-          "category": "무기",
-          "dealLabel": "초저가/이동매물 의심",
-          "median": 770.0
-        }
-      },
-      {
-        "kind": "무기",
-        "enchant": "+7",
         "name": "영혼의 눈 (초월 +2)",
         "price": "499다이아",
-        "note": "중앙 1,169.5 • 초저가 의심",
+        "note": "중앙 1,140 • 초저가 의심",
         "raw": {
           "itemId": 160630104,
           "itemName": "+7 영혼의 눈 (초월 +2)",
@@ -487,7 +471,7 @@
           "salePrice": 499.0,
           "category": "무기",
           "dealLabel": "초저가/이동매물 의심",
-          "median": 1169.5
+          "median": 1140.0
         }
       },
       {
